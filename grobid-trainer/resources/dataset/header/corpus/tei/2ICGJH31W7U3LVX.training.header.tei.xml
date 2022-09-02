@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="2ICGJH31W7U3LVX" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 88
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Judgment Reserved on: 10 th January, 2017
+				<lb />
+				Date of decision: 20 th February, 2017
+				<lb />
+			</judgement_date>
+			<petitioner>
+				STATE
+				<lb />
+				.....
+				Petitioner
+				<lb />
+			</petitioner>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawer>
+				Ms.Aashaa Tiwari
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				, Additional Public
+				<lb />
+				Prosecutor for State.
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				B.RAJ SHARMA &amp; ORS.
+				..
+				Respondents
+				<lb />
+			</respondent>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawer>
+				Mr.Jitender Sethi, Mr. Naveen Kumar
+				<lb />
+				and Mr.A.Rohen Singh
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advocates for
+				<lb />
+				R-1 and R-2.
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MS. JUSTICE GITA MITTAL
+				<lb />
+				HON&apos;BLE MS. ANU MALHOTRA
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>
