@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-1501-2010"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	Page 1 of 5<lb/>
+	<court>* IN THE HIGH COURT OF DELHI AT NEW DELHI<lb/></court>
+
+	<extra>Date of Reserve: 02.11.2010<lb/> Date of Order: 11 th November, 2010<lb/></extra>
+
+	<case_number>+ Bail Appln. No. 1652/2010<lb/></case_number>
+
+	<petitioner>%<lb/></petitioner>
+	<judgement_date>11.11.2010<lb/></judgement_date>
+
+	<petitioner>Rajesh<lb/> ..... Petitioner<lb/></petitioner>
+	<extra>Through:</extra>
+
+	<petitioner_lawer>Mr. Rajesh Chowdhary with<lb/> Mr. J.B. Prakash, Advocates<lb/></petitioner_lawer>
+	<extra>versus<lb/></extra>
+
+	<respondent>State<lb/> ..... Respondent<lb/></respondent>
+	<extra>Through:</extra>
+
+	<respondent_lawer>Mr. Sunil Sharma, APP<lb/>
+	<case_number>+ Bail Appln. No. 1501/2010<lb/></case_number>
+
+	<petitioner>%<lb/></petitioner>
+	<judgement_date>11.11.2010<lb/></judgement_date>
+
+	<petitioner>Lajjawati<lb/> ..... Petitioner<lb/></petitioner>
+	<extra>Through:</extra>
+
+	<petitioner_lawer>Mr. Rajesh Chowdhary with<lb/> Mr. J.B.Prakash,</petitioner_lawer>
+	<extra>Advocates versus<lb/></extra>
+
+	<respondent>State<lb/> ..... Respondent<lb/></respondent>
+	<extra>Through:</extra>
+
+	<respondent_lawer>Mr. Sunil Sharma,
+	<extra>APP<lb/></extra>
+
+	<respondent>JUSTICE SHIV NARAYAN DHINGRA<lb/></respondent>
+	<extra>1. Whether reporters of local papers may be allowed to see the judgment?<lb/> 2. To be referred to the reporter or not?</extra>
+
+		</front>
+	</text>
+</tei>

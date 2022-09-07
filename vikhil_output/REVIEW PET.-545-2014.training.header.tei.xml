@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="REVIEW PET.-545-2014"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<petitioner_lawer>Review Pet.545/2014 in OMP No. 745/2014<lb/></petitioner_lawer>
+	Page 1 of 6<lb/>
+	<court>*<lb/> IN THE HIGH COURT OF DELHI AT NEW DELHI<lb/></court>
+
+	<judgement_date>+<lb/> REVIEW PET.545/2014 in</judgement_date>
+
+	<petitioner>O.M.P.</petitioner>
+	<judgement_date>745/2014<lb/> Judgment reserved on: 17.07.2015<lb/> Judgement pronounced on: 20.08.2015<lb/></judgement_date>
+
+	<petitioner>M/S OPAQUE INFRASTRUCTURE PVT. LTD. ...... Petitioner<lb/></petitioner>
+	<extra>Through:</extra>
+
+	<petitioner_lawer>Mr.Harish Malhotra,</petitioner_lawer>
+	<extra>Sr.Adv. with<lb/></extra>
+
+	<respondent_lawer>Mr.Rajender Agarwal, Advocate
+	<extra>versus<lb/></extra>
+
+	<respondent>M</respondent>
+	<petitioner>/S MILLENNIUM REALTECH PVT. LTD.<lb/> .....</petitioner>
+	<respondent>Respondent/Applicant<lb/></respondent>
+	<extra>Through:</extra>
+
+	<respondent_lawer>Mr.B.R.Sharma, Advocate<lb/>
+	<judge>CORAM:<lb/> HON&apos;BLE MS. JUSTICE DEEPA SHARMA</judge>
+
+	<document_type>JUDGMENT</document_type>
+
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-278-2021"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<judgement_date>BAIL APPLN.278/2021<lb/> Page 1 of 6<lb/></judgement_date>
+
+	<court>*<lb/> IN THE HIGH COURT OF DELHI AT NEW DELHI<lb/></court>
+
+	<judgement_date>Date of decision: 28 th APRIL, 2021<lb/></judgement_date>
+
+	<petitioner>IN THE MATTER OF:<lb/></petitioner>
+	<case_number>+<lb/> BAIL APPLN. 278/2021<lb/></case_number>
+
+	<petitioner>ZAHID@ MOHD JAHID<lb/> ..... Petitioner<lb/></petitioner>
+	<extra>Through<lb/></extra>
+
+	<respondent_lawer>Mr. Firoz Iqbal Khan,
+	<extra>Advocate versus<lb/></extra>
+
+	<respondent>STATE OF NCT OF DELHI<lb/> ..... Respondent<lb/></respondent>
+	<extra>Through<lb/></extra>
+
+	<respondent_lawer>Ms. Meenakshi Chauhan, APP along<lb/> with ASI Pawan Kumar, P.S. Gandhi<lb/> Nagar.<lb/>
+	<judge>CORAM:<lb/> HON&apos;BLE MR. JUSTICE SUBRAMONIUM PRASAD<lb/> SUBRAMONIUM PRASAD, J.</judge>
+
+		</front>
+	</text>
+</tei>
