@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="525970" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
+			</court>
+			<judgement_date>
+				DATED: 05.09.2018
+				<lb />
+			</judgement_date>
+			<judge>
+				CORAM :
+				<lb />
+				The Hon&apos;ble MR.JUSTICE M.SUNDAR
+				<lb />
+			</judge>
+			<case_number>
+				C.S.No.235 of 2013
+				<lb />
+			</case_number>
+			<petitioner>
+				V.S.G.Lungi Company
+				<lb />
+			</petitioner>
+			<extra>
+				.. Plaintiff
+				<lb />
+			</extra>
+			<extra>
+				-vs-
+				<lb />
+			</extra>
+			<respondent>
+				M/s.Jayam Textiles,
+				<lb />
+				Rep. by its Partners,
+				<lb />
+				R.Rajamanikkam and A.Murugesan.
+				<lb />
+			</respondent>
+			<extra>
+				.. Defendant
+				<lb />
+			</extra>
+			<extra>
+				Plaint filed under Order IV Rule 1 of O.S. Rules read with Order
+				<lb />
+				VII Rule 1 of C.P.C. and r/w Sec. 27, 28, 29, 134 and 135 of the
+				<lb />
+				Trademarks Act, 1999 r/w Sec. 51, 55 &amp; 62 of Copyright Act, 1957 for
+				<lb />
+				the reliefs as stated below.
+				<lb />
+			</extra>
+			<extra>
+				For Plaintiff
+				<lb />
+				:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.S.Patrick
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				for Mr.K.Rajasekaran
+				<lb />
+			</extra>
+			<extra>
+				For Respondent
+				<lb />
+				:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Set ex parte
+				<lb />
+			</respondent_lawer>
+			<extra>
+				* * * * *
+				<lb />
+			</extra>
+			<document_type>
+				J U D G M E N T
+			</document_type>
+		</front>
+	</text>
+</tei>

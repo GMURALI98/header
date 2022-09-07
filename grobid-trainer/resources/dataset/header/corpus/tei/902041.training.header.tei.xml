@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="902041" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<extra>
+				$~S~
+				<lb />
+				*
+				<lb />
+			</extra>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Date of decision:
+				20th December, 2021
+				<lb />
+			</judgement_date>
+			<case_number>
+				+
+				<lb />
+				CRL.A. 37/2020
+				<lb />
+			</case_number>
+			<petitioner>
+				KAMAL
+				<lb />
+			</petitioner>
+			<extra>
+				…. Appellant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. C. K. Chaturvedi
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				, Advocate.
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				STATE
+				<lb />
+			</respondent>
+			<extra>
+				…. Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Ashish Dutta
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, APP for the State.
+				<lb />
+			</extra>
+			<case_number>
+				+
+				<lb />
+				CRL.A. 140/2020
+				<lb />
+			</case_number>
+			<petitioner>
+				&apos;A&apos;
+				<lb />
+			</petitioner>
+			<extra>
+				…. Appellant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawer>
+				Mr. Chinmoy Pradeep Sharma
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				, Senior
+				<lb />
+				Advocate with
+			</extra>
+			<petitioner_lawer>
+				Ms. Rakhi Dubey and
+				<lb />
+				Mr. Himanshu Gera
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				, Advocates.
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				STATE
+				<lb />
+			</respondent>
+			<extra>
+				…. Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Ashish Dutta
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, APP for the State.
+				<lb />
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE SIDDHARTH MRIDUL
+				<lb />
+				HON&apos;BLE MR. JUSTICE ANUP JAIRAM BHAMBHANI
+				<lb />
+			</judge>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

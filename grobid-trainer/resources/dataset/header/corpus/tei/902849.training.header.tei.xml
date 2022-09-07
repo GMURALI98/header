@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="902849" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 9
+				<lb />
+			</page>
+			<court>
+				*
+				<lb />
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Date of decision: 26 th APRIL, 2022
+				<lb />
+			</judgement_date>
+			<extra>
+				IN THE MATTER OF:
+				<lb />
+			</extra>
+			<case_number>
+				+
+				<lb />
+				W.P.(C) 9393/2020
+			</case_number>
+			<petitioner>
+				SANDESH
+				<lb />
+			</petitioner>
+			<extra>
+				..... Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Choudhary Ali Zia Kabir,
+				<lb />
+				Mr.Haider Ali, Mr. Jimut Mohapatra,
+				<lb />
+				Mr. Vinod Kumar,
+			</petitioner_lawer>
+			<extra>
+				Advocates
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				DELHI DEVELOPMENT AUTHORITY
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Ashim Vachher
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Standing
+				<lb />
+				Counsel with
+			</extra>
+			<respondent_lawer>
+				Mr.Paritosh Dhawan,
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Advocate for DDA.
+				<lb />
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE SUBRAMONIUM PRASAD
+			</judge>
+		</front>
+	</text>
+</tei>

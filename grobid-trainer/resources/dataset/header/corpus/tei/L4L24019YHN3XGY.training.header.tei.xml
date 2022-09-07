@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="L4L24019YHN3XGY" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 132
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Judgment Reserved on: 12 th December, 2017
+				<lb />
+				Date of decision: 22 nd February, 2018
+				<lb />
+			</judgement_date>
+			<petitioner>
+				STATE THROUGH SPECIAL INVESTIGATION TEAM
+				<lb />
+				S.I.T.(1984 RIOTS)
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				SAJJAN KUMAR
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				AND
+				<lb />
+			</extra>
+			<petitioner>
+				STATE THROUGH SPECIAL INVESTIGATION TEAM
+				<lb />
+				S.I.T.(1984 RIOTS)
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				SAJJAN KUMAR
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MS. JUSTICE ANU MALHOTRA
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

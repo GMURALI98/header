@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="655183" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+				<lb />
+			</court>
+			<judgement_date>
+				DATED: 05.11.2019
+				<lb />
+			</judgement_date>
+			<case_number>
+				W.P.(MD)No.22798 of 2018
+				<lb />
+				and
+				<lb />
+				W.M.P.(MD)No.20666 of 2018
+			</case_number>
+			<petitioner>
+				P.Pitchaiammal
+				<lb />
+			</petitioner>
+			<extra>
+				... Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Vs
+			</extra>
+			<respondent>
+				1.The Deputy Registrar (Housing),
+				<lb />
+				Virudhunagar Region,
+				<lb />
+				Virudhunagar
+				<lb />
+			</respondent>
+			<respondent>
+				2.The Secretary,
+				<lb />
+				MDA, HSG.109,
+				<lb />
+				Rajapalayam Taluk Co-operative Housing Society,
+				<lb />
+				Rajapalayam,
+				<lb />
+				Virudhunagar District.
+				<lb />
+			</respondent>
+			<extra>
+				... Respondents
+				<lb />
+			</extra>
+			<extra>
+				PRAYER:- Writ Petition filed under Article 226 of the Constitution of India,
+				<lb />
+				praying for the issuance of a Writ of Certiorarified Mandamus calling for the
+				<lb />
+				records of the impugned auction notice issued by the first respondent in his
+				<lb />
+				proceedings Ni.Ma.No.231/17-18, dated 14.09.2018 and quash the same as
+				<lb />
+				illegal and further direct the first respondent to consider the petitioner's
+				<lb />
+				representation dated 17.10.2018.
+				<lb />
+			</extra>
+			<extra>
+				For Petitioner :
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.S.Vahik Ali
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				for Mr.D.Nallathambi
+				<lb />
+			</extra>
+			<extra>
+				For Respondents :
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr.B.Bhagawathy
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Government Advocate
+				<lb />
+			</extra>
+			<document_type>
+				ORDER
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

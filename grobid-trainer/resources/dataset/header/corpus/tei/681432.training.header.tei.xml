@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="681432" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
+			</court>
+			<judgement_date>
+				DATED : 02.03.2020
+				<lb />
+			</judgement_date>
+			<judge>
+				CORAM
+				<lb />
+				THE HONOURABLE MR.JUSTICE M.SUNDAR
+				<lb />
+			</judge>
+			<case_number>
+				O.P. No.176 of 2015
+				<lb />
+			</case_number>
+			<petitioner>
+				Union of India,
+				<lb />
+				represented by Chief Engineer,
+				<lb />
+				MTP (Railways),
+				<lb />
+				Egmore,
+				<lb />
+				Chennai -600 088.
+				<lb />
+			</petitioner>
+			<extra>
+				... Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Vs
+				<lb />
+			</extra>
+			<respondent>
+				1. B.Engineers &amp; Builders Limited,
+				<lb />
+				72-A, Maheswar Industrial Estate,
+				<lb />
+				Bhubaneswar, 751 101.
+				<lb />
+			</respondent>
+			<respondent>
+				2. T. Jayam
+				<lb />
+				3. B.Srinivasan
+				<lb />
+				4. B.N.S.Chalam,
+				<lb />
+				Senior Divisional Engineer / South,
+				<lb />
+				Southern Railway,
+				<lb />
+				Madurai
+				<lb />
+				(Arbitrator)
+				<lb />
+				(R2 to R4 deleted vide this order)
+				<lb />
+			</respondent>
+			<extra>
+				....
+				<lb />
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Original Petition filed under Section 34 of the Arbitration
+				<lb />
+				and Conciliation Act to set aside the award dated 07.04.2011 as
+				<lb />
+				confirmed by the order in the application under Section 33 of the Act,
+				<lb />
+				dated 18.05.2011 made in relation to disputes arising out of
+				<lb />
+				Agreement dated 20.06.2000 bearing No.MTP/Civil/357/2000 in so far
+				<lb />
+			</extra>
+			<extra>
+				as that portion of the award disallowing the claims of the petitioner
+				<lb />
+				and the award in relation to claims 3 and 8 are concerned.
+				<lb />
+			</extra>
+			<extra>
+				For petitioner :
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.P.T. Ramkumar
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				Standing Counsel
+				<lb />
+			</extra>
+			<extra>
+				For respondents
+				<lb />
+				:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. A. Manoj Kumar
+				<lb />
+				Mr.M.Balaji
+			</respondent_lawer>
+			<extra>
+				for R1
+				<lb />
+				R2 to R4 -deleted
+			</extra>
+			<document_type>
+				ORDER
+			</document_type>
+		</front>
+	</text>
+</tei>

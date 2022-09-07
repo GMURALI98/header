@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="175408" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<extra>
+				Virtual Court No.2
+				<lb />
+			</extra>
+			<court>
+				HIGH COURT OF SIKKIM
+			</court>
+			<extra>
+				Record of Proceedings
+				<lb />
+			</extra>
+			<extra>
+				Bail Appln. No.09 of 2021
+				<lb />
+			</extra>
+			<petitioner>
+				BIKASH RAI @ KALAY BIKASH
+				<lb />
+			</petitioner>
+			<extra>
+				APPLICANT
+				<lb />
+			</extra>
+			<extra>
+				VERSUS
+				<lb />
+			</extra>
+			<respondent>
+				STATE OF SIKKIM
+				<lb />
+			</respondent>
+			<extra>
+				RESPONDENT
+				<lb />
+				<judgement_date>
+					Date: 10.05.2021
+					<lb />
+				</judgement_date>
+				<judge>
+					CORAM :
+					<lb />
+					THE HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI, JUDGE
+					<lb />
+				</judge>
+				<extra>
+					For Applicant
+					<lb />
+				</extra>
+				<extra>
+					For Respondent
+					<lb />
+				</extra>
+				<petitioner_lawer>
+					Mr.
+					<lb />
+					Tashi
+					<lb />
+					Wongdi
+					<lb />
+					Bhutia,
+					<lb />
+				</petitioner_lawer>
+				<extra>
+					Advocate.
+					<lb />
+				</extra>
+				<petitioner_lawer>
+					Mr. Shakil Karki, Advocate.
+					<lb />
+				</petitioner_lawer>
+				<respondent_lawer>
+					Mr.
+					<lb />
+					Sudesh
+					<lb />
+					Joshi,
+					<lb />
+				</respondent_lawer>
+				<extra>
+					Public
+					<lb />
+					Prosecutor.
+					<lb />
+				</extra>
+				<document_type>
+					O R D E R
+					<lb />
+				</document_type>
+			</extra>
+		</front>
+	</text>
+</tei>

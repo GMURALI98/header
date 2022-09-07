@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-1683-2021" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 8
+				<lb />
+			</page>
+			<court>
+				*
+				<lb />
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Date of decision: 21 st October, 2021
+				<lb />
+			</judgement_date>
+			<extra>
+				IN THE MATTER OF:
+				<lb />
+			</extra>
+			<extra>
+				BAIL APPLN. 1683/2021
+				<lb />
+			</extra>
+			<petitioner>
+				NIDHU @ SHEELA
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. F. K. Jha, Advocate
+			</petitioner_lawer>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				GOVT. OF NCT OF DELHI
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawer>
+				Mr. Amit Chadha, APP for the State
+				<lb />
+				with Insp. Gursewak Singh and
+				<lb />
+				SHO/Insp. Arvind Kumar, PS
+				<lb />
+				Khayala.
+				<lb />
+			</respondent_lawer>
+			<extra>
+				BAIL APPLN. 1684/2021
+				<lb />
+			</extra>
+			<petitioner>
+				SANJAY KUMAR SAHU
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. F. K. Jha, Advocate
+			</petitioner_lawer>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				GOVT. OF NCT OF DELHI
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Amit Chadha, APP for the State.
+			</respondent_lawer>
+			<document_type>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE SUBRAMONIUM PRASAD
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

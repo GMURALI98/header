@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="REVIEW petitioner.-545-2014" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<reference>
+				REVIEW petitioner.545/2014 in O.M.P.745/2014
+				<lb />
+			</reference>
+			<judgement_date>
+				Judgment reserved on: 17.07.2015
+				<lb />
+				Judgement pronounced on: 20.08.2015
+				<lb />
+			</judgement_date>
+			<petitioner>
+				M/S OPAQUE INFRASTRUCTURE PVT. LTD.
+			</petitioner>
+			......
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.Harish Malhotra, Sr.Adv. with
+				<lb />
+				Mr.Rajender Agarwal, Advocate
+			</petitioner_lawer>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				M/S MILLENNIUM REALTECH PVT. LTD.
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent/Applicant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr.B.R.Sharma, Advocate
+			</respondent_lawer>
+			<judge>
+				CORAM
+				<lb />
+				HON&apos;BLE MR JUSTICE VIBHU BAKHRU
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

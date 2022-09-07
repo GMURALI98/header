@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="901543" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				* IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				%
+				<lb />
+				Date of Decision: 12 th May, 2021
+				<lb />
+			</judgement_date>
+			<case_number>
+				+
+				<lb />
+				FAO 842/2003 &amp; CM APPLs.32859/2017, 41125/2017, 41126/2017,
+				<lb />
+				41127/2017, 35516/2018, 35517/2018, 46426/2018 &amp; 7634/2020
+				<lb />
+			</case_number>
+			<petitioner>
+				RAJESH TYAGI &amp; ORS.
+				<lb />
+			</petitioner>
+			<extra>
+				..... Appellants
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				JAIBIR SINGH &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Rajshekhar Rao,
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Senior Advocate
+				<lb />
+				as Amicus Curiae with
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms. Aanchal
+				<lb />
+				Tikmani,
+			</respondent_lawer>
+			<extra>
+				Advocate.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Surinder S. Rathi
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, OSD-cum-
+				<lb />
+				Registrar, Delhi High Court
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Kanwal Jeet Arora
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Member
+				<lb />
+				Secretary, DSLSA
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Satyam Thareja
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advocate as
+				<lb />
+				Amicus Curiae
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms. Avnish Ahlawat
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Standing
+				<lb />
+				Counsel for DSSSB
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms. Nandita Rao
+				<lb />
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Additional Standing
+				<lb />
+				Counsel for GNCTD
+			</extra>
+			<respondent_lawer>
+				Mr. Pradeep Gaur
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advocate for
+				<lb />
+				National Insurance Company and
+				<lb />
+				United India Insurance Company
+				<lb />
+			</extra>
+			<lb />
+			<respondent_lawer>
+				Mr. Navneet Kumar
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advocate for
+				<lb />
+				Bharti AXA and Magma HDI
+				<lb />
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE J.R. MIDHA
+				<lb />
+			</judge>
+		</front>
+	</text>
+</tei>

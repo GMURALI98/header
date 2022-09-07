@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="48717" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				%
+				<lb />
+				Judgment delivered on: 16.05.2019
+				<lb />
+			</judgement_date>
+			<case_number>
+				+
+				<lb />
+				W.P.
+				(C) 1163/2017 and CM APPL. 38867/2017
+				<lb />
+			</case_number>
+			<petitioner>
+				THE REGENTS OF THE UNIVERSITY
+				<lb />
+				OF CALIFORNIA
+				<lb />
+			</petitioner>
+			<extra>
+				..... Petitioner
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				UNION OF INDIA &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondents
+				<lb />
+			</extra>
+			<extra>
+				Advocates who appeared in this case:
+				<lb />
+			</extra>
+			<extra>
+				For the Petitioner
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				:Mr Amit Sibal
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				, Senior Advocate with
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Ms Archana Shanker, Mr Shrawan
+				<lb />
+				Chopra, Ms Prachi Agarwal, Mr Devinder
+				<lb />
+				Rawat, Mr Pundreek Dwivedi and
+				<lb />
+				Ms Ridhie Bajaj.
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				For the Respondents
+				<lb />
+				:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr Kirtiman Singh
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, CGSC with Mr Waize
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ali Noor and Ms Shruti
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Dutt for UOI.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr Vishal Sudan and Ms Prachi Tiwari
+				<lb />
+			</respondent_lawer>
+			<extra>
+				for R-3.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr J. Sai Deepak, Mr Guru Narang and
+				<lb />
+				Mr Avinash K. Sharma
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advocates for R-5.
+			</extra>
+			<respondent_lawer>
+				Ms Bitika Sharma, Ms Mansee Teotia and
+				<lb />
+				Ms Lakshay Kaushik,
+			</respondent_lawer>
+			<extra>
+				Advocates for R-7.
+				<lb />
+			</extra>
+			<judge>
+				CORAM
+				<lb />
+				HON&apos;BLE MR JUSTICE VIBHU BAKHRU JUDGMENT
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

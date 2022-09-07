@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="41448" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 28
+				<lb />
+			</page>
+			<court>
+				*
+				<lb />
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<case_number>
+				+
+				<lb />
+				W.P (C)No.8094/2019 and 33533/2019 and 35202/2019
+				<lb />
+			</case_number>
+			<judgement_date>
+				Judgment reserved on : 14.08.2019
+				<lb />
+			</judgement_date>
+			<judgement_date>
+				Date of decision : 21.08.2019
+				<lb />
+			</judgement_date>
+			<petitioner>
+				KATYAN SHIKSHAN SAMITI
+				<lb />
+			</petitioner>
+			<extra>
+				..... Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.Arjun Garg, Ms.Sana
+				<lb />
+				Kamra and Mr.Rahul Gupta,
+				<lb />
+				<extra>
+					Advocates
+					<lb />
+				</extra>
+				<extra>
+					versus
+					<lb />
+				</extra>
+				<respondent>
+					UNION OF INDIA &amp; ORS.
+					<lb />
+				</respondent>
+				<extra>
+					..... Respondents
+					<lb />
+				</extra>
+				<extra>
+					Through:
+					<lb />
+				</extra>
+				<respondent_lawer>
+					Mr. NikhilGoel, Standing
+					<lb />
+					Counsel, Ms.Ridhima Gaur,
+					<lb />
+				</respondent_lawer>
+				<extra>
+					Adv for Union of India.
+					<lb />
+				</extra>
+				<respondent_lawer>
+					Ms.Archana Pathak Dave
+					<lb />
+				</respondent_lawer>
+				<extra>
+					, Adv
+					<lb />
+					for R-2
+					<lb />
+				</extra>
+				<respondent_lawer>
+					Mr.Aditya Ranjan
+					<lb />
+				</respondent_lawer>
+				<extra>
+					, Standing
+					<lb />
+					Counsel for R-3
+					<lb />
+				</extra>
+				<judge>
+					CORAM:
+					<lb />
+					HON&apos;BLE MS. JUSTICE ANU MALHOTRA
+					<lb />
+				</judge>
+				<document_type>
+					JUDGMENT
+					<lb />
+				</document_type>
+			</petitioner_lawer>
+		</front>
+	</text>
+</tei>

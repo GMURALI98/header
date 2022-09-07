@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="74372" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 119
+				<lb />
+			</page>
+			<court>
+				$~
+				<lb />
+				*
+				<lb />
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Judgment reserved on: 20.02.2017
+				<lb />
+				%
+				<lb />
+			</judgement_date>
+			<judgement_date>
+				Judgment delivered on: 02.05.2017
+				<lb />
+			</judgement_date>
+			<case_number>
+				+
+				<lb />
+				I.A. No.10972/2015 in C.S. (OS) No.1485/2015
+				<lb />
+			</case_number>
+			<petitioner>
+				CARLSBERG BREWERIES A/S
+				<lb />
+			</petitioner>
+			<extra>
+				..... Plaintiff
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawer>
+				Mr. Sudhir Chandra
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				, Sr. Adv. with
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. C.A. Brijesh, Ms. V. Mohini and
+				<lb />
+				Ms. Rosalyn Malik,
+			</petitioner_lawer>
+			<extra>
+				Advocates
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				SOM DISTILLERIES AND BREWERIES LIMITED
+				<lb />
+			</respondent>
+			<extra>
+				..... Defendant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms. Prathiba M. Singh, Sr. Adv. with
+				<lb />
+				Mr. Kapil Wadhwa, Mr. Sumeer
+				<lb />
+				Sodhi, Mr. Aman Nandrajog, Mr.
+				<lb />
+				Arjun Nanda and Ms. Tanya Sharma,
+			</respondent_lawer>
+			<extra>
+				Advocates
+				<lb />
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE VIPIN SANGHI
+				<lb />
+			</judge>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

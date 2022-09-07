@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="734590" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
+			</court>
+			<judgement_date>
+				Dated : 07.01.2021
+			</judgement_date>
+			<judge>
+				Coram
+				<lb />
+				THE HONOURABLE MR. JUSTICE M.SUNDAR
+				<lb />
+			</judge>
+			<case_number>
+				O.P.No.493 of 2020
+				<lb />
+			</case_number>
+			<petitioner>
+				M/s.OM Sakthi Travels Private Limited
+				<lb />
+				Represented by its Director
+				<lb />
+				R.Saravanan
+				<lb />
+				S-1, Kurian Complex, II Floor
+				<lb />
+				No.19, Railway Colony
+				<lb />
+				1st Street, Nelson Manickam High Road
+				<lb />
+				Chennai-600 029.
+				<lb />
+			</petitioner>
+			<extra>
+				... Petitioner
+				<lb />
+			</extra>
+			<extra>
+				vs.
+				<lb />
+			</extra>
+			<respondent>
+				1. M/s.Shri Subhameenakshi Auto Finance
+				<lb />
+				Rep. by its partner D.S.Senthivel
+				<lb />
+				No.162, Tamil Sangam Road
+				<lb />
+				Madurai -625 001.
+				<lb />
+				2. Y.K.Rajagopal
+				<lb />
+				Sole Arbitrator
+				<lb />
+				222/3 Rohini Flats, Anna Nagar West
+				<lb />
+				Chennai-600 101.
+				<lb />
+			</respondent>
+			<extra>
+				... Respondents
+				<lb />
+			</extra>
+			<extra>
+				Original Petition filed under Section 34 of the Arbitration and
+				<lb />
+				Conciliation Act, 1996, to set aside the award dated 25.04.2013 passed by the
+				<lb />
+				second respondent pertaining to the dispute between the petitioner and the
+				<lb />
+				first respondent in Arbitration Case No.R/S.S.A.F/10 of 2012.
+				<lb />
+			</extra>
+			<extra>
+				For petitioner
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				: Mr.Anand Johnson
+				<lb />
+				for Mr.S.Namasivayam
+				<lb />
+			</petitioner_lawer>
+			<document_type>
+				O R D E R
+			</document_type>
+		</front>
+	</text>
+</tei>

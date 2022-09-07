@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="RKG15112017CMM12472017" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 4
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Decided on: 15 th November, 2017
+				<lb />
+			</judgement_date>
+			<petitioner>
+				HABIB UR REHMAN
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Satish Sahai, Mr. Amique
+				<lb />
+				Khalid, Mr. Abhishek Kumar &amp;
+				<lb />
+				Ms. Shruti Rathore, Advs.
+			</petitioner_lawer>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				UNION OF INIDA &amp; ORS
+				<lb />
+			</respondent>
+			.….
+			<extra>
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Rakesh Kumar &amp; Mr.
+				<lb />
+				Santosh Prasad Chaursiya,
+				<lb />
+				Advs. for UOI with Dr. S.K.
+				<lb />
+				Singh, Asst. Director (H),
+				<lb />
+				CPWD.
+				<lb />
+				Ms. Arti Bansal, Adv. for R6.
+				<lb />
+				Mr. Manika Tripathy Pandey &amp;
+				<lb />
+				Mr. Ashutosh Kaushik, Advs.
+				<lb />
+				for R7&amp;8 with Inspector Inder
+				<lb />
+				Lal &amp; A.S.I. Vijay Singh.
+				<lb />
+				Mr. Vivek B. Saharya, Adv. for
+				<lb />
+				R-9.
+				<lb />
+			</respondent_lawer>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE R.K.GAUBA
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT (ORAL)
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

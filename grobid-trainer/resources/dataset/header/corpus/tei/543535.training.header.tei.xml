@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="543535" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				MADURAI BENCH OF MADRAS HIGH COURT, MADURAI
+				<lb />
+			</court>
+			<judgement_date>
+				RESERVED ON
+				<lb />
+				: 25.10.2018
+				<lb />
+			</judgement_date>
+			<judgement_date>
+				PRONOUNCED ON : 30.10.2018
+				<lb />
+			</judgement_date>
+			<judge>
+				CORAM
+				<lb />
+				THE HONOURABLE MR.JUSTICE C.V.KARTHIKEYAN
+				<lb />
+			</judge>
+			<case_number>
+				Appeal Suit (MD)No.38 of 2005
+				<lb />
+				and
+				<lb />
+				C.M.P.(MD)Nos.3135 of 2005 and 279 of 2017
+				<lb />
+			</case_number>
+			<petitioner>
+				M/s.P.S.Arumugam Associates
+				<lb />
+				represented by its Partner
+				<lb />
+				P.S.Thirumalai
+				<lb />
+			</petitioner>
+			<extra>
+				... Appellant
+				<lb />
+			</extra>
+			<extra>
+				Vs
+				<lb />
+			</extra>
+			<respondent>
+				M/s.Very Good Foods
+				<lb />
+				represented by its Proprietor
+				<lb />
+				P.Subramanian
+				<lb />
+			</respondent>
+			<extra>
+				... Respondent
+				<lb />
+			</extra>
+			<extra>
+				Prayer: Appeal Suit is filed under Section 96 of Code of Civil
+				<lb />
+				Procedure, to set aside the judgment and decree in O.S.No.2 of
+				<lb />
+				2002, dated 06.12.2004, passed by the learned I Additional
+				<lb />
+				District Judge, Tirunelveli.
+				<lb />
+			</extra>
+			<extra>
+				For Appellant
+				<lb />
+				:
+			</extra>
+			<petitioner_lawer>
+				Mr.Anand Chandrasekar
+				<lb />
+				M/s.Sarvabhauman Associates
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				For Respondent
+				<lb />
+				:
+			</extra>
+			<respondent_lawer>
+				Mr.T.S.R.Venkataramana
+				<lb />
+			</respondent_lawer>
+			<extra>
+				***
+			</extra>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

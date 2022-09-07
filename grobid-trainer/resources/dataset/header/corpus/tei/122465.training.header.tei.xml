@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="122465" />
+    </teiHeader>
+    <text xml:lang="en">
+        <front>
+            <lb />
+            <page>1</page>
+            <lb />
+            <extra>REPORTABLE</extra>
+            <lb />
+            <court>IN THE SUPREME COURT OF INDIA</court>
+            <lb />
+            <extra>CRIMINAL ORIGINAL JURISDICTION</extra>
+            <lb />
+            <case_number>WRIT PETITION (CRIMINAL) NO. 76 OF 2016</case_number>
+            <lb />
+            <petitioner>NAVTEJ SINGH JOHAR &amp; ORS.</petitioner>
+            <lb />
+            <extra>
+                …Petitioner(s)
+                <lb />
+                VERSUS
+            </extra>
+            <lb />
+            <respondent>
+                UNION OF INDIA
+                <lb />
+                THR. SECRETARY
+                <lb />
+                MINISTRY OF LAW AND JUSTICE
+            </respondent>
+            <lb />
+            <extra>
+                …Respondent(s)
+                <lb />
+                WITH
+            </extra>
+            <lb />
+            <case_number>WRIT PETITION (CIVIL) NO. 572 OF 2016</case_number>
+            <lb />
+            <case_number>WRIT PETITION (CRIMINAL) NO. 88 OF 2018</case_number>
+            <lb />
+            <case_number>WRIT PETITION (CRIMINAL) NO. 100 OF 2018</case_number>
+            <lb />
+            <case_number>WRIT PETITION (CRIMINAL) NO. 101 OF 2018</case_number>
+            <lb />
+            <case_number>WRIT PETITION (CRIMINAL) NO. 121 OF 2018</case_number>
+            <lb />
+            <document_type>J U D G M E N T</document_type>
+            <lb />
+        </front>
+    </text>
+</tei>

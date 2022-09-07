@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-1596-2015" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 6
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Judgment delivered on : December 11, 2015
+				<lb />
+			</judgement_date>
+			<extra>
+				BAIL APPLN. 1596/2015 &amp; Crl.M.A. Nos.7527/2015 &amp; 7810/2015
+				<lb />
+			</extra>
+			<petitioner>
+				HARI SINGH
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.Deepak Prakash, Advocate with
+				<lb />
+				Ms.Neelambari, Advocate.
+			</petitioner_lawer>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				THE STATE OF NCT OF DELHI
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms. Manjeet Arya, Additional Public
+				<lb />
+				Prosecutor for the State with Sub-
+				<lb />
+				Inspector Ved Prakash, Police Station
+				<lb />
+				Maurya Enclave, Delhi.
+			</respondent_lawer>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE P.S.TEJI
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

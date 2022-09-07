@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="O.M.P. (COMM)-178-2021" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 42
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				%
+				<lb />
+				Judgment delivered on:28.02.2022
+				<lb />
+			</judgement_date>
+			<extra>
+				O.M.P.(COMM) 178/2021
+				<lb />
+			</extra>
+			<petitioner>
+				MUMBAI INTERNATIONAL
+				<lb />
+				AIRPORT LIMITED
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				AIRPORTS AUTHORITY OF INDIA
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Advocates who appeared in this case:
+				<lb />
+			</extra>
+			<extra>
+				For the petitioner
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				: Mr. P. Chidambaram, Senior Advocate
+				<lb />
+				withMs Kanika Singh &amp; Mr Shailendra
+				<lb />
+				Slaria, Advocates.
+				<lb />
+			</petitioner_lawer>
+			<respondent_lawer>
+				For the Respondent
+				<lb />
+			</respondent_lawer>
+			<respondent_lawer>
+				:Mr Raghav Shankar, Mr Karan Lahiri, Ms
+				<lb />
+				Arshiya Sharda, Mr Prateek Arora and Ms
+				<lb />
+				Dristhi Rajain, Advocates.
+				<lb />
+			</respondent_lawer>
+			<judge>
+				CORAM
+				<lb />
+				HON&apos;BLE MR JUSTICE VIBHU BAKHRU
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="28050" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				$~
+				<lb />
+				*
+				<lb />
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Reserved on: 30 th April, 2021
+				<lb />
+			</judgement_date>
+			<judgement_date>
+				Pronounced on: 25 th May, 2021
+				<lb />
+			</judgement_date>
+			<case_number>
+				I.A. 3133/2021 &amp; I.A. 4316/2021 in
+				<lb />
+				+
+				<lb />
+				CS(COMM) 100/2021
+				<lb />
+			</case_number>
+			<petitioner>
+				RAAJ UNOCAL LUBRICANTS LIMITED
+				<lb />
+			</petitioner>
+			<extra>
+				..... Plaintiff
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Akhil Sibal, Sr. Adv.
+				<lb />
+				instructed by Mr. Kapil Wadhwa,
+				<lb />
+				Ms.Deepika Pokharia. &amp; Ms. Deepshri,
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				Advs.
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				APPLE ENERGY PVT LTD &amp; ANR.
+				<lb />
+			</respondent>
+			<extra>
+				..... Defendants
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Neeraj Kishan Kaul and
+				<lb />
+				Mr. Raj Shekhar Rao, Sr. Advs. with Ms.
+				<lb />
+				Shwetasree Majumder, Ms. Diva Arora, Mr.
+				<lb />
+				Aditya Verma, Ms. Vasundhara Majithia,
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Advs.
+				<lb />
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE C.HARI SHANKAR
+				<lb />
+			</judge>
+			<document_type>
+				J U D G E M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="SDS27082018MATFC2172018" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 9
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Date of Judgment: 27 th August, 2018
+				<lb />
+			</judgement_date>
+			<petitioner>
+				TARUN PULLANI
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				Appellant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Chirag Babbar, Adv
+			</petitioner_lawer>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				SHILPA PULLANI
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms Anjali Sharma, Adv
+				<lb />
+			</respondent_lawer>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE G.S.SISTANI
+				<lb />
+				HON&apos;BLE MS. JUSTICE SANGITA DHINGRA SEHGAL
+				<lb />
+			</judge>
+		</front>
+	</text>
+</tei>

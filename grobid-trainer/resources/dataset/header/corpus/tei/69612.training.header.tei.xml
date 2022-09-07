@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="69612" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				%
+				<lb />
+				Date of decision: 15 th November, 2018.
+				<lb />
+			</judgement_date>
+			<case_number>
+				+
+				<lb />
+				CS(COMM) 1512/2016 &amp; IAs No.14230/2016
+				(of the plaintiff u/O
+				<lb />
+				XXXIX R-1&amp;2 CPC) &amp; 13699/2018 (of the plaintiff u/O XXXIX
+				<lb />
+				R-2A CPC)
+				<lb />
+			</case_number>
+			<petitioner>
+				ITC LIMITED
+				<lb />
+			</petitioner>
+			<extra>
+				..... Plaintiff
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Sandeep Sethi, Sr. Adv. with Mr.
+				<lb />
+				Sudeep Chatterjee, Ms. Nupur Lamba,
+				<lb />
+				Ms. Drishti Chatterjee and Ms.
+				<lb />
+				Aishwarya Chaturvedi
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				, Advs.
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				ARORA OFFSET PRINTERS &amp; ORS
+				<lb />
+			</respondent>
+			<extra>
+				..... Defendants
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms. Dimple Vivek
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Adv. for
+				<lb />
+				D-1,5,6&amp;7.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Akhilesh Dixit and Ms. Karuna
+				<lb />
+				Sharma,
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Advs. for D-2,3,4&amp;8.
+				<lb />
+			</extra>
+			<judge>
+				<lb />
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE RAJIV SAHAI ENDLAW
+			</judge>
+		</front>
+	</text>
+</tei>

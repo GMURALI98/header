@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="11485" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Date ofDecision: 24th February, 2016
+				<lb />
+			</judgement_date>
+			<case_number>
+				MAC.APP. 226/2011
+				<lb />
+			</case_number>
+			<petitioner>
+				SATYAVIR SINGH &amp; ORS
+				<lb />
+			</petitioner>
+			<extra>
+				Appellants
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Ms Arati Mahajan Shedha with Mr.
+				<lb />
+				Manoj Kumar
+			</petitioner_lawer>
+			<extra>
+				, Advs.
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				OM PRAKASH SINGH &amp;ORS
+				<lb />
+			</respondent>
+			<extra>
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Rahul Ranjan Verma
+				<lb />
+			</respondent_lawer>
+			<extra>
+				,Adv
+				<lb />
+			</extra>
+			<judge>
+				HON&apos; BLE MR. JUSTICE R.K.GAUBA
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10333" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of
+				
+				227
+				<lb />
+			</page>
+			<court>
+				*
+				<lb />
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				%
+				<lb />
+				Judgment pronounced on :
+				
+				April 25, 2016
+				<lb />
+			</judgement_date>
+			<case_number>
+				+
+				<lb />
+				I.A. Nos.2371/2014, 2988/2014, 2990/2014, 4649/2014,
+				<lb />
+				4677/2014, 5956/2014, 14533/2014, 11224/2015, 12830/2015,
+				<lb />
+				12862/2015, 16703/2015, 16704/2015 &amp; CCP(O) No.69/2015 in
+				<lb />
+				CS(OS) No.355/2014
+				<lb />
+			</case_number>
+			<petitioner>
+				ROCHE PRODUCTS (INDIA) PVT LTD &amp; ORS
+				<lb />
+			</petitioner>
+			<extra>
+				..... Plaintiffs
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.Rajiv Nayar and Mr.Sandeep
+				<lb />
+				Sethi, Senior Advocates with Ms.Niti
+				<lb />
+				Dixit,
+				<lb />
+				Mr.Darpan
+				<lb />
+				Wadhwa,
+				<lb />
+				Ms.Samiksha
+				<lb />
+				Godiyal,
+				<lb />
+				Mr.N.
+				<lb />
+				Mahavir, Ms.Roshni Namboodiry,
+				<lb />
+				Mr.Tanmay Singh, Mr.Anugrah
+				<lb />
+				Robin Frey,
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				Advs.
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				DRUGS CONTROLLER GENERAL OF INDIA AND ORS
+				<lb />
+			</respondent>
+			<extra>
+				..... Defendants
+				<lb />
+			</extra>
+			<respondent>
+				Through
+				<lb />
+			</respondent>
+			<respondent_lawer>
+				Mr.Sanjay Jain, ASG with Mr.Amit
+				<lb />
+				Mahaan, CGSC and Mr. Krishanu
+				<lb />
+				Barua
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Adv. for D-1/UOI.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr.Harish Salve, Dr.Abhishek M.
+				<lb />
+				Singhvi and Mrs.Pratibha M. Singh,
+				<lb />
+				Senior Advocates with Mr.Vijay K.
+				<lb />
+				Sondhi,
+				<lb />
+				Mr.Mayank
+				<lb />
+				Grover,
+				<lb />
+				Ms.Cauveri
+				<lb />
+				Birbal,
+				<lb />
+				Mr.Anshul
+				<lb />
+				Sehgal,
+				<lb />
+				Mr.Arjun
+				<lb />
+				Sawhney,
+				<lb />
+				Ms.Pallavi Sharma &amp; Ms. Suhasini
+				<lb />
+				Raina
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advs. for D-2.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Dr.C.S Vaidyanathan and Mr.Amit
+				<lb />
+				Sibal,
+			</respondent_lawer>
+			<extra>
+				Senior Advocates with
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr.Nirupam Lodha, Ms.Gayatri Roy,
+				<lb />
+				Mr.Ayush Dhawan and Ms. Rhyea
+				<lb />
+				Malik
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advs. for D-3 &amp; 4.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms.
+				<lb />
+				Rameshwari,
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Adv.
+				<lb />
+				for
+				<lb />
+				intervenors in I.A. No.3955/2015
+				<lb />
+			</extra>
+			<document_type>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR.JUSTICE MANMOHAN SINGH
+			</document_type>
+		</front>
+	</text>
+</tei>

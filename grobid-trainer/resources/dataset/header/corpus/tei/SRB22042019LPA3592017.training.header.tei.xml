@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="SRB22042019LPA3592017" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 90
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Reserved on: 12.10.2018
+				<lb />
+				Pronounced on: 22.04.2019
+				<lb />
+			</judgement_date>
+			<petitioner>
+				BAYER CORPORATION
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				Appellant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Sudhir Chandra, Sr. Adv. with Mr.
+				<lb />
+				Sanjay Kumar, Ms. Arpita Sawhney and Mr. Arun
+				<lb />
+				Kumar Jana, Advs.
+			</petitioner_lawer>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				UNION OF INDIA &amp; ORS
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Ripu Daman Bhardwaj, CGSC with
+				<lb />
+				Mr. T.P. Singh and Mr. Shashwat Jain, Advs. for
+				<lb />
+				R-1 &amp; 6.
+				<lb />
+				Ms. Rajeshwari, Adv. for R-2 &amp; 5.
+				<lb />
+				Ms. Saya Choudhary Kapur, Mr. Vivek Ranjan
+				<lb />
+				and Mr. Devanshu Khanna
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advocates for
+				<lb />
+				Interveners.
+				<lb />
+			</extra>
+			<petitioner>
+				BAYER INTELLECTUAL PROPERTY GMBH &amp; ANR
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				Appellants
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Guru Krishna Kumar, Sr. Advocate
+				<lb />
+				with Mr. Pravin Anand, Mr. Nishchal Anand and
+				<lb />
+				Mr. Sanchith Shivakumar, Advs.
+			</petitioner_lawer>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				ALEMBIC PHARMACEUTICALS LTD.
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawer>
+				Ms. Saya Choudhary Kapur, Mr. Vivek
+				<lb />
+				Ranjan and Mr. Devanshu Khanna, Advs.
+				<lb />
+			</respondent_lawer>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE S.RAVINDRA BHAT
+				<lb />
+				HON&apos;BLE MS. JUSTICE SANJEEV SACHDEVA
+				<lb />
+			</judge>
+		</front>
+	</text>
+</tei>

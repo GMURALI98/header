@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-1501-2010" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 5
+				<lb />
+			</page>
+			<court>
+				* IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Date of Reserve: 02.11.2010
+				<lb />
+				Date of Order: 11 th November, 2010
+				<lb />
+			</judgement_date>
+			<extra>
+				Bail Appln. No. 1652/2010
+				<lb />
+				11.11.2010
+				<lb />
+			</extra>
+			<petitioner>
+				Rajesh
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Rajesh Chowdhary
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				with
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. J.B. Prakash, Advocates
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				State
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Sunil Sharma, APP
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Bail Appln. No. 1501/2010
+				<lb />
+				11.11.2010
+				<lb />
+			</extra>
+			<petitioner>
+				Lajjawati
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Rajesh Chowdhary with
+				<lb />
+				Mr. J.B.Prakash, Advocates
+			</petitioner_lawer>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				State
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Sunil Sharma, APP
+				<lb />
+			</respondent_lawer>
+			<judge>
+				JUSTICE SHIV NARAYAN DHINGRA
+				<lb />
+			</judge>
+		</front>
+	</text>
+</tei>

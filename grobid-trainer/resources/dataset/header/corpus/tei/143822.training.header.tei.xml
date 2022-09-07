@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="143822" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				Reportable
+				<lb />
+			</extra>
+			<court>
+				IN THE SUPREME COURT OF INDIA
+				<lb />
+				CIVIL APPELLATE JURISIDCTION
+				<lb />
+			</court>
+			<case_number>
+				CIVIL APPEAL NOS. 6203-6204__OF 2016
+				<lb />
+			</case_number>
+			<extra>
+				(Arising out of SLP(C) Nos. 1259-1260 of 2016)
+				<lb />
+			</extra>
+			<petitioner>
+				Nabam Rebia, and Bamang Felix
+				<lb />
+			</petitioner>
+			<extra>
+				… Appellants
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				Deputy Speaker and others
+				<lb />
+			</respondent>
+			<extra>
+				… Respondents
+				<lb />
+			</extra>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>
