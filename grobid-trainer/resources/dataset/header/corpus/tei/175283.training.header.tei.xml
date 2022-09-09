@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="175283" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				HIGH COURT OF SIKKIM
+				<lb />
+			</court>
+			<extra>
+				Record of Proceedings through Video Conferencing
+				<lb />
+			</extra>
+			<case_number>
+				WP(PIL) No.02 of 2019
+				<lb />
+			</case_number>
+			<petitioner>
+				KALZANG DORJEE LEPCHA
+			</petitioner>
+			<extra>
+				…PETITIONER
+				<lb />
+			</extra>
+			<extra>
+				VERSUS
+				<lb />
+			</extra>
+			<respondent>
+				STATE OF SIKKIM AND ORS
+				<lb />
+			</respondent>
+			<extra>
+				…RESPONDENTS
+				<lb />
+			</extra>
+			<judgement_date>
+				Date: 14.09.2020
+				<lb />
+			</judgement_date>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
+				<lb />
+			</judge>
+			<judge>
+				HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI, JUDGE
+				<lb />
+			</judge>
+		</front>
+	</text>
+</tei>

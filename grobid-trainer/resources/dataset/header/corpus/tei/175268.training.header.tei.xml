@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="175268" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				HIGH COURT OF SIKKIM
+				<lb />
+			</court>
+			<extra>
+				Record of proceedings through Video Conferencing
+				<lb />
+			</extra>
+			<case_number>
+				W. P. (C) No.22 of 2019
+				<lb />
+			</case_number>
+			<petitioner>
+				CHANDRA SHEKHAR GAUTAM &amp; ANR.
+				<lb />
+			</petitioner>
+			<extra>
+				... PETITIONERS
+				<lb />
+			</extra>
+			<extra>
+				VERSUS
+				<lb />
+			</extra>
+			<respondent>
+				STATE OF SIKKIM &amp; ANR.
+				<lb />
+			</respondent>
+			<extra>
+				.... RESPONDENTS
+				<lb />
+			</extra>
+			<judgement_date>
+				Date:
+				21.10.2020
+			</judgement_date>
+			<judge>
+				CORAM
+				<lb />
+				HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN, J.
+				<lb />
+			</judge>
+			<extra>
+				For Petitioners :
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Ms. Rachhitta Rai
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				, Advocate.
+				<lb />
+			</extra>
+			<extra>
+				For Respondent :
+				<lb />
+				No.1
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Vivek Kohli
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advocate General.
+			</extra>
+			<respondent_lawer>
+				Ms. Yeshi Wangmoo Rinchen
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Government
+				<lb />
+				Advocate.
+			</extra>
+			<extra>
+				For Respondent :
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Simeon Subba
+				<lb />
+			</respondent_lawer>
+		</front>
+	</text>
+</tei>

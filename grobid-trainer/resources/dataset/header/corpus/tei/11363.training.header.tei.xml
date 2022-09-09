@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="11363" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+				%
+				<lb />
+			</court>
+			<judgement_date>
+				Decided on: 29.01.2020
+				<lb />
+				+
+				<lb />
+			</judgement_date>
+			<case_number>
+				W.P.(C) 1125/2020 &amp; CM APPL. 3733/2020
+				<lb />
+			</case_number>
+			<petitioner>
+				NEERAJ KASHYAP
+				<lb />
+			</petitioner>
+			<extra>
+				..... Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Sarfaraz Khan
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				, Advocate.
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				M/S ECE INDUSTRIES LIMITED ELEVATOR DIVISION
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE NAJMI WAZIRI
+			</judge>
+		</front>
+	</text>
+</tei>

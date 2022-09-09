@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="123457" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				REPORTABLE
+				<lb />
+			</extra>
+			<court>
+				IN THE SUPREME COURT OF INDIA
+				<lb />
+				CRIMINAL APPELLATE JURISDICTION
+				<lb />
+			</court>
+			<case_number>
+				CRIMINAL APPEAL NO. 578 OF 2019
+				<lb />
+				(Arising out of SLP(Crl.) No.7857 of 2018)
+				<lb />
+			</case_number>
+			<petitioner>
+				<lb />
+				National Investigation Agency
+				<lb />
+			</petitioner>
+			<extra>
+				…..Appellant(s)
+				<lb />
+			</extra>
+			<extra>
+				:Versus:
+				<lb />
+			</extra>
+			<respondent>
+				Zahoor Ahmad Shah Watali
+				<lb />
+			</respondent>
+			<extra>
+				....Respondent(s)
+				<lb />
+			</extra>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

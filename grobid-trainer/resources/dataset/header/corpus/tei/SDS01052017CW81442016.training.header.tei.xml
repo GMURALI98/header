@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="SDS01052017CW81442016" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 3
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<petitioner>
+				BANSI DHAR AGARWAL
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Through: Mr. Varun Kumar, Advocate.
+			</petitioner_lawer>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				REGISTRAR COOPERATIVE SOCIETIES &amp; ANR.
+				<lb />
+			</respondent>
+			....
+			<extra>
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Rishi Kumar and Ms. Neha Rastogi,
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Advocates for respondent No. 1.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Vivek Kumar Tandon
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advocate for
+				<lb />
+				respondent No. 2.
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MS. JUSTICE HIMA KOHLI
+				<lb />
+				HON&apos;BLE MS. JUSTICE SANGITA DHINGRA SEHGAL
+				<lb />
+			</judge>
+			<document_type>
+				O R D E R
+				<lb />
+			</document_type>
+			<judgement_date>
+				01.05.2017
+			</judgement_date>
+		</front>
+	</text>
+</tei>

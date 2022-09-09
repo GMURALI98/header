@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="817225" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+				<lb />
+			</court>
+			<judgement_date>
+				DATE: 21.01.2022
+			</judgement_date>
+			<judge>
+				CORAM
+				<lb />
+				THE HON&apos;BLE MRS.JUSTICE V.BHAVANI SUBBAROYAN
+				<lb />
+			</judge>
+			<extra>
+				For Appellants
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				: Mr.J.Barathan
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				For Respondents :
+			</extra>
+			<respondent_lawer>
+				Mr.M.Rajaraman
+				<lb />
+			</respondent_lawer>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

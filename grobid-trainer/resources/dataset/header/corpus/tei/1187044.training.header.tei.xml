@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="1187044" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE SPECIAL COURT &lt;TRIAL OF OFFENCES RELATING
+				/
+				<lb />
+				TO TRANSACTIONS IN SECURITIES&gt; AT BOMBAY.
+				<lb />
+			</court>
+			<case_number>
+				SPECIAL CASE N0.1 OF 1993
+				<lb />
+			</case_number>
+			<petitioner>
+				Central Bureau of Investigation
+				<lb />
+			</petitioner>
+			<extra>
+				. ..• Complainant
+				<lb />
+			</extra>
+			<extra>
+				vs.
+				<lb />
+			</extra>
+			<respondent>
+				1. Kandaswamy Margbanthu
+				<lb />
+				2. Hamaiya Vankatkrishnan
+				<lb />
+				3. Harshad Shantilal Mehta
+				(deceased-case abated)
+				<lb />
+				4. Ashwin Shantilal Mehta
+				<lb />
+				5. Sudhir Shantilal Mehta
+				<lb />
+				6. Munipally Subramanium Eshwar Chandra
+				<lb />
+				7. Sunil Samtani
+				<lb />
+				8. S.V.Ramanathan
+				<lb />
+				9. Pankaj Brijlal Shah.
+				<lb />
+			</respondent>
+			<extra>
+				. .. Accused . •
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.V.G.Pradhan with Mr.R.S.Mhamane, Special P.P. for
+				•
+				<lb />
+				C.B.I.
+				<lb />
+			</petitioner_lawer>
+			<respondent_lawer>
+				Mr.Sunil Kale i/b. Mis.Mehta Girdharilal &amp; Co.
+				<lb />
+			</respondent_lawer>
+			<extra>
+				for
+				<lb />
+				Accused no. 1.
+			</extra>
+			<respondent_lawer>
+				Mr.L.R.Chari with MR.Ketkar � Mr.Unnikrishnan
+			</respondent_lawer>
+			<extra>
+				, for
+				<lb />
+				Accused no.2.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr.Ajay Khandar
+				<lb />
+			</respondent_lawer>
+			<extra>
+				for accused no.4 and 9.
+			</extra>
+			<respondent_lawer>
+				Mr.Amal Chaugule i/b. M/s.Neena Chaugule &amp; Co.
+				<lb />
+			</respondent_lawer>
+			<extra>
+				for
+				<lb />
+				Accused no.5.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr.Amol Chaugule with Mr.Ajit Karwande
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, for Accused
+				<lb />
+				nos. 6 P..-. 7.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr.M.Janardhan
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, for Accused no.8.
+				<lb />
+			</extra>
+			<judge>
+				CORAM: O.K.DESHMUkH, J.
+				<lb />
+			</judge>
+			<judgement_date>
+				DATEU: 9th, June, 2005.
+				<lb />
+			</judgement_date>
+		</front>
+	</text>
+</tei>

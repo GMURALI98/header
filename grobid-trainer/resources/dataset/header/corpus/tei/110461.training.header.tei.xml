@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="110461" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+				<lb />
+				ORDINARY ORIGINAL CIVIL JURISDICTION
+				<lb />
+			</court>
+			<case_number>
+				CUSTOMS APPEAL NO.45 OF 2013
+				<lb />
+			</case_number>
+			<petitioner>
+				Commissioner of Customs (Export),
+				<lb />
+				having office at Jawaharlal Nehru Customs House,
+				<lb />
+				Nhava Sheva, District -Raigad
+				<lb />
+			</petitioner>
+			<extra>
+				)
+				<lb />
+				)
+				<lb />
+				) ….Appellant
+				<lb />
+			</extra>
+			<extra>
+				V/s.
+				<lb />
+			</extra>
+			<respondent>
+				Reliance Industries Limited
+				<lb />
+				having office at Maker Chamber -IV, 3 rd Floor,
+				<lb />
+				Nariman Point, Mumbai -400 021
+				<lb />
+			</respondent>
+			<extra>
+				)
+				<lb />
+				)
+				<lb />
+				) ….Respondent
+				<lb />
+				----
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				<docAuthor>
+					Ms. P.S. Cardozo a/w. Ms. Maya Majumdar
+					<lb />
+				</docAuthor>
+				<extra>
+					for appellant.
+					<lb />
+				</extra>
+				<respondent_lawer>
+					Mr. Rafique Dada, Senior Advocate a/w. Mr. Jaydeep Patel, Mr. Zubair Dada,
+					<lb />
+					Ms. Shilpa Balani and Ms. Parnari Shingala i/b. A.S. Dayal
+				</respondent_lawer>
+				<extra>
+					and Associates for
+					<lb />
+					respondent.
+					<lb />
+				</extra>
+				<extra>
+					----
+					<lb />
+				</extra>
+				<judge>
+					CORAM :
+					
+					K.R. SHRIRAM &amp; AMIT B. BORKAR, JJ.
+					<lb />
+				</judge>
+				<judgement_date>
+					RESERVED ON : 9 th DECEMBER 2021
+					<lb />
+				</judgement_date>
+				<judgement_date>
+					PRONOUNCED ON : 20 th DECEMBER 2021
+					<lb />
+				</judgement_date>
+				<document_type>
+					ORAL JUDGMENT : (PER K.R. SHRIRAM, J.)
+				</document_type>
+			</petitioner_lawer>
+		</front>
+	</text>
+</tei>

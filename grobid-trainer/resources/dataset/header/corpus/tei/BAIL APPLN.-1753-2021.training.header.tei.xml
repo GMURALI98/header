@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-1753-2021" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 6
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Reserved on : 21.02.2022
+				<lb />
+				%
+				<lb />
+				Pronounced on : 22.03.2022
+				<lb />
+			</judgement_date>
+			<extra>
+				BAIL APPLN. 1753/2021
+				<lb />
+			</extra>
+			<petitioner>
+				TARUN KUMAR THROUGH: PAIROKAR OF SH ATUL KUMAR
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Rakesh Chander Agrawal and
+				<lb />
+				Mr. Sandeep Dhanuka and Mr. Kartik
+				<lb />
+				Kumar Agrawal, Advocates.
+			</petitioner_lawer>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				STATE OF NCT OF DELHI
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Dr. M P Singh, APP for the State
+			</respondent_lawer>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE RAJNISH BHATNAGAR
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

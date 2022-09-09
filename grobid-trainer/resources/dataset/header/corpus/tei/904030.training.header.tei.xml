@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="904030" />
+    </teiHeader>
+    <text xml:lang="en">
+        <front>
+            <lb />
+            <extra>
+                $~
+                <lb />
+                *
+            </extra>
+            <lb />
+            <court>IN THE HIGH COURT OF DELHI AT NEW DELHI</court>
+            <lb />
+            <judgement_date>
+                Reserved on: 16 th November, 2021
+                <lb />
+                Decided on: 6 th April, 2022
+            </judgement_date>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                O.M.P. (COMM) 433/2020, IA 4775/2020 and IA 8408/2021
+            </case_number>
+            <lb />
+            <petitioner>
+                M/S GMR POCHANPALLI
+                <lb />
+                EXPRESSWAYS LTD
+            </petitioner>
+            <lb />
+            <extra>
+                ..... Petitioner
+                <lb />
+                Through
+            </extra>
+            <lb />
+            <petitioner_lawer>Mr. Atul Sharma,</petitioner_lawer>
+            <petitioner_lawer>
+                Ms. Milanka
+                <lb />
+                Chaudhury,
+            </petitioner_lawer>
+            <petitioner_lawer>Mr. Abhinav Agnihotri</petitioner_lawer>
+            <extra> and </extra>
+            <petitioner_lawer>
+                Ms.
+                <lb />
+                Harshita Agarwal,
+            </petitioner_lawer>
+            <extra>
+                Advs.
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>
+                NATIONAL HIGHWAY
+                <lb />
+                AUTHORITY OF INDIA
+            </respondent>
+            <lb />
+            <extra>
+                ..... Respondent
+                <lb />
+                Through
+            </extra>
+            <lb />
+            <respondent_lawer>Mr. Dayan Krishnan,</respondent_lawer>
+            Sr.
+            <lb />
+            Advocate with
+            <respondent_lawer>Mr. Ankur Mittal,</respondent_lawer>
+            <respondent_lawer>
+                Mr. Abhay
+                <lb />
+                Gupta
+            </respondent_lawer>
+            <extra> and </extra>
+            <respondent_lawer>Ms. Sukrit,</respondent_lawer>
+            <extra>Advs.</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                O.M.P. (COMM) 449/2020, I.A. 6682/2020 and I.A. 6683/2020
+            </case_number>
+            <lb />
+            <petitioner>
+                NATIONAL HIGHWAY
+                <lb />
+                AUTHORITY OF INDIA
+            </petitioner>
+            <lb />
+            <extra>
+                ..... Petitioner
+                <lb />
+                Through
+            </extra>
+            <lb />
+            <petitioner_lawer>Mr. Dayan Krishnan,</petitioner_lawer>
+            Sr.
+            <lb />
+            Advocate with
+            <petitioner_lawer>Mr. Ankur Mittal,</petitioner_lawer>
+            <petitioner_lawer>
+                Mr. Abhay
+                <lb />
+                Gupta
+            </petitioner_lawer>
+            <extra> and </extra>
+            <petitioner_lawer>Ms.Sukrit,</petitioner_lawer>
+            <extra>
+                Advs.
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>
+                M/S GMR POCHANPALLI
+                <lb />
+                EXPRESSWAYS LTD
+            </respondent>
+            <lb />
+            <extra>
+                ..... Respondent
+                <lb />
+                Through
+            </extra>
+            <lb />
+            <respondent_lawer>Mr. Atul Sharma,</respondent_lawer>
+            <respondent_lawer>
+                Ms. Milanka
+                <lb />
+                Chaudhury,
+            </respondent_lawer>
+            <respondent_lawer>Mr. Abhinav Agnihotri</respondent_lawer>
+            <extra>and </extra>
+            <respondent_lawer>
+                Ms.
+                <lb />
+                Harshita Agarwal,
+            </respondent_lawer>
+            <extra>
+                Advs.
+                <lb />
+                O.M.P. (COMM) 433/2020 &amp; contd. matters
+            </extra>
+            <lb />
+            <page>Page 2 of 72</page>
+            <lb />
+            <judge>
+                CORAM:
+                <lb />
+                HON&apos;BLE MR. JUSTICE C. HARI SHANKAR
+            </judge>
+            <lb />
+            <extra>%</extra>
+            <lb />
+            <document_type>J U D G M E N T</document_type>
+        </front>
+    </text>
+</tei>

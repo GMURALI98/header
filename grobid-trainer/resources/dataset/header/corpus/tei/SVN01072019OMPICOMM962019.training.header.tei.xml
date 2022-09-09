@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="SVN01072019OMPICOMM962019" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Reserved on: 28 th May 2019
+				<lb />
+				Pronounced on: 1 st July 2019
+				<lb />
+			</judgement_date>
+			<petitioner>
+				GVK AIRPORT HOLDINGS LIMITED
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Rajiv Nayar, Senior Advocate
+				<lb />
+				with Mr. Kartik Nayar, Advocate, Mr.
+				<lb />
+				Sarthak Malhotra and Mr. Rishab
+				<lb />
+				Kumar, Advocate.
+			</petitioner_lawer>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				BID SERVICES DIVISION (MAURITIUS) LIMITED &amp; ORS.
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Amit Sibal, Senior Advocate with
+				<lb />
+				Mr. Saurabh Kirpal, Ms. Roopali
+				<lb />
+				Singh, Mr. Arvind Ramesh, Mr.
+				<lb />
+				Aditya Chatterjee and Mr. Mugeet
+				<lb />
+				Drabu, Advocates for Respondent No.
+				<lb />
+				1.
+				<lb />
+				Mr. Sujoy Dattar, Advocate for
+				<lb />
+				Respondent No.2.
+				<lb />
+				Mr. AbinavVasisht, Senior Advocate
+				<lb />
+				with Mr. Digvijay Rai and Ms. Priya
+				<lb />
+				Singh, Advocate for Respondent No.
+				<lb />
+				3.
+				<lb />
+			</respondent_lawer>
+			<judge>
+				CORAM: JUSTICE SANJEEV NARULA
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

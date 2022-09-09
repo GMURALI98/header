@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="HG0JCUF997075AF" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 95
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Judgment Reserved on: 12 th December, 2017
+				<lb />
+				Date of decision: 22 nd February, 2018
+				<lb />
+			</judgement_date>
+			<petitioner>
+				&apos;W&apos;
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				Appellant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Sandeep Sethi and Mr.
+				<lb />
+				Sudhanshu Batra, Sr. Advs.
+				<lb />
+				with Mr. Vineet Malhotra,
+				<lb />
+				Mr. Apoorva Agarwal, Mr.
+				<lb />
+				Abhijat and Mr. Shubhendu
+				<lb />
+				Kaushik, Advs.
+			</petitioner_lawer>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				&apos;H&apos; &amp; ANR
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondents
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Through: Mr. V.K. Gupta, Sr. Adv.
+				<lb />
+				with Mr. Sanjeev Mahajan,
+				<lb />
+				Ms. Ruchira Gupta, Ms.
+				<lb />
+				Swati Jain, Ms. Mona Sinha
+				<lb />
+				and Mr. Anurag Sharma,
+				<lb />
+				Advs.
+			</respondent_lawer>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MS. JUSTICE GITA MITTAL
+				<lb />
+				HON&apos;BLE MR. JUSTICE I.S.MEHTA
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

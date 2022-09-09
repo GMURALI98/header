@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="902888" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 16
+				<lb />
+			</page>
+			<court>
+				*
+				<lb />
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Date of decision: 26 th APRIL, 2022
+				<lb />
+			</judgement_date>
+			<extra>
+				IN THE MATTER OF:
+				<lb />
+			</extra>
+			<case_number>
+				+
+				
+				CONT.CAS(C) 60/2022 &amp; CM APPL. 12825/2022
+				<lb />
+			</case_number>
+			<petitioner>
+				KINRI DHIR
+				<lb />
+			</petitioner>
+			<extra>
+				..... Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Ms. Geeta Luthra,
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				Sr. Advocate with
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Ms. Shivani Luthra Lohiya, Ms.
+				<lb />
+				Asmita Narula, Ms. Priyanka
+				<lb />
+				Prasanth
+				<lb />
+				and
+				<lb />
+				Ms.
+				<lb />
+				Apoorva
+				<lb />
+				Maheshwari
+			</petitioner_lawer>
+			<extra>
+				, Advocates
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				VEER SINGH
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms. Rebecca John,
+			</respondent_lawer>
+			<extra>
+				Sr. Advocate with
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms. Gauri Rishi, Ms. Srishti Juneja
+				<lb />
+				and Ms. Garima Sehgal,
+			</respondent_lawer>
+			<extra>
+				Advocates
+				<lb />
+				for Respondent No. 1
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Manu Aggarwal and Mr.
+				<lb />
+				Shubham Budhiraja,
+			</respondent_lawer>
+			<extra>
+				Advocates for R-
+				<lb />
+				2 and R-3.
+				<lb />
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE SUBRAMONIUM PRASAD
+				<lb />
+			</judge>
+		</front>
+	</text>
+</tei>

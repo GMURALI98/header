@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="972391" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				IN THE SPECIAL COURT [CONSTJTUTED UNDER THE (TRIAL OF
+				<lb />
+				OFFENCES RELATJNG TO TRANSACTlONS IN SECURITIES) ACT,
+				<lb />
+				1992] AT BOMBAY
+				<lb />
+			</court>
+			<case_number>
+				SPECIAL CASE N0.3 OF 1997
+				<lb />
+				(RC 1 (BSC)/93-BOM)
+				<lb />
+			</case_number>
+			<petitioner>
+				Central Bureau of Investigation
+				<lb />
+			</petitioner>
+			<extra>
+				... .&apos; .. Complainant.
+				<lb />
+				<extra>
+					<extra>
+						V/s
+						<lb />
+					</extra>
+					<respondent>
+						1. R.S. Pai
+						<lb />
+					</respondent>
+					<extra>
+						.... Accused No.l
+						<lb />
+					</extra>
+					<respondent>
+						2.
+						
+						KRN Sehnoy
+						<lb />
+					</respondent>
+					<extra>
+						.... Accused No.2
+						<lb />
+					</extra>
+					<petitioner_lawer>
+						Mr. V.G. Pradhan with Mr. R.S. Mhamane
+						<lb />
+					</petitioner_lawer>
+					<extra>
+						for the CBI.
+						<lb />
+					</extra>
+					<respondent_lawer>
+						Mr. Sunil Kale
+						<lb />
+					</respondent_lawer>
+					<extra>
+						for accused No.1.
+						<lb />
+					</extra>
+					<respondent_lawer>
+						Mr. R.M. Tiwari
+						<lb />
+					</respondent_lawer>
+					<extra>
+						with Mr. D.P. Karnath for accused No.2.
+						<lb />
+					</extra>
+					<document_type>
+						ORAL JUDGMENT:
+						<lb />
+					</document_type>
+					<judge>
+						CORAM: V.M. KANADE, J.
+						<lb />
+						Judge, Special Court.
+						<lb />
+					</judge>
+					<judgement_date>
+						DATE
+						<lb />
+						: 15th October, 2008.
+						<lb />
+					</judgement_date>
+				</extra>
+			</extra>
+		</front>
+	</text>
+</tei>

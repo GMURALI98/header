@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="17521" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 4
+				<lb />
+			</page>
+			<court>
+				$~2
+				<lb />
+				* IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+				%
+				<lb />
+				Date of Decision: 24 th October, 2016
+				<lb />
+			</court>
+			<extra>
+				+
+			</extra>
+			<case_number>
+				MAC.APP. 592/2016
+				<lb />
+			</case_number>
+			<petitioner>
+				MASTER AJEET KUMAR DAS
+				<lb />
+			</petitioner>
+			<extra>
+				..... Appellant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.S.N. Parashar,
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				Advocate Versus
+				<lb />
+			</extra>
+			<respondent>
+				BRAHM SINGH &amp; ORS.
+				<lb />
+				(UNITED INDIA INSURANCE CO. LTD.
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr.Sameer Nandwani,
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Advocate
+				<lb />
+				for Respondent no.3.
+				<lb />
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE J.R. MIDHA
+				<lb />
+			</judge>
+			<document_type>
+				JUDGMENT (ORAL)
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

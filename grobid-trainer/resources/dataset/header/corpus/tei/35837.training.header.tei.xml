@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="793506" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
+			</court>
+			<judgement_date>
+				DATED : 30.09.2021
+				<lb />
+			</judgement_date>
+			<judge>
+				CORAM
+				<lb />
+				THE HONOURABLE MR.JUSTICE M.SUNDAR
+				<lb />
+			</judge>
+			<case_number>
+				W.P.Nos.18292,18294 and 18298 of 2021
+				<lb />
+			</case_number>
+			<petitioner>
+				G.R.M. Constructions,
+				<lb />
+				Rep. By its Managing Partner,
+				<lb />
+				R.Ganesan,No.6-A, Salem Road,
+				<lb />
+				Kalangani Post, Namakkal – 637 014
+				<lb />
+			</petitioner>
+			<extra>
+				.. .. Petitioner
+				<lb />
+				in all WPs
+				<lb />
+			</extra>
+			<respondent>
+				The State Tax Officer,
+				<lb />
+				Namakkal Town Circle,
+				<lb />
+				Namakkal.
+				<lb />
+			</respondent>
+			<extra>
+				.. Respondent
+				<lb />
+				in all WPs
+				<lb />
+			</extra>
+			<extra>
+				Prayer : Petitions filed under Article 226 of the Constitution of
+				<lb />
+				India praying to issue a Writ of Mandamus directing the
+				<lb />
+				respondent to arrange to issue refund voucher along with interest
+				<lb />
+				as per order in TIN:33183101713/2011-12, 2012-13 and 2014-15
+				<lb />
+				dated 19.03.2019 and 26.03.2019 as requested vide
+				<lb />
+				representation dated 24.07.2020 in so far as the refund voucher
+				<lb />
+				for the assessment years 2011-12,2014-15 and 2012-13 is
+				<lb />
+				concerned.
+				<lb />
+			</extra>
+			<extra>
+				For Petitioner :
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.R.Senniappan
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				For Respondents
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms.Amirta Dinakaran
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Government Advocate
+				<lb />
+			</extra>
+			<document_type>
+				COMMON ORDER
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

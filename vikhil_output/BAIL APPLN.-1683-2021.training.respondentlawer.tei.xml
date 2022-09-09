@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent_lawer>
+							<persName>
+								 <forename>Mr</forename>.
+								 <middlename>F</middlename>.
+								 <middlename>K</middlename>.
+								 <surname>Jha</surname>,
+								 <roleName>Advocate</roleName>
+							</persName>
+							<persName>
+								 <forename>Mr</forename>.
+								 <surname>Amit Chadha</surname>,
+								 <roleName>APP for the</roleName>
+							</persName>
+							<persName>
+								 <forename>State</forename>
+								 <surname>with</surname>
+							</persName>
+							<persName>
+								 <forename>Insp</forename>.
+								 <surname>Gursewak Singh and SHO/</surname>
+							</persName>
+							<persName>
+								<forename>Insp</forename>.
+								 <surname>Arvind Kumar</surname>,
+								 <roleName>PS</roleName>
+							</persName>
+							<persName>
+								 <forename>Khayala</forename>.
+								 <surname>Mr</surname>.
+								 <middlename>F</middlename>.
+								 <middlename>K</middlename>.
+							</persName>
+							<persName>
+								 <surname>Jha</surname>,
+								 <roleName>Advocate</roleName>
+								 <forename>Mr</forename>.
+							</persName>
+							<persName>
+								 <surname>Amit Chadha</surname>,
+								 <roleName>APP for the</roleName>
+								 <forename>State</forename>.
+							</persName>
+							<persName>
+								 <surname>Mahavir</surname>
+								 <marker>(</marker>
+								<forename>No</forename>.
+							</persName>
+							<persName>
+								<surname>1143</surname>/
+								<forename>W</forename>
+								<middlename>)</middlename>.
+							</persName>
+							<persName>
+								 <surname>It</surname>
+							</persName>
+						</respondent_lawer>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

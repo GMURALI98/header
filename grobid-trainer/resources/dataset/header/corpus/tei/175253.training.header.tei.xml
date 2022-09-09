@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="175253" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				<lb />
+				HIGH COURT OF SIKKIM
+				<lb />
+			</court>
+			<extra>
+				Record of proceedings through Video Conferencing
+				<lb />
+			</extra>
+			<case_number>
+				W.P. (C) No.33 of 2017
+				<lb />
+			</case_number>
+			<petitioner>
+				PHUCHUNGLA BHUTIA &amp; ORS.
+				<lb />
+			</petitioner>
+			<extra>
+				……. PETITIONERS
+				<lb />
+			</extra>
+			<extra>
+				VERSUS
+				<lb />
+			</extra>
+			<respondent>
+				STATE OF SIKKIM
+				<lb />
+			</respondent>
+			<extra>
+				……. RESPONDENT
+				<lb />
+			</extra>
+			<judgement_date>
+				Date: 09.10.2020
+				<lb />
+			</judgement_date>
+			<judge>
+				CORAM :
+				<lb />
+				HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN, J.
+				<lb />
+			</judge>
+			<extra>
+				For Petitioners
+				<lb />
+				:
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. Zangpo Sherpa, Advocate.
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				For Respondent
+				<lb />
+				No.1.
+			</extra>
+			<extra>
+				<lb />
+				For Respondent
+				<lb />
+				No.2.
+				<lb />
+			</extra>
+			<extra>
+				For Respondent
+				<lb />
+				Nos.3 to 6. : : :
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Dr. Doma T. Bhutia,
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Additional
+				<lb />
+				Advocate General.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Zigmee Bhutia
+			</respondent_lawer>
+			<extra>
+				, Standing Counsel
+				<lb />
+				for Education Department.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. Bhusan Nepal
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advocate.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Ms. Rachhitta Rai
+				<lb />
+			</respondent_lawer>
+			<extra>
+				, Advocate.
+				<lb />
+			</extra>
+		</front>
+	</text>
+</tei>

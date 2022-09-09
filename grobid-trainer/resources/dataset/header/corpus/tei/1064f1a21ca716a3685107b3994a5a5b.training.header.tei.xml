@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="1064f1a21ca716a3685107b3994a5a5b" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<page>
+				1
+			</page>
+			<lb />
+			<court>
+				BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+			</court>
+			<lb />
+			<judgement_date>
+				DATED: 15.02.2016
+			</judgement_date>
+			<lb />
+			<judge>
+				CORAM:
+				<lb />
+				THE HONOURABLE MR.JUSTICE S.MANIKUMAR
+				<lb />
+				and
+				<lb />
+				THE HON'BLE MR.JUSTICE C.T. SELVAM
+			</judge>
+			<lb />
+			<case_number>
+				W.P.(MD)No.3174 of 2016
+				<lb />
+				and
+				<lb />
+				WMP(MD)No.2776 of 2016
+			</case_number>
+			<lb />
+			<petitioner>
+				K.R.Rengasamy
+				<lb />
+				... Petitioner
+			</petitioner>
+			<lb />
+			<extra>
+				Vs.
+			</extra>
+			<lb />
+			<respondent>
+				1.The District Collector,
+				<lb />
+				Tiruchirappalli.
+				<lb />
+				2.The Block Development Officer,
+				<lb />
+				Thottiyam Panchayat Union,
+				<lb />
+				Trichy.
+				<lb />
+				3.The President,
+				<lb />
+				Kaduvetti Village Panchayat,
+				<lb />
+				Kaduvetti, Thottiyam Taluk,
+				<lb />
+				Trichy.
+				<lb />
+				...
+				Respondents
+			</respondent>
+			<lb />
+			<extra>
+				PRAYER: The Writ Petition is filed under Article 226 of the Constitution of
+				<lb />
+				India, to issue a Writ of Mandamus, forbearing the respondents from
+				<lb />
+				constructing the community hall in the vacant land adjacent to middle
+				<lb />
+				school in petitioner&apos;s village.
+				<lb />
+				For Petitioner
+				<lb />
+				:
+			</extra>
+			<petitioner_lawer>
+				Mr.S.Muthukrishnan
+			</petitioner_lawer>
+			<lb />
+			<extra>
+				For Respondents :
+			</extra>
+			<respondent_lawer>
+				Mr.A.K.Bhaskarapandian
+			</respondent_lawer>
+			<lb />
+			<extra>
+				Special Government Pleader
+			</extra>
+			<lb />
+			<document_type>
+				ORDER
+			</document_type>
+			<lb />
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="175347" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				HIGH COURT OF SIKKIM
+				<lb />
+				Record of Proceedings through Video Conferencing
+				<lb />
+			</court>
+			<page>
+				Page-1 of 3
+				<lb />
+			</page>
+			<case_number>
+				W.P. (PIL) No.07 of 2020
+				<lb />
+				<case_number>
+					<petitioner>
+						SIKKIM DRUG USERS FORUM
+						<lb />
+					</petitioner>
+					<extra>
+						…PETITIONER
+						<lb />
+					</extra>
+					<extra>
+						VERSUS
+						<lb />
+					</extra>
+					<respondent>
+						STATE OF SIKKIM AND ORS.
+						<lb />
+					</respondent>
+					<extra>
+						…RESPONDENTS
+						<lb />
+					</extra>
+					<judgement_date>
+						Date: 15.10.2020
+						<lb />
+					</judgement_date>
+					<judge>
+						CORAM:
+						<lb />
+						HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
+						<lb />
+						HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN, JUDGE
+					</judge>
+				</case_number>
+			</case_number>
+		</front>
+	</text>
+</tei>

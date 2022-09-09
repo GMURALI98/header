@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="144672" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				REPORTABLE
+				<lb />
+			</extra>
+			<court>
+				IN THE SUPREME COURT OF INDIA
+				<lb />
+				CRIMINAL APPELLATE JURISDICTION
+				<lb />
+			</court>
+			<case_number>
+				CRIMINAL APPEAL NOS. 607-608 OF 2017
+				<lb />
+				(arising out of S.L.P. (Criminal) Nos. 3119-3120 of 2014)
+				<lb />
+			</case_number>
+			<petitioner>
+				Mukesh &amp; Anr.
+				<lb />
+			</petitioner>
+			<extra>
+				…Appellants
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				State for NCT of Delhi &amp; Ors.
+				<lb />
+			</respondent>
+			<extra>
+				…Respondents
+				<lb />
+			</extra>
+			<extra>
+				WITH
+				<lb />
+			</extra>
+			<case_number>
+				CRIMINAL APPEAL NOS. 609-610 OF 2017
+				<lb />
+				(arising out of S.L.P. (Criminal) Nos. 5027-5028 of 2014)
+				<lb />
+			</case_number>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

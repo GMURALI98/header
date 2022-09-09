@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="2193d3175ccb100740a77491977feb05" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			$~
+			<lb />
+			*
+			<lb />
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+			</court>
+			<lb />
+			%
+			<lb />
+			<judgement_date>
+				Reserved on: 21.10.2020
+				<lb />
+				Pronounced on: 17.11.2020
+			</judgement_date>
+			<lb />
+			<case_number>
+				+
+				<lb />
+				W.P. (C) 4114/2020 &amp; CM No. 14769/2020
+			</case_number>
+			<lb />
+			<petitioner>
+				DR. PRADEEP SHINDE
+				
+				
+				&amp; ORS.
+				<lb />
+				.....
+				
+				Petitioners
+			</petitioner>
+			<lb />
+			<extra>
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawer>
+				Mr. Akhil Sibal, Sr. Advocate
+				<lb />
+				with Mr. Maanav Kumar, Ms.
+				<lb />
+				Roshni Namboodiry, Ms. Nitya
+				<lb />
+				Gupta, Ms. Sonali Malik and Ms.
+				<lb />
+				Nupur, Advocates.
+			</petitioner_lawer>
+			<extra>
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				JAWAHARLAL NEHRU UNIVERSITY THROUGH:
+				<lb />
+				ITS VICE CHANCELLOR &amp; ANR.
+				<lb />
+				.....
+				
+				Respondents
+			</respondent>
+			<lb />
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawer>
+				Ms. Monika Arora,
+			</respondent_lawer>
+			<extra>
+				Standing
+				<lb />
+				Counsel with
+			</extra>
+			<respondent_lawer>
+				Ms. Ankita Shah,
+			</respondent_lawer>
+			<lb />
+			<extra>
+				Advocate for R-1.
+			</extra>
+			<lb />
+			<respondent_lawer>
+				Mr. Ajay Digpaul, CGSC and Mr.
+				<lb />
+				Kamal R. Digpaul
+			</respondent_lawer>
+			<extra>
+				Advocate for
+				<lb />
+				UOI.
+			</extra>
+			<lb />
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MS. JUSTICE JYOTI SINGH
+			</judge>
+			<document_type>
+				JUDGEMENT
+			</document_type>
+		</front>
+	</text>
+</tei>

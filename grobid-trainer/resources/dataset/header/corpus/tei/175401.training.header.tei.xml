@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="175401" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				THE HIGH COURT OF SIKKIM : GANGTOK
+				<lb />
+			</court>
+			<extra>
+				(Criminal Appeal Jurisdiction)
+				<lb />
+			</extra>
+			<extra>
+				--------------------------------------------------------------------------------------------------------------------------------
+				<lb />
+			</extra>
+			<judge>
+				DIVISION BENCH :
+				<lb />
+				THE HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
+				<lb />
+				THE HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI, JUDGE
+				<lb />
+			</judge>
+			<extra>
+				--------------------------------------------------------------------------------------------------------------------------------
+				<lb />
+			</extra>
+			<case_number>
+				Crl.A. No.19 of 2019
+			</case_number>
+			<extra>
+				Appellant
+				<lb />
+				:
+				<lb />
+			</extra>
+			<petitioner>
+				Bhakta Bahadur Subba
+				<lb />
+			</petitioner>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<extra>
+				Respondent
+				<lb />
+				:
+				<lb />
+			</extra>
+			<respondent>
+				State of Sikkim
+				<lb />
+			</respondent>
+			<extra>
+				Appeal under Section 374(2) of the
+				<lb />
+				Code of Criminal Procedure, 1973
+				<lb />
+			</extra>
+			<extra>
+				--------------------------------------------------------------------------------------Appearance
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr. D. K. Siwakoti
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				, Legal Aid Counsel for the Appellant.
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr. S. K. Chettri
+			</respondent_lawer>
+			<extra>
+				, Additional Public Prosecutor for the State-
+				<lb />
+				Respondent.
+				<lb />
+			</extra>
+			<extra>
+				--------------------------------------------------------------------------------------
+				<lb />
+			</extra>
+			<judgement_date>
+				Date of Hearing
+				<lb />
+				: 03-09-2020
+				<lb />
+			</judgement_date>
+			<judgement_date>
+				Date of Judgment
+				<lb />
+				: 14-09-2020
+				<lb />
+			</judgement_date>
+			<document_type>
+				J U D G M E N T
+			</document_type>
+		</front>
+	</text>
+</tei>
