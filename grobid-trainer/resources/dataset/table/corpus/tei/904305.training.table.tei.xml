@@ -1,0 +1,128 @@
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="_904305.pdf" />
+	</teiHeader>
+	<text xml:lang="en">
+		<figure type="table">
+			<table>
+				<lb />
+				S.No.
+				<lb />
+				Particulars
+				<lb />
+				Amount in
+				<lb />
+				INR / Crores
+				<lb />
+				1.
+				<lb />
+				NHAI Total Project Cost (TPC)
+				<lb />
+				828.00
+				<lb />
+				2.
+				<lb />
+				Less
+				<lb />
+				Cost
+				<lb />
+				of
+				<lb />
+				unfinished
+				<lb />
+				construction (details enclosed as
+				<lb />
+				Appendix-I)
+				<lb />
+				106.60
+				<lb />
+				3.
+				<lb />
+				Adjusted TPC
+				<lb />
+				721.40
+				<lb />
+				4.
+				<lb />
+				Debt (72.58% of adjusted TPC)
+				<lb />
+				523.59
+				<lb />
+				5.
+				<lb />
+				Debt repaid
+				<lb />
+				0.71
+				<lb />
+				6.
+				<lb />
+				Outstanding Debt Due
+				<lb />
+				522.88
+				<lb />
+				7.
+				<lb />
+				Accrued Interest of Rs. 19.4 Cr
+				<lb />
+				(Wilful default, hence no payment)
+				<lb />
+				Nil
+				<lb />
+				8.
+				<lb />
+				90% of debt due
+				<lb />
+				470.59
+				<lb />
+				9.
+				<lb />
+				Less Recoveries (details enclosed
+				<lb />
+				as Appendix-II
+				<lb />
+				242.42
+				<lb />
+				10.
+				<lb />
+				Net Termination Payment
+				<lb />
+				228.17
+				<lb />
+				11.
+				<lb />
+				Paid by NHAI to Concessionaire
+				<lb />
+				222.03
+				<lb />
+				12.
+				<lb />
+				Balance to be paid
+				<lb />
+				6.14
+				<lb />
+			</table>
+		</figure>
+		<figure type="table">
+			<table>
+				Particulars
+				<lb />
+				Amount in Rupees
+				<lb />
+				Crores
+				<lb />
+				Project Equity Capital
+				<lb />
+				269
+				<lb />
+				Facility
+				<lb />
+				712
+				<lb />
+				Total Project Cost
+				<lb />
+				981
+				<lb />
+			</table>
+		</figure>
+	</text>
+</tei>
