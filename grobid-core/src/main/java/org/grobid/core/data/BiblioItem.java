@@ -81,7 +81,6 @@ public class BiblioItem {
                 ", publisher='" + publisher + '\'' +
                 ", nbPages=" + nbPages +
                 ", court=" + court + '\'' +
-                ", casenumber=" + casenumber + '\'' +
                 ", casedate=" + casedate + '\'' +
                 ", judge=" + judge + '\'' +
                 ", casetype=" + casetype + '\'' +
@@ -106,6 +105,7 @@ public class BiblioItem {
                 ", publisherPlace='" + publisherPlace + '\'' +
                 ", review='" + review + '\'' +
                 ", keywords=" + keywords +
+                ", casenumbers=" + casenumbers +
                 ", subjects=" + subjects +
                 ", categories='" + categories + '\'' +
                 ", type='" + type + '\'' +
@@ -145,6 +145,7 @@ public class BiblioItem {
                 ", email='" + email + '\'' +
                 ", pubnum='" + pubnum + '\'' +
                 ", keyword='" + keyword + '\'' +
+                ", casenumber='" + casenumber + '\'' +
                 ", phone='" + phone + '\'' +
                 ", degree='" + degree + '\'' +
                 ", web='" + web + '\'' +
@@ -224,6 +225,7 @@ public class BiblioItem {
                 ", originalAddress='" + originalAddress + '\'' +
                 ", originalNote='" + originalNote + '\'' +
                 ", originalKeyword='" + originalKeyword + '\'' +
+                ", originalCasenumber='" + originalCasenumber + '\'' +
                 ", originalVolumeBlock='" + originalVolumeBlock + '\'' +
                 ", originalJournal='" + originalJournal + '\'' +
                 ", workingGroup='" + workingGroup + '\'' +
@@ -254,7 +256,6 @@ public class BiblioItem {
     // the journal for a journal article, etc. 
 
     private String court = null;
-    private String casenumber = null;
     private String casedate = null;
     private String judge = null;
     private String casetype = null;
@@ -284,6 +285,7 @@ public class BiblioItem {
     private String publisherPlace = null;
     private String review = null;
     private List<Keyword> keywords;
+    private List<Casenumber> casenumbers;
     private List<String> subjects;
     private List<String> categories;
     private String type = null; // book, journal, proceedings, in book, etc
@@ -328,6 +330,7 @@ public class BiblioItem {
     private String email = null;
     private String pubnum = null;
     private String keyword = null;
+    private String casenumber = null;
     private String phone = null;
     private String degree = null;
     private String web = null;
@@ -431,6 +434,7 @@ public class BiblioItem {
     private String originalAddress = null;
     private String originalNote = null;
     private String originalKeyword = null;
+    private String originalCasenumber = null;
     private String originalVolumeBlock = null;
     private String originalJournal = null;
 
@@ -741,16 +745,20 @@ public class BiblioItem {
         return keyword;
     }
 
+    public String getCasenumber() {
+        return casenumber;
+    }
+
     public List<Keyword> getKeywords() {
         return keywords;
     }
 
+    public List<Casenumber> getCasenumbers() {
+        return casenumbers;
+    }
+
     public String getCourt() {
         return court;
-    }
-    
-    public String getCaseNumber() {
-        return casenumber;
     }
 
     public String getCasedate() {
@@ -960,6 +968,10 @@ public class BiblioItem {
 
     public String getOriginalKeyword() {
         return originalKeyword;
+    }
+
+    public String getOriginalCasenumber() {
+        return originalCasenumber;
     }
 
     public String getOriginalVolumeBlock() {
@@ -1589,10 +1601,6 @@ public class BiblioItem {
     public void setCourt(String c) {
         court = c;
     }
-    
-    public void setCaseNumber(String c) {
-        casenumber = c;
-    }
 
     public void setCasedate(String c) {
         casedate = c;
@@ -1618,6 +1626,11 @@ public class BiblioItem {
         keyword = cleanKeywords(k);
     }
 
+    public void setCasenumber(String k) {
+        casenumber = k;
+    }
+
+
     public void addKeyword(String k) {
         if (keywords == null)
             keywords = new ArrayList<Keyword>();
@@ -1631,8 +1644,21 @@ public class BiblioItem {
 		}
     }
 
+    public void addCasenumber(String k) {
+        if (casenumbers == null)
+            casenumbers = new ArrayList<Casenumber>();
+		
+		if (k != null) {
+        	casenumbers.add(new Casenumber(k));
+		}
+    }
+
     public void setKeywords(List<Keyword> k) {
         keywords = k;
+    }
+
+    public void setCasenumbers(List<Casenumber> k) {
+        casenumbers = k;
     }
 
     public void addSubject(String k) {
@@ -1829,6 +1855,10 @@ public class BiblioItem {
         originalKeyword = original;
     }
 
+    public void setOriginalCasenumber(String original) {
+        originalCasenumber = original;
+    }
+
     public void setOriginalVolumeBlock(String original) {
         originalVolumeBlock = original;
     }
@@ -1955,6 +1985,7 @@ public class BiblioItem {
         email = null;
         pubnum = null;
         keyword = null;
+        casenumber = null;
         phone = null;
         degree = null;
         web = null;
@@ -1986,7 +2017,6 @@ public class BiblioItem {
         copyright = null;
         funding = null;
         court = null;
-        casenumber = null;
         casedate = null;
         judge = null;
         casedate = null;
@@ -2224,6 +2254,49 @@ public class BiblioItem {
 			        }
 					res = res.replace("\n", " ").replace("  ", " ");
 					Keyword keyw = new Keyword(res, type);
+					result.add(keyw);
+	            }
+				break;
+	        }
+		}
+		
+		return result;
+	}	
+
+    public static List<Casenumber> segmentCasenumbers(String string) {
+        if (string == null)
+            return null;
+        if (string.length() == 0)
+            return null;
+		// String type = "case_number";
+        // if (string.startsWith("Categories and Subject Descriptors")) {
+        //     type = "subject-headers";
+		// 	string = string.replace("Categories and Subject Descriptors", "").trim();
+        // } 
+		// else if (string.startsWith("PACS Numbers") || string.startsWith("PACS") ) {
+        //     type = "pacs";
+        //     string = string.replace("PACS Numbers", "").replace("PACS", "").trim();
+		// 	if (string.startsWith(":")) {
+	    //         string = string.substring(1);
+		// 	}
+        // }
+		// else {
+		// 	type = "author";
+		// }
+		
+		List<Casenumber> result = new ArrayList<Casenumber>();
+		// the list of possible casenumber separators
+		List<String> separators = Arrays.asList(";","•", "ㆍ", "Á", "\n", ",", ".", ":", "/", "|");
+		for(String separator : separators) {
+	        StringTokenizer st = new StringTokenizer(string, separator);
+	        if (st.countTokens() > 2) {
+	            while (st.hasMoreTokens()) {
+					String res = st.nextToken().trim();
+					if (res.startsWith(":")) {
+			            res = res.substring(1);
+			        }
+					res = res.replace("\n", " ").replace("  ", " ");
+					Casenumber keyw = new Casenumber(res);
 					result.add(keyw);
 	            }
 				break;
@@ -2557,6 +2630,16 @@ public class BiblioItem {
                         .collect(Collectors.joining(", ", "keywords = {", "}"));
                 bibtex.add(value);
             }
+
+            // casenumbers
+            if (casenumbers != null) {
+                String cases = casenumbers.stream()
+                        .map(casenumber -> casenumber.getCasenumber())
+                        .filter(casenumber -> !StringUtils.isBlank(casenumber))
+                        .collect(Collectors.joining(", ", "casenumbers = {", "}"));
+                bibtex.add(cases);
+            }
+            
 
             if (config.getIncludeRawCitations() && !StringUtils.isEmpty(reference) ) {
                 // escape all " signs
@@ -3543,6 +3626,18 @@ public class BiblioItem {
                 tei.append("<keywords>" + TextUtilities.HTMLEncode(getKeyword()) + "</keywords>\n");
             }
 
+
+            // casenumbers here !!
+            if (!StringUtils.isEmpty(getCasenumber())) {
+                // String casenumbers = getCasenumber();
+            
+                for (int i = 0; i < indent + 1; i++) {
+                    tei.append("\t");
+                }
+                tei.append("<casenumber>" + TextUtilities.HTMLEncode(getCasenumber()) + "</casenumber>\n");
+            }       
+            
+            
             if (uri != null) {
                 if (uri.startsWith("http://hal.")) {
                     for (int i = 0; i < indent + 1; i++) {

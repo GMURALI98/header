@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent_lawer>
+							<persName>Mr.
+								<forename>Arshad</forename>
+								<surname>Hidaytullah</surname>, Sr. Advocate with Mr. <lb />
+							</persName>
+							<persName>
+								<forename>Jitendra</forename>
+								<surname>Singh</surname>and Mr.
+							</persName>
+							<persName>
+								<forename>Saurabh</forename>
+								<middlename>S</middlename>.
+								<surname>Sinha</surname>, Advocates <lb /> for petitioner/FDCI. <lb /> Mr.
+							</persName>
+							<persName>
+								<forename>Amit</forename>
+								<surname>Sibal</surname>, Sr. Advocate along with Ms.
+							</persName>
+							<persName>
+								<forename>Isha</forename>
+								<surname>Jha</surname><lb /> and Ms.
+							</persName>
+
+							<persName>
+								<forename>Ishita</forename>
+								<surname>Srivastava</surname>, Advocates for petitioners in <lb /> W.P.(C)7465/2013 &amp; 2586/2017. <lb /> Mr.
+							</persName>
+
+							<persName>
+								<forename>Abhinav</forename>
+								<surname>Agnihotri</surname>, Advocate for petitioner-Den <lb />Soccer Pvt. Ltd. in W.P.(C) 2886/2015 &amp; 5994/2016. <lb /> Mr.
+							</persName>
+
+							<persName>
+								<forename>Siddharth</forename>
+								<surname>Bambha</surname>, Advocate along with Mr. <lb />
+							</persName>
+
+							<persName>
+								<forename>Rachit</forename>
+								<surname>Shrivastava</surname>, Advocate for the petitioners in <lb /> W.P.(C) 12287/2015. <lb /> Mr.
+							</persName>
+
+							<persName>
+								<forename>Atul</forename>
+								<surname>Sharma</surname>with Mr. Abhinav Agnihotri and Ms. <lb />
+							</persName>
+
+							<persName>
+								<forename>Satakshi</forename>
+								<surname>Som</surname>, Advocates for petitioners in <lb /> W.P.(C)7495/2014 &amp; 9661/2016. <lb />
+							</persName>
+						</respondent_lawer>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

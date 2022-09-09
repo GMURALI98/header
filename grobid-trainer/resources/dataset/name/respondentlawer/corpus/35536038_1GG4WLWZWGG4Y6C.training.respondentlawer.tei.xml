@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent_lawer>
+							<persName>
+								 <forename>GOVT</forename>.
+								 <surname>OF NCT OF DELHI AND ANR</surname>. <lb /> ..... Respondents
+							</persName>
+						</respondent_lawer>
+
+						<respondent_lawer>
+							<persName>
+								 <forename>GOVT</forename>.
+								 <surname>OF NCT OF DELHI AND ORS</surname>. <lb /> ..... Respondents
+							</persName>
+						</respondent_lawer>
+
+						<respondent_lawer>
+							<persName>
+								 <forename>COMMISSIONER OF EXCISE</forename>,
+								 <middlename>ENTT AND LUXURY TAX</middlename><lb />
+								 <surname>AND ANR</surname>. <lb /> ..... Respondents
+							</persName>
+						</respondent_lawer>
+
+						<respondent_lawer>
+							<persName>
+								 <forename>GNCTD</forename>
+								 <middlename>AND</middlename>
+								 <surname>ORS</surname>. <lb /> ..... Respondents
+							</persName>
+						</respondent_lawer>
+
+						<respondent_lawer>
+							<persName>THE
+								 <forename>COMMISSIONER OF ENTERTAINMENT TAX</forename>,
+								 <surname>GNCTD</surname><lb /> ..... Respondents
+							</persName>
+						</respondent_lawer>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

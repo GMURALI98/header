@@ -12,15 +12,15 @@
 			<lb />
 		</court>
 
-		<document_date>
+		<judgement_date>
 				%
 			<lb />
 				Reserved on : 22 nd May, 2018
-		</document_date>
-		<document_date>
+		</judgement_date>
+		<judgement_date>
 			<lb />
 				Date of decision : 4 th August, 2018
-		</document_date>
+		</judgement_date>
 
 		<case_number>
 			+
@@ -1708,7 +1708,7 @@ Page 4 of 218<lb/>
 				HON&apos;BLE MR. JUSTICE C. HARI SHANKAR
 		</judge>
 
-		<casetype>JUDGMENT</casetype>
+		<document_type>JUDGMENT</document_type>
 
 	</text>
 </tei>

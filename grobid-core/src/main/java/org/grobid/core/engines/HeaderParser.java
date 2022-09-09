@@ -7,6 +7,7 @@ import org.grobid.core.GrobidModels;
 import org.grobid.core.data.BiblioItem;
 import org.grobid.core.data.Date;
 import org.grobid.core.data.Keyword;
+import org.grobid.core.data.Casenumber;
 import org.grobid.core.data.Person;
 import org.grobid.core.document.*;
 import org.grobid.core.engines.config.GrobidAnalysisConfig;
@@ -449,6 +450,17 @@ public class HeaderParser extends AbstractParser {
                     List<Keyword> keywordsSegmented = BiblioItem.segmentKeywords(keywords);
                     if ((keywordsSegmented != null) && (keywordsSegmented.size() > 0))
                         resHeader.setKeywords(keywordsSegmented);
+                }
+
+                // casenumber post-processing
+                if (resHeader.getCasenumber() != null) {
+                    String casenumbers = TextUtilities.dehyphenize(resHeader.getCasenumber());
+                    // keywords = BiblioItem.cleanKeywords(keywords);
+                    //resHeader.setKeyword(keywords.replace("\n", " ").replace("  ", " "));
+                    resHeader.setCasenumber(casenumbers);
+                    List<Casenumber> casenumbersSegmented = BiblioItem.segmentCasenumbers(casenumbers);
+                    if ((casenumbersSegmented != null) && (casenumbersSegmented.size() > 0))
+                        resHeader.setCasenumbers(casenumbersSegmented);
                 }
 
                 // DOI pass
@@ -1016,13 +1028,6 @@ public class HeaderParser extends AbstractParser {
                 if (biblio.getCasedate() == null) {
                     biblio.setCasedate(clusterContent);
                 }
-            } else if (clusterLabel.equals(TaggingLabels.HEADER_CASENUMBER)) {
-                /*if (biblio.getTitle() != null && isDifferentContent(biblio.getTitle(), clusterContent))
-                    biblio.setTitle(biblio.getTitle() + clusterContent);
-                else*/
-                if (biblio.getCaseNumber() == null) {
-                    biblio.setCaseNumber(clusterContent);
-                }
             } else if (clusterLabel.equals(TaggingLabels.HEADER_JUDGE)) {
                 /*if (biblio.getTitle() != null && isDifferentContent(biblio.getTitle(), clusterContent))
                     biblio.setTitle(biblio.getTitle() + clusterContent);
@@ -1261,6 +1266,11 @@ public class HeaderParser extends AbstractParser {
                     biblio.setKeyword(biblio.getKeyword() + " \n " + clusterContent);
                 } else
                     biblio.setKeyword(clusterContent);
+            } else if (clusterLabel.equals(TaggingLabels.HEADER_CASENUMBER)) {
+                if (biblio.getCasenumber() != null) {
+                    biblio.setCasenumber(biblio.getCasenumber() + " \n " + clusterContent);
+                } else
+                    biblio.setCasenumber(clusterContent);
             } else if (clusterLabel.equals(TaggingLabels.HEADER_PHONE)) {
                 if (biblio.getPhone() != null) {
                     biblio.setPhone(biblio.getPhone() + clusterNonDehypenizedContent);

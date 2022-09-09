@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent_lawer>
+							<persName>Mr.
+								 <forename>Rakesh</forename>
+								 <surname>Kumar</surname>&amp; Mr.
+							</persName>
+							<persName>
+								 <forename>Santosh</forename>
+								 <middlename>Prasad</middlename>
+								 <surname>Chaursiya</surname>, <lb /> Advs. for UOI with Dr.
+							</persName>
+							<persName>
+								<forename>S</forename>.
+								<forename>K</forename>.
+								<surname>Singh</surname>, Asst. Director (H), <lb /> CPWD. <lb /> Ms.
+							</persName>
+							<persName>
+								 <forename>Arti</forename>
+								 <surname>Bansal</surname>, Adv. for R6. <lb /> Mr.
+							</persName>
+							<persName>
+								 <forename>Manika</forename>
+								 <middlename>Tripathy</middlename>
+								 <surname>Pandey</surname>&amp; <lb />
+							</persName>
+							<persName>
+								 <forename>Ashutosh</forename>
+								 <surname>Kaushik</surname>, Advs. <lb /> for R7&amp;8 with Inspector
+							</persName>
+							<persName>
+								 <forename>Inder</forename>
+								 <surname>Lal</surname>&amp; A.S.I.
+							</persName>
+							<persName>
+								<forename>Vijay</forename>
+								<surname>Singh</surname>. <lb /> Mr.
+							</persName>
+							<persName>
+								 <forename>Vivek</forename>
+								 <middlename>B</middlename>.
+								 <surname>Saharya</surname>, Adv. for R-9.
+							</persName>
+						</respondent_lawer>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<petitioner_lawer>
+							<persName>
+								<forename>Manee</forename>
+								<surname>Mridul</surname>,
+							</persName>
+							<persName>
+								<forename>Achintya</forename><lb />
+								<surname>Dvivedi</surname>and
+							</persName>
+							<persName>
+								<forename>B.P.</forename>
+								<surname>Pandey</surname>, <lb />
+							</persName>
+						</petitioner_lawer>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

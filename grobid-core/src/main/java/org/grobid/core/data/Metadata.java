@@ -6,6 +6,7 @@ public class Metadata {
     private String title = null;
     private String subject = null;
     private String keywords = null;
+    private String casenumbers = null;
     private String author = null;
     private String creator = null;
     private String producer = null;
@@ -72,7 +73,15 @@ public class Metadata {
         return keywords;
     }
 
+    public String getCasenumbers() {
+        return casenumbers;
+    }
+
     public void setKeywords(String keywords) {
         this.keywords = keywords;
+    }
+
+    public void setCasenumbers(String casenumbers) {
+        this.casenumbers = casenumbers;
     }
 }

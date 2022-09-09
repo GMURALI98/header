@@ -167,10 +167,10 @@ public class TEIFormatter {
                     TextUtilities.HTMLEncode(biblio.getCourt()) + "</court>\n");
         }
 
-        if (biblio.getCaseNumber() != null) {
-            tei.append("\n\t<case_number>" +
-                    TextUtilities.HTMLEncode(biblio.getCaseNumber()) + "</case_number>\n");
-        }
+        // if (biblio.getCaseNumber() != null) {
+        //     tei.append("\n\t<case_number>" +
+        //             TextUtilities.HTMLEncode(biblio.getCaseNumber()) + "</case_number>\n");
+        // }
         
         if (biblio.getCasedate() != null) {
             tei.append("\n\t<judgement_date>" +
@@ -723,6 +723,25 @@ public class TEIFormatter {
         boolean textClassWritten = false;
 
         tei.append("\t\t<profileDesc>\n");
+        
+
+        if ((biblio.getCasenumbers() != null) && (biblio.getCasenumbers().size() > 0)) {
+            tei.append("\t\t\t\t\t<case_number>\n");
+            List<Casenumber> casenumbers = biblio.getCasenumbers();
+
+            for (Casenumber keyw : casenumbers) {
+                String res = keyw.getCasenumber().trim();
+                tei.append("\t\t\t\t\t<case");
+                tei.append(">" + TextUtilities.HTMLEncode(res) + "</case>\n");
+
+            }
+            tei.append("\t\t\t\t\t</case_number>\n");
+        } else if (biblio.getCasenumber() != null) {
+            String casenumbers = biblio.getCasenumber();
+            tei.append("\t\t\t\t\t<case_number");
+            tei.append(">");
+            tei.append(TextUtilities.HTMLEncode(biblio.getCasenumber())).append("</case_number\n");
+        }
 
         // keywords here !! Normally the keyword field has been preprocessed
         // if the segmentation into individual keywords worked, the first conditional

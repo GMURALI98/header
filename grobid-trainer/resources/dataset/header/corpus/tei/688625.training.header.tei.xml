@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="688625" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
+			</court>
+			<judgement_date>
+				DATED : 16.03.2020
+				<lb />
+			</judgement_date>
+			<judge>
+				CORAM
+				<lb />
+				THE HONOURABLE MR. JUSTICE N. ANAND VENKATESH
+				<lb />
+			</judge>
+			<case_number>
+				W.P. Nos.28988, 28993, 28995, 28996, 29006, 29008, 29011, 28998, 29020,
+				<lb />
+				29015, 29133, 29190, 29193, 29158, 29175, 29177, 29184, 29186, 29195, 29197,
+				<lb />
+				29199 and 33320 of 2018
+				<lb />
+			</case_number>
+			<petitioner>
+				P.Bakkiam
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.28988 of
+				<lb />
+			</extra>
+			<petitioner>
+				P.Muniappan
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.28993 of
+				<lb />
+			</extra>
+			<petitioner>
+				P.Venkatachalam
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.28995 of
+				<lb />
+			</extra>
+			<petitioner>
+				A.Selvam
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.28996 of
+				<lb />
+			</extra>
+			<petitioner>
+				M.Mallesh @ Mallesan
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29006 of
+				<lb />
+			</extra>
+			<petitioner>
+				K.Madaiyan
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29008 of
+				<lb />
+			</extra>
+			<petitioner>
+				A.Nallaperumal
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29011 of
+				<lb />
+			</extra>
+			<petitioner>
+				A.Alamelu
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.28998 of
+				<lb />
+			</extra>
+			<petitioner>
+				K.Murugesan
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29020 of
+				<lb />
+			</extra>
+			<petitioner>
+				A.Ramasamy
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29015 of
+				<lb />
+			</extra>
+			<petitioner>
+				A.Kulaindavelu
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29133 of
+				<lb />
+			</extra>
+			<petitioner>
+				R.Balamurugan
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29190 of
+				<lb />
+			</extra>
+			<petitioner>
+				N.Veeramma
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29193 of
+				<lb />
+			</extra>
+			<petitioner>
+				Nachia @ Nachiammal
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29158 of
+				<lb />
+			</extra>
+			<petitioner>
+				R.Periyannan
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29175 of
+				<lb />
+			</extra>
+			<petitioner>
+				V.Sumathi
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29177 of
+				<lb />
+			</extra>
+			<petitioner>
+				P.Arulmani
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29184 of
+				<lb />
+			</extra>
+			<petitioner>
+				A.Govindaraj
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29186 of
+				<lb />
+			</extra>
+			<petitioner>
+				V.Ramachandran
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29195 of
+				<lb />
+			</extra>
+			<petitioner>
+				R.Vaiyapuri
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.29197 of
+				<lb />
+			</extra>
+			<petitioner>
+				M.Dhanam
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.
+				29199 of
+				<lb />
+			</extra>
+			<petitioner>
+				V.Palani @ Palaniappan
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner in W.P.No.33320 of
+				<lb />
+				<lb />
+			</extra>
+			<extra>
+				Vs
+				<lb />
+			</extra>
+			<respondent>
+				1.The Additional Chief Secrerary-
+				<lb />
+				cum-Commissioner of Land
+				<lb />
+				Administration, Ezhilagam,
+				<lb />
+				Chepauk, Chennai -600 005.
+			</respondent>
+			<respondent>
+				2.The District Revenue Officer,
+				<lb />
+				Collector Office,
+				<lb />
+				Krishnagiri District,
+				<lb />
+				Krishnagiri.
+				<lb />
+			</respondent>
+			<respondent>
+				3.The Revenue Divisional Officer,
+				<lb />
+				Hosur, Krishnagiri District.
+				<lb />
+			</respondent>
+			<page>
+				2/13
+				<lb />
+			</page>
+			<respondent>
+				4.The Tahsildar,
+				<lb />
+				Denkanikottai Taluk Office,
+				<lb />
+				Krishnagiri District.
+				<lb />
+			</respondent>
+			<respondent>
+				5.The Forest Settlement Officer,
+				<lb />
+				Krishnagiri,
+				<lb />
+				Krishnagiri District.
+				<lb />
+			</respondent>
+			<respondent>
+				6. The District Forest Officer,
+				<lb />
+				Hosur.
+				<lb />
+			</respondent>
+			<extra>
+				...Respondents
+				<lb />
+				in all W.Ps
+				<lb />
+			</extra>
+			<extra>
+				[This Court suo motu impleads the District Forest Officer, Hosur, as 6
+				<lb />
+				th respondent
+				<lb />
+				in all the writ petitions, dated 16.03.2020.]
+				<lb />
+			</extra>
+			<extra>
+				COMMON PRAYER: PETITION under Article 226 of The Constitution of India
+				<lb />
+				praying for the issuance of a Writ of Mandamus directing respondents 2 to 4 to
+				<lb />
+				consider the petitioner's representation dated 20.08.2018 on the basis of the
+				<lb />
+				proceedings No.96 of 2006 dated 04.05.2007 passed by the 5
+				<lb />
+				th respondent for
+				<lb />
+				issue of Patta in respect of house and land measuring an extent of 3 Acres
+				<lb />
+				comprised in Survey No.54/1 situated at Nallur Village, Denkanikottai Taluk,
+				<lb />
+				Krishnagiri District and issue patta to the petitioner, within the time stipulated by
+				<lb />
+				this Court
+				<lb />
+			</extra>
+			<extra>
+				For Petitioners :
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				<lb />
+				Mr.R.Bharathkumar
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				For Respondents:
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr.E.Balamurugan
+				<lb />
+			</respondent_lawer>
+			<extra>
+				special Government Pleader for R1 to R4
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr.S.V.Vijayaprasath
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Special Government Pleader for R5 &amp; R6
+				<lb />
+			</extra>
+			<document_type>
+				COMMON ORDER
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

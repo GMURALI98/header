@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="694144" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
+			</court>
+			<judgement_date>
+				Orders Reserved on :
+				<lb />
+				21.02.2020
+				<lb />
+			</judgement_date>
+			<judgement_date>
+				Pronouncing orders on : 28.02.2020
+				<lb />
+			</judgement_date>
+			<judge>
+				CORAM
+				<lb />
+				THE HONOURABLE MR.JUSTICE N.ANAND VENKATESH
+				<lb />
+			</judge>
+			<case_number>
+				W.P.Nos.31369
+				<lb />
+				31479, 31494, 31499,
+				<lb />
+				31500, 31504, 31507, 31553, 32095, 32116,
+				<lb />
+				32121, 32127, 32632, 32634, 32711, 32714,
+				<lb />
+				32716, 32719, 32728,32942,
+				<lb />
+				32945, 32951, 32953, 32727, 32730,
+				<lb />
+				32909, 33075 and 32955 of 2019
+				<lb />
+				and
+				<lb />
+				W.M.P. Nos.35330, 35333, 31705, 32381, 32383,
+				<lb />
+				33391, 31650, 31540, 31542, 31546, 32373, 32375, 32392,
+				<lb />
+				33511, 32397, 33133, 31704, 31745, 31697, 31703, 33154,
+				<lb />
+				33339, 35301, 35328, 31651, 31699, 31746, 32395, 32391,
+				<lb />
+				32393, 33385, 33390, 35303, 31677, 31678, 32376, 32387,
+				<lb />
+				33135, 33136, 33148, 33149, 31698, 33150, 35326, 31649,
+				<lb />
+				31686,
+				<lb />
+				31654, 33129, 31680, 31684, 31685, 31541, 31689, 31690,
+				<lb />
+				31691, 31752, 31756, 32371, 32388, 32394, 32398, 33026,
+				<lb />
+				33028,
+				<lb />
+				33131, 33370, 33372, 35299, 35304, 35309, 35314,
+				<lb />
+				35315 and 35324 of 2019
+				<lb />
+			</case_number>
+			<petitioner>
+				Dr.P.Balakrishnan
+				<lb />
+			</petitioner>
+			<extra>
+				...Petitioner
+				<lb />
+				in W.P.No.31369 of 2019
+				<lb />
+			</extra>
+			<extra>
+				vs.
+				<lb />
+			</extra>
+			<respondent>
+				1. The Government of Tamil Nadu,
+				<lb />
+				Rep. by its Secretary,
+				<lb />
+				Department of Health and Family Welfare,
+				<lb />
+				Secretariat, Chennai -600 009.
+				<lb />
+			</respondent>
+			<respondent>
+				2. The Director of Medical Education,
+				<lb />
+				Directorate of Medical Education,
+				<lb />
+				Kilpauk, Chennai -600 010.
+				<lb />
+			</respondent>
+			<respondent>
+				3. The Director,
+				<lb />
+				Directorate of Medical and Rural Health Services,
+				<lb />
+				Teynampet,
+				<lb />
+				Chennai -600 006.
+				<lb />
+			</respondent>
+			<respondent>
+				4. The Dean,
+				<lb />
+				Stanley Medical College &amp; Hospital,
+				<lb />
+				Chennai -600 001.
+				<lb />
+			</respondent>
+			<respondent>
+				5. The Chairman,
+				<lb />
+				Medical Service Recruitment Board,
+				<lb />
+				Chennai -600 006.
+				<lb />
+			</respondent>
+			<extra>
+				Respondents
+				<lb />
+				in W.P.No. 31369 of 2019
+				<lb />
+			</extra>
+			<extra>
+				PRAYER in W.P.No. 31369 of 2019: Writ Petition filed under Article
+				<lb />
+				226 of the Constitution of India for issuance of a Writ of Certiorarified
+				<lb />
+				Mandamus, to call for the records and to quash the impugned Trasfer
+				<lb />
+				and Posting order in Ref.No.65770/E1/1/2019 dated 30.10.2019
+				<lb />
+				issued by the 3 rd respondent and consequently direct the 3 rd
+				<lb />
+				respondent to retain the petitioner in the same post as Senior
+				<lb />
+				Resident/Chief Civil Surgeon in Department of Orthopedic Surgery in
+				<lb />
+				Stanley Medical College and Hospital,
+				Chennai.
+				<lb />
+			</extra>
+			<extra>
+				For Petitioner :
+				<lb />
+				in W.P.Nos.31369,
+				<lb />
+				31479, 31494, 31499, 31500,
+				<lb />
+				31504, 31507, 31553, 32095,
+				<lb />
+				32116, 32121, 32127, 32632,
+				<lb />
+				32634, 32711, 32714, 32716,
+				<lb />
+				32719, 32728,32942,32945,
+				<lb />
+				32951, 32953
+				
+				and 32955 of 2019
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.C.Kanagaraju
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				W.P.Nos.32727 and 32730 of 2019
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				M/s.K.C.Karl Marx
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				W.P.No.32909 of 2019
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.M.R.Jothimanian
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				W.P.No.32909 of 2019
+				<lb />
+			</extra>
+			<petitioner_lawer>
+				Mr.C.S.K.Sathish
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				For Respondents :
+				<lb />
+				in all W.Ps
+				<lb />
+			</extra>
+			<respondent>
+				Mr.Vijayanarayan
+				<lb />
+			</respondent>
+			<extra>
+				Advocate General assisted by
+				<lb />
+			</extra>
+			<respondent_lawer>
+				Mr.A.N.Thambidurai
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Special Government Pleader
+				<lb />
+			</extra>
+			<document_type>
+				C O M M O N J U D G M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>
