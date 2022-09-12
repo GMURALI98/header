@@ -8,6 +8,7 @@ import org.grobid.core.data.BiblioItem;
 import org.grobid.core.data.Date;
 import org.grobid.core.data.Keyword;
 import org.grobid.core.data.Casenumber;
+import org.grobid.core.data.Judge;
 import org.grobid.core.data.Person;
 import org.grobid.core.document.*;
 import org.grobid.core.engines.config.GrobidAnalysisConfig;
@@ -147,9 +148,9 @@ public class HeaderParser extends AbstractParser {
                     resHeader.setCasedate(resHeader.getCasedate());
                 }
 
-                if (resHeader.getJudge() != null) {
-                    resHeader.setJudge(resHeader.getJudge());
-                }
+                // if (resHeader.getJudge() != null) {
+                //     resHeader.setJudge(resHeader.getJudge());
+                // }
 
                 if (resHeader.getCasetype() != null) {
                     resHeader.setCasetype(resHeader.getCasetype());
@@ -461,6 +462,17 @@ public class HeaderParser extends AbstractParser {
                     List<Casenumber> casenumbersSegmented = BiblioItem.segmentCasenumbers(casenumbers);
                     if ((casenumbersSegmented != null) && (casenumbersSegmented.size() > 0))
                         resHeader.setCasenumbers(casenumbersSegmented);
+                }
+
+                // judge post-processing
+                if (resHeader.getJudge() != null) {
+                    String judges = TextUtilities.dehyphenize(resHeader.getJudge());
+                    // keywords = BiblioItem.cleanKeywords(keywords);
+                    //resHeader.setKeyword(keywords.replace("\n", " ").replace("  ", " "));
+                    resHeader.setJudge(judges);
+                    List<Judge> judgesSegmented = BiblioItem.segmentJudges(judges);
+                    if ((judgesSegmented != null) && (judgesSegmented.size() > 0))
+                        resHeader.setJudges(judgesSegmented);
                 }
 
                 // DOI pass
@@ -1028,13 +1040,13 @@ public class HeaderParser extends AbstractParser {
                 if (biblio.getCasedate() == null) {
                     biblio.setCasedate(clusterContent);
                 }
-            } else if (clusterLabel.equals(TaggingLabels.HEADER_JUDGE)) {
-                /*if (biblio.getTitle() != null && isDifferentContent(biblio.getTitle(), clusterContent))
-                    biblio.setTitle(biblio.getTitle() + clusterContent);
-                else*/
-                if (biblio.getJudge() == null) {
-                    biblio.setJudge(clusterContent);
-                }
+            // } else if (clusterLabel.equals(TaggingLabels.HEADER_JUDGE)) {
+            //     /*if (biblio.getTitle() != null && isDifferentContent(biblio.getTitle(), clusterContent))
+            //         biblio.setTitle(biblio.getTitle() + clusterContent);
+            //     else*/
+            //     if (biblio.getJudge() == null) {
+            //         biblio.setJudge(clusterContent);
+            //     }
             } else if (clusterLabel.equals(TaggingLabels.HEADER_CASETYPE)) {
                 /*if (biblio.getTitle() != null && isDifferentContent(biblio.getTitle(), clusterContent))
                     biblio.setTitle(biblio.getTitle() + clusterContent);
@@ -1271,6 +1283,11 @@ public class HeaderParser extends AbstractParser {
                     biblio.setCasenumber(biblio.getCasenumber() + " \n " + clusterContent);
                 } else
                     biblio.setCasenumber(clusterContent);
+            } else if (clusterLabel.equals(TaggingLabels.HEADER_JUDGE)) {
+                if (biblio.getJudge() != null) {
+                    biblio.setJudge(biblio.getJudge() + " \n " + clusterContent);
+                } else
+                    biblio.setJudge(clusterContent);
             } else if (clusterLabel.equals(TaggingLabels.HEADER_PHONE)) {
                 if (biblio.getPhone() != null) {
                     biblio.setPhone(biblio.getPhone() + clusterNonDehypenizedContent);

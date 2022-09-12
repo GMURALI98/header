@@ -82,7 +82,7 @@ public class BiblioItem {
                 ", nbPages=" + nbPages +
                 ", court=" + court + '\'' +
                 ", casedate=" + casedate + '\'' +
-                ", judge=" + judge + '\'' +
+                // ", judge=" + judge + '\'' +
                 ", casetype=" + casetype + '\'' +
                 ", extra=" + extra + '\'' +
                 ", edition='" + edition + '\'' +
@@ -106,6 +106,7 @@ public class BiblioItem {
                 ", review='" + review + '\'' +
                 ", keywords=" + keywords +
                 ", casenumbers=" + casenumbers +
+                ", judges=" + judges +
                 ", subjects=" + subjects +
                 ", categories='" + categories + '\'' +
                 ", type='" + type + '\'' +
@@ -146,6 +147,7 @@ public class BiblioItem {
                 ", pubnum='" + pubnum + '\'' +
                 ", keyword='" + keyword + '\'' +
                 ", casenumber='" + casenumber + '\'' +
+                ", judge='" + judge + '\'' +
                 ", phone='" + phone + '\'' +
                 ", degree='" + degree + '\'' +
                 ", web='" + web + '\'' +
@@ -226,6 +228,7 @@ public class BiblioItem {
                 ", originalNote='" + originalNote + '\'' +
                 ", originalKeyword='" + originalKeyword + '\'' +
                 ", originalCasenumber='" + originalCasenumber + '\'' +
+                ", originalJudge='" + originalJudge + '\'' +
                 ", originalVolumeBlock='" + originalVolumeBlock + '\'' +
                 ", originalJournal='" + originalJournal + '\'' +
                 ", workingGroup='" + workingGroup + '\'' +
@@ -257,7 +260,7 @@ public class BiblioItem {
 
     private String court = null;
     private String casedate = null;
-    private String judge = null;
+    // private String judge = null;
     private String casetype = null;
     private String extra = null;
     private String ISBN13 = null;
@@ -286,6 +289,7 @@ public class BiblioItem {
     private String review = null;
     private List<Keyword> keywords;
     private List<Casenumber> casenumbers;
+    private List<Judge> judges;
     private List<String> subjects;
     private List<String> categories;
     private String type = null; // book, journal, proceedings, in book, etc
@@ -331,6 +335,7 @@ public class BiblioItem {
     private String pubnum = null;
     private String keyword = null;
     private String casenumber = null;
+    private String judge = null;
     private String phone = null;
     private String degree = null;
     private String web = null;
@@ -435,6 +440,7 @@ public class BiblioItem {
     private String originalNote = null;
     private String originalKeyword = null;
     private String originalCasenumber = null;
+    private String originalJudge = null;
     private String originalVolumeBlock = null;
     private String originalJournal = null;
 
@@ -749,12 +755,20 @@ public class BiblioItem {
         return casenumber;
     }
 
+    public String getJudge() {
+        return judge;
+    }
+
     public List<Keyword> getKeywords() {
         return keywords;
     }
 
     public List<Casenumber> getCasenumbers() {
         return casenumbers;
+    }
+
+    public List<Judge> getJudges() {
+        return judges;
     }
 
     public String getCourt() {
@@ -765,9 +779,9 @@ public class BiblioItem {
         return casedate;
     }
 
-    public String getJudge() {
-        return judge;
-    }
+    // public String getJudge() {
+    //     return judge;
+    // }
 
     public String getCasetype() {
         return casetype;
@@ -972,6 +986,10 @@ public class BiblioItem {
 
     public String getOriginalCasenumber() {
         return originalCasenumber;
+    }
+
+    public String getOriginalJudge() {
+        return originalJudge;
     }
 
     public String getOriginalVolumeBlock() {
@@ -1606,9 +1624,9 @@ public class BiblioItem {
         casedate = c;
     }
 
-    public void setJudge(String j) {
-        judge = j;
-    }
+    // public void setJudge(String j) {
+    //     judge = j;
+    // }
 
     public void setCasetype(String c) {
         casetype = c;
@@ -1630,6 +1648,9 @@ public class BiblioItem {
         casenumber = k;
     }
 
+    public void setJudge(String k) {
+        judge = k;
+    }
 
     public void addKeyword(String k) {
         if (keywords == null)
@@ -1653,12 +1674,25 @@ public class BiblioItem {
 		}
     }
 
+    public void addJudge(String k) {
+        if (judges == null)
+            judges = new ArrayList<Judge>();
+		
+		if (k != null) {
+        	judges.add(new Judge(k));
+		}
+    }
+
     public void setKeywords(List<Keyword> k) {
         keywords = k;
     }
 
     public void setCasenumbers(List<Casenumber> k) {
         casenumbers = k;
+    }
+
+    public void setJudges(List<Judge> k) {
+        judges = k;
     }
 
     public void addSubject(String k) {
@@ -1859,6 +1893,10 @@ public class BiblioItem {
         originalCasenumber = original;
     }
 
+    public void setOriginalJudge(String original) {
+        originalJudge = original;
+    }
+
     public void setOriginalVolumeBlock(String original) {
         originalVolumeBlock = original;
     }
@@ -1986,6 +2024,7 @@ public class BiblioItem {
         pubnum = null;
         keyword = null;
         casenumber = null;
+        judge = null;
         phone = null;
         degree = null;
         web = null;
@@ -2018,7 +2057,7 @@ public class BiblioItem {
         funding = null;
         court = null;
         casedate = null;
-        judge = null;
+        // judge = null;
         casedate = null;
         extra = null;
 
@@ -2297,6 +2336,49 @@ public class BiblioItem {
 			        }
 					res = res.replace("\n", " ").replace("  ", " ");
 					Casenumber keyw = new Casenumber(res);
+					result.add(keyw);
+	            }
+				break;
+	        }
+		}
+		
+		return result;
+	}	
+
+    public static List<Judge> segmentJudges(String string) {
+        if (string == null)
+            return null;
+        if (string.length() == 0)
+            return null;
+		// String type = "case_number";
+        // if (string.startsWith("Categories and Subject Descriptors")) {
+        //     type = "subject-headers";
+		// 	string = string.replace("Categories and Subject Descriptors", "").trim();
+        // } 
+		// else if (string.startsWith("PACS Numbers") || string.startsWith("PACS") ) {
+        //     type = "pacs";
+        //     string = string.replace("PACS Numbers", "").replace("PACS", "").trim();
+		// 	if (string.startsWith(":")) {
+	    //         string = string.substring(1);
+		// 	}
+        // }
+		// else {
+		// 	type = "author";
+		// }
+		
+		List<Judge> result = new ArrayList<Judge>();
+		// the list of possible judges separators
+		List<String> separators = Arrays.asList(";","•", "ㆍ", "Á", "\n", ",", ".", ":", "/", "|");
+		for(String separator : separators) {
+	        StringTokenizer st = new StringTokenizer(string, separator);
+	        if (st.countTokens() > 2) {
+	            while (st.hasMoreTokens()) {
+					String res = st.nextToken().trim();
+					if (res.startsWith(":")) {
+			            res = res.substring(1);
+			        }
+					res = res.replace("\n", " ").replace("  ", " ");
+					Judge keyw = new Judge(res);
 					result.add(keyw);
 	            }
 				break;
@@ -2638,6 +2720,15 @@ public class BiblioItem {
                         .filter(casenumber -> !StringUtils.isBlank(casenumber))
                         .collect(Collectors.joining(", ", "casenumbers = {", "}"));
                 bibtex.add(cases);
+            }
+
+            // judges
+            if (judges != null) {
+                String judgenames = judges.stream()
+                        .map(judge -> judge.getCasenumber())
+                        .filter(judge -> !StringUtils.isBlank(judge))
+                        .collect(Collectors.joining(", ", "judges = {", "}"));
+                bibtex.add(judgenames);
             }
             
 
@@ -3635,6 +3726,16 @@ public class BiblioItem {
                     tei.append("\t");
                 }
                 tei.append("<casenumber>" + TextUtilities.HTMLEncode(getCasenumber()) + "</casenumber>\n");
+            }     
+
+            // judges here !!
+            if (!StringUtils.isEmpty(getJudge())) {
+                // String casenumbers = getCasenumber();
+            
+                for (int i = 0; i < indent + 1; i++) {
+                    tei.append("\t");
+                }
+                tei.append("<judge>" + TextUtilities.HTMLEncode(getJudge()) + "</judge>\n");
             }       
             
             

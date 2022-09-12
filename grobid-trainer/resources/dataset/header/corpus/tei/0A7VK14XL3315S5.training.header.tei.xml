@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="0A7VK14XL3315S5" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 6
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				Date of Decision: 11 th December, 2017
+				<lb />
+			</judgement_date>
+			<petitioner>
+				KANWAR SINGH
+				<lb />
+				.....
+				Petitioner
+				<lb />
+			</petitioner>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawer>
+				Ms.Richa Oberoi, Ms.Sumi Anand
+				<lb />
+				and Mr.Prateek Kohli,
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				Advocates
+			</extra>
+			<extra>
+				versus
+			</extra>
+			<respondent>
+				UNION OF INDIA &amp; ORS.
+				<lb />
+				.....
+				Respondents
+				<lb />
+			</respondent>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawer>
+				Ms.Jyoti Tyagi, Adv. for LAC/L&amp;B.
+				<lb />
+				Mr.Sanjeev Sabharwal,
+			</respondent_lawer>
+			<extra>
+				Standing
+				<lb />
+				counsel for DDA with
+			</extra>
+			<respondent_lawer>
+				Mr.Hem
+				<lb />
+				Kumar and Ms.Simmee Kumari,
+				<lb />
+			</respondent_lawer>
+			<extra>
+				Advts.
+				<lb />
+			</extra>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. G.S.SISTANI
+				<lb />
+				HON&apos;BLE MR. JUSTICE V.KAMESWAR RAO
+				<lb />
+			</judge>
+		</front>
+	</text>
+</tei>

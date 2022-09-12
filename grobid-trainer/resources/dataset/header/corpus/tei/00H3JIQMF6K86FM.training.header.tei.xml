@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="00H3JIQMF6K86FM" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 6
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				1 st September, 2016
+				<lb />
+			</judgement_date>
+			<petitioner>
+				SOHAN LAL &amp; ORS.
+				<lb />
+				judge
+				.....
+				Appellant
+				<lb />
+			</petitioner>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawer>
+				Mr. Arun Kaushal, Advocate
+				<lb />
+			</petitioner_lawer>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				SOBHA SHUKLA
+				<lb />
+				.....
+				Respondent
+				<lb />
+			</respondent>
+			<judge>
+				CORAM:
+				<lb />
+				HON&apos;BLE MR. JUSTICE VALMIKI J.MEHTA
+				<lb />
+				judge
+			</judge>
+		</front>
+	</text>
+</tei>

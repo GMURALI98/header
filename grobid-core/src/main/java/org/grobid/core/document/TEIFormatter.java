@@ -177,10 +177,10 @@ public class TEIFormatter {
                     TextUtilities.HTMLEncode(biblio.getCasedate()) + "</judgement_date>\n");
         }
         
-        if (biblio.getJudge() != null) {
-            tei.append("\n\t<judge>" +
-                    TextUtilities.HTMLEncode(biblio.getJudge()) + "</judge>\n");
-        }
+        // if (biblio.getJudge() != null) {
+        //     tei.append("\n\t<judge>" +
+        //             TextUtilities.HTMLEncode(biblio.getJudge()) + "</judge>\n");
+        // }
         
         if (biblio.getCasetype() != null) {
             tei.append("\n\t<document_type>" +
@@ -741,6 +741,24 @@ public class TEIFormatter {
             tei.append("\t\t\t\t\t<case_number");
             tei.append(">");
             tei.append(TextUtilities.HTMLEncode(biblio.getCasenumber())).append("</case_number\n");
+        }
+
+        if ((biblio.getJudges() != null) && (biblio.getJudges().size() > 0)) {
+            tei.append("\t\t\t\t\t<judge>\n");
+            List<Judge> judges = biblio.getJudges();
+
+            for (Judge keyw : judges) {
+                String res = keyw.getJudge().trim();
+                tei.append("\t\t\t\t\t<judgename");
+                tei.append(">" + TextUtilities.HTMLEncode(res) + "</judgename>\n");
+
+            }
+            tei.append("\t\t\t\t\t</judge>\n");
+        } else if (biblio.getJudge() != null) {
+            String judges = biblio.getJudge();
+            tei.append("\t\t\t\t\t<judge");
+            tei.append(">");
+            tei.append(TextUtilities.HTMLEncode(biblio.getJudge())).append("</judge\n");
         }
 
         // keywords here !! Normally the keyword field has been preprocessed
