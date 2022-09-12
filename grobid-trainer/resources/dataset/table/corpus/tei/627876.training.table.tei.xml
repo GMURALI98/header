@@ -1,0 +1,77 @@
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="_627876.pdf" />
+	</teiHeader>
+	<text xml:lang="en">
+		<figure type="table">
+			<table>
+				Sl.No
+				<lb />
+				.
+				<lb />
+				Month
+				<lb />
+				Due date to pay Tax
+				<lb />
+				Date of debit
+				<lb />
+				1.
+				<lb />
+				July-17
+				<lb />
+				25-Aug-2017
+				<lb />
+				20-Feb-2018
+				<lb />
+				2.
+				<lb />
+				Aug-17
+				<lb />
+				20-Sep-2019
+				<lb />
+				22-Feb-2018
+				<lb />
+				3.
+				<lb />
+				Sep-17
+				<lb />
+				20-Oct-2019
+				<lb />
+				22-Feb-2018
+				<lb />
+				4.
+				<lb />
+				Oct-17
+				<lb />
+				20-Nov-2019
+				<lb />
+				22-Feb-2018
+				<lb />
+				5.
+				<lb />
+				Nov-17
+				<lb />
+				20-Dec-2019
+				<lb />
+				24-Feb-2018
+				<lb />
+				6.
+				<lb />
+				Dec-17
+				<lb />
+				20-Jan-2019
+				<lb />
+				26-Feb-2018
+				<lb />
+				7.
+				<lb />
+				Jan-17
+				<lb />
+				20-Feb-2019
+				<lb />
+				26-Feb-2018
+				<lb />
+			</table>
+		</figure>
+	</text>
+</tei>

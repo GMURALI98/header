@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="0" />
+    </teiHeader>
+    <text xml:lang="en">
+        <p>
+            List the matters on 26.05.2021.
+            <lb />
+        </p>
+
+        <p>
+            (ARUN BHANSALI),J
+            <lb />
+        </p>
+
+
+    </text>
+</tei>

@@ -1,0 +1,1206 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+    <teiHeader>
+        <fileDesc xml:id="68494" />
+    </teiHeader>
+    <text xml:lang="fr">
+        <front>
+            <lb />
+            <extra>
+                $~13 to 74
+                <lb />
+                *
+            </extra>
+            <lb />
+            <court>IN THE HIGH COURT OF DELHI AT NEW DELHI</court>
+            <lb />
+            <extra>%</extra>
+            <lb />
+            <document_date>Decided on: 20.09.2019</document_date>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 23/2019 &amp; CM APPL. 301/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                ..... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>RINKOO SINGH &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 24/2019 &amp; CM APPL. 304/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                ....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>KUSUM LATA &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 27/2019 &amp; CM APPL. 398/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <extra>
+                ..... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>PINKY &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 28/2019 &amp; CM APPL. 404/2019
+            </case_number>
+            <lb />
+            <petitioner>
+            ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <extra>
+                ..... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>JAMEEL &amp; ORS</respondent>
+            <lb />
+            <extra>
+            ..... Respondents
+            </extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 32/2019 &amp; CM APPL. 431/2019
+            </case_number>
+            <lb />
+            <petitioner>
+            ROYAL SUNDARAM GENERAL INSURANCE CO LTD
+            </petitioner>
+            <lb />
+            <extra>
+                ..... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>JAMEEL &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 36/2019 &amp; CM APPL. 488/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                ..... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>RAMWATI &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 38/2019 &amp; CM APPL. 501/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                ..... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>SHAISTA &amp; ORS</respondent>
+            <lb />
+            <extra>.... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 39/2019 &amp; CM APPL. 503/2019
+            </case_number>
+            <lb />
+            <petitioner>
+                ROYAL SUNDARAM GENERAL INSURANCE CO LTD
+            </petitioner>
+            <extra>
+                ..... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>VIJENDERI &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <page>Page 1 of 42</page>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 40/2019 &amp; CM APPL. 506/2019
+            </case_number>
+            <lb />
+            <petitioner>
+            ROYAL SUNDARAM GENERAL INSURANCE CO LTD
+            </petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>JAMEEL &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 42/2019 &amp; CM APPL. 510/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>RAJENDER &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 49/2019
+            </case_number>
+            <lb />
+            <petitioner>ASHOK SHARMA &amp; ORS</petitioner>
+            <lb />
+            <extra>
+                ..... Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 50/2019
+            </case_number>
+            <lb />
+            <petitioner>PINKY &amp; ORS</petitioner>
+            <lb />
+            <extra>
+                ..... Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDRAM GENERAL INSURANCE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 53/2019 &amp; CM APPL. 962/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURNACE CO LTD</petitioner>
+            <extra>
+                ..... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>CHARU &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 55/2019 &amp; CM APPL. 992/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURNACE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>GANESH CHANDRA SHARMA &amp; ORS</respondent>
+            <lb />
+            <extra>.... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 371/2019
+                <lb />
+                GANESH CHAND SHARMA &amp; ANR
+            </case_number>
+            <lb />
+            <extra>
+                ..... Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GENERAL INSURANCE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 56/2019 &amp; CM APPL. 1052/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURNACE CO LTD</petitioner>
+            <extra>
+                ..... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ASLAM &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 65/2019 &amp; CM APPL. 1291/2019
+            </case_number>
+            <lb />
+            <extra>MAC.APP. No. 23/2019 and connected matters</extra>
+            <lb />
+            <page>Page 2 of 42</page>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURNACE CO LTD</petitioner>
+            <extra>
+                ..... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondenet>MAHESH CHAND &amp; ORS</respondenet>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 370/2019
+            </case_number>
+            <lb />
+            <petitioner>MAHESH CHAND (SINCE DECEASED) THR LRS &amp; ANR</petitioner>
+            <extra>
+                ..... Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GENERAL INSURANCE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 66/2019
+            </case_number>
+            <lb />
+            <petitioner>SHAISTA &amp; ANR</petitioner>
+            <lb />
+            <extra>
+                ..... Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDRAM GENERAL INSURANCE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 68/2019 &amp; CM APPL. 1353/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURNACE CO LTD</petitioner>
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>DHARAM VEER &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 71/2019
+            </case_number>
+            <lb />
+            <petitioner>KUNTI DEVI &amp; ANR</petitioner>
+            <lb />
+            <extra>
+                ..... Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 75/2019
+            </case_number>
+            <lb />
+            <petitioner>PINKI &amp; ORS</petitioner>
+            <lb />
+            <extra>
+                .....Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 76/2019
+            </case_number>
+            <lb />
+            <petitioner>SHAISTA &amp; ORS</petitioner>
+            <lb />
+            <extra>
+                .....Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDRAM GENERAL INSURNACE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 79/2019
+            </case_number>
+            <lb />
+            <petitioner>SHERPAL</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 80/2019 &amp; CM APPL. 1494/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                ..... Appellant
+                <lb />
+                MAC.APP. No. 23/2019 and connected matters
+            </extra>
+            <page>Page 3 of 42</page>
+            <lb />
+            <extra>versus</extra>
+            <lb />
+            <respondent>ANGURI &amp; ORS .</respondent>
+            <lb />
+            <extra>....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 81/2019
+            </case_number>
+            <lb />
+            <petitioner>PINKY &amp; ORS</petitioner>
+            <lb />
+            <extra>
+                .....Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDRAM GENERAL INSURANCE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 82/2019 &amp; CM APPL. 1555/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <extra>
+                ..... Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ANIL KUMAR &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 83/2019 &amp; CM APPL. 1558/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>URMILA &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 84/2019
+            </case_number>
+            <lb />
+            <petitioner>SHERPAL</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 85/2019
+            </case_number>
+            <lb />
+            <petitioner>RAJENDER</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 86/2019
+            </case_number>
+            <lb />
+            <petitioner>RAMWATI &amp; ORS</petitioner>
+            <lb />
+            <extra>
+                .....Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDRAM GENERAL INSURANCE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 87/2019 &amp; CM APPL. 1723/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>RAJWATI &amp; ORS</respondent>
+            <lb />
+            <extra>....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 89/2019
+            </case_number>
+            <lb />
+            <petitioner>RAJENDER</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <extra>MAC.APP. No. 23/2019 and connected matters</extra>
+            <lb />
+            <page>Page 4 of 42</page>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 90/2019 &amp; CM APPL. 1801/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>SHAISTA &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 91/2019 &amp; CM APPL. 1814/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ASHOK &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 92/2019 &amp; CM APPL. 1829/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>RAJENDER &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <extra>
+                +
+                <lb />
+                MAC.APP. 93/2019 &amp; CM APPL. 2089/2019
+            </extra>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>KUNTI DEVI &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 96/2019 &amp; CM APPL. 2174/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>DHAPO @ LONGSHREE &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 97/2019 &amp; CM APPL. 2177/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ASHOK SHARMA &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 98/2019 &amp; CM APPL. 2187/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>SHAISTA &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 99/2019 &amp; CM APPL. 2197/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>NAMRA &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 104/2019
+            </case_number>
+            <lb />
+            <petitioner>CHARU &amp; ORS</petitioner>
+            <lb />
+            <extra>
+                .....Appellants
+                <lb />
+                MAC.APP. No. 23/2019 and connected matters
+            </extra>
+            <lb />
+            <page>Page 5 of 42</page>
+            <lb />
+            <extra>versus</extra>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>PINKY &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 107/2019 &amp; CM APPL. 2291/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>PINKY &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 108/2019 &amp; CM APPL. 2294/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>SHERPAL &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 109/2019
+            </case_number>
+            <lb />
+            <petitioner>ASLAM &amp; ORS</petitioner>
+            <lb />
+            <extra>
+                .....Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 111/2019 &amp; CM APPL. 2328/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>SHERPAL &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 112/2019
+            </case_number>
+            <lb />
+            <petitioner>SHAISTA</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDRAM GENERAL INSURANCE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 113/2019
+            </case_number>
+            <lb />
+            <petitioner>SHERPAL &amp; ORS</petitioner>
+            <lb />
+            <extra>
+                .....Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 115/2019 &amp; CM APPL. 2355/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>PAWAN KUMAR &amp; ORS</respondent>
+            <lb />
+            <extra>
+                .....Respondents
+                <lb />
+                MAC.APP. No. 23/2019 and connected matters
+            </extra>
+            <lb />
+            <page>Page 6 of 42</page>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 118/2019 &amp; CM APPL. 2377/2019
+            </case_number>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GENERAL INSURANCE CO LTD</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>SHERPAL &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 142/2019
+            </case_number>
+            <lb />
+            <petitioner>RAJWATI &amp; ORS</petitioner>
+            <lb />
+            <extra>
+                .....Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 146/2019
+            </case_number>
+            <lb />
+            <petitioner>SHERPAL</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <petitioner>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</petitioner>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 151/2019
+            </case_number>
+            <lb />
+            <petitioner>URMILA</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 152/2019
+            </case_number>
+            <lb />
+            <petitioner>ASHOK</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondent</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 153/2019
+            </case_number>
+            <lb />
+            <petitioner>DHARMPAL</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDRAM GENERAL INSURANCE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 154/2019
+            </case_number>
+            <lb />
+            <petitioner>NAMRA</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 158/2019
+            </case_number>
+            <lb />
+            <petitioner>SOM</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GENERAL INSURANCE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 166/2019
+            </case_number>
+            <lb />
+            <petitioner>KAMLESH</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                MAC.APP. No. 23/2019 and connected matters
+            </extra>
+            <lb />
+            <page>Page 7 of 42</page>
+            <lb />
+            <extra>versus</extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GENERAL INSURANCE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 168/2019
+            </case_number>
+            <lb />
+            <petitioner>YASH @ JASSU</petitioner>
+            <lb />
+            <extra>
+                .....Appellant
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GENERAL INSURANCE CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>..... Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 261/2019
+            </case_number>
+            <lb />
+            <petitioner>VIJENDERI &amp; ANR</petitioner>
+            <lb />
+            <extra>
+                .....Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>.....Respondents</extra>
+            <lb />
+            <case_number>
+                +
+                <lb />
+                MAC.APP. 348/2019 &amp; CM APPL. 11352-53/2019
+            </case_number>
+            <lb />
+            <petitioner>KUSUM LATA &amp; ORS</petitioner>
+            <lb />
+            <extra>
+                .....Appellants
+                <lb />
+                versus
+            </extra>
+            <lb />
+            <respondent>ROYAL SUNDARAM GEN INS CO LTD &amp; ORS</respondent>
+            <lb />
+            <extra>
+                .....Respondents
+            Appearances
+                <lb />
+                Through:
+            </extra>
+            <lb />
+            <petitioner_lawer>Ms. Suman Bagga</petitioner_lawer>
+            <extra>and</extra>
+            <petitioner_lawer>Mr. Pankaj Gupta,</petitioner_lawer>
+            <lb />
+            <extra>Advocates for Insurance Company.</extra>
+            <lb />
+            <petitioner_lawer>Mr. Anshuman Bal,</petitioner_lawer>
+            <extra>
+                Advocate for appellants in Item
+                <lb />
+                Nos. 23, 24,31, 33-38, 41-45, 54, 58, 60, 61 &amp; 64-
+                <lb />
+                74 and
+                <lb />
+                for
+                <lb />
+                claimants
+                <lb />
+                in
+                <lb />
+                Item Nos.
+                <lb />
+                19,20,22,25,28,32,37,39,40,44 &amp;
+                <lb />
+                46-52.
+            </extra>
+            <lb />
+            <petitioner_lawer>Mr. Munish Kumar Sharma,</petitioner_lawer>
+            <extra>
+                Advocate for
+                <lb />
+                appellants in Item Nos. 27 &amp; 30 and for claimants
+                <lb />
+                in Item Nos. 26 &amp; 29.
+            </extra>
+            <lb />
+            <petitioner_lawer>Mr. Ankur Saboo,</petitioner_lawer>
+            <extra>Advocate for Owner and Driver.</extra>
+            <lb />
+            <respondent_lawer>Ms. Garima Prashad,</respondent_lawer>
+            <extra>
+                Standing Counsel for State of
+                <lb />
+                Uttar Pradesh.
+            </extra>
+            <lb />
+            <judge>
+                CORAM:
+                <lb />
+                HON&apos;BLE MR. JUSTICE NAJMI WAZIRI
+            </judge>
+        </front>
+    </text>
+</tei>
