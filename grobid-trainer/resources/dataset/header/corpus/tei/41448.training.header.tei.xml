@@ -10,24 +10,33 @@
 				Page 1 of 28
 				<lb />
 			</page>
-			<court>
+			<extra>
 				*
 				<lb />
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
-			<case_number>
+			<case_numbers>
 				+
 				<lb />
 				W.P (C)No.8094/2019 and 33533/2019 and 35202/2019
 				<lb />
-			</case_number>
+			</case_numbers>
+			<extra>
+				Judgment reserved on :
+			</extra>
 			<judgement_date>
-				Judgment reserved on : 14.08.2019
+				14.08.2019
 				<lb />
 			</judgement_date>
+			<extra>
+				Date of decision :
+			</extra>
 			<judgement_date>
-				Date of decision : 21.08.2019
+				21.08.2019
 				<lb />
 			</judgement_date>
 			<petitioner>
@@ -42,72 +51,74 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.Arjun Garg, Ms.Sana
 				<lb />
 				Kamra and Mr.Rahul Gupta,
 				<lb />
-				<extra>
-					Advocates
-					<lb />
-				</extra>
-				<extra>
-					versus
-					<lb />
-				</extra>
-				<respondent>
-					UNION OF INDIA &amp; ORS.
-					<lb />
-				</respondent>
-				<extra>
-					..... Respondents
-					<lb />
-				</extra>
-				<extra>
-					Through:
-					<lb />
-				</extra>
-				<respondent_lawyer>
-					Mr. NikhilGoel, Standing
-					<lb />
-					Counsel, Ms.Ridhima Gaur,
-					<lb />
-				</respondent_lawyer>
-				<extra>
-					Adv for Union of India.
-					<lb />
-				</extra>
-				<respondent_lawyer>
-					Ms.Archana Pathak Dave
-					<lb />
-				</respondent_lawyer>
-				<extra>
-					, Adv
-					<lb />
-					for R-2
-					<lb />
-				</extra>
-				<respondent_lawyer>
-					Mr.Aditya Ranjan
-					<lb />
-				</respondent_lawyer>
-				<extra>
-					, Standing
-					<lb />
-					Counsel for R-3
-					<lb />
-				</extra>
-				<judge>
-					CORAM:
-					<lb />
-					HON&apos;BLE MS. JUSTICE ANU MALHOTRA
-					<lb />
-				</judge>
-				<document_type>
-					JUDGMENT
-					<lb />
-				</document_type>
-			</petitioner_lawyer>
+			</petitioner_lawyers>
+			<extra>
+				Advocates
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				UNION OF INDIA &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. NikhilGoel, Standing
+				<lb />
+				Counsel, Ms.Ridhima Gaur,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Adv for Union of India.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms.Archana Pathak Dave
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Adv
+				<lb />
+				for R-2
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Aditya Ranjan
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Standing
+				<lb />
+				Counsel for R-3
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MS. JUSTICE ANU MALHOTRA
+				<lb />
+			</judges>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
 		</front>
 	</text>
 </tei>

@@ -18,10 +18,10 @@
 				ADMIRALTY AND VICE ADMIRALTY JURISDICTION
 				<lb />
 			</court>
-			<case_number>
+			<case_numbers>
 				ADMIRALTY SUIT NO.2 OF 2006
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Elecon Engineering Company Limited, a
 				<lb />
@@ -222,37 +222,46 @@
 				----
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Rahul Narichania, Senior Advocate a/w Ms Aditi Pawar, Mr. D. N.
 				<lb />
 				Motiwala and Ms Sneha Pandey i/b Motiwalla
 				<lb>
 				</lb>
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				and Co. for Plaintiff
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms Sneha S. Dwivedi a/w Ms Jyoti Bajpayee
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for Defendant No.9
 				<lb />
 				----
 				<lb />
 			</extra>
-			<judge>
-				CORAM : K.R.SHRIRAM, J.
+			<extra>
+				CORAM :
+			</extra>
+			<judges>
+				K.R.SHRIRAM, J.
 				<lb />
-			</judge>
+			</judges>
+			<extra>
+				RESERVED ON :
+			</extra>
 			<judgement_date>
-				RESERVED ON : 8 th AUGUST 2019
+				8 th AUGUST 2019
 				<lb />
 			</judgement_date>
+			<extra>
+				PRONOUNCED ON :
+			</extra>
 			<judgement_date>
-				PRONOUNCED ON : 23 rd AUGUST 2019
+				23 rd AUGUST 2019
 				<lb />
 			</judgement_date>
 			<document_type>

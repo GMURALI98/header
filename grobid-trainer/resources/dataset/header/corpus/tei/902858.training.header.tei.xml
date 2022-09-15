@@ -6,8 +6,11 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
 			<judgement_date>
@@ -18,12 +21,14 @@
 				IN THE MATTER OF:
 				<lb />
 			</extra>
-			<case_number>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CRL.REV.P. 126/2022
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				JITENDRA KUMAR GARG
 				<lb />
@@ -36,11 +41,11 @@
 				Through
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Rajinder Mathur and Akshat
 				<lb />
 				Singhal,
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocates
 				<lb />
@@ -61,11 +66,13 @@
 				Through None
 				<lb />
 			</extra>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE SUBRAMONIUM PRASAD
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>

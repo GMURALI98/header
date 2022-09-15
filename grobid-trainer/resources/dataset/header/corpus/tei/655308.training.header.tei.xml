@@ -6,32 +6,41 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				BEFORE THE
+			</extra>
 			<court>
-				BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+				MADURAI BENCH OF MADRAS HIGH COURT
 				<lb />
 			</court>
+			<extra>
+				DATED:
+			</extra>
 			<judgement_date>
-				DATED: 11.11.2019
+				11.11.2019
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
-				THE HONOURABLE MR.JUSTICE M.SUNDAR
+				THE
+			</extra>
+			<judges>
+				 HONOURABLE MR.JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P.(MD)No.8130 of 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<extra>
 				and
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				W.M.P.(MD)Nos.6399, 6400 and 12849 of 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				1.K.Muniyandi,
 				<lb />
@@ -212,20 +221,20 @@
 				For Petitioner :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.Y.Krishnan
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents :
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.S.Manohar
 				<lb />
 				Special Counse
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<document_type>
 				ORDER
 				<lb />

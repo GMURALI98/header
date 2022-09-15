@@ -7,24 +7,33 @@
 		<front>
 			1
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				Dated: 
+			</extra>
 			<judgement_date>
-				Dated: 13.11.2018
+				13.11.2018
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
+			</extra>
+			<judges>
+				
 				THE HON&apos;BLE MR.JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				C.S.No.445 of 2016
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				B.Kishore Jain,
 				<lb />
@@ -91,10 +100,10 @@
 				<lb />
 				:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.D.Nagesh Babu
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				for
 				<lb />
@@ -104,10 +113,10 @@
 			<extra>
 				For Defendant :
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Set ex-parte
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<document_type>
 				JUDGMENT
 				<lb />

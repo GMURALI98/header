@@ -12,22 +12,30 @@
 				50
 				<lb />
 			</page>
-			<court>
+			<extra>
 				*
 				<lb />
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
-			<case_number>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				C.R.P No.969/2001
 				<lb />
-			</case_number>
-			<judgement_date>
+			</case_numbers>
+			<extra>
 				%
 				<lb />
-				Date of Decision: 06.05.2011
+				Date of Decision:
+			</extra>
+			<judgement_date>
+				06.05.2011
 				<lb />
 			</judgement_date>
 			<petitioner>
@@ -42,10 +50,10 @@
 				Through
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Sheetesh Khanna,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocate.
 				<lb />
@@ -68,21 +76,23 @@
 				Through
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Anuj Gupta
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocate for the
 				<lb />
 				respondent No. 2
 				<lb />
 			</extra>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE ANIL KUMAR
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>

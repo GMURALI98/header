@@ -1,85 +1,138 @@
 <?xml version="1.0"?>
 <tei xml:space="preserve">
-    <teiHeader>
-        <fileDesc xml:id="121255" />
-    </teiHeader>
-    <text xml:lang="en">
-        <front>
-            <lb />
-            <extra>REPORTABLE</extra>
-            <lb />
-            <court>IN THE SUPREME COURT OF INDIA</court>
-            <lb />
-            <extra>CIVIL ORIGINAL JURISDICTION</extra>
-            <lb />
-            <case_number>WRIT PETITION (CIVIL) NO 494 OF 2012</case_number>
-            <lb />
-            <petitioner>
-                JUSTICE K S PUTTASWAMY (RETD.),
-                <lb />
-                AND ANR.
-            </petitioner>
-            <lb />
-            <extra>
-                ..Petitioners
-                <lb />
-                VERSUS
-            </extra>
-            <lb />
-            <respondent>UNION OF INDIA AND ORS.</respondent>
-            <lb />
-            <extra>
-                ..Respondents
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>T.C. (CIVIL) NO 151 OF 2013</case_number>
-            <lb />
-            <case_number>T.C. (CIVIL) NO 152 OF 2013</case_number>
-            <lb />
-            <case_number>W.P.(CIVIL) NO 833 OF 2013</case_number>
-            <lb />
-            <case_number>W.P.(CIVIL) NO 829 OF 2013</case_number>
-            <lb />
-            <case_number>W.P.(CIVIL) NO 932 OF 2013</case_number>
-            <lb />
-            <case_number>CONMT. PET. (CIVIL) NO 144 OF 2014 IN W.P.(C) NO. 494/2012</case_number>
-            <lb />
-            <case_number>T.P.(CIVIL) NO 313 OF 2014</case_number>
-            <lb />
-            <case_number>T.P.(CIVIL) NO 312 OF 2014</case_number>
-            <lb />
-            <case_number>S.L.P(CRL.) NO.2524/2014</case_number>
-            <lb />
-            <case_number>W.P.(CIVIL) NO.37/2015</case_number>
-            <lb />
-            <case_number>W.P.(CIVIL) NO.220/2015</case_number>
-            <lb />
-            <page>1</page>
-            <lb />
-            <case_number>CONMT. PET. (C)NO.674/2015 IN W.P.(C) NO.829/2013</case_number>
-            <lb />
-            <case_number>T.P.(CIVIL)NO.921/2015</case_number>
-            <lb />
-            <case_number>CONMT.PET.(C)NO.470/2015 IN W.P.(C) NO.494/2012</case_number>
-            <lb />
-            <case_number>CONMT.PET.(C)NO.444/2016 IN W.P.(C) NO.494/2012</case_number>
-            <lb />
-            <case_number>CONMT.PET.(C)NO.608/2016 IN W.P.(C) NO.494/2012</case_number>
-            <lb />
-            <case_number>W.P.(CIVIL) NO.797/2016</case_number>
-            <lb />
-            <case_number>CONMT.PET.(C)NO.844/2017 IN W.P.(C) NO.494/2012</case_number>
-            <lb />
-            <case_number>
-                W.P. (C) NO. 342/ 2017
-                <lb />
-                AND WITH W.P.(C) NO.000372/2017
-            </case_number>
-            <lb />
-            <document_type>J U D G M E N T</document_type>
-            <lb />
-        </front>
-    </text>
+	<teiHeader>
+		<fileDesc xml:id="121255" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<extra>
+				REPORTABLE
+			</extra>
+			<lb />
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				 SUPREME COURT OF INDIA
+			</court>
+			<lb />
+			<extra>
+				CIVIL ORIGINAL JURISDICTION
+			</extra>
+			<lb />
+			<case_numbers>
+				WRIT PETITION (CIVIL) NO 494 OF 2012
+			</case_numbers>
+			<lb />
+			<petitioner>
+				JUSTICE K S PUTTASWAMY (RETD.),
+				<lb />
+				AND ANR.
+			</petitioner>
+			<lb />
+			<extra>
+				..Petitioners
+				<lb />
+				VERSUS
+			</extra>
+			<lb />
+			<respondent>
+				UNION OF INDIA AND ORS.
+			</respondent>
+			<lb />
+			<extra>
+				..Respondents
+				<lb />
+				WITH
+			</extra>
+			<lb />
+			<case_numbers>
+				T.C. (CIVIL) NO 151 OF 2013
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				T.C. (CIVIL) NO 152 OF 2013
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				W.P.(CIVIL) NO 833 OF 2013
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				W.P.(CIVIL) NO 829 OF 2013
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				W.P.(CIVIL) NO 932 OF 2013
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				CONMT. PET. (CIVIL) NO 144 OF 2014 IN W.P.(C) NO. 494/2012
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				T.P.(CIVIL) NO 313 OF 2014
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				T.P.(CIVIL) NO 312 OF 2014
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				S.L.P(CRL.) NO.2524/2014
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				W.P.(CIVIL) NO.37/2015
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				W.P.(CIVIL) NO.220/2015
+			</case_numbers>
+			<lb />
+			<page>
+				1
+			</page>
+			<lb />
+			<case_numbers>
+				CONMT. PET. (C)NO.674/2015 IN W.P.(C) NO.829/2013
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				T.P.(CIVIL)NO.921/2015
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				CONMT.PET.(C)NO.470/2015 IN W.P.(C) NO.494/2012
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				CONMT.PET.(C)NO.444/2016 IN W.P.(C) NO.494/2012
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				CONMT.PET.(C)NO.608/2016 IN W.P.(C) NO.494/2012
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				W.P.(CIVIL) NO.797/2016
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				CONMT.PET.(C)NO.844/2017 IN W.P.(C) NO.494/2012
+			</case_numbers>
+			<lb />
+			<case_numbers>
+				W.P. (C) NO. 342/ 2017
+				<lb />
+				AND WITH W.P.(C) NO.000372/2017
+			</case_numbers>
+			<lb />
+			<document_type>
+				J U D G M E N T
+			</document_type>
+			<lb />
+		</front>
+	</text>
 </tei>

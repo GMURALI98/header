@@ -1,95 +1,125 @@
 <?xml version="1.0"?>
 <tei xml:space="preserve">
-    <teiHeader>
-        <fileDesc xml:id="676694" />
-    </teiHeader>
-    <text xml:lang="en">
-        <front>
-            <lb />
-            <case_number>O.P.No.577 of 2019</case_number>
-            <lb />
-            <court>IN THE HIGH COURT OF JUDICATURE AT MADRAS</court>
-            <lb />
-            <judgement_date>Dated: 23.01.2020</judgement_date>
-            <judge>
-                CORAM
-                <lb />
-                THE HON&apos;BLE MR.JUSTICE M.SUNDAR
-            </judge>
-            <lb />
-            <case_number>O.P.No.577 of 2019</case_number>
-            <lb />
-            <petitioner>
-                Subway Systems India Private Limited
-                <lb />
-                Level 2, Elegance Mathura Road
-                <lb />
-                Jasola, New Delhi -110 025
-                <lb />
-                Represented by its Authorized Signatory
-                <lb />
-                Mr.Jaganath Rao
-            </petitioner>
-            <lb />
-            <extra>
-                .. Petitioner
-                <lb />
-                Vs.
-            </extra>
-            <lb />
-            <respondent>Mr.Paul Nandagopal</respondent>
-            <lb />
-            <extra>
-                .. Respondent
-                <lb />
-                This Original Petition filed under Sections 47 and 49 of the Arbitration
-                <lb />
-                and Conciliation Act, 1996 praying to declare that the Award dated 06.09.2018
-                <lb />
-                be deemed to be a Decree of this Hon&apos;ble Court and direct the respondent to
-                <lb />
-                deposit an amount of Rs.35,553.72/-from 06.09.2018 being the date of the
-                <lb />
-                Award towards the unpaid royalties and advertising fees till the date of actual
-                <lb />
-                payment and further direct the respondent to pay Rs.15,000/-per day which as
-                <lb />
-                of 04 June 2019 amounts to Rs.39,60,000/-from 13.09.2018 being after 7 days
-                <lb />
-                from the date of the award towards unauthorized use of the Subway®, trade
-                <lb />
-                mark, trade names, service marks and in any form of advertising and to return
-                <lb />
-                the Subway® Operations Manual, till the date of actual payment and further
-                <lb />
-                direct the Respondent to pay a sum of 2,425/-U.S.D being the costs incurred
-                <lb />
-                by the petitioner in the arbitration proceedings in accordance with the Award
-                <lb />
-                dated 06.09.2019 along with an interest of 18% per annum from the date of
-                <lb />
-                Award till the date of actual payment and pass such other or further orders as
-                <lb />
-                this Hon&apos;ble Court deems fit including costs of these proceedings and in the
-                <lb />
-                facts and circumstances of this case and thus render justice.
-                <lb />
-                For Petitioner
-                <lb />
-                :
-            </extra>
-            <petitioner_lawyer>Mr.Advaidh Nelakanttan</petitioner_lawyer>
-            <lb />
-            <extra>
-                for Mr.Anirudh Krishnan
-                <lb />
-                For Respondent :
-            </extra>
-            <respondent_lawyer>Mr.T.Gowthaman</respondent_lawyer>
-            <lb />
-            <page>1/7</page>
-            <case_number>O.P.No.577 of 2019</case_number>
-            <document_type>O R D E R</document_type>
-        </front>
-    </text>
+	<teiHeader>
+		<fileDesc xml:id="676694" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<case_numbers>
+				O.P.No.577 of 2019
+			</case_numbers>
+			<lb />
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				 HIGH COURT OF JUDICATURE AT MADRAS
+				 		<lb />
+			</court>
+	
+			<extra>
+				Dated:
+			</extra>
+			<judgement_date>
+				 23.01.2020
+			</judgement_date>
+			<extra>
+				CORAM
+				<lb />
+				THE
+			</extra>
+			<judges>
+				 HON&apos;BLE MR.JUSTICE M.SUNDAR
+			</judges>
+			<lb />
+			<case_numbers>
+				O.P.No.577 of 2019
+			</case_numbers>
+			<lb />
+			<petitioner>
+				Subway Systems India Private Limited
+				<lb />
+				Level 2, Elegance Mathura Road
+				<lb />
+				Jasola, New Delhi -110 025
+				<lb />
+				Represented by its Authorized Signatory
+				<lb />
+				Mr.Jaganath Rao
+			</petitioner>
+			<lb />
+			<extra>
+				.. Petitioner
+				<lb />
+				Vs.
+			</extra>
+			<lb />
+			<respondent>
+				Mr.Paul Nandagopal
+			</respondent>
+			<lb />
+			<extra>
+				.. Respondent
+				<lb />
+				This Original Petition filed under Sections 47 and 49 of the Arbitration
+				<lb />
+				and Conciliation Act, 1996 praying to declare that the Award dated 06.09.2018
+				<lb />
+				be deemed to be a Decree of this Hon&apos;ble Court and direct the respondent to
+				<lb />
+				deposit an amount of Rs.35,553.72/-from 06.09.2018 being the date of the
+				<lb />
+				Award towards the unpaid royalties and advertising fees till the date of actual
+				<lb />
+				payment and further direct the respondent to pay Rs.15,000/-per day which as
+				<lb />
+				of 04 June 2019 amounts to Rs.39,60,000/-from 13.09.2018 being after 7 days
+				<lb />
+				from the date of the award towards unauthorized use of the Subway®, trade
+				<lb />
+				mark, trade names, service marks and in any form of advertising and to return
+				<lb />
+				the Subway® Operations Manual, till the date of actual payment and further
+				<lb />
+				direct the Respondent to pay a sum of 2,425/-U.S.D being the costs incurred
+				<lb />
+				by the petitioner in the arbitration proceedings in accordance with the Award
+				<lb />
+				dated 06.09.2019 along with an interest of 18% per annum from the date of
+				<lb />
+				Award till the date of actual payment and pass such other or further orders as
+				<lb />
+				this Hon&apos;ble Court deems fit including costs of these proceedings and in the
+				<lb />
+				facts and circumstances of this case and thus render justice.
+				<lb />
+				For Petitioner
+				<lb />
+				:
+			</extra>
+			<petitioner_lawyers>
+				Mr.Advaidh Nelakanttan
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				for Mr.Anirudh Krishnan
+				<lb />
+				For Respondent :
+			</extra>
+			<respondent_lawyers>
+				Mr.T.Gowthaman
+			</respondent_lawyers>
+			<lb />
+			<page>
+				1/7
+			</page>
+			<case_numbers>
+				O.P.No.577 of 2019
+			</case_numbers>
+			<document_type>
+				O R D E R
+			</document_type>
+		</front>
+	</text>
 </tei>

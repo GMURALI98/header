@@ -1,111 +1,168 @@
 <?xml version="1.0"?>
 <tei xml:space="preserve">
-    <teiHeader>
-        <fileDesc xml:id="650747" />
-    </teiHeader>
-    <text xml:lang="en">
-        <front>
-            <lb />
-            <case_number>W.P(MD)No.20642 of 2019</case_number>
-            <lb />
-            <court>BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT</court>
-            <lb />
-            <judgement_date>DATED: 25.09.2019</judgement_date>
-            <lb />
-            <judge>
-                CORAM:
-                <lb />
-                THE HONOURABLE MR.JUSTICE M.SUNDAR
-            </judge>
-            <lb />
-            <case_number>W.P(MD)No.20642 of 2019</case_number>
-            <lb />
-            <petitioner>1.S.Ganesan</petitioner>
-            <lb />
-            <petitioner>2.Selvaraj</petitioner>
-            <lb />
-            <petitioner>3.Marudhaiya</petitioner>
-            <lb />
-            <petitioner>4.Velmurugan</petitioner>
-            <lb />
-            <petitioner>5.Pitchaiya</petitioner>
-            <lb />
-            <petitioner>6.Senthilkumaran</petitioner>
-            <lb />
-            <petitioner>7.Kasamuthu</petitioner>
-            <lb />
-            <petitioner>8.Subbulakshmi</petitioner>
-            <lb />
-            <petitioner>9.Sudalai</petitioner>
-            <lb />
-            <petitioner>10.Navaneethakrishnan</petitioner>
-            <lb />
-            <petitioner>11.Murugan</petitioner>
-            <lb />
-            <petitioner>12.Mariyappan</petitioner>
-            <lb />
-            <petitioner>13.Ayyakutti</petitioner>
-            <lb />
-            <petitioner>14.Chellappa</petitioner>
-            <lb />
-            <extra>
-                ... Petitioners
-                <lb />
-                Vs.
-            </extra>
-            <lb />
-            <respondent_lawyer>
-                1.The District Collector,
-                <lb />
-                Thoothukudi District,
-                <lb />
-                Thoothukudi.
-            </respondent_lawyer>
-            <lb />
-            <page>1/10</page>
-            <lb />
-            <respondent_lawyer>
-                2.The Revenue Divisional Officer,
-                <lb />
-                Kovilpatti,
-                <lb />
-                Thoothukudi District.
-            </respondent_lawyer>
-            <lb />
-            <respondent_lawyer>
-                3.The Tahsildar,
-                <lb />
-                Kovilpatti Taluk,
-                <lb />
-                Thoothukudi District.
-            </respondent_lawyer>
-            <lb />
-            <extra>
-                ... Respondents
-                <lb />
-                PRAYER: Writ Petition filed under Article 226 of the Constitution of India for issuance of
-                <lb />
-                a Writ of Mandamus directing the third respondent to provide Patta in Survey No.187,
-                <lb />
-                situated at Nalattin Pudhur, Kovilpatti Taluk, Thoothukudi District based on the
-                <lb />
-                petitioners&apos; representation dated 22.07.2019.
-                <lb />
-                For Petitioner
-                <lb />
-                :
-            </extra>
-            <petitioner_lawyer>Mr.J.Sivaram</petitioner_lawyer>
-            <lb />
-            <extra>
-                For Respondents
-                <lb />
-                :
-            </extra>
-            <respondent_lawyer>Mr.M.Pandiarajan</respondent_lawyer>
-            <lb />
-            <extra>Additional Government Pleader</extra>
-            <document_type>ORDER</document_type>
-        </front>
-    </text>
+	<teiHeader>
+		<fileDesc xml:id="650747" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<case_numbers>
+				W.P(MD)No.20642 of 2019
+				<lb />
+			</case_numbers>
+			
+			<extra>
+				BEFORE THE
+			</extra>
+			<court>
+				 MADURAI BENCH OF MADRAS HIGH COURT
+			</court>
+			<lb />
+			<extra>
+				DATED:
+			</extra>
+			<judgement_date>
+				 25.09.2019
+				 <lb />
+			</judgement_date>
+
+			<extra>
+				CORAM:
+				<lb />
+				THE 
+			</extra>
+			<judges>
+				HONOURABLE MR.JUSTICE M.SUNDAR
+			</judges>
+			<lb />
+			<case_numbers>
+				W.P(MD)No.20642 of 2019
+			</case_numbers>
+			<lb />
+			<petitioner>
+				1.S.Ganesan
+			</petitioner>
+			<lb />
+			<petitioner>
+				2.Selvaraj
+			</petitioner>
+			<lb />
+			<petitioner>
+				3.Marudhaiya
+			</petitioner>
+			<lb />
+			<petitioner>
+				4.Velmurugan
+			</petitioner>
+			<lb />
+			<petitioner>
+				5.Pitchaiya
+			</petitioner>
+			<lb />
+			<petitioner>
+				6.Senthilkumaran
+			</petitioner>
+			<lb />
+			<petitioner>
+				7.Kasamuthu
+			</petitioner>
+			<lb />
+			<petitioner>
+				8.Subbulakshmi
+			</petitioner>
+			<lb />
+			<petitioner>
+				9.Sudalai
+			</petitioner>
+			<lb />
+			<petitioner>
+				10.Navaneethakrishnan
+			</petitioner>
+			<lb />
+			<petitioner>
+				11.Murugan
+			</petitioner>
+			<lb />
+			<petitioner>
+				12.Mariyappan
+			</petitioner>
+			<lb />
+			<petitioner>
+				13.Ayyakutti
+			</petitioner>
+			<lb />
+			<petitioner>
+				14.Chellappa
+			</petitioner>
+			<lb />
+			<extra>
+				... Petitioners
+				<lb />
+				Vs.
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				1.The District Collector,
+				<lb />
+				Thoothukudi District,
+				<lb />
+				Thoothukudi.
+			</respondent_lawyers>
+			<lb />
+			<page>
+				1/10
+			</page>
+			<lb />
+			<respondent_lawyers>
+				2.The Revenue Divisional Officer,
+				<lb />
+				Kovilpatti,
+				<lb />
+				Thoothukudi District.
+			</respondent_lawyers>
+			<lb />
+			<respondent_lawyers>
+				3.The Tahsildar,
+				<lb />
+				Kovilpatti Taluk,
+				<lb />
+				Thoothukudi District.
+			</respondent_lawyers>
+			<lb />
+			<extra>
+				... Respondents
+				<lb />
+				PRAYER: Writ Petition filed under Article 226 of the Constitution of India for issuance of
+				<lb />
+				a Writ of Mandamus directing the third respondent to provide Patta in Survey No.187,
+				<lb />
+				situated at Nalattin Pudhur, Kovilpatti Taluk, Thoothukudi District based on the
+				<lb />
+				petitioners&apos; representation dated 22.07.2019.
+				<lb />
+				For Petitioner
+				<lb />
+				:
+			</extra>
+			<petitioner_lawyers>
+				Mr.J.Sivaram
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				For Respondents
+				<lb />
+				:
+			</extra>
+			<respondent_lawyers>
+				Mr.M.Pandiarajan
+			</respondent_lawyers>
+			<lb />
+			<extra>
+				Additional Government Pleader
+			</extra>
+			<document_type>
+				ORDER
+			</document_type>
+		</front>
+	</text>
 </tei>

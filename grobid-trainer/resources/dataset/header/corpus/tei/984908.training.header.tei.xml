@@ -6,16 +6,21 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT BOMBAY
-				<lb />
-				CRIMINAL APPELLATE JURISDICTION
+				HIGH COURT OF JUDICATURE AT BOMBAY
 				<lb />
 			</court>
-			<case_number>
+			<extra>
+				CRIMINAL APPELLATE JURISDICTION
+				<lb />
+			</extra>
+			<case_numbers>
 				CRIMINAL CONFIRMATION CASE NO.1 OF 2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				The State of Maharashtra
 				<lb />
@@ -44,10 +49,10 @@
 				With
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				CRIMINAL APPEAL NO.949 OF 2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Ramesh Vishwanath Darandale
 				<lb />
@@ -72,10 +77,10 @@
 				... Respondent With
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				CRIMINAL APPEAL NO.950 OF 2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Popat @ Raghunath Vishwanath
 				<lb />
@@ -100,18 +105,18 @@
 				... Respondent With
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				CRIMINAL APPLICATION IN APPEAL NO.423 OF 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<extra>
 				alongwith
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				CRIMINAL APPEAL NO.1146 OF 2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Sandip Madhav Kurhe and Anr.
 				<lb />
@@ -134,19 +139,19 @@
 				... Respondent
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				<lb />
 				CRIMINAL APPLICATION IN APPEAL NO.1035 OF 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<extra>
 				alongwith
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				CRIMINAL APPEAL NO.264 OF 2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Ashok Sudhakar Navgire
 				<lb />
@@ -171,37 +176,37 @@
 				...
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Deepak Thakare, P.P. a/w Mr. J.P. Yagnik,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				APP
 				<lb />
 				for the State/Petitioner.
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Vijay Hiremath a/w Ms. Sahana i/b Swaraj
 				<lb />
 				Jadhav
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for the Accused Nos. 1, 2 and 6.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Nitin Shivram Satpute a/w Ms. Divya R. Gupta
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for Respondent No.4
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Dr. Yug M. Chaudhry a/w Ms. Ragini Ahuja
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for
 				<lb />
@@ -210,20 +215,26 @@
 				...
 				<lb />
 			</extra>
-			<judge>
-				CORAM : B.P.DHARMADHIKARI &amp;
+			<extra>
+				CORAM :
+			</extra>
+			<judges>
+				B.P.DHARMADHIKARI &amp;
 				<lb />
 				SANDEEP K. SHINDE JJ.
 				<lb />
-			</judge>
+			</judges>
+			<extra>
+				DATED :
+			</extra>
 			<judgement_date>
-				DATED : 02nd DECEMBER, 2019.
+				02nd DECEMBER, 2019.
 				<lb />
 			</judgement_date>
-			<judge>
+			<judges>
 				Judgment (Per Coram : Sandeep K. Shinde J.): -
 				<lb />
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>

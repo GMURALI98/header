@@ -6,24 +6,33 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				BEFORE THE
+			</extra>
 			<court>
-				BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+				 MADURAI BENCH OF MADRAS HIGH COURT
 				<lb />
 			</court>
+			<extra>
+				DATED :
+			</extra>
 			<judgement_date>
-				DATED : 18.11.2021
+				 18.11.2021
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
+			</extra>
+			<judges>
+				
 				THE HON&apos;BLE MR. JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P(MD)No.20632 of 2021
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				S.Mampatti Panchayat
 				<lb />
@@ -105,28 +114,28 @@
 				:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.M.Subash Babu
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents
 				<lb />
 				:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.C.Satheesh,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Government Advocate for R1 to R3
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.N.Muthuviyajan,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Special Government Pleader for R4
 				<lb />

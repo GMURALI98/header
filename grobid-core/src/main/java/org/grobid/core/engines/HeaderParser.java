@@ -1530,10 +1530,10 @@ public class HeaderParser extends AbstractParser {
                 output = writeField(buffer, s1, lastTag0, s2, "<respondent>", "<respondent>", addSpace);
             }
             if (!output) {
-                output = writeField(buffer, s1, lastTag0, s2, "<petitioner_lawyer>", "<petitioner_lawyer>", addSpace);
+                output = writeField(buffer, s1, lastTag0, s2, "<petitioner_lawyers>", "<petitioner_lawyers>", addSpace);
             }
             if (!output) {
-                output = writeField(buffer, s1, lastTag0, s2, "<respondent_lawyer>", "<respondent_lawyer>", addSpace);
+                output = writeField(buffer, s1, lastTag0, s2, "<respondent_lawyers>", "<respondent_lawyers>", addSpace);
             }
             if (!output) {
                 output = writeField(buffer, s1, lastTag0, s2, "<location>", "<address>", addSpace);
@@ -1673,10 +1673,10 @@ public class HeaderParser extends AbstractParser {
                 buffer.append("</petitioner>");
             } else if (lastTag0.equals("<respondent>")) {
                 buffer.append("</respondent>");
-            } else if (lastTag0.equals("<petitioner_lawyer>")) {
-                buffer.append("</petitioner_lawyer>");
-            } else if (lastTag0.equals("<respondent_lawyer>")) {
-                buffer.append("</respondent_lawyer>");
+            } else if (lastTag0.equals("<petitioner_lawyers>")) {
+                buffer.append("</petitioner_lawyers>");
+            } else if (lastTag0.equals("<respondent_lawyers>")) {
+                buffer.append("</respondent_lawyers>");
             } else if (lastTag0.equals("<location>")) {
                 buffer.append("</address>\n");
             } else if (lastTag0.equals("<meeting>")) {

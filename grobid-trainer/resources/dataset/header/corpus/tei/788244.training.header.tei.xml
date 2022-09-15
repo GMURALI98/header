@@ -6,26 +6,35 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				DATED :
+			</extra>
 			<judgement_date>
-				DATED : 07.10.2021
+				07.10.2021
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
-				THE HON&apos;BLE MR.JUSTICE M.NIRMAL KUMAR
+				THE
+			</extra>
+			<judges>
+				HON&apos;BLE MR.JUSTICE M.NIRMAL KUMAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P.No.13658 of 2021
 				<lb />
 				and W.M.P.No.14516 of 2021
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				M/s.Sakthi Sugars Limited,
 				<lb />
@@ -118,20 +127,20 @@
 				:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.N.Manokaran
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondent
 				<lb />
 				:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.A.Damodaran
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Nos.1 to 4
 				<lb />
@@ -142,10 +151,10 @@
 				:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.M.Guruprasad
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<document_type>
 				ORDER
 				<lb />

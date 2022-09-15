@@ -1,124 +1,156 @@
 <?xml version="1.0"?>
 <tei xml:space="preserve">
-    <teiHeader>
-        <fileDesc xml:id="230593" />
-    </teiHeader>
-    <text xml:lang="en">
-        <front>
-            <page>1</page>
-            <lb />
-            <court>IN THE HIGH COURT OF JUDICATURE AT MADRAS</court>
-            <lb />
-            <judgement_date>DATE : 26.11.2013</judgement_date>
-            <judge>
-                CORAM
-                <lb />
-                THE HONOURABLE MR. JUSTICE R.SUDHAKAR
-                <lb />
-                AND
-                <lb />
-                THE HONOURABLE MRS. JUSTICE PUSHPA SATHYANARAYANA
-            </judge>
-            <lb />
-            <case_number>
-                W.P. NO. 28702 OF 2013
-                <lb />
-                AND
-                <lb />
-                M.P. NO. 1 OF 2013
-            </case_number>
-            <lb />
-            <petitioner>Lalitha Bharani</petitioner>
-            <lb />
-            <extra>
-                .. Petitioner
-                <lb />
-                -Vs -
-            </extra>
-            <lb />
-            <respondent>
-                1. The Government of Tamil Nadu
-                <lb />
-                rep. By Secretary to Government
-                <lb />
-                Adi Dravidar &amp; Tribal Welfare Dept.
-                <lb />
-                Fort St. George, Chennai -600 009.
-            </respondent>
-            <lb />
-            <respondent>
-                2. The Chairman
-                <lb />
-                State Level Scrutiny Committee
-                <lb />
-                Adi Dravidar &amp; Tribal Welfare Dept.
-                <lb />
-                Fort St. George, Chennai -600 009.
-            </respondent>
-            <lb />
-            <respondent>
-                3. The Director of Tribal Welfare
-                <lb />
-                Chepauk, Chennai - 600 005.
-            </respondent>
-            <lb />
-            <respondent>
-                4. The Collector
-                <lb />
-                Kancheepuram District.
-            </respondent>
-            <lb />
-            <respondent>
-                5. The Revenue Divisional Officer
-                <lb />
-                Chengalpattu Taluk.
-            </respondent>
-            <lb />
-            <respondent>
-                6. The District Adi Dravidar &amp;
-                <lb />
-                Tribal Welfare Officer
-                <lb />
-                Kancheepuram, Kancheepuram Dt.
-            </respondent>
-            <lb />
-            <respondent>
-                7. The Tamil Nadu Public Service Commission
-                <lb />
-                Chennai 600 006.
-            </respondent>
-            <lb />
-            <extra>.. Respondents</extra>
-            <lb />
-            <page>2</page>
-            <lb />
-            <extra>
-                Writ petition filed for the issuance of a writ of certiorari calling for the records of the 2 nd
-                <lb />
-                respondent pertaining to his proceedings No.13887/ADWS/2009-13 dated 25.9.2013 and
-                <lb />
-                quash the same.
-                <lb />
-                For Petitioner
-                <lb />
-                :
-            </extra>
-            <petitioner_lawyer>Mr.S.Doraisamy</petitioner_lawyer>
-            <extra>
-                for Mr. A.Selvam
-                <lb />
-                For Respondents
-                <lb />
-                :
-            </extra>
-            <respondent_lawyer>Mr.S.P.Prabhakaran,</respondent_lawyer>
-            <extra>
-                AGP for RR-1 to 6
-                <lb />
-                Ms. C.N.G.Niraimathi for F-7
-            </extra>
-            <document_type>ORDER</document_type>
-            <lb />
-        </front>
-    </text>
+	<teiHeader>
+		<fileDesc xml:id="230593" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<page>
+				1
+			</page>
+			<lb />
+			<extra>
+				IN THE 
+			</extra>
+			<court>
+				HIGH COURT OF JUDICATURE AT MADRAS
+			</court>
+			<lb />
+			<extra>
+				DATE :
+			</extra>
+			<judgement_date>
+				 26.11.2013
+			</judgement_date>
+			<extra>
+				CORAM
+				<lb />
+				THE 
+			</extra>
+			<judges>
+				HONOURABLE MR. JUSTICE R.SUDHAKAR
+				<lb />
+			</judges>
+			<extra>
+				AND
+				<lb />
+				THE
+			</extra>
+			<judges>
+				 HONOURABLE MRS. JUSTICE PUSHPA SATHYANARAYANA
+			</judges>
+			<lb />
+			<case_numbers>
+				W.P. NO. 28702 OF 2013
+				<lb />
+				AND
+				<lb />
+				M.P. NO. 1 OF 2013
+			</case_numbers>
+			<lb />
+			<petitioner>
+				Lalitha Bharani
+			</petitioner>
+			<lb />
+			<extra>
+				.. Petitioner
+				<lb />
+				-Vs -
+			</extra>
+			<lb />
+			<respondent>
+				1. The Government of Tamil Nadu
+				<lb />
+				rep. By Secretary to Government
+				<lb />
+				Adi Dravidar &amp; Tribal Welfare Dept.
+				<lb />
+				Fort St. George, Chennai -600 009.
+			</respondent>
+			<lb />
+			<respondent>
+				2. The Chairman
+				<lb />
+				State Level Scrutiny Committee
+				<lb />
+				Adi Dravidar &amp; Tribal Welfare Dept.
+				<lb />
+				Fort St. George, Chennai -600 009.
+			</respondent>
+			<lb />
+			<respondent>
+				3. The Director of Tribal Welfare
+				<lb />
+				Chepauk, Chennai - 600 005.
+			</respondent>
+			<lb />
+			<respondent>
+				4. The Collector
+				<lb />
+				Kancheepuram District.
+			</respondent>
+			<lb />
+			<respondent>
+				5. The Revenue Divisional Officer
+				<lb />
+				Chengalpattu Taluk.
+			</respondent>
+			<lb />
+			<respondent>
+				6. The District Adi Dravidar &amp;
+				<lb />
+				Tribal Welfare Officer
+				<lb />
+				Kancheepuram, Kancheepuram Dt.
+			</respondent>
+			<lb />
+			<respondent>
+				7. The Tamil Nadu Public Service Commission
+				<lb />
+				Chennai 600 006.
+			</respondent>
+			<lb />
+			<extra>
+				.. Respondents
+			</extra>
+			<lb />
+			<page>
+				2
+			</page>
+			<lb />
+			<extra>
+				Writ petition filed for the issuance of a writ of certiorari calling for the records of the 2 nd
+				<lb />
+				respondent pertaining to his proceedings No.13887/ADWS/2009-13 dated 25.9.2013 and
+				<lb />
+				quash the same.
+				<lb />
+				For Petitioner
+				<lb />
+				:
+			</extra>
+			<petitioner_lawyers>
+				Mr.S.Doraisamy
+			</petitioner_lawyers>
+			<extra>
+				for Mr. A.Selvam
+				<lb />
+				For Respondents
+				<lb />
+				:
+			</extra>
+			<respondent_lawyers>
+				Mr.S.P.Prabhakaran,
+			</respondent_lawyers>
+			<extra>
+				AGP for RR-1 to 6
+				<lb />
+				Ms. C.N.G.Niraimathi for F-7
+			</extra>
+			<document_type>
+				ORDER
+			</document_type>
+			<lb />
+		</front>
+	</text>
 </tei>

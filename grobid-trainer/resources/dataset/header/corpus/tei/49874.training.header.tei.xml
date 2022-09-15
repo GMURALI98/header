@@ -10,28 +10,39 @@
 				Page 1 of 225
 				<lb />
 			</page>
-			<court>
+			<extra>
 				$~
 				<lb />
 				*
 				<lb />
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
+			<extra>
+				Reserved on :
+			</extra>
 			<judgement_date>
-				Reserved on : 30 th May, 2019
+				30 th May, 2019
 				<lb />
 			</judgement_date>
+			<extra>
+				Date of decision :
+			</extra>
 			<judgement_date>
-				Date of decision : 8 th July, 2019
+				8 th July, 2019
 				<lb />
 			</judgement_date>
-			<case_number>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CS (OS) 410/2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				AMWAY INDIA ENTERPRISES PVT. LTD.
 				<lb />
@@ -44,7 +55,7 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Sudhir Chandra, Senior Advocate
 				<lb />
 				with Mr. Sohan Singh Rana, Mrs.
@@ -57,7 +68,7 @@
 				<lb />
 				Passi,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocates.
 				<lb />
@@ -80,22 +91,22 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Sagar Chandra, Ms. Ishani
 				<lb />
 				Chandra and Ms. Shubhie Wahi,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocates for D-1 (M:8130910708)
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Sudarshan Rajan and Mr. Ramesh
 				<lb />
 				Rawat,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocates
 				<lb />
@@ -106,12 +117,12 @@
 				(M:9990865829) WITH
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				+
 				<lb />
 				CS (OS) 453/2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				AMWAY INDIA ENTERPRISES PVT. LTD.
 				<lb />
@@ -124,7 +135,7 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Sudhir Chandra, Senior Advocate
 				<lb />
 				with Mr. Sohan Singh Rana, Mrs.
@@ -137,7 +148,7 @@
 				<lb />
 				Passi,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocates.
 				<lb />
@@ -156,27 +167,27 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Siddharth Batra, Ms. Garima
 				<lb />
 				Sehgal and Mr. Vishwajeet Arora,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocates for D-2 &amp; 3.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Prateek Tewari
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocate for D-8
 				<lb />
 				(M-8800576518)
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.
 				<lb />
 				Dayan
@@ -191,7 +202,7 @@
 				<lb />
 				Sharma,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocates
 				<lb />
@@ -202,12 +213,12 @@
 				(M:9810621272) WITH
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				+
 				<lb />
 				CS (OS) 480/2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				AMWAY INDIA ENTERPRISES PVT. LTD.
 				<lb />
@@ -220,7 +231,7 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Rajiv Nayar, Senior Advocate,
 				<lb />
 				with Ms. Priya Kumar, Mr. C.D.
@@ -230,7 +241,7 @@
 				Tejas Chhabra and Mr. Chanakya
 				<lb />
 				Diwedi,
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocates (M:9716989180)
 				<lb />
@@ -250,7 +261,7 @@
 			<extra>
 				Through:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Sandeep Sethi, Senior Advocate,
 				<lb />
 				with Mr. Prince Pawaiya, Ms. Prema
@@ -258,7 +269,7 @@
 				Arora, Ms. Peri Surya Yashodhara
 				<lb />
 				and Mr. Karan Chopra,
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocates,
 				<lb />
@@ -267,7 +278,7 @@
 				(9549124005)
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Saikrishna Rajagopal, Ms. Sneha
 				<lb />
 				Jain, Ms. Savni Dutt, Mr. Devvrat
@@ -275,17 +286,17 @@
 				Joshi, Ms. Nilofar Absar and Ms.
 				<lb />
 				Abhiti Vachher
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocates, for
 				<lb />
 				Defendant no.4. (9810621272)
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms. Amita Gupta
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocate, for
 				<lb />
@@ -296,12 +307,12 @@
 				Page 3 of 225
 				<lb />
 			</page>
-			<case_number>
+			<case_numbers>
 				+
 				<lb />
 				CS (OS) 531/2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				AMWAY INDIA ENTERPRISES PVT. LTD.
 				<lb />
@@ -314,7 +325,7 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Ms. Priya Kumar, Mr. Shailabh
 				<lb />
 				Tiwari, Mr. C.D. Mulherkar, Mr.
@@ -329,7 +340,7 @@
 				<lb />
 				Chichra
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocates.
 				<lb />
@@ -349,24 +360,24 @@
 			<extra>
 				Through:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.
 				<lb />
 				Darpan
 				<lb />
 				Wadhwa,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Senior
 				<lb />
 				Advocate with Mr. Ankur Sangal,
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms. Sucheta Roy
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocates for D-1
 				<lb />
@@ -375,16 +386,16 @@
 				(M:9654592881) WITH
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				+
 				<lb />
 				CS (OS) 550/2018
 				<lb />
-			</case_number>
-			<petitioner_lawyer>
+			</case_numbers>
+			<petitioner_lawyers>
 				AMWAY INDIA ENTERPRISES PVT. LTD.
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				…...Plaintiff
 				<lb />
@@ -393,7 +404,7 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Sudhir Chandra, Senior Advocate
 				<lb />
 				with Mr. Sohan Singh Rana, Mrs.
@@ -406,7 +417,7 @@
 				<lb />
 				Passi,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocates.
 				<lb />
@@ -429,22 +440,22 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Sagar Chandra, Ms. Ishani
 				<lb />
 				Chandra and Ms. Shubhie Wahi,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocates for D-1 (M:8130910708)
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Sudarshan Rajan and Mr. Ramesh
 				<lb />
 				Rawat,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocates
 				<lb />
@@ -463,12 +474,12 @@
 				WITH
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				+
 				<lb />
 				CS (OS) 75/2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				MODICARE LTD.
 				<lb />
@@ -481,22 +492,22 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Amit Sibal
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Senior Advocate with
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Ms. Pooja Dodd, Mr. Saksham
 				<lb />
 				Dhingra, Mr. Vinay Tripathi, Ms.
 				<lb />
 				Aditi Menon and Mr. Aman Singhal,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocates (M:9811045646)
 				<lb />
@@ -519,7 +530,7 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Saikrishna Rajagopal, Mr.
 				<lb />
 				Sidharth Chopra, Ms. Sneha Jain, Ms.
@@ -529,108 +540,109 @@
 				Nilofar Absar and Mr. Abhijit
 				<lb />
 				Vachher,
-			</respondent_lawyer>
-					<extra>
-						Advocates for Defendant
-						<lb />
-						No.1 (M:9810621272) AND
-						<lb />
-					</extra>
-					<case_number>
-						+
-						<lb />
-						CS (OS) 91/2019
-						<lb />
-					</case_number>
-					<petitioner>
-						ORIFLAME INDIA PVT. LTD.
-						<lb />
-					</petitioner>
-					<extra>
-						…...Plaintiff
-						<lb />
-					</extra>
-					<extra>
-						Through:
-						<lb />
-					</extra>
-
-					<petitioner_lawyer>
-						Mr. Balbir Singh, Senior Advocate,
-						<lb />
-						with Mr. Mahesh B. Chhibber, Mr.
-						<lb />
-						Karan Chopra, Ms. Mehak Khanna &amp;
-						<lb />
-						Mr. S.N. Thyagrajan, Advocates
-						<lb />
-					</petitioner_lawyer>
-					<extra>
-						(M:9818430581)
-						<lb />
-						<extra>
-							versus
-							<lb />
-						</extra>
-						<respondent>
-							DINENDER JAIN &amp; ORS.
-							<lb />
-						</respondent>
-						<extra>
-							.....Defendants
-							<lb />
-						</extra>
-						<extra>
-							Through:
-							<lb />
-						</extra>
-						<respondent_lawyer>
-							Mr. Jayant Mehta, Mr. Manav Kumar,
-							<lb />
-							Ms. Nupur &amp; Mr. Sajal Jain
-						</respondent_lawyer>
-						<extra>
-							Advocate
-							<lb />
-							for D-2 (M:9810233743)
-							<lb />
-						</extra>
-						<respondent_lawyer>
-							Mr. Saikrishna Rajagopal, Mr.
-							<lb />
-							Sidharth Chopra, Ms. Sneha Jain, Ms.
-							<lb />
-							Savni Dutt, Mr. Devvrat Joshi, Ms.
-							<lb />
-							Nilofar Absar and Mr. Abhijit
-							<lb />
-							Vachher,
-						</respondent_lawyer>
-						<extra>
-							Advocates for Defendant
-							<lb />
-							No.6 (M:9810621272)
-							<lb />
-						</extra>
-						<respondent_lawyer>
-							Mr. Waize Ali Noor (Central Govt.
-							<lb />
-							Pleader)
-						</respondent_lawyer>
-						<extra>
-							for UOI (M:8527837602)
-							<lb />
-						</extra>
-						<judge>
-							CORAM:
-							<lb />
-							JUSTICE PRATHIBA M. SINGH
-						</judge>
-						<document_type>
-							JUDGMENT
-							<lb />
-						</document_type>
-					</extra>
+			</respondent_lawyers>
+			<extra>
+				Advocates for Defendant
+				<lb />
+				No.1 (M:9810621272) AND
+				<lb />
+			</extra>
+			<case_numbers>
+				+
+				<lb />
+				CS (OS) 91/2019
+				<lb />
+			</case_numbers>
+			<petitioner>
+				ORIFLAME INDIA PVT. LTD.
+				<lb />
+			</petitioner>
+			<extra>
+				…...Plaintiff
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Balbir Singh, Senior Advocate,
+				<lb />
+				with Mr. Mahesh B. Chhibber, Mr.
+				<lb />
+				Karan Chopra, Ms. Mehak Khanna &amp;
+				<lb />
+				Mr. S.N. Thyagrajan, Advocates
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				(M:9818430581)
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				DINENDER JAIN &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				.....Defendants
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Jayant Mehta, Mr. Manav Kumar,
+				<lb />
+				Ms. Nupur &amp; Mr. Sajal Jain
+			</respondent_lawyers>
+			<extra>
+				Advocate
+				<lb />
+				for D-2 (M:9810233743)
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Saikrishna Rajagopal, Mr.
+				<lb />
+				Sidharth Chopra, Ms. Sneha Jain, Ms.
+				<lb />
+				Savni Dutt, Mr. Devvrat Joshi, Ms.
+				<lb />
+				Nilofar Absar and Mr. Abhijit
+				<lb />
+				Vachher,
+			</respondent_lawyers>
+			<extra>
+				Advocates for Defendant
+				<lb />
+				No.6 (M:9810621272)
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Waize Ali Noor (Central Govt.
+				<lb />
+				Pleader)
+			</respondent_lawyers>
+			<extra>
+				for UOI (M:8527837602)
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				JUSTICE PRATHIBA M. SINGH
+			</judges>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
 		</front>
 	</text>
 </tei>

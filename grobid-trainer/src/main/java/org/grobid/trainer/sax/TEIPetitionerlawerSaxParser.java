@@ -77,7 +77,7 @@ public class TEIPetitionerlawerSaxParser extends DefaultHandler {
             accumulator.append(" +L+ ");
         } else if (qName.equals("pb")) {
             accumulator.append(" +PAGE+ ");
-        } else if (qName.equals("petitioner_lawer")) {
+        } else if (qName.equals("petitioner_lawyers")) {
             String text = getText();
             if (text.length() > 0) {
                 currentTag = "<other>";
@@ -115,7 +115,7 @@ public class TEIPetitionerlawerSaxParser extends DefaultHandler {
             currentTag = "<forename>";
         } else if (qName.equals("suffix")) {
             currentTag = "<suffix>";
-        } else if (qName.equals("petitioner_lawer")) {
+        } else if (qName.equals("petitioner_lawyers")) {
             accumulator = new StringBuffer();
             labeled = new ArrayList<String>();
             tokens = new ArrayList<LayoutToken>();

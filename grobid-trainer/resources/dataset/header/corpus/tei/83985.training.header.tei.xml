@@ -6,16 +6,19 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE SPECIAL COURT {TRIAL OF OFFENCES RELATING TO
+				SPECIAL COURT {TRIAL OF OFFENCES RELATING TO
 				<lb />
 				TRANSACTIONS IN SECURITIES) AT BOMBAY
 				<lb />
 			</court>
-			<case_number>
+			<case_numbers>
 				MISCELLANEOUS PETITION N0.41 OF 1999
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				The Custodian appointed under
 				<lb />
@@ -219,62 +222,68 @@
 				. .. Respondents.
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr .G.R.Joshi @ Mr . Shiraz Rustomjee &amp; Ms . Leena
 				Adhvaryu &amp; Ms . Shilpa Bhate i /b. M/s .P.M .&amp;Mithi &amp;
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Co ., for the Custodian/Peti tioner .
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr .I.H . Syed i /b.R .A. Shaikh
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, for the Respondents 1
 				<lb />
 				to 7,9 .
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr . B .M.Chatterjee
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, for Income Tax Dept . -Respdt-8 .
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr . Zal Andhyaruj ina with Ms . Amrita i/b . Dave &amp;
 				Giri sh,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for Respondent no . 10.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms . Pratibha Mehta
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				i /b. Little &amp;Co ., for Respondent
 				<lb />
 				nos . 1 1 , 12 /SBI .
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr . Pradeep Sancheti
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				i /b. Mulla &amp; Mulla, for Canfina
 				<lb />
 			</extra>
-			<judge>
-				CORAM: D .K.DESHMUKB,J.
+			<extra>
+				CORAM:
+			</extra>
+			<judges>
+				D .K.DESHMUKB,J.
 				<lb />
-			</judge>
+			</judges>
+			<extra>
+				DATED:
+			</extra>
 			<judgement_date>
-				DATED: 30 April,2010
+				30 April,2010
 				<lb />
 			</judgement_date>
 			<document_type>

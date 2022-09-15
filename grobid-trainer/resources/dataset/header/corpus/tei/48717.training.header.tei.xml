@@ -6,23 +6,31 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
-			<judgement_date>
+			<extra>
 				%
 				<lb />
-				Judgment delivered on: 16.05.2019
+				Judgment delivered on:
+			</extra>
+			<judgement_date>
+				16.05.2019
 				<lb />
 			</judgement_date>
-			<case_number>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				W.P.
 				(C) 1163/2017 and CM APPL. 38867/2017
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				THE REGENTS OF THE UNIVERSITY
 				<lb />
@@ -53,15 +61,15 @@
 				For the Petitioner
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				:Mr Amit Sibal
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Senior Advocate with
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Ms Archana Shanker, Mr Shrawan
 				<lb />
 				Chopra, Ms Prachi Agarwal, Mr Devinder
@@ -70,61 +78,63 @@
 				<lb />
 				Ms Ridhie Bajaj.
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For the Respondents
 				<lb />
 				:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr Kirtiman Singh
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, CGSC with Mr Waize
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ali Noor and Ms Shruti
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Dutt for UOI.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr Vishal Sudan and Ms Prachi Tiwari
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for R-3.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr J. Sai Deepak, Mr Guru Narang and
 				<lb />
 				Mr Avinash K. Sharma
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocates for R-5.
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms Bitika Sharma, Ms Mansee Teotia and
 				<lb />
 				Ms Lakshay Kaushik,
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocates for R-7.
 				<lb />
 			</extra>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR JUSTICE VIBHU BAKHRU JUDGMENT
 				<lb />
-			</judge>
+			</judges>
 			<document_type>
 				JUDGMENT
 				<lb />

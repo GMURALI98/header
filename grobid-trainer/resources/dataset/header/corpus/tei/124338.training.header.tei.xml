@@ -5,41 +5,52 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<court>
+			<extra>
 				<lb />
 				$~S~
 				<lb />
 				*
 				<lb />
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+			</extra>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
-			<judgement_date>
+			<extra>
 				Date of decision:
+			</extra>
+			<judgement_date>
 				15 June 2021
 				<lb />
 			</judgement_date>
-			<case_number>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CRL.A. 82/2021
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				NATASHA NARWAL
 				<lb />
+			</petitioner>
+			<extra>
 				..... Appellant
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				Through:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Adit S. Pujari, Ms. Tusharika
 				<lb />
 				M a t t o o a n d M r. K u n a l N e g i ,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocates.
 				<lb />
@@ -51,38 +62,42 @@
 			<respondent>
 				STATE OF DELHI NCT
 				<lb />
+			</respondent>
+			<extra>
 				..... Respondent
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				Through:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Amit Mahajan, Mr. Amit Prasad,
 				<lb />
 				and Mr. Rajat Nair,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				SPPs for the State
 				<lb />
 				alongwith
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Dhruv Pande and Mr.
 				<lb />
 				Shantanu Sharma, Advocates.
 				<lb />
-			</respondent_lawyer>
-			<judge>
+			</respondent_lawyers>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE SIDDHARTH MRIDUL
 				<lb />
 				HON&apos;BLE MR. JUSTICE ANUP JAIRAM BHAMBHANI
 				<lb />
-			</judge>
+			</judges>
 			<document_type>
 				J U D G M E N T
 				<lb />

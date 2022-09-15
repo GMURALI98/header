@@ -6,23 +6,33 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				Dated :
+			</extra>
 			<judgement_date>
-				Dated : 10.03.2020
+				10.03.2020
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
-				THE HONOURABLE MR. JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+				THE
+			</extra>
+			<judges>
+				HONOURABLE MR. JUSTICE M.SUNDAR
+				<lb />
+			</judges>
+			<case_numbers>
 				O.P.No.753 of 2013
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				M/s.Best and Crompton Engineers Projects Ltd.,
 				<lb />
@@ -126,22 +136,28 @@
 				<lb />
 				:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Ms.Vandana Raheja
 				<lb />
 				of M/s.Surana &amp; Surana
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents :
 				<lb />
 			</extra>
-			<respondent_lawyer>
-				Mr.Sanjay Ramaswamy for R1
+			<respondent_lawyers>
+				Mr.Sanjay Ramaswamy
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
+			<extra>
+				for R1
+			</extra>
+			<extra>
+				***
+			</extra>
 			<document_type>
-				*** ORDER
+				ORDER
 				<lb />
 			</document_type>
 		</front>

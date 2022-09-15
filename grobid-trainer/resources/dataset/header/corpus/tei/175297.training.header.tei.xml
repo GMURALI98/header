@@ -14,10 +14,10 @@
 				Record of Proceedings through Video Conferencing
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				WP(C) No.48 of 2017
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				BISWAJIT GOPAL ROY
 				<lb />
@@ -38,14 +38,20 @@
 				…RESPONDENTS
 				<lb />
 			</extra>
+			<extra>
+				Date:
+			</extra>
 			<judgement_date>
-				Date: 25.09.2020
+				25.09.2020
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM:
-				THE HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE …
-			</judge>
+				THE
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE …
+			</judges>
 		</front>
 	</text>
 </tei>

@@ -14,10 +14,10 @@
 				Record of Proceedings through Video Conferencing
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				WP(C) No.17 of 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				HIMALAYA DISTILLERIES LIMITED
 				<lb />
@@ -34,17 +34,22 @@
 				STATE OF SIKKIM AND ORS …RESPONDENTS
 				<lb />
 			</respondent>
+			<extra>
+				Date:
+			</extra>
 			<judgement_date>
-				Date: 25.09.2020
+				25.09.2020
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				THE HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
 				<lb />
 				THE HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI, JUDGE
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>

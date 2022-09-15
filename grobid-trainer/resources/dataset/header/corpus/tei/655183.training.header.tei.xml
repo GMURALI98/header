@@ -6,21 +6,27 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				BEFORE THE
+			</extra>
 			<court>
-				BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+				 MADURAI BENCH OF MADRAS HIGH COURT
 				<lb />
 			</court>
+			<extra>
+				DATED:
+			</extra>
 			<judgement_date>
-				DATED: 05.11.2019
+				 05.11.2019
 				<lb />
 			</judgement_date>
-			<case_number>
+			<case_numbers>
 				W.P.(MD)No.22798 of 2018
 				<lb />
 				and
 				<lb />
 				W.M.P.(MD)No.20666 of 2018
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				P.Pitchaiammal
 				<lb />
@@ -74,10 +80,10 @@
 				For Petitioner :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.S.Vahik Ali
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				for Mr.D.Nallathambi
 				<lb />
@@ -86,10 +92,10 @@
 				For Respondents :
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.B.Bhagawathy
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Government Advocate
 				<lb />

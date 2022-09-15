@@ -9,16 +9,22 @@
 				Reportable
 				<lb />
 			</extra>
+			<extra>
+				IN THE 
+			</extra>
 			<court>
-				IN THE SUPREME COURT OF INDIA
+				SUPREME COURT OF INDIA
 				<lb />
+				
+			</court>
+			<extra>
 				CIVIL APPELLATE JURISIDCTION
 				<lb />
-			</court>
-			<case_number>
+			</extra>
+			<case_numbers>
 				CIVIL APPEAL NOS. 6203-6204__OF 2016
 				<lb />
-			</case_number>
+			</case_numbers>
 			<extra>
 				(Arising out of SLP(C) Nos. 1259-1260 of 2016)
 				<lb />

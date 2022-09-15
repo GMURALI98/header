@@ -6,37 +6,48 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
-			<extra>
+			<case_numbers>
 				C.S.No.299 of 2020
 				<lb />
 				&amp; O.A.Nos.564 &amp; 565 of 2020 &amp;
 				<lb />
 				A.No.2603 of 2020
 				<lb />
+			</case_numbers>
+			<extra>
+				IN THE
 			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
-			<judgement_date>
-				Reserved on
+			<extra>
+				Reserved on :
 				<lb />
-				: 21.10.2021
+			</extra>
+			<judgement_date>
+				21.10.2021
 				<lb />
 			</judgement_date>
-			<judgement_date>
+			<extra>
 				Pronounced on
 				<lb />
-				:25.10.2021
+				:
+			</extra>
+			<judgement_date>
+				25.10.2021
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				Coram:
 				<lb />
-				THE HONOURABLE DR. JUSTICE G. JAYACHANDRAN
+				THE
+			</extra>
+			<judges>
+				HONOURABLE DR. JUSTICE G. JAYACHANDRAN
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				C.S.No.299 of 2020
 				<lb />
 				and
@@ -47,7 +58,7 @@
 				<lb />
 				A.No.2603 of 2020
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				1.Aqua Pump Industries,
 				<lb />
@@ -183,10 +194,10 @@
 				<lb />
 				:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				M/s Gladys Daniel
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			------
 			<lb />
 			<document_type>

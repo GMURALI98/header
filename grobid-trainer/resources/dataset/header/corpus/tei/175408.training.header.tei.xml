@@ -17,10 +17,10 @@
 				Record of Proceedings
 				<lb />
 			</extra>
-			<extra>
+			<case_numbers>
 				Bail Appln. No.09 of 2021
 				<lb />
-			</extra>
+			</case_numbers>
 			<petitioner>
 				BIKASH RAI @ KALAY BIKASH
 				<lb />
@@ -40,61 +40,67 @@
 			<extra>
 				RESPONDENT
 				<lb />
-				<judgement_date>
-					Date: 10.05.2021
-					<lb />
-				</judgement_date>
-				<judge>
-					CORAM :
-					<lb />
-					THE HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI, JUDGE
-					<lb />
-				</judge>
-				<extra>
-					For Applicant
-					<lb />
-				</extra>
-				<extra>
-					For Respondent
-					<lb />
-				</extra>
-				<petitioner_lawyer>
-					Mr.
-					<lb />
-					Tashi
-					<lb />
-					Wongdi
-					<lb />
-					Bhutia,
-					<lb />
-				</petitioner_lawyer>
-				<extra>
-					Advocate.
-					<lb />
-				</extra>
-				<petitioner_lawyer>
-					Mr. Shakil Karki, Advocate.
-					<lb />
-				</petitioner_lawyer>
-				<respondent_lawyer>
-					Mr.
-					<lb />
-					Sudesh
-					<lb />
-					Joshi,
-					<lb />
-				</respondent_lawyer>
-				<extra>
-					Public
-					<lb />
-					Prosecutor.
-					<lb />
-				</extra>
-				<document_type>
-					O R D E R
-					<lb />
-				</document_type>
 			</extra>
+			<extra>
+				Date:
+			</extra>
+			<judgement_date>
+				10.05.2021
+				<lb />
+			</judgement_date>
+			<extra>
+				CORAM :
+				<lb />
+				THE
+			</extra>
+			<judges>
+				HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI, JUDGE
+				<lb />
+			</judges>
+			<extra>
+				For Applicant
+				<lb />
+			</extra>
+			<extra>
+				For Respondent
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr.
+				<lb />
+				Tashi
+				<lb />
+				Wongdi
+				<lb />
+				Bhutia,
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Shakil Karki, Advocate.
+				<lb />
+			</petitioner_lawyers>
+			<respondent_lawyers>
+				Mr.
+				<lb />
+				Sudesh
+				<lb />
+				Joshi,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Public
+				<lb />
+				Prosecutor.
+				<lb />
+			</extra>
+			<document_type>
+				O R D E R
+				<lb />
+			</document_type>
 		</front>
 	</text>
 </tei>

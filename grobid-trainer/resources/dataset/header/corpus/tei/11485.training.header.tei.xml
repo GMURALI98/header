@@ -6,18 +6,24 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
+			<extra>
+				Date ofDecision:
+			</extra>
 			<judgement_date>
-				Date ofDecision: 24th February, 2016
+				24th February, 2016
 				<lb />
 			</judgement_date>
-			<case_number>
+			<case_numbers>
 				MAC.APP. 226/2011
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				SATYAVIR SINGH &amp; ORS
 				<lb />
@@ -30,11 +36,11 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Ms Arati Mahajan Shedha with Mr.
 				<lb />
 				Manoj Kumar
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Advs.
 				<lb />
@@ -55,18 +61,18 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Rahul Ranjan Verma
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				,Adv
 				<lb />
 			</extra>
-			<judge>
+			<judges>
 				HON&apos; BLE MR. JUSTICE R.K.GAUBA
 				<lb />
-			</judge>
+			</judges>
 			<document_type>
 				JUDGMENT
 				<lb />

@@ -2541,9 +2541,9 @@ public class BiblioItem {
 
             //petitionerlawer
             if (collaboration != null) {
-                bibtex.add(" petitioner_lawer = {" + collaboration +"}");
+                bibtex.add(" petitioner_lawyers = {" + collaboration +"}");
             } else {
-                StringJoiner petitionerlawers = new StringJoiner(" and ", "  petitioner_lawer = {", "}");
+                StringJoiner petitionerlawers = new StringJoiner(" and ", "  petitioner_lawyers = {", "}");
                 if (fullPetitionerlawers != null) {
                     fullPetitionerlawers.stream()
                                 .filter(person -> person != null)
@@ -2578,7 +2578,7 @@ public class BiblioItem {
             if (collaboration != null) {
                 bibtex.add(" respondnent_lawer = {" + collaboration +"}");
             } else {           
-                StringJoiner respondentlawers = new StringJoiner(" and ", "  respondent_lawer = {", "}");
+                StringJoiner respondentlawers = new StringJoiner(" and ", "  respondent_lawyers = {", "}");
                 if (fullRespondentlawers != null) {
                     fullRespondentlawers.stream()
                                 .filter(person -> person != null)
@@ -5746,7 +5746,7 @@ public class BiblioItem {
 					}
 
                     TextUtilities.appendN(tei, '\t', nbTag);
-                    tei.append("<petitioner_lawer");
+                    tei.append("<petitioner_lawyers");
 
                     if (autRank == contactAut) {
                         tei.append(" role=\"corresp\">\n");
@@ -5783,7 +5783,7 @@ public class BiblioItem {
                     }
 
                     TextUtilities.appendN(tei, '\t', nbTag);
-                    tei.append("</petitioner_lawyer>\n");
+                    tei.append("</petitioner_lawyers>\n");
                     autRank++;
                 }
             }
@@ -5796,10 +5796,10 @@ public class BiblioItem {
                 if (aff.getFailAffiliation()) {
                     // dummy <author> for TEI conformance
                     TextUtilities.appendN(tei, '\t', nbTag);
-                    tei.append("<petitioner_lawyer>\n");
+                    tei.append("<petitioner_lawyers>\n");
                     this.appendAffiliation(tei, nbTag + 1, aff, config, lexicon);
                     TextUtilities.appendN(tei, '\t', nbTag);
-                    tei.append("</petitioner_lawyer>\n");
+                    tei.append("</petitioner_lawyers>\n");
                 }
             }
         } else if (affiliation != null) {
@@ -5808,9 +5808,9 @@ public class BiblioItem {
             while (st2.hasMoreTokens()) {
                 String aff = st2.nextToken();
                 TextUtilities.appendN(tei, '\t', nbTag);
-                tei.append("<petitioner_lawyer>\n");
+                tei.append("<petitioner_lawyers>\n");
                 TextUtilities.appendN(tei, '\t', nbTag+1);
-                tei.append("<petitioner_lawyer>\n");
+                tei.append("<petitioner_lawyers>\n");
                 TextUtilities.appendN(tei, '\t', nbTag+2);
                 tei.append("<orgName>" + TextUtilities.HTMLEncode(aff) + "</orgName>\n");
                 if (nbAddresses == nbAffiliations) {
@@ -5833,7 +5833,7 @@ public class BiblioItem {
                 tei.append("</affiliation>\n");
 
                 TextUtilities.appendN(tei, '\t', nbTag);
-                tei.append("</petitioner_lawyer>\n");
+                tei.append("</petitioner_lawyers>\n");
 
                 affiliationRank++;
             }
@@ -5923,7 +5923,7 @@ public class BiblioItem {
 					}
 
                     TextUtilities.appendN(tei, '\t', nbTag);
-                    tei.append("<respondent_lawer");
+                    tei.append("<respondent_lawyers");
 
                     if (autRank == contactAut) {
                         tei.append(" role=\"corresp\">\n");
@@ -5960,7 +5960,7 @@ public class BiblioItem {
                     }
 
                     TextUtilities.appendN(tei, '\t', nbTag);
-                    tei.append("</respondent_lawyer>\n");
+                    tei.append("</respondent_lawyers>\n");
                     autRank++;
                 }
             }
@@ -5973,10 +5973,10 @@ public class BiblioItem {
                 if (aff.getFailAffiliation()) {
                     // dummy <author> for TEI conformance
                     TextUtilities.appendN(tei, '\t', nbTag);
-                    tei.append("<respondent_lawyer>\n");
+                    tei.append("<respondent_lawyers>\n");
                     this.appendAffiliation(tei, nbTag + 1, aff, config, lexicon);
                     TextUtilities.appendN(tei, '\t', nbTag);
-                    tei.append("</respondent_lawyer>\n");
+                    tei.append("</respondent_lawyers>\n");
                 }
             }
         } else if (affiliation != null) {
@@ -5985,9 +5985,9 @@ public class BiblioItem {
             while (st2.hasMoreTokens()) {
                 String aff = st2.nextToken();
                 TextUtilities.appendN(tei, '\t', nbTag);
-                tei.append("<respondent_lawyer>\n");
+                tei.append("<respondent_lawyers>\n");
                 TextUtilities.appendN(tei, '\t', nbTag+1);
-                tei.append("<respondent_lawyer>\n");
+                tei.append("<respondent_lawyers>\n");
                 TextUtilities.appendN(tei, '\t', nbTag+2);
                 tei.append("<orgName>" + TextUtilities.HTMLEncode(aff) + "</orgName>\n");
                 if (nbAddresses == nbAffiliations) {
@@ -6010,7 +6010,7 @@ public class BiblioItem {
                 tei.append("</affiliation>\n");
 
                 TextUtilities.appendN(tei, '\t', nbTag);
-                tei.append("</respondent_lawyer>\n");
+                tei.append("</respondent_lawyers>\n");
 
                 affiliationRank++;
             }

@@ -6,22 +6,33 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				DATED:
+			</extra>
 			<judgement_date>
-				DATED: 27.10.2021 CORAM
+				27.10.2021
 				<lb />
 			</judgement_date>
-			<judge>
-				THE HON&apos;BLE Mr.JUSTICE M.SUNDAR
+			<extra>
+				CORAM
 				<lb />
-			</judge>
-			<case_number>
+				THE
+			</extra>
+			<judges>
+				HON&apos;BLE Mr.JUSTICE M.SUNDAR
+				<lb />
+			</judges>
+			<case_numbers>
 				W.P.Nos.23053, 23055, 23056 and 23058 of 2021
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				S.Sakthivel,
 				<lb />
@@ -142,20 +153,20 @@
 				:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.K.Selvaraj
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents in all W.P.s
 				<lb />
 				:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.K.Sathishkumar
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				standing counsel for
 				<lb />

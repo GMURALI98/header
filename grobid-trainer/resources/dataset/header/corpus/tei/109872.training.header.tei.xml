@@ -17,12 +17,14 @@
 				CIVIL APPELLATE JURISDICTION
 			</extra>
 			<lb />
-			<case_number>
+			<case_numbers>
 				WRIT PETITION NO. 12156 OF 2019
-			</case_number>
-			<lb />
-			Hanuman Nagar ( Jogeshwari) SRA CHS (Prop.) )
-			<lb />
+				<lb />
+			</case_numbers>
+			<extra>
+				Hanuman Nagar ( Jogeshwari) SRA CHS (Prop.) )
+				<lb />
+			</extra>
 			<petitioner>
 				Through its Chairman -Anant Madhukar Naik, )
 				<lb />
@@ -36,9 +38,9 @@
 				<lb />
 				)
 			</petitioner>
-			<lb />
 			<extra>
 				… Petitioner
+				<lb />
 			</extra>
 			<lb />
 			<extra>
@@ -81,46 +83,46 @@
 				ALONG WITH
 			</extra>
 			<lb />
-			<case_number>
+			<case_numbers>
 				INTERIM APPLICATION (L) NO.96210 OF 2020
-			</case_number>
+			</case_numbers>
 			<lb />
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.D.Nalawade
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				i/b.
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Anil Mishra
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				for the Petitioner.
 			</extra>
 			<lb />
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Jayesh Bhatt
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for Respondent No. 1.
 			</extra>
 			<lb />
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Anoop Patil
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for Respondent No. 2
 			</extra>
 			<lb />
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.P.K.Dhakephalkar,
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Sr. Adv. a/w.
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. J.G.Aradwad (Reddy)
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for Respondent No. 3.
 			</extra>
@@ -129,16 +131,27 @@
 				2/36
 			</page>
 			<lb />
-			<judge>
-				CORAM : S.J.KATHAWALLA, &amp;
+			<extra>
+				CORAM :
+			</extra>
+			<judges>
+				S.J.KATHAWALLA, &amp;
 				<lb />
 				R.I.CHAGLA, JJ.
-			</judge>
+			</judges>
 			<lb />
+			<extra>
+				RESERVED ON :
+			</extra>
 			<judgement_date>
-				RESERVED ON : 15TH DECEMBER, 2020
+				15TH DECEMBER, 2020
 				<lb />
-				PRONOUNCED ON : 29TH APRIL, 2021
+			</judgement_date>
+			<extra>
+				PRONOUNCED ON :
+			</extra>
+			<judgement_date>
+				29TH APRIL, 2021
 			</judgement_date>
 			<lb />
 			<extra>

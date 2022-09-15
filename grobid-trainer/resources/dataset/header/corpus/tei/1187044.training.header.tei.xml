@@ -6,17 +6,20 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE SPECIAL COURT &lt;TRIAL OF OFFENCES RELATING
+				SPECIAL COURT &lt;TRIAL OF OFFENCES RELATING
 				/
 				<lb />
 				TO TRANSACTIONS IN SECURITIES&gt; AT BOMBAY.
 				<lb />
 			</court>
-			<case_number>
+			<case_numbers>
 				SPECIAL CASE N0.1 OF 1993
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Central Bureau of Investigation
 				<lb />
@@ -54,72 +57,78 @@
 				. .. Accused . •
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.V.G.Pradhan with Mr.R.S.Mhamane, Special P.P. for
 				•
 				<lb />
 				C.B.I.
 				<lb />
-			</petitioner_lawyer>
-			<respondent_lawyer>
+			</petitioner_lawyers>
+			<respondent_lawyers>
 				Mr.Sunil Kale i/b. Mis.Mehta Girdharilal &amp; Co.
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for
 				<lb />
 				Accused no. 1.
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.L.R.Chari with MR.Ketkar � Mr.Unnikrishnan
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, for
 				<lb />
 				Accused no.2.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Ajay Khandar
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for accused no.4 and 9.
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Amal Chaugule i/b. M/s.Neena Chaugule &amp; Co.
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for
 				<lb />
 				Accused no.5.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Amol Chaugule with Mr.Ajit Karwande
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, for Accused
 				<lb />
 				nos. 6 P..-. 7.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.M.Janardhan
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, for Accused no.8.
 				<lb />
 			</extra>
-			<judge>
-				CORAM: O.K.DESHMUkH, J.
+			<extra>
+				CORAM:
+			</extra>
+			<judges>
+				O.K.DESHMUkH, J.
 				<lb />
-			</judge>
+			</judges>
+			<extra>
+				DATEU:
+			</extra>
 			<judgement_date>
-				DATEU: 9th, June, 2005.
+				9th, June, 2005.
 				<lb />
 			</judgement_date>
 		</front>

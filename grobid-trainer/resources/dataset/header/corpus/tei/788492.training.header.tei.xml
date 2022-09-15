@@ -6,28 +6,37 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE 
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				DATE:
+			</extra>
 			<judgement_date>
-				DATE: 07.10.2021
+				 07.10.2021
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
-				THE HONOURABLE MR.JUSTICE M.SUNDAR
+				THE
+			</extra>
+			<judges>
+				 HONOURABLE MR.JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P.No.19714 of 2021
 				<lb />
 				and
 				<lb />
 				W.M.P.No.20983 of 2021
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Manish B Shah
 				<lb />
@@ -101,28 +110,28 @@
 				<lb />
 				:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.V.Raghavachari
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents :
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.R.Shanmugasundaram,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocate General
 				<lb />
 				assisted by
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.NRR.Arun Natarajan
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Government Advocate
 				<lb />

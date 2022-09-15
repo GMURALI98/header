@@ -6,22 +6,34 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				Reserved on:
+			</extra>
 			<judgement_date>
-				Reserved on: 08.04.2021
+				08.04.2021
 				<lb />
 			</judgement_date>
+			<extra>
+				Pronounced on:
+			</extra>
 			<judgement_date>
-				Pronounced on: 19.04.2021
+				19.04.2021
 				<lb />
 			</judgement_date>
-			<judge>
-				CORAM THE HONOURABLE DR.JUSTICE G.JAYACHANDRAN
+			<extra>
+				CORAM THE
+			</extra>
+			<judges>
+				HONOURABLE DR.JUSTICE G.JAYACHANDRAN
 				<lb />
-			</judge>
+			</judges>
 			<extra>
 				Original Application No.16 of 2021
 				<lb />
@@ -98,10 +110,10 @@
 				<lb />
 				:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.Satish Parasaran
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Sr.Counsel
 				<lb />
@@ -112,10 +124,10 @@
 				<lb />
 				:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.S.Karthikei Balan
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				--------
 				<lb />

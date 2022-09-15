@@ -9,50 +9,55 @@
 			<court>
 				HIGH COURT OF SIKKIM
 				<lb />
+			</court>
+			<extra>
 				Record of Proceedings through Video Conferencing
 				<lb />
-			</court>
+			</extra>
 			<page>
 				Page-1 of 3
 				<lb />
 			</page>
-			<case_number>
+			<case_numbers>
 				W.P. (PIL) No.07 of 2020
 				<lb />
-				<case_number>
-					<petitioner>
-						SIKKIM DRUG USERS FORUM
-						<lb />
-					</petitioner>
-					<extra>
-						…PETITIONER
-						<lb />
-					</extra>
-					<extra>
-						VERSUS
-						<lb />
-					</extra>
-					<respondent>
-						STATE OF SIKKIM AND ORS.
-						<lb />
-					</respondent>
-					<extra>
-						…RESPONDENTS
-						<lb />
-					</extra>
-					<judgement_date>
-						Date: 15.10.2020
-						<lb />
-					</judgement_date>
-					<judge>
-						CORAM:
-						<lb />
-						HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
-						<lb />
-						HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN, JUDGE
-					</judge>
-				</case_number>
-			</case_number>
+			</case_numbers>
+			<petitioner>
+				SIKKIM DRUG USERS FORUM
+				<lb />
+			</petitioner>
+			<extra>
+				…PETITIONER
+				<lb />
+			</extra>
+			<extra>
+				VERSUS
+				<lb />
+			</extra>
+			<respondent>
+				STATE OF SIKKIM AND ORS.
+				<lb />
+			</respondent>
+			<extra>
+				…RESPONDENTS
+				<lb />
+			</extra>
+			<extra>
+				Date:
+			</extra>
+			<judgement_date>
+				15.10.2020
+				<lb />
+			</judgement_date>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
+				<lb />
+				HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN, JUDGE
+			</judges>
 		</front>
 	</text>
 </tei>

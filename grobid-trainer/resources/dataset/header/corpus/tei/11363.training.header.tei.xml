@@ -6,22 +6,32 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
-				<lb />
-				%
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
-			<judgement_date>
-				Decided on: 29.01.2020
+			<extra>
+				%
 				<lb />
-				+
+			</extra>
+			<extra>
+				Decided on:
+			</extra>
+			<judgement_date>
+				29.01.2020
 				<lb />
 			</judgement_date>
-			<case_number>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
 				W.P.(C) 1125/2020 &amp; CM APPL. 3733/2020
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				NEERAJ KASHYAP
 				<lb />
@@ -34,10 +44,10 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Sarfaraz Khan
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Advocate.
 				<lb />
@@ -58,11 +68,13 @@
 				Through:
 				<lb />
 			</extra>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE NAJMI WAZIRI
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>

@@ -14,24 +14,32 @@
 				$~44
 				<lb />
 			</extra>
-			<court>
+			<extra>
 				*
 				<lb />
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
+			<extra>
+				Date of Decision:
+			</extra>
 			<judgement_date>
-				Date of Decision: 19 th February, 2021
+				19 th February, 2021
 				<lb />
 			</judgement_date>
-			<case_number>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				W.P. (C) 2297/2021 &amp; CM APPLs.6685/2021, 6686/2021,
 				<lb />
 				6687/2021
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				DISHA A. RAVI
 				<lb />
@@ -43,22 +51,22 @@
 			<extra>
 				Through:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Akhil Sibal
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Sr. Advocate with
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Ms. Vrinda Bhandari, Mr. Abhinav
 				<lb />
 				Sekhri, Ms. Sanjana Srikumar, Mr.
 				<lb />
 				Krishnesh Sapat &amp; Ms. Sonali Malik,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocates (M-8826571429)
 				<lb />
@@ -79,7 +87,7 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Tushar Mehta, Solicitor General,
 				<lb />
 				Mr. S.V. Raju, ASG with Mr. Amit
@@ -98,12 +106,12 @@
 				<lb />
 				Singh and Mr. Anshuman Singh,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocates for R-1
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Chetan Sharma, ASG and Mr.
 				<lb />
 				Ajay Digpaul, CGSC with Mr. Amit
@@ -113,64 +121,66 @@
 				Garg, Mr. Akshay Gadeock &amp; Mr.
 				<lb />
 				R.V. Prabhat
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocates for R-
 				<lb />
 				2/UOI.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms. Nisha Bhambhani and Mr. Rahul
 				<lb />
 				Bhatia
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocates for R-3.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Mrinal Bharti, Mr. Sumant De
 				<lb />
 				and Mr. Manish Shekhar,
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocates
 				<lb />
 				for R-4. (M:8527099904)
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Hrishikesh Baruah, Mr. Pranav
 				<lb />
 				Jain, Ms. Mehma Kaur &amp; Ms.
 				<lb />
 				Radhika Gupta
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocates for R-5.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Kunal Tandon, Mr. Kumar
 				<lb />
 				Shashank Shekhar and Mr. Amandeep
 				<lb />
 				Singh
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocates for R-6.
 				<lb />
 			</extra>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				JUSTICE PRATHIBA M. SINGH
 				<lb />
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>

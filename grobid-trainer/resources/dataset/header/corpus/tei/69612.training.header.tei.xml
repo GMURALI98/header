@@ -5,27 +5,37 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
-			<judgement_date>
+			<extra>
 				%
 				<lb />
-				Date of decision: 15 th November, 2018.
+				Date of decision:
+			</extra>
+			<judgement_date>
+				15 th November, 2018.
 				<lb />
 			</judgement_date>
-			<case_number>
+			<extra>
 				+
+			</extra>
+			<case_numbers>
 				<lb />
 				CS(COMM) 1512/2016 &amp; IAs No.14230/2016
+			</case_numbers>
+			<extra>
 				(of the plaintiff u/O
 				<lb />
 				XXXIX R-1&amp;2 CPC) &amp; 13699/2018 (of the plaintiff u/O XXXIX
 				<lb />
 				R-2A CPC)
 				<lb />
-			</case_number>
+			</extra>
 			<petitioner>
 				ITC LIMITED
 				<lb />
@@ -38,7 +48,7 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Sandeep Sethi, Sr. Adv. with Mr.
 				<lb />
 				Sudeep Chatterjee, Ms. Nupur Lamba,
@@ -47,7 +57,7 @@
 				<lb />
 				Aishwarya Chaturvedi
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Advs.
 			</extra>
@@ -67,32 +77,34 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms. Dimple Vivek
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Adv. for
 				<lb />
 				D-1,5,6&amp;7.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Akhilesh Dixit and Ms. Karuna
 				<lb />
 				Sharma,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advs. for D-2,3,4&amp;8.
 				<lb />
 			</extra>
-			<judge>
-				<lb />
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
+				<lb />
 				HON&apos;BLE MR. JUSTICE RAJIV SAHAI ENDLAW
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>

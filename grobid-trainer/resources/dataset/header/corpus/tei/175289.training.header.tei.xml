@@ -14,12 +14,12 @@
 				Record of Proceedings through Video Conferencing
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				WA No.
 				
 				01 of 2017
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				M/S. NEKTOR ENGINEERS AND PROJECT CONSULTANTS
 				<lb />
@@ -40,17 +40,22 @@
 				...RESPONDENTS
 				<lb />
 			</extra>
+			<extra>
+				Date:
+			</extra>
 			<judgement_date>
-				Date: 17.10.2020
+				17.10.2020
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
 				<lb />
 				HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN, JUDGE
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>

@@ -5,26 +5,34 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				Dated:
+			</extra>
 			<judgement_date>
-				Dated: 01.02.2019
+				01.02.2019
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
+			</extra>
+			<judges>
 				THE HON&apos;BLE MR.JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				C.S.No.838 of 2018
 				<lb />
 				and O.A.No.1138 of 2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				M/s.Bombay Pen Depot,
 				<lb />
@@ -93,65 +101,63 @@
 				to pass off.
 			</extra>
 			<extra>
-				<extra>
-					b) directing the defendants to surrender to the plaintiff all the
-					<lb />
-					STATIONERYGOODS packing material, cartons, advertisement materials and
-					<lb />
-					hoardings, letter-heads, visiting cards, office stationery and all other materials
-					<lb />
-					containing/bearing the trade mark PENTONIC or other deceptively similar trade
-					<lb />
-					marks in respect of above.
-					<lb />
-				</extra>
-				<extra>
-					c) For a preliminary decree in favour of the plaintiff, directing the
-					<lb />
-					Defendants to render an account of profits made by them by the use of the
-					<lb />
-					Trade Mark PENTONIC on the good referred and for a final decree in favour of
-					<lb />
-					the plaintiff for the amount of the profits found to have been made by the
-					<lb />
-					Defendants, after the Defendants have rendered accounts
-					<lb />
-				</extra>
-				<extra>
-					d) directing the Defendant to pay to the Plaintiff the costs to the suit,
-					<lb />
-					and
-					<lb />
-				</extra>
-				<extra>
-					e) Pass such further or other order, as this Court may deem fit and
-					<lb />
-					proper in the circumstances of the case and thus render justice.
-					<lb />
-				</extra>
-				<extra>
-					For Plaintiff :
-					<lb />
-				</extra>
-				<petitioner_lawyer>
-					Ms.J.vennila
-					<lb />
-				</petitioner_lawyer>
-				<extra>
-					For Defendants :
-					<lb />
-				</extra>
-				<respondent_lawyer>
-					Mr.P.V.Balasubramaniam and
-					<lb />
-					Mr. Kirowjtt B.Masumder
-					<lb />
-				</respondent_lawyer>
-				<document_type>
-					JUDGMENT
-					<lb />
-				</document_type>
+				b) directing the defendants to surrender to the plaintiff all the
+				<lb />
+				STATIONERYGOODS packing material, cartons, advertisement materials and
+				<lb />
+				hoardings, letter-heads, visiting cards, office stationery and all other materials
+				<lb />
+				containing/bearing the trade mark PENTONIC or other deceptively similar trade
+				<lb />
+				marks in respect of above.
+				<lb />
 			</extra>
+			<extra>
+				c) For a preliminary decree in favour of the plaintiff, directing the
+				<lb />
+				Defendants to render an account of profits made by them by the use of the
+				<lb />
+				Trade Mark PENTONIC on the good referred and for a final decree in favour of
+				<lb />
+				the plaintiff for the amount of the profits found to have been made by the
+				<lb />
+				Defendants, after the Defendants have rendered accounts
+				<lb />
+			</extra>
+			<extra>
+				d) directing the Defendant to pay to the Plaintiff the costs to the suit,
+				<lb />
+				and
+				<lb />
+			</extra>
+			<extra>
+				e) Pass such further or other order, as this Court may deem fit and
+				<lb />
+				proper in the circumstances of the case and thus render justice.
+				<lb />
+			</extra>
+			<extra>
+				For Plaintiff :
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Ms.J.vennila
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For Defendants :
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.P.V.Balasubramaniam and
+				<lb />
+				Mr. Kirowjtt B.Masumder
+				<lb />
+			</respondent_lawyers>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
 		</front>
 	</text>
 </tei>

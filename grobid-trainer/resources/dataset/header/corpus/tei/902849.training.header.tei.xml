@@ -10,25 +10,33 @@
 				Page 1 of 9
 				<lb />
 			</page>
-			<court>
+			<extra>
 				*
 				<lb />
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
+			<extra>
+				Date of decision:
+			</extra>
 			<judgement_date>
-				Date of decision: 26 th APRIL, 2022
+				26 th APRIL, 2022
 				<lb />
 			</judgement_date>
 			<extra>
 				IN THE MATTER OF:
 				<lb />
 			</extra>
-			<case_number>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				W.P.(C) 9393/2020
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				SANDESH
 				<lb />
@@ -41,13 +49,13 @@
 				Through
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Choudhary Ali Zia Kabir,
 				<lb />
 				Mr.Haider Ali, Mr. Jimut Mohapatra,
 				<lb />
 				Mr. Vinod Kumar,
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocates
 				<lb />
@@ -68,28 +76,30 @@
 				Through
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Ashim Vachher
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Standing
 				<lb />
 				Counsel with
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Paritosh Dhawan,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocate for DDA.
 				<lb />
 			</extra>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE SUBRAMONIUM PRASAD
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>

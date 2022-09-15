@@ -6,28 +6,37 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE 
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				DATED :
+			</extra>
 			<judgement_date>
-				DATED : 03.01.2017
+				 03.01.2017
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
-				THE HON&apos;BLE MR.SANJAY KISHAN KAUL, CHIEF JUSTICE
+				THE 
+			</extra>
+			<judges>
+				HON&apos;BLE MR.SANJAY KISHAN KAUL, CHIEF JUSTICE
 				<lb />
 				AND
 				<lb />
 				THE HON&apos;BLE MR.JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P.No.17368 of 2014
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				D.Thangamani
 				<lb />
@@ -133,21 +142,21 @@
 				<lb />
 				:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.Abdul Majeed
 				<lb />
 				M/s.G.Sumitra
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents
 				<lb />
 				:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms.Vasudha Thiyagarajan
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Addl. Government Pleader
 				<lb />

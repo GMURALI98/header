@@ -6,8 +6,11 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+					THE 
+			</extra>
 			<court>
-				THE HIGH COURT OF SIKKIM : GANGTOK
+				HIGH COURT OF SIKKIM : GANGTOK
 				<lb />
 			</court>
 			<extra>
@@ -18,21 +21,24 @@
 				--------------------------------------------------------------------------------------------------------------------------------
 				<lb />
 			</extra>
-			<judge>
+			<extra>
 				DIVISION BENCH :
 				<lb />
+			</extra>
+			<judges>
+				
 				THE HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
 				<lb />
 				THE HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI, JUDGE
 				<lb />
-			</judge>
+			</judges>
 			<extra>
 				--------------------------------------------------------------------------------------------------------------------------------
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				Crl.A. No.19 of 2019
-			</case_number>
+			</case_numbers>
 			<extra>
 				Appellant
 				<lb />
@@ -67,17 +73,17 @@
 				--------------------------------------------------------------------------------------Appearance
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. D. K. Siwakoti
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Legal Aid Counsel for the Appellant.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. S. K. Chettri
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Additional Public Prosecutor for the State-
 				<lb />

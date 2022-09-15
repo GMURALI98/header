@@ -6,34 +6,42 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				BEFORE THE
+			</extra>
 			<court>
-				BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+				MADURAI BENCH OF MADRAS HIGH COURT
 				<lb />
 			</court>
+			<extra>
+				DATE:
+			</extra>
 			<judgement_date>
-				DATE: 21.01.2022
+				21.01.2022
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
+			</extra>
+			<judges>
 				THE HON&apos;BLE MRS.JUSTICE V.BHAVANI SUBBAROYAN
 				<lb />
-			</judge>
+			</judges>
 			<extra>
 				For Appellants
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				: Mr.J.Barathan
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents :
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.M.Rajaraman
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<document_type>
 				J U D G M E N T
 				<lb />

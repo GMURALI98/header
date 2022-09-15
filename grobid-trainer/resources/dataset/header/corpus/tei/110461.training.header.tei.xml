@@ -9,13 +9,15 @@
 			<court>
 				IN THE HIGH COURT OF JUDICATURE AT BOMBAY
 				<lb />
+			</court>
+			<extra>
 				ORDINARY ORIGINAL CIVIL JURISDICTION
 				<lb />
-			</court>
-			<case_number>
+			</extra>
+			<case_numbers>
 				CUSTOMS APPEAL NO.45 OF 2013
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Commissioner of Customs (Export),
 				<lb />
@@ -54,20 +56,18 @@
 				----
 				<lb />
 			</extra>
-			<petitioner_lawyer>
-				<docAuthor>
-					Ms. P.S. Cardozo a/w. Ms. Maya Majumdar
-					<lb />
-				</docAuthor>
+			<petitioner_lawyers>
+				Ms. P.S. Cardozo a/w. Ms. Maya Majumdar
+				<lb />
 				<extra>
 					for appellant.
 					<lb />
 				</extra>
-				<respondent_lawyer>
+				<respondent_lawyers>
 					Mr. Rafique Dada, Senior Advocate a/w. Mr. Jaydeep Patel, Mr. Zubair Dada,
 					<lb />
 					Ms. Shilpa Balani and Ms. Parnari Shingala i/b. A.S. Dayal
-				</respondent_lawyer>
+				</respondent_lawyers>
 				<extra>
 					and Associates for
 					<lb />
@@ -78,24 +78,30 @@
 					----
 					<lb />
 				</extra>
-				<judge>
+				<judges>
 					CORAM :
 					
 					K.R. SHRIRAM &amp; AMIT B. BORKAR, JJ.
 					<lb />
-				</judge>
+				</judges>
+				<extra>
+					RESERVED ON :
+				</extra>
 				<judgement_date>
-					RESERVED ON : 9 th DECEMBER 2021
+					9 th DECEMBER 2021
 					<lb />
 				</judgement_date>
+				<extra>
+					PRONOUNCED ON :
+				</extra>
 				<judgement_date>
-					PRONOUNCED ON : 20 th DECEMBER 2021
+					20 th DECEMBER 2021
 					<lb />
 				</judgement_date>
 				<document_type>
 					ORAL JUDGMENT : (PER K.R. SHRIRAM, J.)
 				</document_type>
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 		</front>
 	</text>
 </tei>

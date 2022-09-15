@@ -10,24 +10,32 @@
 				Page 1 of 74
 				<lb />
 			</page>
-			<court>
+			<extra>
 				$~S~
 				<lb />
 				*
 				<lb />
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
+			<extra>
+				Date of decision:
+			</extra>
 			<judgement_date>
-				Date of decision: 4 th February, 2022
+				4 th February, 2022
 				<lb />
 			</judgement_date>
-			<case_number>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CRL.A. 811/2013
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				DEEPAK @ DEEPU
 				<lb />
@@ -39,21 +47,23 @@
 			<extra>
 				Through:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Siddharth Aggarwal
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Senior Advocate along with
 			</extra>
-			Mr. Vikas
-			<lb />
-			Padora, Mr. Vishwajeet Singh, Mr.
-			<lb />
-			Divyank Tyagi, Mr. Dipanshu
-			<lb />
-			Chugh, Mr. Tushar Mawkin,
-			<lb />
+			<petitioner_lawyers>
+				Mr. Vikas
+				<lb />
+				Padora, Mr. Vishwajeet Singh, Mr.
+				<lb />
+				Divyank Tyagi, Mr. Dipanshu
+				<lb />
+				Chugh, Mr. Tushar Mawkin,
+				<lb />
+			</petitioner_lawyers>
 			<extra>
 				Advocates.
 				<lb />
@@ -74,20 +84,20 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Ashish Dutta, APP for the
 				<lb />
 				State along with S.I. Ajeet Kumar,
 				<lb />
 				P.S.: Neb Sarai.
 				<lb />
-			</respondent_lawyer>
-			<case_number>
+			</respondent_lawyers>
+			<case_numbers>
 				+
 				<lb />
 				CRL.A. 1485/2013
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				RAJESH @ PARVEEN
 				<lb />
@@ -99,35 +109,35 @@
 			<extra>
 				Through:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. G. Tushar Rao
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Senior
 				
 				Advocate along with
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. B.
 				<lb />
 				Badrinath
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Advocate (DHCLSC)
 				<lb />
 				along with
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Mayank Sharma,
 				<lb />
 				Ms. Sharavena Raghul &amp; Mr.
 				<lb />
 				Dhruv Bhardwaj
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Advocates.
 				<lb />
@@ -148,10 +158,10 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Ashish Dutta
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, APP for the
 				<lb />
@@ -163,12 +173,12 @@
 				P.S.: Neb Sarai.
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				+
 				<lb />
 				CRL.A. 1501/2013
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				DILIP @ KARAN
 				<lb />
@@ -181,10 +191,10 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. S.B. Dandapani,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocate.
 				<lb />
@@ -201,18 +211,18 @@
 				STATE
 				<lb />
 			</respondent>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				..... Respondent
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Ashish Dutta
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, APP for the
 				<lb />
@@ -224,12 +234,12 @@
 				P.S.: Neb Sarai.
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				+
 				<lb />
 				CRL.A. 1570/2013
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				REENA YADAV
 				<lb />
@@ -242,9 +252,9 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Ms. Inderjeet Sidhu
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Advocate
 				<lb>
@@ -253,11 +263,11 @@
 				(DHCLSC) along with
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Ms.
 				<lb />
 				Praavita Kashyap,
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocate on
 				<lb />
@@ -282,10 +292,10 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Ashish Dutta
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, APP for the
 				<lb />
@@ -294,12 +304,12 @@
 				P.S.: Neb Sarai.
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				+
 				<lb />
 				CRL.A. 88/2014
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				STATE
 				<lb />
@@ -311,10 +321,10 @@
 			<extra>
 				Through:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Ashish Dutta,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				APP for the
 				<lb />
@@ -339,10 +349,10 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms. Inderjeet Sidhu,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocate
 				<lb />
@@ -361,24 +371,26 @@
 				Advocate for R-1.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Nikhilesh Kumar, Mr. Priyank
 				<lb />
 				Jain &amp; Mr. Rishab,
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocates for
 				<lb />
 				R-2.
 				<lb />
 			</extra>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE SIDDHARTH MRIDUL
 				<lb />
 				HON&apos;BLE MR. JUSTICE ANUP JAIRAM BHAMBHANI
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>

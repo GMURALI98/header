@@ -6,32 +6,44 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE 
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
-			<judgement_date>
+			<extra>
 				Judgment Reserved on
 				<lb />
+			</extra>
+			<judgement_date>
+				
 				03.08.2021
 				<lb />
 			</judgement_date>
-			<judgement_date>
+			<extra>
 				Judgment Delivered on
 				<lb />
+			</extra>
+			<judgement_date>
+
 				17.08.2021
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
-				THE HONOURABLE MR.JUSTICE R.SUBRAMANIAN
+				THE
+			</extra>
+			<judges>
+				 HONOURABLE MR.JUSTICE R.SUBRAMANIAN
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				C.S.No.878 of 2015
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				1.Kanni Uvaraj
 				<lb />
@@ -171,10 +183,10 @@
 				For Plaintiffs :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.K.Sukumaran
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				for Mr.K.Rajasekaran
 				<lb />
@@ -182,10 +194,10 @@
 			<extra>
 				For Defendant :
 			</extra>
-			<respondent_lawyer>
-				: Mr.S.Subbiah,
+			<respondent_lawyers>
+				 Mr.S.Subbiah,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Senior Counsel
 				<lb />

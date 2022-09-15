@@ -14,10 +14,10 @@
 				Record of proceedings through Video Conferencing
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				W. P. (C) No.22 of 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				CHANDRA SHEKHAR GAUTAM &amp; ANR.
 				<lb />
@@ -38,24 +38,28 @@
 				.... RESPONDENTS
 				<lb />
 			</extra>
-			<judgement_date>
+			<extra>
 				Date:
+			</extra>
+			<judgement_date>
 				21.10.2020
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN, J.
 				<lb />
-			</judge>
+			</judges>
 			<extra>
 				For Petitioners :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Ms. Rachhitta Rai
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Advocate.
 				<lb />
@@ -66,17 +70,17 @@
 				No.1
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Vivek Kohli
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocate General.
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms. Yeshi Wangmoo Rinchen
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Government
 				<lb />
@@ -86,10 +90,10 @@
 				For Respondent :
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Simeon Subba
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 		</front>
 	</text>
 </tei>

@@ -6,23 +6,32 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				 HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				Dated : 
+			</extra>
 			<judgement_date>
-				Dated : 07.01.2021
+				07.01.2021
 			</judgement_date>
-			<judge>
+			<extra>
 				Coram
 				<lb />
-				THE HONOURABLE MR. JUSTICE M.SUNDAR
+				THE
+			</extra>
+			<judges>
+				 HONOURABLE MR. JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				O.P.No.493 of 2020
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				M/s.OM Sakthi Travels Private Limited
 				<lb />
@@ -83,12 +92,12 @@
 				For petitioner
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				: Mr.Anand Johnson
 				<lb />
 				for Mr.S.Namasivayam
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<document_type>
 				O R D E R
 			</document_type>

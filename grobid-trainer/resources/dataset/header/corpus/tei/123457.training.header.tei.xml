@@ -9,18 +9,25 @@
 				REPORTABLE
 				<lb />
 			</extra>
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE SUPREME COURT OF INDIA
-				<lb />
-				CRIMINAL APPELLATE JURISDICTION
+				SUPREME COURT OF INDIA
 				<lb />
 			</court>
-			<case_number>
+			<extra>
+				CRIMINAL APPELLATE JURISDICTION
+				<lb />
+			</extra>
+			<case_numbers>
 				CRIMINAL APPEAL NO. 578 OF 2019
 				<lb />
+			</case_numbers>
+			<extra>
 				(Arising out of SLP(Crl.) No.7857 of 2018)
 				<lb />
-			</case_number>
+			</extra>
 			<petitioner>
 				<lb />
 				National Investigation Agency

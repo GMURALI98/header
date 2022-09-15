@@ -6,44 +6,59 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE 
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				RESERVED ON :
+			</extra>
 			<judgement_date>
-				RESERVED ON : 05.11.2019
+				 05.11.2019
 				<lb />
 			</judgement_date>
+			<extra>
+				DELIVERED ON :
+			</extra>
 			<judgement_date>
-				DELIVERED ON : 20.12.2019
+				 20.12.2019
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
-				THE HON&apos;BLE MR. JUSTICE M.SATHYANARAYANAN
+				THE 
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE M.SATHYANARAYANAN
 				<lb />
-			</judge>
+			</judges>
 			<extra>
 				AND
 				<lb />
 			</extra>
-			<judge>
-				THE HON&apos;BLE MR.JUSTICE N.SESHASAYEE
+			<extra>
+				THE 
+			</extra>
+			<judges>
+				HON&apos;BLE MR.JUSTICE N.SESHASAYEE
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P.No.27289 of 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<extra>
 				and
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				WMP.No.26718 of 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Mr.S.Muralidharan
 				<lb />
@@ -100,28 +115,28 @@
 				:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.S.P.Chockalingam
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents
 				<lb />
 				:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.S.V.Vijay Prasanth,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Addl. Govt. Pleader (Forest) for R1
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.T.Ravikumar,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Standing Counsel for CLRI (R2) 1
 				<lb />

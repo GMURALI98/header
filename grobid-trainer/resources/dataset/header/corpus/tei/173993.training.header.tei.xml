@@ -9,18 +9,21 @@
 				REPORTABLE
 				<lb />
 			</extra>
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE SUPREME COURT OF INDIA
+				SUPREME COURT OF INDIA
 				<lb />
 			</court>
 			<extra>
 				CIVIL ORIGINAL/ APPELLATE JURISDICTION
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				WRIT PETITION (C) NO.940/2017
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				BIKRAM CHATTERJI &amp; ORS.
 				<lb />
@@ -41,7 +44,7 @@
 				..RESPONDENT(S)
 				<lb />
 			</extra>
-			<extra>
+			<case_numbers>
 				WRIT PETITION (C) NO.947/2017
 				<lb />
 				WRIT PETITION (C) NO.971/2017
@@ -76,8 +79,6 @@
 				<lb />
 				WRIT PETITION (C) NO.56/2018
 				<lb />
-			</extra>
-			<extra>
 				WRIT PETITION (C) NO.57/2018
 				<lb />
 				WRIT PETITION (C) NO.74/2018
@@ -124,7 +125,7 @@
 				<lb />
 				WRIT PETITION (C) NO.1397/2018
 				<lb />
-			</extra>
+			</case_numbers>
 			<document_type>
 				J U D G M E N T
 				<lb />

@@ -9,26 +9,41 @@
 				1
 				<lb />
 			</page>
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				DATED:
+			</extra>
 			<judgement_date>
-				DATED: 18.10.2016
+				18.10.2016
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM :
 				<lb />
-				The Hon&apos;ble MR.SANJAY KISHAN KAUL, CHIEF JUSTICE AND
+				The
+			</extra>
+			<judges>
+				Hon&apos;ble MR.SANJAY KISHAN KAUL, CHIEF JUSTICE
+			</judges>
+			<extra>
+				AND
 				<lb />
-				The Hon&apos;ble MR.JUSTICE R.MAHADEVAN
+				The
+			</extra>
+			<judges>
+				Hon&apos;ble MR.JUSTICE R.MAHADEVAN
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P. No.14976 of 2015
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				V.Kittu,
 				<lb />
@@ -166,52 +181,52 @@
 					For Petitioner :
 					<lb />
 				</extra>
-				<petitioner_lawyer>
+				<petitioner_lawyers>
 					Mr.A.Ramalingam
 					<lb />
-				</petitioner_lawyer>
+				</petitioner_lawyers>
 				<extra>
 					For Respondents
 					<lb />
 					:
 					<lb />
 				</extra>
-				<respondent_lawyer>
+				<respondent_lawyers>
 					Mr.Su.Srinivasan
 					<lb />
-				</respondent_lawyer>
+				</respondent_lawyers>
 				<extra>
 					Asst. Solicitor General for R1
 					<lb />
 				</extra>
-				<respondent_lawyer>
+				<respondent_lawyers>
 					Mr.T.N.Rajagopalan
 					<lb />
-				</respondent_lawyer>
+				</respondent_lawyers>
 				<extra>
 					Spl. G.P. for R2 to R5
 					<lb />
 				</extra>
-				<respondent_lawyer>
+				<respondent_lawyers>
 					Mr.R.Ravichandran
 					<lb />
-				</respondent_lawyer>
+				</respondent_lawyers>
 				<extra>
 					for R6
 					<lb />
 				</extra>
-				<respondent_lawyer>
+				<respondent_lawyers>
 					Mr.Sathish Parasaran
 					<lb />
-				</respondent_lawyer>
+				</respondent_lawyers>
 				<extra>
 					Senior Counsel for
 					<lb />
 				</extra>
-				<respondent_lawyer>
+				<respondent_lawyers>
 					Mr.S.Parthasarathy
 					<lb />
-				</respondent_lawyer>
+				</respondent_lawyers>
 				<extra>
 					for R8
 					<lb />

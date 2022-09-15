@@ -14,10 +14,10 @@
 				Record of Proceedings through Video Conferencing
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				WP(PIL) No.02 of 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				KALZANG DORJEE LEPCHA
 			</petitioner>
@@ -37,20 +37,25 @@
 				…RESPONDENTS
 				<lb />
 			</extra>
+			<extra>
+				Date:
+			</extra>
 			<judgement_date>
-				Date: 14.09.2020
+				14.09.2020
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
 				<lb />
-			</judge>
-			<judge>
+			</judges>
+			<judges>
 				HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI, JUDGE
 				<lb />
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>

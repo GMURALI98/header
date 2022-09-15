@@ -1,172 +1,244 @@
 <?xml version="1.0"?>
 <tei xml:space="preserve">
-    <teiHeader>
-        <fileDesc xml:id="57339" />
-    </teiHeader>
-    <text xml:lang="en">
-        <front>
-            <lb />
-            <extra>
-                $~
-                <lb />
-                *
-            </extra>
-            <lb />
-            <court>IN THE HIGH COURT OF DELHI AT NEW DELHI</court>
-            <lb />
-            <judgement_date>
-                Reserved on:24 th March, 2021
-                <lb />
-                Decided on: 5 th April, 2021
-            </judgement_date>
-            <lb />
-            <case_number>
-                I.A. 12115/2020 in
-                <lb />
-                +
-                <lb />
-                CS(COMM) 553/2020
-            </case_number>
-            <lb />
-            <petitioner>BRITANNIA INDUSTRIES LTD</petitioner>
-            <lb />
-            <extra>
-                ..... Plaintiff
-                <lb />
-                Through:
-            </extra>
-            <petitioner_lawyer>Mr. Sudhir Chandra</petitioner_lawyer>
-            <extra>and</extra>
-            <petitioner_lawyer>
-                Mr.
-                <lb />
-                Sandeep Sethi,
-            </petitioner_lawyer>
-            <extra>Sr. Advs. assisted by </extra>
-            <petitioner_lawyer>
-                Mr.
-                <lb />
-                Sagar Chandra,
-            </petitioner_lawyer>
-            <petitioner_lawyer>
-                Ms. Ishani Chandra</petitioner_lawyer>
-            <extra>and</extra>
-            <petitioner_lawyer>
-                Ms.
-                <lb />
-                Shubhie Wahi,
-            </petitioner_lawyer>
-            <extra>
-                Advs.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>ITC LTD &amp; ORS.</respondent>
-            <lb />
-            <extra>
-                ..... Defendants
-                <lb />
-                Through:
-            </extra>
-            <respondent_lawyer>Mr. Sajan Poovayya,</respondent_lawyer>
-            <extra>
-                Sr. Adv.
-                <lb />
-                with
-            </extra>
-            <respondent_lawyer>Mr. Saikrishna Rajagopala,</respondent_lawyer>
-            <respondent_lawyer>
-                Mr. Sudeep
-                <lb />
-                Chatterjee,
-            </respondent_lawyer>
-            <respondent_lawyer>Ms. Nupur Lamba,</respondent_lawyer>
-            <respondent_lawyer>
-                Mr.
-                <lb />
-                Pratibhanu Singh
-            </respondent_lawyer>
-            <extra>and</extra>
-            <respondent_lawyer>Mr.Kiratraj Sadana,</respondent_lawyer>
-            <lb />
-            <extra>
-                Advs. for D-1
-            </extra>
-            <lb />
-            <case_number>
-                I.A. 12125/2020 in
-                <lb />
-                +
-                <lb />
-                CS(COMM) 554/2020
-            </case_number>
-            <lb />
-            <petitioner>BRITANNIA INDUSTRIES LTD</petitioner>
-            <lb />
-            <extra>
-                ..... Plaintiff
-                <lb />
-                Through:
-            </extra>
-            <petitioner_lawyer>Mr. Jayant Mehta,</petitioner_lawyer>
-            <extra>Sr. Adv. with</extra>
-            <lb />
-            <petitioner_lawyer>Mr. Sagar Chandra,</petitioner_lawyer>
-            <petitioner_lawyer>Ms. Ishani Chandra</petitioner_lawyer>
-            <extra>and</extra>
-            <lb />
-            <petitioner_lawyer>Ms. Shubhie Wahi,</petitioner_lawyer>
-            <extra>
-                Advs.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>ITC LTD &amp; ORS.</respondent>
-            <lb />
-            <extra>
-                ..... Defendants
-                <lb />
-                Through:
-            </extra>
-            <respondent_lawyer>Mr. Sajan Poovayya,</respondent_lawyer>
-            <extra>
-                Sr. Adv.
-                <lb />
-                with
-            </extra>
-            <respondent_lawyer>Mr. Sudeep Chatterjee,</respondent_lawyer>
-            <respondent_lawyer>
-                Ms. Nupur
-                <lb />
-                Lamba,
-            </respondent_lawyer>
-            <respondent_lawyer>Mr. Pratibhanu Singh </respondent_lawyer>
-            <extra>and</extra>
-            <respondent_lawyer>Mr.</respondent_lawyer>
-            <lb />
-            <case_number>
-                I.A. 12115/2020 in CS(COMM) 553/2020 &amp;
-                <lb />
-                I.A. 12125/2020 in CS(COMM) 554/2020
-            </case_number>
-            <lb />
-            <page>Page 1 of 45</page>
-            <lb />
-            <respondent_lawyer>Kiratraj Sadana,</respondent_lawyer>
-            <extra>Advs. for D-1</extra>
-            <lb />
-            <judge>
-                CORAM:
-                <lb />
-                HON&apos;BLE MR. JUSTICE C.HARI SHANKAR
-            </judge>
-            <lb />
-            <extra>%</extra>
-            <lb />
-            <document_type>J U D G M E N T</document_type>
-            <lb />
-        </front>
-    </text>
+	<teiHeader>
+		<fileDesc xml:id="57339" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<extra>
+				$~
+				<lb />
+				*
+				IN THE
+			</extra>
+			<lb />
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+			</court>
+			<lb />
+			<extra>
+				Reserved on:
+			</extra>
+			<judgement_date>
+				24 th March, 2021
+				<lb />
+			</judgement_date>
+			<extra>
+				Decided on:
+			</extra>
+			<judgement_date>
+				5 th April, 2021
+			</judgement_date>
+			<lb />
+			<case_numbers>
+				I.A. 12115/2020 in
+				<lb />
+				+
+				<lb />
+				CS(COMM) 553/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				BRITANNIA INDUSTRIES LTD
+			</petitioner>
+			<lb />
+			<extra>
+				..... Plaintiff
+				<lb />
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Mr. Sudhir Chandra
+			</petitioner_lawyers>
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Mr.
+				<lb />
+				Sandeep Sethi,
+			</petitioner_lawyers>
+			<extra>
+				Sr. Advs. assisted by
+			</extra>
+			<petitioner_lawyers>
+				Mr.
+				<lb />
+				Sagar Chandra,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Ms. Ishani Chandra
+			</petitioner_lawyers>
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Ms.
+				<lb />
+				Shubhie Wahi,
+			</petitioner_lawyers>
+			<extra>
+				Advs.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				ITC LTD &amp; ORS.
+			</respondent>
+			<lb />
+			<extra>
+				..... Defendants
+				<lb />
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr. Sajan Poovayya,
+			</respondent_lawyers>
+			<extra>
+				Sr. Adv.
+				<lb />
+				with
+			</extra>
+			<respondent_lawyers>
+				Mr. Saikrishna Rajagopala,
+			</respondent_lawyers>
+			<respondent_lawyers>
+				Mr. Sudeep
+				<lb />
+				Chatterjee,
+			</respondent_lawyers>
+			<respondent_lawyers>
+				Ms. Nupur Lamba,
+			</respondent_lawyers>
+			<respondent_lawyers>
+				Mr.
+				<lb />
+				Pratibhanu Singh
+			</respondent_lawyers>
+			<extra>
+				and
+			</extra>
+			<respondent_lawyers>
+				Mr.Kiratraj Sadana,
+			</respondent_lawyers>
+			<lb />
+			<extra>
+				Advs. for D-1
+			</extra>
+			<lb />
+			<case_numbers>
+				I.A. 12125/2020 in
+				<lb />
+				+
+				<lb />
+				CS(COMM) 554/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				BRITANNIA INDUSTRIES LTD
+			</petitioner>
+			<lb />
+			<extra>
+				..... Plaintiff
+				<lb />
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Mr. Jayant Mehta,
+			</petitioner_lawyers>
+			<extra>
+				Sr. Adv. with
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Sagar Chandra,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Ms. Ishani Chandra
+			</petitioner_lawyers>
+			<extra>
+				and
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Ms. Shubhie Wahi,
+			</petitioner_lawyers>
+			<extra>
+				Advs.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				ITC LTD &amp; ORS.
+			</respondent>
+			<lb />
+			<extra>
+				..... Defendants
+				<lb />
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr. Sajan Poovayya,
+			</respondent_lawyers>
+			<extra>
+				Sr. Adv.
+				<lb />
+				with
+			</extra>
+			<respondent_lawyers>
+				Mr. Sudeep Chatterjee,
+			</respondent_lawyers>
+			<respondent_lawyers>
+				Ms. Nupur
+				<lb />
+				Lamba,
+			</respondent_lawyers>
+			<respondent_lawyers>
+				Mr. Pratibhanu Singh
+			</respondent_lawyers>
+			<extra>
+				and
+			</extra>
+			<respondent_lawyers>
+				Mr.
+			</respondent_lawyers>
+			<lb />
+			<case_numbers>
+				I.A. 12115/2020 in CS(COMM) 553/2020 &amp;
+				<lb />
+				I.A. 12125/2020 in CS(COMM) 554/2020
+			</case_numbers>
+			<lb />
+			<page>
+				Page 1 of 45
+			</page>
+			<lb />
+			<respondent_lawyers>
+				Kiratraj Sadana,
+			</respondent_lawyers>
+			<extra>
+				Advs. for D-1
+			</extra>
+			<lb />
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE C.HARI SHANKAR
+			</judges>
+			<lb />
+			<extra>
+				%
+			</extra>
+			<lb />
+			<document_type>
+				J U D G M E N T
+			</document_type>
+			<lb />
+		</front>
+	</text>
 </tei>

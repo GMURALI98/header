@@ -7,26 +7,35 @@
 		<front>
 			1
 			<lb />
+			<extra>
+					IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+					 HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+					DATED :
+			</extra>
 			<judgement_date>
-				DATED : 11.11.2016
+			 11.11.2016
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
-				THE HONOURABLE MR.JUSTICE S.MANIKUMAR
+				THE
+			</extra>
+			<judges>
+				 HONOURABLE MR.JUSTICE S.MANIKUMAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				Writ Petition Nos.1875 and 3652 of 2013
 				<lb />
 				and Connected Miscellaneous Petitions
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Tata Communications Ltd.,
 				<lb />
@@ -103,44 +112,44 @@
 				For Petitioner :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.C.S.Vaidyanathan
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Senior Advocate
 				<lb />
 				( in W.P.No.1875/13) for
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				M/s.K.Harishankar
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Petitioner :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.P.S.Raman
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Senior Advocate
 				<lb />
 				for
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				M/s.Satish Parasaran
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For 1st Respondent
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				: Mr.R.Muthukumaraswamy
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Sr. Advocate
 				<lb />
@@ -154,10 +163,10 @@
 				<lb />
 				:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.V.T.Gopalan
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Senior Advocate,
 				<lb />
@@ -171,26 +180,26 @@
 				<lb />
 				:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.S.Parthasarathy
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Senior Advocate,
 				<lb />
 				for
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				M/s.Fox Mandal &amp; Associates
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				For 4th Respondent
 				<lb />
 				:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.A.L.Somayaji
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Senior Advocate
 				<lb />

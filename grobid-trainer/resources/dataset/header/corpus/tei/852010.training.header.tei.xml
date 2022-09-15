@@ -6,26 +6,35 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE 
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
-			<document_type>
-				DATED 09.01.2020
+			<extra>
+				DATED
+			</extra>
+			<judgement_date>
+				 09.01.2020
 				<lb />
-			</document_type>
-			<judge>
+			</judgement_date>
+			<extra>
 				CORAM
 				<lb />
+			</extra>
+			<judges>
+				
 				THE HONOURABLE MR. JUSTICE M. SATHYANARAYANAN AND
 				<lb />
 				THE HONOURABLE MRS. JUSTICE R.HEMALATHA
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				Cont.P.No.2115/2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				V.Balachandran
 				<lb />
@@ -89,10 +98,10 @@
 				:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.M.Sriram
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For R1
 				<lb />
@@ -110,10 +119,10 @@
 				<lb />
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Thangasivan
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<page>
 				1/21
 				<lb />

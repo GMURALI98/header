@@ -1,942 +1,1292 @@
 <?xml version="1.0"?>
 <tei xml:space="preserve">
-    <teiHeader>
-        <fileDesc xml:id="901672" />
-    </teiHeader>
-    <text xml:lang="en">
-        <front>
-            <lb />
-            <extra>
-                $~
-                <lb />
-                *
-            </extra>
-            <lb />
-            <court>IN THE HIGH COURT OF DELHI AT NEW DELHI</court>
-            <lb />
-            <judgement_date>
-                Reserved on: 7 th October, 2021
-                <lb />
-                Date of decision: 27 th October, 2021
-            </judgement_date>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 5713/2020 &amp; CM APPLs. 20656/2020, 31384/2020 &amp;
-                <lb />
-                4153/2021
-            </case_number>
-            <lb />
-            <petitioner>J K TYRE AND INDUSTRIES LTD.</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Sidharth Luthra,</petitioner_lawyer>
-            <extra>
-                Sr. Advocate
-                <lb />
-                with
-            </extra>
-            <petitioner_lawyer>Ms. Alina Arora,</petitioner_lawyer>
-            <petitioner_lawyer>
-                Ms. Nimrah
-                <lb />
-                Sameen Alvi,
-            </petitioner_lawyer>
-            <petitioner_lawyer> Mr. Parth Singh,</petitioner_lawyer>
-            <petitioner_lawyer>
-                Mr.
-                <lb />
-                Sheezan Hashmi
-            </petitioner_lawyer>
-            <extra>&amp;</extra>
-            <petitioner_lawyer>
-            Mr. Anmol Kheta,
-            </petitioner_lawyer>
-            <lb />
-            <extra>
-                Advocates.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT</respondent>
-            <lb />
-            <extra>
-                ..... Respondent
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Ravi Prakash,</respondent_lawyer>
-            <extra>CGSC with </extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Shruti Shiv Kumar
-            </respondent_lawyer>
-            <extra>and </extra>
-            <respondent_lawyer>
-                Mr. Varun
-                <lb />
-                Agarwal,
-            </respondent_lawyer>
-            <extra>
-                Advocates.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 6499/2020 &amp; CM APPL. 22801/2020
-            </case_number>
-            <lb />
-            <petitioner>KP SANGHVI AND SONS LLP &amp; ANR.</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioners
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Susmit Pushkar,</petitioner_lawyer>
-            <petitioner_lawyer>
-                Mr. Gaurav
-                <lb />
-                Sharma
-            </petitioner_lawyer>
-            <extra>and</extra>
-            <petitioner_lawyer>Ms. Bhavna Mishra,</petitioner_lawyer>
-            <lb />
-            <extra>
-                Advocates. (M:9644751674)
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT</respondent>
-            <lb />
-            <extra>
-                ..... Respondent
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Amit Mahajan,</respondent_lawyer>
-            <extra>CGSC with </extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Ananya Khanna,
-            </respondent_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                (M:9717866618)
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 5855/2020 &amp; CM APPL. 21152/2020
-            </case_number>
-            <lb />
-            <petitioner>SHRI VISHWANATH OVERSEAS</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Awanish Kumar,</petitioner_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT</respondent>
-            <lb />
-            <extra>
-                ..... Respondent
-                <lb />
-                W.P.(C) 5713/2020 &amp; connected matters
-            </extra>
-            <lb />
-            <page>Page 1 of 72</page>
-            <lb />
-            <extra>Through:</extra>
-            <lb />
-            <respondent_lawyer>Mr. Amit Mahajan,</respondent_lawyer>
-            <extra>CGSC with </extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Ananya Khanna,
-            </respondent_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 2331/2021 &amp; CM APPL. 6785/2021
-            </case_number>
-            <lb />
-            <petitioner>PARAS IMPO EXPO PVT LTD</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Varun Singh</petitioner_lawyer>
-            <extra>and</extra>
-            <petitioner_lawyer>Mr. Paras,</petitioner_lawyer>
-            <lb />
-            <extra>
-                Advocates.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT &amp; ANR.</respondent>
-            <extra>
-                ..... Respondents
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Abhay Prakash Sahay,</respondent_lawyer>
-            <extra>CGSC,</extra>
-            <lb />
-            <respondent_lawyer>
-            Mr. Mannu Singh,
-            </respondent_lawyer>
-            <respondent_lawyer>Ms. Swayamprabha</respondent_lawyer>
-            <lb />
-            &amp;
-            <respondent_lawyer>Mr. Kunal Dhawan</respondent_lawyer>
-            <extra>
-                Advocates for R-
-                <lb />
-                1.
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Amit Mahajan,</respondent_lawyer>
-            <extra>CGSC with </extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Ananya Khanna,
-            </respondent_lawyer>
-            <extra>Advocate WITH</extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 4680/2021 &amp; CM APPL. 14443/2021
-            </case_number>
-            <lb />
-            <petitioner>ALOK INDUSTRIES LIMITED</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Ritin Rai,</petitioner_lawyer>
-            <extra>Sr. Advocate with </extra>
-            <petitioner_lawyer>
-                Ms.
-                <lb />
-                Petrushka Dasgupta,
-            </petitioner_lawyer>
-            <petitioner_lawyer>Ms. Nasrin Shaikh</petitioner_lawyer>
-            <lb />
-            <extra>and</extra>
-            <petitioner_lawyer>Mr. Vidit Mehra.</petitioner_lawyer>
-            <lb />
-            <extra>versus</extra>
-            <lb />
-            <respondent>ASSISTANT DIRECTOR, ENFORCEMENT DIRECTORATE</respondent>
-            <lb />
-            <extra>
-                ..... Respondent
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Amit Mahajan,</respondent_lawyer>
-            <extra>CGSC with </extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Ananya Khanna,
-            </respondent_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 5424/2020 &amp; CM APPL. 19579/2020
-            </case_number>
-            <lb />
-            <petitioner>S.N. KAPOOR EXPORTS</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Ajay Bhargava,</petitioner_lawyer>
-            <petitioner_lawyer>
-                Mr. Aseem
-                <lb />
-                Chaturvedi,
-            </petitioner_lawyer>
-            <petitioner_lawyer>Mr. Arvind Kumar Ray</petitioner_lawyer>
-            <lb />
-            <extra>and</extra>
-            <petitioner_lawyer>Mr. Karan Gutpa,</petitioner_lawyer>
-            <extra>
-                Advocates.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT</respondent>
-            <lb />
-            <extra>
-                ..... Respondent
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Amit Mahajan,</respondent_lawyer>
-            <extra>CGSC with</extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Ananya Khanna,
-            </respondent_lawyer>
-            <extra>Advocate.</extra>
-            <lb />
-            <respondent_lawyer>Mr. Deepak Singh,</respondent_lawyer>
-            <extra>
-                Advocate for ICICI
-                <lb />
-                Bank.
-            </extra>
-            <lb />
-            <extra>W.P.(C) 5713/2020 &amp; connected matters</extra>
-            <lb />
-            <page>Page 2 of 72</page>
-            <lb />
-            <extra>WITH</extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 5235/2020 &amp; CM APPL. 18868/2020
-            </case_number>
-            <lb />
-            <petitioner>M/S HAMILTON HOUSEWARES PVT. LTD.</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Vijay Kumar Aggarwal,</petitioner_lawyer>
-            <petitioner_lawyer>
-                Mr. Mudit
-                <lb />
-                Jain,
-            </petitioner_lawyer>
-            <petitioner_lawyer>
-            Mr. Talib Khan,
-            </petitioner_lawyer>
-            <petitioner_lawyer>
-                Mr. Yugant
-                <lb />
-                Sharma
-            </petitioner_lawyer>
-            <petitioner_lawyer>
-            Mr. Hardik Sharma,
-            </petitioner_lawyer>
-            Mr. Parth
-            <lb />
-            Parashar
-            <extra>&amp;</extra>
-            <petitioner_lawyer>
-            Mr. Shekhar Pathak,
-            </petitioner_lawyer>
-            <lb />
-            <extra>
-                Advocates.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT</respondent>
-            <lb />
-            <extra>
-                ..... Respondent
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Ravi Prakash,</respondent_lawyer>
-            <extra>CGSC with </extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Shruti Shiv kumar
-            </respondent_lawyer>
-            <extra>and</extra>
-            <respondent_lawyer>
-                Mr. Varun
-                <lb />
-                Agarwal,
-            </respondent_lawyer>
-            <extra>
-                Advocates.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 5643/2020 &amp; CM APPL. 20442/2020
-            </case_number>
-            <lb />
-            <petitioner>SNB ENTERPRISES PVT. LTD.</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Dr. Surat Singh</petitioner_lawyer>
-            <extra>&amp;</extra>
-            <petitioner_lawyer>
-                Mr. Shobhit Pratap
-                <lb />
-                Singh,
-            </petitioner_lawyer>
-            <extra>
-                Advocates.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT &amp; ANR.</respondent>
-            <lb />
-            <extra>
-                ..... Respondents
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Amit Mahajan,</respondent_lawyer>
-            <extra>CGSC with</extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Ananya Khanna,
-            </respondent_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <extra>
-                +
-                <lb />
-                W.P.(C) 5657/2020 &amp; CM APPL. 20476/2020
-            </extra>
-            <lb />
-            <petitioner>ORBIT EXPORTS LTD.</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Ajay Bhargava,</petitioner_lawyer>
-            <petitioner_lawyer>
-                Mr. Aseem
-                <lb />
-                Chaturvedi,
-            </petitioner_lawyer>
-            <petitioner_lawyer>Mr. Arvind Kumar Ray</petitioner_lawyer>
-            <lb />
-            <extra>and</extra>
-            <petitioner_lawyer>Mr. Karan Gutpa,</petitioner_lawyer>
-            <extra>
-                Advocates.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT</respondent>
-            <lb />
-            <extra>
-                ..... Respondent
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Amit Mahajan,</respondent_lawyer>
-            <extra>CGSC with</extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Ananya Khanna,
-            </respondent_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 5671/2020 &amp; CM APPLs. 20522/2020, 5852/2021
-            </case_number>
-            <lb />
-            <petitioner>SHANTIVIJAY JEWELS LTD.</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Gaurav Nair</petitioner_lawyer>
-            <extra>and</extra>
-            <petitioner_lawyer>
-                Ms. Pranati
-            </petitioner_lawyer>
-            <lb />
-            <extra>W.P.(C) 5713/2020 &amp; connected matters</extra>
-            <lb />
-            <page>Page 3 of 72</page>
-            <lb />
-            <petitioner_lawyer>Bhatnagar,</petitioner_lawyer>
-            <extra>
-                Advocates.(M:9810069969)
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT</respondent>
-            <lb />
-            <extra>
-                ..... Respondent
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Ravi Prakash,</respondent_lawyer>
-            <extra>CGSC with</extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Shruti Shiv kumar
-            </respondent_lawyer>
-            <extra>and</extra>
-            <respondent_lawyer>
-                Mr. Varun
-                <lb />
-                Agarwal,
-            </respondent_lawyer>
-            <extra>
-                Advocates.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 5797/2020 &amp; CM APPL. 20969/2020
-            </case_number>
-            <lb />
-            <petitioner>MAXIS INDUSTRIES</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Varun Singh,</petitioner_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT &amp; ANR.</respondent>
-            <lb />
-            <extra>
-                ..... Respondents
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Manish Mohan,</respondent_lawyer>
-            <extra>CGSC with</extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Manisha Saroha,
-            </respondent_lawyer>
-            <extra>Advocate for R-1.</extra>
-            <lb />
-            <respondent_lawyer>Mr. Amit Mahajan,</respondent_lawyer>
-            <extra>CGSC with</extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Ananya Khanna,
-            </respondent_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 7034/2020 &amp; CM APPL. 23978/2020
-            </case_number>
-            <lb />
-            <petitioner>M/S. BLOSSOM FABRICS LIMITED</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Vivek Sharma,</petitioner_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT</respondent>
-            <lb />
-            <extra>
-                ..... Respondent
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Amit Mahajan,</respondent_lawyer>
-            <extra>CGSC with</extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Ananya Khanna,
-            </respondent_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 7210/2020 &amp; CM APPL. 24370/2020
-            </case_number>
-            <lb />
-            <petitioner>PROMPT INTERNATIONAL</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Ajay Bhargava,</petitioner_lawyer>
-            <petitioner_lawyer>
-                Mr. Aseem
-                <lb />
-                Chaturvedi,
-            </petitioner_lawyer>
-            <petitioner_lawyer>Mr. Arvind Kumar Ray</petitioner_lawyer>
-            <lb />
-            <extra>and</extra>
-            <petitioner_lawyer>Mr. Karan Gutpa,</petitioner_lawyer>
-            <extra>
-                Advocates.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT</respondent>
-            <lb />
-            <extra>
-                ..... Respondent
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Ravi Prakash,</respondent_lawyer>
-            <extra>CGSC with</extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Shruti Shiv kumar
-            </respondent_lawyer>
-            <extra> and </extra>
-            <respondent_lawyer>
-                Mr. Varun
-                <lb />
-                Agarwal,
-            </respondent_lawyer>
-            <extra>
-                Advocates.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 7801/2020 &amp; CM APPL. 25677/2020
-            </case_number>
-            <lb />
-            <extra>W.P.(C) 5713/2020 &amp; connected matters</extra>
-            <lb />
-            <page>Page 4 of 72</page>
-            <lb />
-            <petitioner>M/S MAYA TRADES</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Gaurav Gupta</petitioner_lawyer>
-            <extra> and </extra>
-            <petitioner_lawyer>
-                Mr. Samyak
-                <lb />
-                Gangwal,
-            </petitioner_lawyer>
-            <extra>
-                Advocates. (M:9958444233)
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT</respondent>
-            <lb />
-            <extra>
-                ..... Respondent
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Amit Mahajan,</respondent_lawyer>
-            <extra> CGSC with </extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Ananya Khanna,
-            </respondent_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 7835/2020 &amp; CM APPL. 25731/2020
-            </case_number>
-            <lb />
-            <petitioner>EASTMAN INDUSTRIES LIMITED</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Rahul Jain</petitioner_lawyer>
-            <extra> and </extra>
-            <petitioner_lawyer>
-                Mr. Shubankar
-                <lb />
-                Jha,
-            </petitioner_lawyer>
-            <extra>
-                Advocates.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT NEW DELHI</respondent>
-            <extra>
-                ... Respondent
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Amit Mahajan,</respondent_lawyer>
-            <extra> CGSC with </extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Ananya Khanna,
-            </respondent_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                WITH
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 9384/2020 &amp; CM APPL. 30224/2020
-            </case_number>
-            <lb />
-            <petitioner>M/S SUPRINT TEXTILES JAIPUR PVT LTD</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>None.</petitioner_lawyer>
-            <lb />
-            <extra>versus</extra>
-            <lb />
-            <respondent>UNION OF INDIA &amp; ANR.</respondent>
-            <lb />
-            <extra>
-                ..... Respondents
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Ravi Prakash,</respondent_lawyer>
-            CGSC with
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Shruti Shivkumar
-            </respondent_lawyer>
-            <extra> and </extra>
-            <respondent_lawyer>
-                Mr. Varun
-                <lb />
-                Agarwal,
-            </respondent_lawyer>
-            <extra> Advocates.</extra>
-            <lb />
-            <respondent_lawyer>Mr. Ajay Digpaul,</respondent_lawyer>
-            <extra> CGSC and </extra>
-            <respondent_lawyer>
-                Mr.
-                <lb />
-                Kamal R Digpaul,
-            </respondent_lawyer>
-            <extra>
-                Advocate for UOI.
-                <lb />
-                AND
-            </extra>
-            <lb />
-            <case_number>
-                +
-                <lb />
-                W.P.(C) 9922/2021
-            </case_number>
-            <lb />
-            <petitioner>M/S SUKU INNOVATIVES</petitioner>
-            <lb />
-            <extra>
-                ..... Petitioner
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <petitioner_lawyer>Mr. Varun Singh,</petitioner_lawyer>
-            <extra>
-                Advocate.
-                <lb />
-                versus
-            </extra>
-            <lb />
-            <respondent>DIRECTORATE OF ENFORCEMENT &amp; ANR.</respondent>
-            <lb />
-            <extra>
-                ..... Respondents
-                <lb />
-                Through:
-            </extra>
-            <lb />
-            <respondent_lawyer>Mr. Ravi Prakash,</respondent_lawyer>
-            <extra> CGSC with </extra>
-            <respondent_lawyer>
-                Ms.
-                <lb />
-                Shruti Shiv kumar
-            </respondent_lawyer>
-            <extra> and </extra>
-            <respondent_lawyer>
-                Mr. Varun
-                <lb />
-                Agarwal,
-            </respondent_lawyer>
-            <extra>Advocates.</extra>
-            <lb />
-            <judge>
-                CORAM:
-                <lb />
-                JUSTICE PRATHIBA M. SINGH
-            </judge>
-            <document_type>JUDGMENT</document_type>
-        </front>
-    </text>
+	<teiHeader>
+		<fileDesc xml:id="901672" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<extra>
+				$~
+				<lb />
+				*
+			</extra>
+			<lb />
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Reserved on:
+			</extra>
+			<judgement_date>
+				7 th October, 2021
+				<lb />
+			</judgement_date>
+			<extra>
+				Date of decision:
+				<lb />
+			</extra>
+			<judgement_date>
+				27 th October, 2021
+				<lb />
+			</judgement_date>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 5713/2020 &amp; CM APPLs. 20656/2020, 31384/2020 &amp;
+				<lb />
+				4153/2021
+			</case_numbers>
+			<lb />
+			<petitioner>
+				J K TYRE AND INDUSTRIES LTD.
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Sidharth Luthra,
+			</petitioner_lawyers>
+			<extra>
+				Sr. Advocate
+				<lb />
+				with
+			</extra>
+			<petitioner_lawyers>
+				Ms. Alina Arora,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Ms. Nimrah
+				<lb />
+				Sameen Alvi,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Parth Singh,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr.
+				<lb />
+				Sheezan Hashmi
+			</petitioner_lawyers>
+			<extra>
+				&amp;
+			</extra>
+			<petitioner_lawyers>
+				Mr. Anmol Kheta,
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				Advocates.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondent
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Ravi Prakash,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Shruti Shiv Kumar
+			</respondent_lawyers>
+			<extra>
+				and
+			</extra>
+			<respondent_lawyers>
+				Mr. Varun
+				<lb />
+				Agarwal,
+			</respondent_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+				WITH
+				<lb />
+			</extra>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 6499/2020 &amp; CM APPL. 22801/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				KP SANGHVI AND SONS LLP &amp; ANR.
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioners
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Susmit Pushkar,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Gaurav
+				<lb />
+				Sharma
+			</petitioner_lawyers>
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Ms. Bhavna Mishra,
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				Advocates. (M:9644751674)
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondent
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Amit Mahajan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Ananya Khanna,
+			</respondent_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				(M:9717866618)
+				<lb />
+				WITH
+				<lb />
+			</extra>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 5855/2020 &amp; CM APPL. 21152/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				SHRI VISHWANATH OVERSEAS
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Awanish Kumar,
+			</petitioner_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondent
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 5713/2020
+				<lb />
+			</case_numbers>
+			<extra>
+				&amp; connected matters
+				<lb />
+			</extra>
+			<page>
+				Page 1 of 72
+			</page>
+			<lb />
+			<extra>
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Amit Mahajan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Ananya Khanna,
+			</respondent_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				WITH
+				<lb />
+			</extra>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 2331/2021 &amp; CM APPL. 6785/2021
+			</case_numbers>
+			<lb />
+			<petitioner>
+				PARAS IMPO EXPO PVT LTD
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Varun Singh
+			</petitioner_lawyers>
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Mr. Paras,
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				Advocates.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT &amp; ANR.
+			</respondent>
+			<extra>
+				..... Respondents
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Abhay Prakash Sahay,
+			</respondent_lawyers>
+			<extra>
+				CGSC,
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Mannu Singh,
+			</respondent_lawyers>
+			<respondent_lawyers>
+				Ms. Swayamprabha
+			</respondent_lawyers>
+			<lb />
+			&amp;
+			<respondent_lawyers>
+				Mr. Kunal Dhawan
+			</respondent_lawyers>
+			<extra>
+				Advocates for R-
+				<lb />
+				1.
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Amit Mahajan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Ananya Khanna,
+			</respondent_lawyers>
+			<extra>
+				Advocate WITH
+			</extra>
+			<lb />
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 4680/2021 &amp; CM APPL. 14443/2021
+			</case_numbers>
+			<lb />
+			<petitioner>
+				ALOK INDUSTRIES LIMITED
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Ritin Rai,
+			</petitioner_lawyers>
+			<extra>
+				Sr. Advocate with
+			</extra>
+			<petitioner_lawyers>
+				Ms.
+				<lb />
+				Petrushka Dasgupta,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Ms. Nasrin Shaikh
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Mr. Vidit Mehra.
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				ASSISTANT DIRECTOR, ENFORCEMENT DIRECTORATE
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondent
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Amit Mahajan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Ananya Khanna,
+			</respondent_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				WITH
+				<lb />
+			</extra>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 5424/2020 &amp; CM APPL. 19579/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				S.N. KAPOOR EXPORTS
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Ajay Bhargava,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Aseem
+				<lb />
+				Chaturvedi,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Arvind Kumar Ray
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Mr. Karan Gutpa,
+			</petitioner_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondent
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Amit Mahajan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Ananya Khanna,
+			</respondent_lawyers>
+			<extra>
+				Advocate.
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Deepak Singh,
+			</respondent_lawyers>
+			<extra>
+				Advocate for ICICI
+				<lb />
+				Bank.
+			</extra>
+			<lb />
+			<extra>
+				W.P.(C) 5713/2020
+			</extra>
+			<extra>
+				&amp; connected matters
+				<lb />
+			</extra>
+			<page>
+				Page 2 of 72
+			</page>
+			<lb />
+			<extra>
+				WITH
+			</extra>
+			<lb />
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 5235/2020 &amp; CM APPL. 18868/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				M/S HAMILTON HOUSEWARES PVT. LTD.
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Vijay Kumar Aggarwal,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Mudit
+				<lb />
+				Jain,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Talib Khan,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Yugant
+				<lb />
+				Sharma
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Hardik Sharma,
+				
+				Mr. Parth
+				<lb />
+				Parashar
+				
+				
+				&amp;
+				
+				Mr. Shekhar Pathak,
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondent
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Ravi Prakash,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Shruti Shiv kumar
+			</respondent_lawyers>
+			<extra>
+				and
+			</extra>
+			<respondent_lawyers>
+				Mr. Varun
+				<lb />
+				Agarwal,
+			</respondent_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+				WITH
+			</extra>
+			<lb />
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 5643/2020 &amp; CM APPL. 20442/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				SNB ENTERPRISES PVT. LTD.
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Dr. Surat Singh
+			</petitioner_lawyers>
+			<extra>
+				&amp;
+			</extra>
+			<petitioner_lawyers>
+				Mr. Shobhit Pratap
+				<lb />
+				Singh,
+			</petitioner_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT &amp; ANR.
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondents
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Amit Mahajan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Ananya Khanna,
+			</respondent_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				WITH
+			</extra>
+			<lb />
+			<extra>
+				+
+				<lb />
+			</extra>
+			<extra>
+				W.P.(C) 5657/2020 &amp; CM APPL. 20476/2020
+			</extra>
+			<lb />
+			<petitioner>
+				ORBIT EXPORTS LTD.
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Ajay Bhargava,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Aseem
+				<lb />
+				Chaturvedi,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Arvind Kumar Ray
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Mr. Karan Gutpa,
+			</petitioner_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondent
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Amit Mahajan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Ananya Khanna,
+			</respondent_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				WITH
+			</extra>
+			<lb />
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 5671/2020 &amp; CM APPLs. 20522/2020, 5852/2021
+			</case_numbers>
+			<lb />
+			<petitioner>
+				SHANTIVIJAY JEWELS LTD.
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Gaurav Nair
+			</petitioner_lawyers>
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Ms. Pranati
+			</petitioner_lawyers>
+			<lb />
+			<case_numbers>
+				W.P.(C) 5713/2020
+			</case_numbers>
+			<extra>
+				&amp; connected matters
+				<lb />
+			</extra>
+			<lb />
+			<page>
+				Page 3 of 72
+			</page>
+			<lb />
+			<petitioner_lawyers>
+				Bhatnagar,
+			</petitioner_lawyers>
+			<extra>
+				Advocates.(M:9810069969)
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondent
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Ravi Prakash,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Shruti Shiv kumar
+			</respondent_lawyers>
+			<extra>
+				and
+			</extra>
+			<respondent_lawyers>
+				Mr. Varun
+				<lb />
+				Agarwal,
+			</respondent_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+				WITH
+				<lb />
+			</extra>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 5797/2020 &amp; CM APPL. 20969/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				MAXIS INDUSTRIES
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Varun Singh,
+			</petitioner_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT &amp; ANR.
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondents
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Manish Mohan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Manisha Saroha,
+			</respondent_lawyers>
+			<extra>
+				Advocate for R-1.
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Amit Mahajan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Ananya Khanna,
+			</respondent_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				WITH
+				<lb />
+			</extra>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 7034/2020 &amp; CM APPL. 23978/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				M/S. BLOSSOM FABRICS LIMITED
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Vivek Sharma,
+			</petitioner_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondent
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Amit Mahajan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Ananya Khanna,
+			</respondent_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				WITH
+			</extra>
+			<lb />
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 7210/2020 &amp; CM APPL. 24370/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				PROMPT INTERNATIONAL
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Ajay Bhargava,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Aseem
+				<lb />
+				Chaturvedi,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Mr. Arvind Kumar Ray
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Mr. Karan Gutpa,
+			</petitioner_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondent
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Ravi Prakash,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Shruti Shiv kumar
+			</respondent_lawyers>
+			<extra>
+				and
+			</extra>
+			<respondent_lawyers>
+				Mr. Varun
+				<lb />
+				Agarwal,
+			</respondent_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+				WITH
+			</extra>
+			<lb />
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 7801/2020 &amp; CM APPL. 25677/2020
+			</case_numbers>
+			<lb />
+			<extra>
+				W.P.(C) 5713/2020 &amp; connected matters
+			</extra>
+			<lb />
+			<page>
+				Page 4 of 72
+			</page>
+			<lb />
+			<petitioner>
+				M/S MAYA TRADES
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Gaurav Gupta
+			</petitioner_lawyers>
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Mr. Samyak
+				<lb />
+				Gangwal,
+			</petitioner_lawyers>
+			<extra>
+				Advocates. (M:9958444233)
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondent
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Amit Mahajan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Ananya Khanna,
+			</respondent_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				WITH
+			</extra>
+			<lb />
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 7835/2020 &amp; CM APPL. 25731/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				EASTMAN INDUSTRIES LIMITED
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Rahul Jain
+			</petitioner_lawyers>
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Mr. Shubankar
+				<lb />
+				Jha,
+			</petitioner_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT NEW DELHI
+			</respondent>
+			<extra>
+				... Respondent
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Amit Mahajan,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Ananya Khanna,
+			</respondent_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				WITH
+			</extra>
+			<lb />
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 9384/2020 &amp; CM APPL. 30224/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				M/S SUPRINT TEXTILES JAIPUR PVT LTD
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				None.
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				UNION OF INDIA &amp; ANR.
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondents
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Ravi Prakash,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Shruti Shivkumar
+			</respondent_lawyers>
+			<extra>
+				and
+			</extra>
+			<respondent_lawyers>
+				Mr. Varun
+				<lb />
+				Agarwal,
+			</respondent_lawyers>
+			<extra>
+				Advocates.
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Ajay Digpaul,
+			</respondent_lawyers>
+			<extra>
+				CGSC and
+			</extra>
+			<respondent_lawyers>
+				Mr.
+				<lb />
+				Kamal R Digpaul,
+			</respondent_lawyers>
+			<extra>
+				Advocate for UOI.
+				<lb />
+				AND
+				<lb />
+			</extra>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 9922/2021
+			</case_numbers>
+			<lb />
+			<petitioner>
+				M/S SUKU INNOVATIVES
+			</petitioner>
+			<lb />
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Varun Singh,
+			</petitioner_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				DIRECTORATE OF ENFORCEMENT &amp; ANR.
+			</respondent>
+			<lb />
+			<extra>
+				..... Respondents
+				<lb />
+				Through:
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Ravi Prakash,
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms.
+				<lb />
+				Shruti Shiv kumar
+			</respondent_lawyers>
+			<extra>
+				and
+			</extra>
+			<respondent_lawyers>
+				Mr. Varun
+				<lb />
+				Agarwal,
+			</respondent_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				JUSTICE PRATHIBA M. SINGH
+			</judges>
+			<document_type>
+				JUDGMENT
+			</document_type>
+		</front>
+	</text>
 </tei>

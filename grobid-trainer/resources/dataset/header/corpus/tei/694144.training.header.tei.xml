@@ -6,27 +6,39 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				 HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
-			<judgement_date>
+			<extra>
 				Orders Reserved on :
 				<lb />
+			</extra>
+			<judgement_date>
+
 				21.02.2020
 				<lb />
 			</judgement_date>
+			<extra>
+				Pronouncing orders on :
+			</extra>
 			<judgement_date>
-				Pronouncing orders on : 28.02.2020
+				 28.02.2020
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
-				THE HONOURABLE MR.JUSTICE N.ANAND VENKATESH
+				THE 
+			</extra>
+			<judges>
+				HONOURABLE MR.JUSTICE N.ANAND VENKATESH
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P.Nos.31369
 				<lb />
 				31479, 31494, 31499,
@@ -67,7 +79,7 @@
 				<lb />
 				35315 and 35324 of 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Dr.P.Balakrishnan
 				<lb />
@@ -171,34 +183,34 @@
 				and 32955 of 2019
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.C.Kanagaraju
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				W.P.Nos.32727 and 32730 of 2019
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				M/s.K.C.Karl Marx
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				W.P.No.32909 of 2019
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.M.R.Jothimanian
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				W.P.No.32909 of 2019
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.C.S.K.Sathish
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents :
 				<lb />
@@ -213,10 +225,10 @@
 				Advocate General assisted by
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.A.N.Thambidurai
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Special Government Pleader
 				<lb />

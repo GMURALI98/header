@@ -11,22 +11,27 @@
 				<lb />
 				*
 				<lb />
+				IN THE
 			</extra>
 			<court>
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
-			<judgement_date>
+			<extra>
 				Date of decision:
+			</extra>
+			<judgement_date>
 				20th December, 2021
 				<lb />
 			</judgement_date>
-			<case_number>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CRL.A. 37/2020
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				KAMAL
 				<lb />
@@ -39,10 +44,10 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. C. K. Chaturvedi
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Advocate.
 				<lb />
@@ -63,20 +68,22 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Ashish Dutta
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, APP for the State.
 				<lb />
 			</extra>
-			<case_number>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CRL.A. 140/2020
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				&apos;A&apos;
 				<lb />
@@ -88,21 +95,21 @@
 			<extra>
 				Through:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Chinmoy Pradeep Sharma
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Senior
 				<lb />
 				Advocate with
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Ms. Rakhi Dubey and
 				<lb />
 				Mr. Himanshu Gera
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Advocates.
 				<lb />
@@ -123,22 +130,24 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Ashish Dutta
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, APP for the State.
 				<lb />
 			</extra>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE SIDDHARTH MRIDUL
 				<lb />
 				HON&apos;BLE MR. JUSTICE ANUP JAIRAM BHAMBHANI
 				<lb />
-			</judge>
+			</judges>
 			<document_type>
 				J U D G M E N T
 				<lb />

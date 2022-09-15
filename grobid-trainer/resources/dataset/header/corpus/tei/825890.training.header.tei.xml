@@ -6,29 +6,32 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
-			<case_number>
+			<case_numbers>
 				W.P.(MD)No.25122 of 2019
-			</case_number>
-			<lb />
+				<lb />
+			</case_numbers>
+			<extra>
+				BEFORE THE
+			</extra>
 			<court>
-				BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+				MADURAI BENCH OF MADRAS HIGH COURT
 				<lb />
 			</court>
 			<judgement_date>
 				DATED: 14.02.2022
 				<lb />
 			</judgement_date>
-			<case_number>
+			<case_numbers>
 				W.P.(MD)No.25122 of 2019
-			</case_number>
+			</case_numbers>
 			<lb />
 			<extra>
 				and
 			</extra>
 			<lb />
-			<case_number>
+			<case_numbers>
 				W.M.P.(MD)Nos.21723 of 2019 and 9589 of 2020
-			</case_number>
+			</case_numbers>
 			<lb />
 			<petitioner>
 				T.P.Vanamamalai
@@ -93,18 +96,18 @@
 				<lb />
 				:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.R.Subramanian
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<lb />
 			<extra>
 				For Respondents
 				<lb />
 				:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.D.Sadiq Raja
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<lb />
 			<extra>
 				Additional Government Pleader.

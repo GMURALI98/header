@@ -322,7 +322,7 @@ public class PetitionerlawerParser {
                 if ((line.trim().length() == 0)) {
                     // new author
 					if (head)
-                    	buffer.append("/t<petitioner_lawyer>\n");
+                    	buffer.append("/t<petitioner_lawyers>\n");
 					else {
 						//buffer.append("<petitioner_lawyer>");
 					}

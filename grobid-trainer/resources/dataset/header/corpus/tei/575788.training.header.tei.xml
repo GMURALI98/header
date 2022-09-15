@@ -9,21 +9,30 @@
 				1
 				<lb />
 			</page>
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				 HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				Dated:
+			</extra>
 			<judgement_date>
-				Dated: 30.01.2019
+				 30.01.2019
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
+			</extra>
+			<judges>
+				
 				THE HON&apos;BLE MR.JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				C.S.No.518 of 2018
 				<lb />
 				and
@@ -34,7 +43,7 @@
 				<lb />
 				O.A.Nos.715 to 717 of 2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				1.M/s.Urban Clothing Co.
 				<lb />
@@ -203,18 +212,18 @@
 				For Plaintiffs :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.S.Patrick
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Defendants :
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Manoj Sreevalsan
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<document_type>
 				JUDGMENT
 				<lb />

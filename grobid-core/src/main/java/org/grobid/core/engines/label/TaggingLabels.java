@@ -50,8 +50,8 @@ public class TaggingLabels {
 
     public final static String PET_LABEL = "<petitioner>";
     public final static String RESP_LABEL = "<respondent>";
-    public final static String PETLAWERS_LABEL = "<petitioner_lawyer>";
-    public final static String RESPLAWERS_LABEL = "<respondent_lawyer>";
+    public final static String PETLAWERS_LABEL = "<petitioner_lawyers>";
+    public final static String RESPLAWERS_LABEL = "<respondent_lawyers>";
 
 
     public final static String COURT_LABEL = "<court>";

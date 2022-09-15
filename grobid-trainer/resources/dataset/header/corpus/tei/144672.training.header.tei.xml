@@ -9,18 +9,25 @@
 				REPORTABLE
 				<lb />
 			</extra>
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE SUPREME COURT OF INDIA
-				<lb />
-				CRIMINAL APPELLATE JURISDICTION
+				SUPREME COURT OF INDIA
 				<lb />
 			</court>
-			<case_number>
+			<extra>
+				CRIMINAL APPELLATE JURISDICTION
+				<lb />
+			</extra>
+			<case_numbers>
 				CRIMINAL APPEAL NOS. 607-608 OF 2017
 				<lb />
+			</case_numbers>
+			<extra>
 				(arising out of S.L.P. (Criminal) Nos. 3119-3120 of 2014)
 				<lb />
-			</case_number>
+			</extra>
 			<petitioner>
 				Mukesh &amp; Anr.
 				<lb />
@@ -45,12 +52,14 @@
 				WITH
 				<lb />
 			</extra>
-			<case_number>
+			<case_numbers>
 				CRIMINAL APPEAL NOS. 609-610 OF 2017
 				<lb />
+			</case_numbers>
+			<extra>
 				(arising out of S.L.P. (Criminal) Nos. 5027-5028 of 2014)
 				<lb />
-			</case_number>
+			</extra>
 			<document_type>
 				J U D G M E N T
 				<lb />

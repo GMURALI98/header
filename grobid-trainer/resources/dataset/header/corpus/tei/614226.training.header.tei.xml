@@ -10,34 +10,44 @@
 				1/18
 				<lb />
 			</page>
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				RESERVED ON:
+			</extra>
 			<judgement_date>
-				RESERVED ON: 25.06.2019
+				25.06.2019
 				<lb />
 			</judgement_date>
-			<judgement_date>
+			<extra>
 				DATED:
 				<lb />
+			</extra>
+			<judgement_date>
 				01.07.2019
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
+			</extra>
+			<judges>
 				THE HON&apos;BLE DR.JUSTICE VINEET KOTHARI
 				<lb />
 				AND
 				<lb />
 				THE HON&apos;BLE MR.JUSTICE C.V.KARTHIKEYAN
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.A.No. 861 of 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Minor Miss. Monica Rajendran
 				<lb />
@@ -182,51 +192,51 @@
 				<lb />
 				:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr. Giridhar and Sai
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For R1
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				: Mr. V.Kathirvelu
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				For R2
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				: Mr. Abdul Saleem
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				For R3
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				: Mr.Abishek Jenasenan
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				For R4
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mrs. B.Saraswathi
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			:
 			<extra>
 				For R5
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				: Mr.Venkataseshan
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<page>
 				3/18
 				<lb />
@@ -236,25 +246,23 @@
 				<lb />
 				:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.R.Nepoliyan
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				For R7
 				<lb />
 				:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.V.P.Raman
 				<lb />
-				<respondent_lawyer>
-					<document_type>
-						J U D G M E N T
-						<lb />
-					</document_type>
-				</respondent_lawyer>
-			</respondent_lawyer>
+			</respondent_lawyers>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
 		</front>
 	</text>
 </tei>

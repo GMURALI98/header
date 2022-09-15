@@ -6,24 +6,32 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				BEFORE THE
+			</extra>
 			<court>
-				BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+				MADURAI BENCH OF MADRAS HIGH COURT
 				<lb />
 			</court>
+			<extra>
+				DATED:
+			</extra>
 			<judgement_date>
-				DATED: 27.11.2019
+				27.11.2019
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				THE HONOURABLE MR.JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P.(MD)No.24546 of 2019
 				<lb />
-			</case_number>
+			</case_numbers>
 			<extra>
 				and
 			</extra>
@@ -96,20 +104,20 @@
 				For Petitioner :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.R.Ganesan
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents
 				<lb />
 				:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.M.Karuppasamy
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Government Advocate
 				<lb />
@@ -119,10 +127,10 @@
 				<lb>
 				</lb>
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.H.Arumugam
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for R.4
 				<lb />

@@ -12,22 +12,28 @@
 				227
 				<lb />
 			</page>
-			<court>
+			<extra>
 				*
 				<lb />
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
-			<judgement_date>
+			<extra>
 				%
 				<lb />
 				Judgment pronounced on :
-				
+			</extra>
+			<judgement_date>
 				April 25, 2016
 				<lb />
 			</judgement_date>
-			<case_number>
+			<extra>
 				+
+			</extra>
+			<case_numbers>
 				<lb />
 				I.A. Nos.2371/2014, 2988/2014, 2990/2014, 4649/2014,
 				<lb />
@@ -37,7 +43,7 @@
 				<lb />
 				CS(OS) No.355/2014
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				ROCHE PRODUCTS (INDIA) PVT LTD &amp; ORS
 				<lb />
@@ -50,7 +56,7 @@
 				Through
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.Rajiv Nayar and Mr.Sandeep
 				<lb />
 				Sethi, Senior Advocates with Ms.Niti
@@ -73,7 +79,7 @@
 				<lb />
 				Robin Frey,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advs.
 			</extra>
@@ -93,19 +99,19 @@
 				Through
 				<lb />
 			</respondent>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Sanjay Jain, ASG with Mr.Amit
 				<lb />
 				Mahaan, CGSC and Mr. Krishanu
 				<lb />
 				Barua
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Adv. for D-1/UOI.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Harish Salve, Dr.Abhishek M.
 				<lb />
 				Singhvi and Mrs.Pratibha M. Singh,
@@ -134,38 +140,38 @@
 				<lb />
 				Raina
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advs. for D-2.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Dr.C.S Vaidyanathan and Mr.Amit
 				<lb />
 				Sibal,
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Senior Advocates with
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Nirupam Lodha, Ms.Gayatri Roy,
 				<lb />
 				Mr.Ayush Dhawan and Ms. Rhyea
 				<lb />
 				Malik
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advs. for D-3 &amp; 4.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms.
 				<lb />
 				Rameshwari,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Adv.
 				<lb />
@@ -174,11 +180,13 @@
 				intervenors in I.A. No.3955/2015
 				<lb />
 			</extra>
-			<document_type>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR.JUSTICE MANMOHAN SINGH
-			</document_type>
+			</judges>
 		</front>
 	</text>
 </tei>

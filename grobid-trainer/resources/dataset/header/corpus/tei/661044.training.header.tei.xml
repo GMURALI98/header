@@ -1,92 +1,126 @@
 <?xml version="1.0"?>
 <tei xml:space="preserve">
-    <teiHeader>
-        <fileDesc xml:id="661044" />
-    </teiHeader>
-    <text xml:lang="en">
-        <front>
-            <lb />
-            <case_number>W.P(MD)No.22863 of 2019</case_number>
-            <lb />
-            <court>BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT</court>
-            <lb />
-            <judgement_date>DATED: 30.10.2019</judgement_date>
-            <lb />
-            <judge>
-                CORAM:
-                <lb />
-                THE HONOURABLE MR.JUSTICE M.SUNDAR
-            </judge>
-            <lb />
-            <case_number>W.P(MD)No.22863 of 2019</case_number>
-            <lb />
-            <petitioner>C.Sivakumar</petitioner>
-            <lb />
-            <extra>
-                ... Petitioner
-                <lb />
-                /Vs./
-            </extra>
-            <lb />
-            <respondent>
-                1.The District Revenue Officer,
-                <lb />
-                Theni, Theni District.
-            </respondent>
-            <lb />
-            <respondent>
-                2.The Revenue Divisional Officer,
-                <lb />
-                Theni, Theni District.
-            </respondent>
-            <lb />
-            <respondent>
-                3.The Zonal Deputy Tahsildar,
-                <lb />
-                Uthamapalayam Taluk,
-                <lb />
-                Theni District.
-            </respondent>
-            <lb />
-            <extra>
-                ... Respondents
-                <lb />
-                PRAYER:
-            
-                Writ Petition filed under Article 226 of the Constitution of India for
-                <lb />
-                issuance of a Writ of Certiorarified Mandamus, calling for the records
-                <lb />
-                pertaining to the impugned order made in Koppu No. 2019/0103/25/033649
-                <lb />
-                passed by the 3 rd respondent dated 18.07.2019 and impugned order made
-                <lb />
-                in Koppu No.2019/0103/25/033648 passed by the 3 rd respondent dated
-                <lb />
-                22.07.2019 and quash the same and consequently direct the respondent
-                <lb />
-                No.3 to transfer the patta bearing Nos. 398, 2414 and 1437 in favour of the
-                <lb />
-                petitioner and his younger brother namely Ravichandran within the time
-                <lb />
-                stipulated by this Court.
-                <lb />
-                For Petitioner
-                <lb />
-                :
-            </extra>
-            <petitioner_lawyer>Mr.D.Sadiq Raja</petitioner_lawyer>
-            <lb />
-            <page>1/10</page>
-            <case_number>W.P(MD)No.22863 of 2019</case_number>
-            <lb />
-            <extra>For Respondents : </extra>
-            <respondent_lawyer>Mr.B.Bhagawathi</respondent_lawyer>
-            <lb />
-            <extra>Government Advocate</extra>
-            <lb />
-            <document_type>ORDER</document_type>
-            <lb />
-        </front>
-    </text>
+	<teiHeader>
+		<fileDesc xml:id="661044" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<case_numbers>
+				W.P(MD)No.22863 of 2019
+			</case_numbers>
+			<lb />
+			<extra>
+				BEFORE THE
+			</extra>
+			<court>
+				 MADURAI BENCH OF MADRAS HIGH COURT
+			</court>
+			<lb />
+			<extra>
+				DATED:
+			</extra>
+			<judgement_date>
+				 30.10.2019
+				 	<lb />
+			</judgement_date>
+
+			<extra>
+				CORAM:
+				<lb />
+				THE 
+			</extra>
+			<judges>
+				HONOURABLE MR.JUSTICE M.SUNDAR
+			</judges>
+			<lb />
+			<case_numbers>
+				W.P(MD)No.22863 of 2019
+			</case_numbers>
+			<lb />
+			<petitioner>
+				C.Sivakumar
+			</petitioner>
+			<lb />
+			<extra>
+				... Petitioner
+				<lb />
+				/Vs./
+			</extra>
+			<lb />
+			<respondent>
+				1.The District Revenue Officer,
+				<lb />
+				Theni, Theni District.
+			</respondent>
+			<lb />
+			<respondent>
+				2.The Revenue Divisional Officer,
+				<lb />
+				Theni, Theni District.
+			</respondent>
+			<lb />
+			<respondent>
+				3.The Zonal Deputy Tahsildar,
+				<lb />
+				Uthamapalayam Taluk,
+				<lb />
+				Theni District.
+			</respondent>
+			<lb />
+			<extra>
+				... Respondents
+				<lb />
+				PRAYER:
+				
+				Writ Petition filed under Article 226 of the Constitution of India for
+				<lb />
+				issuance of a Writ of Certiorarified Mandamus, calling for the records
+				<lb />
+				pertaining to the impugned order made in Koppu No. 2019/0103/25/033649
+				<lb />
+				passed by the 3 rd respondent dated 18.07.2019 and impugned order made
+				<lb />
+				in Koppu No.2019/0103/25/033648 passed by the 3 rd respondent dated
+				<lb />
+				22.07.2019 and quash the same and consequently direct the respondent
+				<lb />
+				No.3 to transfer the patta bearing Nos. 398, 2414 and 1437 in favour of the
+				<lb />
+				petitioner and his younger brother namely Ravichandran within the time
+				<lb />
+				stipulated by this Court.
+				<lb />
+				For Petitioner
+				<lb />
+				:
+			</extra>
+			<petitioner_lawyers>
+				Mr.D.Sadiq Raja
+			</petitioner_lawyers>
+			<lb />
+			<page>
+				1/10
+			</page>
+			<case_numbers>
+				W.P(MD)No.22863 of 2019
+			</case_numbers>
+			<lb />
+			<extra>
+				For Respondents :
+			</extra>
+			<respondent_lawyers>
+				Mr.B.Bhagawathi
+			</respondent_lawyers>
+			<lb />
+			<extra>
+				Government Advocate
+			</extra>
+			<lb />
+			<document_type>
+				ORDER
+			</document_type>
+			<lb />
+		</front>
+	</text>
 </tei>

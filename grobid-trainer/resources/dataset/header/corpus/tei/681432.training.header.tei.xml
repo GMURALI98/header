@@ -6,24 +6,33 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				 HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				DATED :
+			</extra>
 			<judgement_date>
-				DATED : 02.03.2020
+				 02.03.2020
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
-				THE HONOURABLE MR.JUSTICE M.SUNDAR
+				THE
+			</extra>
+			<judges>
+				 HONOURABLE MR.JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				O.P. No.176 of 2015
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Union of India,
 				<lb />
@@ -98,10 +107,10 @@
 				For petitioner :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.P.T. Ramkumar
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Standing Counsel
 				<lb />
@@ -112,11 +121,11 @@
 				:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. A. Manoj Kumar
 				<lb />
 				Mr.M.Balaji
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for R1
 				<lb />

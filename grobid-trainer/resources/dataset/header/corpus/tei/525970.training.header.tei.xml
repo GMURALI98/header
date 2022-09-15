@@ -6,24 +6,33 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE 
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				DATED:
+			</extra>
 			<judgement_date>
-				DATED: 05.09.2018
+				 05.09.2018
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM :
 				<lb />
-				The Hon&apos;ble MR.JUSTICE M.SUNDAR
+				The
+			</extra>
+			<judges>
+				 Hon&apos;ble MR.JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				C.S.No.235 of 2013
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				V.S.G.Lungi Company
 				<lb />
@@ -64,10 +73,10 @@
 				:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.S.Patrick
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				for Mr.K.Rajasekaran
 				<lb />
@@ -78,10 +87,10 @@
 				:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Set ex parte
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				* * * * *
 				<lb />

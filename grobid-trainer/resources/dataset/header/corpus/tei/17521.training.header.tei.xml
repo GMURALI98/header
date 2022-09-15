@@ -10,23 +10,31 @@
 				Page 1 of 4
 				<lb />
 			</page>
-			<court>
+			<extra>
 				$~2
 				<lb />
-				* IN THE HIGH COURT OF DELHI AT NEW DELHI
-				<lb />
-				%
-				<lb />
-				Date of Decision: 24 th October, 2016
+				* IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
 			<extra>
+				%
+				<lb />
+				Date of Decision:
+			</extra>
+			<judgement_date>
+				24 th October, 2016
+				<lb />
+			</judgement_date>
+			<extra>
 				+
 			</extra>
-			<case_number>
+			<case_numbers>
 				MAC.APP. 592/2016
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				MASTER AJEET KUMAR DAS
 				<lb />
@@ -39,10 +47,10 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.S.N. Parashar,
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Advocate Versus
 				<lb />
@@ -61,22 +69,24 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.Sameer Nandwani,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocate
 				<lb />
 				for Respondent no.3.
 				<lb />
 			</extra>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE J.R. MIDHA
 				<lb />
-			</judge>
+			</judges>
 			<document_type>
 				JUDGMENT (ORAL)
 				<lb />

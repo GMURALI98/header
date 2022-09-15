@@ -6,30 +6,42 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
-			<judgement_date>
+			<extra>
 				RESERVED ON
 				<lb />
-				: 24.09.2019
-				<lb />
-			</judgement_date>
+				:
+			</extra>
 			<judgement_date>
-				PRONOUNCED ON : 04.10.2019
+				24.09.2019
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
+				PRONOUNCED ON :
+			</extra>
+			<judgement_date>
+				04.10.2019
+				<lb />
+			</judgement_date>
+			<extra>
 				CORAM
 				<lb />
-				THE HONOURABLE Mr.JUSTICE P.N.PRAKASH
+				THE
+			</extra>
+			<judges>
+				HONOURABLE Mr.JUSTICE P.N.PRAKASH
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				Criminal Appeal Nos.17, 18, 22 and 23 of 2015
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Venkat
 				<lb />
@@ -91,6 +103,8 @@
 			<extra>
 				.. Respondent/
 				<lb />
+			</extra>
+			<extra>
 				Complainant in all C.A.s
 				<lb />
 			</extra>
@@ -110,18 +124,18 @@
 				For Appellant in C.A.No.23 of 2015/A1 :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.Kumar Tarejaa -Amicus Curiae
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Appellant in C.A.No.17 of 2015/A2 :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.V.Gopinath
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				, Sr. Counsel
 				<lb />
@@ -131,10 +145,10 @@
 				For Appellant in C.A.No.18 of 2015/A3 :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.Sunder Mohan
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				Appellant in C.A.No.22 of 2015/A4
 				<lb />
@@ -145,10 +159,10 @@
 				For Respondent in all C.A.s
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				: Mrs.P.Kritika Kamal,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Govt. Advocate (Crl. Side)
 				<lb />

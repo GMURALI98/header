@@ -6,26 +6,35 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				DATED:
+			</extra>
 			<judgement_date>
-				DATED: 04.10.2021
+				04.10.2021
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
-				THE HONOURABLE MR.JUSTICE M.SUNDAR
+				THE
+			</extra>
+			<judges>
+				HONOURABLE MR.JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P.No.1046 of 2015
 				<lb />
 				and M.P.No.1 of 2015
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				R.Eswaran
 				<lb />
@@ -118,18 +127,18 @@
 				For Petitioner :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.N.S.Sivakumar
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents :
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.N.R.R.Arun Natarajan,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Government Advocate for R1 to R5
 				<lb />

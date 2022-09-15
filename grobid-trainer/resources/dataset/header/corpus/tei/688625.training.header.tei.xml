@@ -6,28 +6,37 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT MADRAS
+				 HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
+			<extra>
+				DATED :
+			</extra>
 			<judgement_date>
-				DATED : 16.03.2020
+				 16.03.2020
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
-				THE HONOURABLE MR. JUSTICE N. ANAND VENKATESH
+				THE
+			</extra>
+			<judges>
+				 HONOURABLE MR. JUSTICE N. ANAND VENKATESH
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P. Nos.28988, 28993, 28995, 28996, 29006, 29008, 29011, 28998, 29020,
 				<lb />
 				29015, 29133, 29190, 29193, 29158, 29175, 29177, 29184, 29186, 29195, 29197,
 				<lb />
 				29199 and 33320 of 2018
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				P.Bakkiam
 				<lb />
@@ -299,27 +308,27 @@
 				For Petitioners :
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				<lb />
 				Mr.R.Bharathkumar
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.E.Balamurugan
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				special Government Pleader for R1 to R4
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.S.V.Vijayaprasath
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Special Government Pleader for R5 &amp; R6
 				<lb />

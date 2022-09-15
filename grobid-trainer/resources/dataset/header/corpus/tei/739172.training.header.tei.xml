@@ -6,28 +6,40 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				BEFORE THE
+			</extra>
 			<court>
-				BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+				 MADURAI BENCH OF MADRAS HIGH COURT
 				<lb />
 			</court>
+			<extra>
+				RESERVED ON :
+			</extra>
 			<judgement_date>
-				RESERVED ON : 01.02.2021
+				 01.02.2021
 				<lb />
 			</judgement_date>
+			<extra>
+				DELIVERED ON :
+			</extra>
 			<judgement_date>
-				DELIVERED ON : 09.02.2021
+				 09.02.2021
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
-				THE HONOURABLE MR.JUSTICE N.SATHISH KUMAR
+				THE
+			</extra>
+			<judges>
+				 HONOURABLE MR.JUSTICE N.SATHISH KUMAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				A.S.(MD)No.86 of 2012
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				Soundhararajan
 				<lb />
@@ -141,9 +153,9 @@
 				<lb />
 				:
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.S.Balamurugan
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For R-1
 				<lb />
@@ -161,10 +173,10 @@
 				<lb />
 				:
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.S.Meenakshi Sundaram,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Senior Counsel
 				<lb />

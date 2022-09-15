@@ -6,26 +6,35 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				BEFORE THE
+			</extra>
 			<court>
-				BEFORE THE MADURAI BENCH OF MADRAS HIGH COURT
+				MADURAI BENCH OF MADRAS HIGH COURT
 				<lb />
 			</court>
+			<extra>
+				DATED :
+			</extra>
 			<judgement_date>
-				DATED : 12.11.2021
+				12.11.2021
 				<lb />
 			</judgement_date>
-			<judge>
+			<extra>
 				CORAM
 				<lb />
-				THE HON&apos;BLE MR. JUSTICE M.SUNDAR
+				THE
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE M.SUNDAR
 				<lb />
-			</judge>
-			<case_number>
+			</judges>
+			<case_numbers>
 				W.P(MD) No.20323 of 2021
 				<lb />
 				and W.M.P.(MD)No.16975 of 2021
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				M.Lingaraj
 				<lb />
@@ -130,28 +139,28 @@
 				:
 				<lb />
 			</extra>
-			<petitioner_lawyer>
+			<petitioner_lawyers>
 				Mr.T.Thiurmurugan
 				<lb />
-			</petitioner_lawyer>
+			</petitioner_lawyers>
 			<extra>
 				For Respondents
 				<lb />
 				:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr.M.Lingadurai,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Special Govt. Pleader for R1 to R4
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms.K.Mahalakshmi
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				for
 				<lb />

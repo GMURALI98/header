@@ -6,24 +6,32 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
+			<extra>
+				* IN THE
+			</extra>
 			<court>
-				* IN THE HIGH COURT OF DELHI AT NEW DELHI
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
-			<judgement_date>
+			<extra>
 				%
 				<lb />
-				Date of Decision: 12 th May, 2021
+				Date of Decision:
+			</extra>
+			<judgement_date>
+				12 th May, 2021
 				<lb />
 			</judgement_date>
-			<case_number>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				FAO 842/2003 &amp; CM APPLs.32859/2017, 41125/2017, 41126/2017,
 				<lb />
 				41127/2017, 35516/2018, 35517/2018, 46426/2018 &amp; 7634/2020
 				<lb />
-			</case_number>
+			</case_numbers>
 			<petitioner>
 				RAJESH TYAGI &amp; ORS.
 				<lb />
@@ -48,79 +56,79 @@
 				Through:
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Rajshekhar Rao,
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Senior Advocate
 				<lb />
 				as Amicus Curiae with
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms. Aanchal
 				<lb />
 				Tikmani,
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				Advocate.
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Surinder S. Rathi
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, OSD-cum-
 				<lb />
 				Registrar, Delhi High Court
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Kanwal Jeet Arora
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Member
 				<lb />
 				Secretary, DSLSA
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Satyam Thareja
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocate as
 				<lb />
 				Amicus Curiae
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms. Avnish Ahlawat
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Standing
 				<lb />
 				Counsel for DSSSB
 				<lb />
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Ms. Nandita Rao
 				<lb />
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Additional Standing
 				<lb />
 				Counsel for GNCTD
 			</extra>
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Pradeep Gaur
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocate for
 				<lb />
@@ -130,22 +138,24 @@
 				<lb />
 			</extra>
 			<lb />
-			<respondent_lawyer>
+			<respondent_lawyers>
 				Mr. Navneet Kumar
 				<lb />
-			</respondent_lawyer>
+			</respondent_lawyers>
 			<extra>
 				, Advocate for
 				<lb />
 				Bharti AXA and Magma HDI
 				<lb />
 			</extra>
-			<judge>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE J.R. MIDHA
 				<lb />
-			</judge>
+			</judges>
 		</front>
 	</text>
 </tei>
