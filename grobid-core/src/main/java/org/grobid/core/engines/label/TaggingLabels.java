@@ -50,14 +50,14 @@ public class TaggingLabels {
 
     public final static String PET_LABEL = "<petitioner>";
     public final static String RESP_LABEL = "<respondent>";
-    public final static String PETLAWERS_LABEL = "<petitioner_lawer>";
-    public final static String RESPLAWERS_LABEL = "<respondent_lawer>";
+    public final static String PETLAWERS_LABEL = "<petitioner_lawyer>";
+    public final static String RESPLAWERS_LABEL = "<respondent_lawyer>";
 
 
     public final static String COURT_LABEL = "<court>";
-    public final static String CASENUMBER_LABEL = "<case_number>";
+    public final static String CASENUMBER_LABEL = "<case_numbers>";
     public final static String CASEDATE_LABEL = "<judgement_date>";
-    public final static String JUDGE_LABEL = "<judge>";
+    public final static String JUDGE_LABEL = "<judges>";
     public final static String CASETYPE_LABEL = "<document_type>";
     public final static String EXTRA_LABEL = "<extra>";
     public final static String TITLE_LABEL = "<title>";

@@ -1631,9 +1631,9 @@ label                accuracy     precision    recall       f1           support
 <judge>              100          100          100          100          1      
 <judgement_date>     98.82        25           33.33        28.57        3      
 <petitioner>         80.47        4.76         4.44         4.6          45     
-<petitioner_lawer>   97.88        0            0            0            8      
+<petitioner_lawyer   97.88        0            0            0            8      
 <respondent>         80.94        2.63         2.22         2.41         45     
-<respondent_lawer>   98.82        0            0            0            3      
+<respondent_lawyer>   98.82        0            0            0            3      
 
 all (micro avg.)     91.67        23.44        30.62        26.56        209    
 all (macro avg.)     91.67        35.31        40.6         36.54        209    
@@ -3462,3 +3462,422 @@ See https://docs.gradle.org/7.1.1/userguide/command_line_interface.html#sec:comm
 
 BUILD SUCCESSFUL in 4h 50m 13s
 6 actionable tasks: 6 executed
+Starting a Gradle Daemon, 1 busy and 1 incompatible and 1 stopped Daemons could not be reused, use --status for details
+Exception in thread "DisconnectableInputStream source reader" org.gradle.api.UncheckedIOException: java.io.IOException: Bad file descriptor
+	at org.gradle.internal.UncheckedException.throwAsUncheckedException(UncheckedException.java:61)
+	at org.gradle.internal.UncheckedException.throwAsUncheckedException(UncheckedException.java:41)
+	at org.gradle.util.internal.DisconnectableInputStream$1.run(DisconnectableInputStream.java:127)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:255)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.gradle.util.internal.DisconnectableInputStream$1.run(DisconnectableInputStream.java:98)
+	... 1 more
+> Task :grobid-core:compileJava UP-TO-DATE
+> Task :grobid-core:processResources UP-TO-DATE
+> Task :grobid-core:classes UP-TO-DATE
+> Task :grobid-core:jar UP-TO-DATE
+> Task :grobid-trainer:compileJava UP-TO-DATE
+> Task :grobid-service:compileJava UP-TO-DATE
+> Task :grobid-service:processResources UP-TO-DATE
+> Task :grobid-service:classes UP-TO-DATE
+> Task :grobid-trainer:processResources UP-TO-DATE
+> Task :grobid-trainer:classes UP-TO-DATE
+> Task :grobid-trainer:jar UP-TO-DATE
+
+> Task :grobid-service:run
+10:32:26.257 [main] INFO org.grobid.service.main.GrobidServiceApplication - Found conf path: /home/azureuser/grobid/grobid-main/grobid-home/config/grobid.yaml
+10:32:26.260 [main] WARN org.grobid.service.main.GrobidServiceApplication - Running with default arguments: "server" "/home/azureuser/grobid/grobid-main/grobid-home/config/grobid.yaml"
+10:32:26.260 [main] INFO org.grobid.service.main.GrobidServiceApplication - Configuration file: /home/azureuser/grobid/grobid-main/grobid-home/config/grobid.yaml
+INFO  [2022-09-13 10:32:27,377] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2022-09-13 10:32:27,379] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2022-09-13 10:32:27,379] io.dropwizard.assets.AssetsBundle: Registering AssetBundle with name: grobidAssets for path /*
+INFO  [2022-09-13 10:32:27,701] com.hubspot.dropwizard.guicier.DropwizardModule: Added guice injected health check: org.grobid.service.resources.HealthResource
+WARN  [2022-09-13 10:32:27,706] org.grobid.core.main.GrobidHomeFinder: Grobid config file location was not explicitly set via 'org.grobid.config' system variable, defaulting to: /home/azureuser/grobid/grobid-main/grobid-home/config/grobid.yaml
+INFO  [2022-09-13 10:32:27,722] org.grobid.service.GrobidRestService: Initiating Servlet GrobidRestService
+INFO  [2022-09-13 10:32:27,723] org.grobid.core.main.LibraryLoader: Loading external native sequence labelling library
+INFO  [2022-09-13 10:32:27,726] org.grobid.core.main.LibraryLoader: Loading Wapiti native library...
+INFO  [2022-09-13 10:32:27,727] org.grobid.core.main.LibraryLoader: Native library for sequence labelling loaded
+INFO  [2022-09-13 10:32:27,729] org.grobid.core.lexicon.Lexicon: Initiating dictionary
+INFO  [2022-09-13 10:32:27,729] org.grobid.core.lexicon.Lexicon: End of Initialization of dictionary
+INFO  [2022-09-13 10:32:27,729] org.grobid.core.lexicon.Lexicon: Initiating names
+INFO  [2022-09-13 10:32:27,729] org.grobid.core.lexicon.Lexicon: End of initialization of names
+INFO  [2022-09-13 10:32:28,020] org.grobid.core.lexicon.Lexicon: Initiating country codes
+INFO  [2022-09-13 10:32:28,020] org.grobid.core.lexicon.Lexicon: End of initialization of country codes
+INFO  [2022-09-13 10:32:28,107] org.grobid.core.factory.GrobidPoolingFactory: Number of Engines in pool active/max: 1/10
+INFO  [2022-09-13 10:32:28,107] org.grobid.service.GrobidRestService: Initiating of Servlet GrobidRestService finished.
+INFO  [2022-09-13 10:32:28,112] com.hubspot.dropwizard.guicier.DropwizardModule: Registering org.grobid.service.resources.HealthResource as a root resource class
+INFO  [2022-09-13 10:32:28,112] com.hubspot.dropwizard.guicier.DropwizardModule: Registering org.grobid.service.GrobidRestService as a root resource class
+INFO  [2022-09-13 10:32:28,112] com.hubspot.dropwizard.guicier.DropwizardModule: Registering org.grobid.service.exceptions.mapper.GrobidServiceExceptionMapper as a provider class
+INFO  [2022-09-13 10:32:28,113] com.hubspot.dropwizard.guicier.DropwizardModule: Registering org.grobid.service.exceptions.mapper.GrobidExceptionsTranslationUtility as a provider class
+INFO  [2022-09-13 10:32:28,113] com.hubspot.dropwizard.guicier.DropwizardModule: Registering org.grobid.service.exceptions.mapper.GrobidExceptionMapper as a provider class
+INFO  [2022-09-13 10:32:28,113] com.hubspot.dropwizard.guicier.DropwizardModule: Registering org.grobid.service.exceptions.mapper.WebApplicationExceptionMapper as a provider class
+INFO  [2022-09-13 10:32:28,115] org.grobid.service.main.GrobidServiceApplication: Service config=GrobidServiceConfiguration{server=DefaultServerFactory{applicationConnectors=[io.dropwizard.jetty.HttpConnectorFactory@31ff1390], adminConnectors=[io.dropwizard.jetty.HttpConnectorFactory@22fa55b2], adminMaxThreads=64, adminMinThreads=1, applicationContextPath=/, adminContextPath=/}, logging=DefaultLoggingFactory{level=INFO, loggers={org.apache.pdfbox.pdmodel.font.PDSimpleFont="OFF"}, appenders=[io.dropwizard.logging.ConsoleAppenderFactory@10ee04df, io.dropwizard.logging.FileAppenderFactory@572e6fd9]}, metrics=MetricsFactory{frequency=1 minute, reporters=[]}}
+INFO  [2022-09-13 10:32:28,136] io.dropwizard.server.ServerFactory: Starting grobid-service
+
+ _______  _______  _______  ______  _________ ______     _______  _______  _______          _________ _______  _______
+(  ____ \(  ____ )(  ___  )(  ___ \ \__   __/(  __  \   (  ____ \(  ____ \(  ____ )|\     /|\__   __/(  ____ \(  ____ \
+| (    \/| (    )|| (   ) || (   ) )   ) (   | (  \  )  | (    \/| (    \/| (    )|| )   ( |   ) (   | (    \/| (    \/
+| |      | (____)|| |   | || (__/ /    | |   | |   ) |  | (_____ | (__    | (____)|| |   | |   | |   | |      | (__
+| | ____ |     __)| |   | ||  __ (     | |   | |   | |  (_____  )|  __)   |     __)( (   ) )   | |   | |      |  __)
+| | \_  )| (\ (   | |   | || (  \ \    | |   | |   ) |        ) || (      | (\ (    \ \_/ /    | |   | |      | (
+| (___) || ) \ \__| (___) || )___) )___) (___| (__/  )  /\____) || (____/\| ) \ \__  \   /  ___) (___| (____/\| (____/\
+(_______)|/   \__/(_______)|/ \___/ \_______/(______/   \_______)(_______/|/   \__/   \_/   \_______/(_______/(_______/
+
+
+INFO  [2022-09-13 10:32:28,214] org.eclipse.jetty.setuid.SetUIDListener: Opened application@4f379769{HTTP/1.1,[http/1.1]}{0.0.0.0:8070}
+INFO  [2022-09-13 10:32:28,215] org.eclipse.jetty.setuid.SetUIDListener: Opened admin@1c57f6b2{HTTP/1.1,[http/1.1]}{0.0.0.0:8071}
+INFO  [2022-09-13 10:32:28,216] org.eclipse.jetty.server.Server: jetty-9.4.18.v20190429; built: 2019-04-29T20:42:08.989Z; git: e1bc35120a6617ee3df052294e433f3a25ce7097; jvm 1.8.0_342-8u342-b07-0ubuntu1~20.04-b07
+WARN  [2022-09-13 10:32:28,527] org.glassfish.jersey.internal.inject.Providers: A provider org.grobid.service.exceptions.mapper.GrobidExceptionsTranslationUtility registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider org.grobid.service.exceptions.mapper.GrobidExceptionsTranslationUtility will be ignored. 
+INFO  [2022-09-13 10:32:28,751] io.dropwizard.jersey.DropwizardResourceConfig: The following paths were found for the configured resources:
+
+    POST    /api/annotatePDF (org.grobid.service.GrobidRestService)
+    POST    /api/citationPatentAnnotations (org.grobid.service.GrobidRestService)
+    GET     /api/grobid (org.grobid.service.GrobidRestService)
+    GET     /api/health (org.grobid.service.resources.HealthResource)
+    GET     /api/isalive (org.grobid.service.GrobidRestService)
+    GET     /api/model (org.grobid.service.GrobidRestService)
+    POST    /api/model (org.grobid.service.GrobidRestService)
+    POST    /api/modelTraining (org.grobid.service.GrobidRestService)
+    POST    /api/processAffiliations (org.grobid.service.GrobidRestService)
+    PUT     /api/processAffiliations (org.grobid.service.GrobidRestService)
+    POST    /api/processCitation (org.grobid.service.GrobidRestService)
+    PUT     /api/processCitation (org.grobid.service.GrobidRestService)
+    POST    /api/processCitationList (org.grobid.service.GrobidRestService)
+    POST    /api/processCitationNames (org.grobid.service.GrobidRestService)
+    PUT     /api/processCitationNames (org.grobid.service.GrobidRestService)
+    POST    /api/processCitationPatentPDF (org.grobid.service.GrobidRestService)
+    POST    /api/processCitationPatentST36 (org.grobid.service.GrobidRestService)
+    POST    /api/processCitationPatentTXT (org.grobid.service.GrobidRestService)
+    POST    /api/processDate (org.grobid.service.GrobidRestService)
+    PUT     /api/processDate (org.grobid.service.GrobidRestService)
+    POST    /api/processFulltextAssetDocument (org.grobid.service.GrobidRestService)
+    PUT     /api/processFulltextAssetDocument (org.grobid.service.GrobidRestService)
+    POST    /api/processFulltextDocument (org.grobid.service.GrobidRestService)
+    PUT     /api/processFulltextDocument (org.grobid.service.GrobidRestService)
+    POST    /api/processHeaderDocument (org.grobid.service.GrobidRestService)
+    PUT     /api/processHeaderDocument (org.grobid.service.GrobidRestService)
+    POST    /api/processHeaderNames (org.grobid.service.GrobidRestService)
+    PUT     /api/processHeaderNames (org.grobid.service.GrobidRestService)
+    POST    /api/processReferences (org.grobid.service.GrobidRestService)
+    PUT     /api/processReferences (org.grobid.service.GrobidRestService)
+    POST    /api/referenceAnnotations (org.grobid.service.GrobidRestService)
+    POST    /api/trainingResult (org.grobid.service.GrobidRestService)
+    GET     /api/version (org.grobid.service.GrobidRestService)
+
+INFO  [2022-09-13 10:32:28,757] org.eclipse.jetty.server.handler.ContextHandler: Started i.d.j.MutableServletContextHandler@4f5c30b1{/,null,AVAILABLE}
+INFO  [2022-09-13 10:32:28,761] io.dropwizard.setup.AdminEnvironment: tasks = 
+
+    POST    /tasks/log-level (io.dropwizard.servlets.tasks.LogConfigurationTask)
+    POST    /tasks/gc (io.dropwizard.servlets.tasks.GarbageCollectionTask)
+
+INFO  [2022-09-13 10:32:28,766] org.eclipse.jetty.server.handler.ContextHandler: Started i.d.j.MutableServletContextHandler@4bcdd11{/,null,AVAILABLE}
+INFO  [2022-09-13 10:32:28,774] org.eclipse.jetty.server.AbstractConnector: Started application@4f379769{HTTP/1.1,[http/1.1]}{0.0.0.0:8070}
+INFO  [2022-09-13 10:32:28,776] org.eclipse.jetty.server.AbstractConnector: Started admin@1c57f6b2{HTTP/1.1,[http/1.1]}{0.0.0.0:8071}
+INFO  [2022-09-13 10:32:28,776] org.eclipse.jetty.server.Server: Started @2725ms
+INFO  [2022-09-13 10:37:25,431] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/affiliation-address/model.wapiti (size: 2766570)
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/affiliation-address/model.wapiti"
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/affiliation-address/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/name/header/model.wapiti"
+INFO  [2022-09-13 10:37:25,647] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/name/header/model.wapiti (size: 2524527)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/name/header/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/name/citation/model.wapiti"
+INFO  [2022-09-13 10:37:25,846] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/name/citation/model.wapiti (size: 440148)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/name/citation/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/name/petitioner/model.wapiti"
+INFO  [2022-09-13 10:37:25,876] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/name/petitioner/model.wapiti (size: 145776)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/name/petitioner/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/name/respondent/model.wapiti"
+INFO  [2022-09-13 10:37:25,886] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/name/respondent/model.wapiti (size: 145756)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/name/respondent/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/name/petitionerlawer/model.wapiti"
+INFO  [2022-09-13 10:37:25,895] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/name/petitionerlawer/model.wapiti (size: 145800)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/name/petitionerlawer/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/name/respondentlawer/model.wapiti"
+INFO  [2022-09-13 10:37:25,904] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/name/respondentlawer/model.wapiti (size: 145768)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/name/respondentlawer/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/header/model.wapiti"
+INFO  [2022-09-13 10:37:25,915] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/header/model.wapiti (size: 2673921)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/header/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/date/model.wapiti"
+INFO  [2022-09-13 10:37:26,123] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/date/model.wapiti (size: 102435)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/date/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/citation/model.wapiti"
+INFO  [2022-09-13 10:37:26,131] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/citation/model.wapiti (size: 16865234)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/citation/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/fulltext/model.wapiti"
+INFO  [2022-09-13 10:37:27,844] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/fulltext/model.wapiti (size: 29975924)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/fulltext/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/segmentation/model.wapiti"
+INFO  [2022-09-13 10:37:30,677] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/segmentation/model.wapiti (size: 5743396)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/segmentation/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/reference-segmenter/model.wapiti"
+INFO  [2022-09-13 10:37:31,162] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/reference-segmenter/model.wapiti (size: 4921245)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/reference-segmenter/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/figure/model.wapiti"
+INFO  [2022-09-13 10:37:31,566] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/figure/model.wapiti (size: 422671)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/figure/model.wapiti
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-home/models/table/model.wapiti"
+INFO  [2022-09-13 10:37:31,594] org.grobid.core.jni.WapitiModel: Loading model: /home/azureuser/grobid/grobid-main/grobid-home/models/table/model.wapiti (size: 1423878)
+Model path: /home/azureuser/grobid/grobid-main/grobid-home/models/table/model.wapiti
+INFO  [2022-09-13 10:37:31,698] org.grobid.core.factory.GrobidPoolingFactory: Number of Engines in pool active/max: 1/10
+INFO  [2022-09-13 10:37:42,706] org.grobid.core.document.Document: Standalone figure on page: 1
+INFO  [2022-09-13 10:37:42,706] org.grobid.core.document.Document: Standalone figure on page: 2
+INFO  [2022-09-13 10:37:42,706] org.grobid.core.document.Document: Standalone figure on page: 3
+INFO  [2022-09-13 10:37:42,706] org.grobid.core.document.Document: Standalone figure on page: 4
+20.204.205.39 - - [13/Sep/2022:10:37:42 +0000] "POST /api/processFulltextDocument HTTP/1.1" 200 8042 "-" "Ruby" 17799
+INFO  [2022-09-13 10:43:34,719] org.grobid.core.factory.GrobidPoolingFactory: Number of Engines in pool active/max: 1/10
+INFO  [2022-09-13 10:43:34,878] org.grobid.core.document.Document: Standalone figure on page: 1
+INFO  [2022-09-13 10:43:34,878] org.grobid.core.document.Document: Standalone figure on page: 2
+INFO  [2022-09-13 10:43:34,878] org.grobid.core.document.Document: Standalone figure on page: 3
+INFO  [2022-09-13 10:43:34,878] org.grobid.core.document.Document: Standalone figure on page: 4
+106.215.89.195 - - [13/Sep/2022:10:43:34 +0000] "POST /api/processFulltextDocument HTTP/1.1" 200 8042 "-" "Ruby" 1024
+INFO  [2022-09-13 10:48:13,971] org.grobid.core.factory.GrobidPoolingFactory: Number of Engines in pool active/max: 1/10
+INFO  [2022-09-13 10:48:14,137] org.grobid.core.document.Document: Standalone figure on page: 1
+INFO  [2022-09-13 10:48:14,137] org.grobid.core.document.Document: Standalone figure on page: 2
+INFO  [2022-09-13 10:48:14,137] org.grobid.core.document.Document: Standalone figure on page: 3
+INFO  [2022-09-13 10:48:14,137] org.grobid.core.document.Document: Standalone figure on page: 4
+106.215.89.195 - - [13/Sep/2022:10:48:14 +0000] "POST /api/processFulltextDocument HTTP/1.1" 200 8042 "-" "Ruby" 362
+INFO  [2022-09-13 10:55:51,727] org.grobid.core.factory.GrobidPoolingFactory: Number of Engines in pool active/max: 1/10
+20.204.205.39 - - [13/Sep/2022:10:55:52 +0000] "POST /api/processFulltextDocument HTTP/1.1" 200 28899 "-" "Ruby" 746
+Starting a Gradle Daemon, 2 busy Daemons could not be reused, use --status for details
+Exception in thread "DisconnectableInputStream source reader" org.gradle.api.UncheckedIOException: java.io.IOException: Bad file descriptor
+	at org.gradle.internal.UncheckedException.throwAsUncheckedException(UncheckedException.java:61)
+	at org.gradle.internal.UncheckedException.throwAsUncheckedException(UncheckedException.java:41)
+	at org.gradle.util.internal.DisconnectableInputStream$1.run(DisconnectableInputStream.java:127)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:255)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.gradle.util.internal.DisconnectableInputStream$1.run(DisconnectableInputStream.java:98)
+	... 1 more
+> Task :grobid-core:compileJava UP-TO-DATE
+> Task :grobid-core:processResources UP-TO-DATE
+> Task :grobid-core:classes UP-TO-DATE
+> Task :grobid-core:jar UP-TO-DATE
+> Task :grobid-trainer:compileJava UP-TO-DATE
+> Task :grobid-trainer:processResources UP-TO-DATE
+> Task :grobid-trainer:classes UP-TO-DATE
+
+> Task :grobid-trainer:train_segmentation
+Sep 14, 2022 7:12:59 AM org.grobid.core.main.GrobidHomeFinder getGrobidHomePathOrLoadFromClasspath
+WARNING: No Grobid property was provided. Attempting to find Grobid home in the current directory...
+Sep 14, 2022 7:12:59 AM org.grobid.core.main.GrobidHomeFinder findGrobidHomeOrFail
+WARNING: ***************************************************************
+Sep 14, 2022 7:12:59 AM org.grobid.core.main.GrobidHomeFinder findGrobidHomeOrFail
+WARNING: *** USING GROBID HOME: /home/azureuser/grobid/grobid-main/grobid-trainer/../grobid-home
+Sep 14, 2022 7:12:59 AM org.grobid.core.main.GrobidHomeFinder findGrobidHomeOrFail
+WARNING: ***************************************************************
+Sep 14, 2022 7:12:59 AM org.grobid.core.main.GrobidHomeFinder findGrobidConfigOrFail
+WARNING: Grobid config file location was not explicitly set via 'org.grobid.config' system variable, defaulting to: /home/azureuser/grobid/grobid-main/grobid-trainer/../grobid-home/config/grobid.yaml
+Sep 14, 2022 7:12:59 AM org.grobid.core.main.LibraryLoader load
+INFO: Loading external native sequence labelling library
+Sep 14, 2022 7:12:59 AM org.grobid.core.main.LibraryLoader load
+INFO: Loading Wapiti native library...
+Sep 14, 2022 7:12:59 AM org.grobid.core.main.LibraryLoader load
+INFO: Native library for sequence labelling loaded
+Sep 14, 2022 7:12:59 AM org.grobid.core.lexicon.Lexicon initDictionary
+INFO: Initiating dictionary
+Sep 14, 2022 7:12:59 AM org.grobid.core.lexicon.Lexicon initDictionary
+INFO: End of Initialization of dictionary
+Sep 14, 2022 7:12:59 AM org.grobid.core.lexicon.Lexicon initNames
+INFO: Initiating names
+Sep 14, 2022 7:12:59 AM org.grobid.core.lexicon.Lexicon initNames
+INFO: End of initialization of names
+Sep 14, 2022 7:12:59 AM org.grobid.core.lexicon.Lexicon initCountryCodes
+INFO: Initiating country codes
+Sep 14, 2022 7:12:59 AM org.grobid.core.lexicon.Lexicon initCountryCodes
+INFO: End of initialization of country codes
+sourceTEIPathLabel: /home/azureuser/grobid/grobid-main/grobid-trainer/../grobid-home/../grobid-trainer/resources/dataset/segmentation/corpus/tei
+sourceRawPathLabel: /home/azureuser/grobid/grobid-main/grobid-trainer/../grobid-home/../grobid-trainer/resources/dataset/segmentation/corpus/raw
+trainingOutputPath: /home/azureuser/grobid/grobid-main/grobid-trainer/../grobid-home/tmp/segmentation3400831587547850210.train
+evalOutputPath: null
+8 tei files
+Sep 14, 2022 7:13:00 AM org.grobid.trainer.SegmentationTrainer addFeaturesSegmentation
+INFO: Processing: 2022-07-28-11807-d1061d.training.segmentation.tei.xml
+Sep 14, 2022 7:13:00 AM org.grobid.trainer.SegmentationTrainer addFeaturesSegmentation
+INFO: Processing: 2022-07-28-1464-28796e.training.segmentation.tei.xml
+Sep 14, 2022 7:13:00 AM org.grobid.trainer.SegmentationTrainer addFeaturesSegmentation
+INFO: Processing: 2022-07-28-2742-e3040a.training.segmentation.tei.xml
+Sep 14, 2022 7:13:00 AM org.grobid.trainer.SegmentationTrainer addFeaturesSegmentation
+INFO: Processing: 2022-07-13-111995-803955.training.segmentation.tei.xml
+Sep 14, 2022 7:13:00 AM org.grobid.trainer.SegmentationTrainer addFeaturesSegmentation
+INFO: Processing: 2022-07-28-4864-0d1156.training.segmentation.tei.xml
+Sep 14, 2022 7:13:00 AM org.grobid.trainer.SegmentationTrainer addFeaturesSegmentation
+INFO: Processing: 2022-07-28-6607-1a80ef.training.segmentation.tei.xml
+Sep 14, 2022 7:13:00 AM org.grobid.trainer.SegmentationTrainer addFeaturesSegmentation
+INFO: Processing: 2022-07-22-993518-fab0a8.training.segmentation.tei.xml
+Sep 14, 2022 7:13:00 AM org.grobid.trainer.SegmentationTrainer addFeaturesSegmentation
+INFO: Processing: 2022-07-28-7677-49cf36.training.segmentation.tei.xml
+	epsilon: 1.0E-7
+	window: 50
+	nb max iterations: 2000
+	nb threads: 8
+* Load patterns
+* Load training data
+* Initialize the model
+* Summary
+    nb train:    8
+    nb labels:   9
+    nb blocks:   94165
+    nb features: 847557
+* Train the model with l-bfgs
+  [   1] obj=21004.70   act=214363   err=16.59%/100.00% time=0.94s/0.94s
+  [   2] obj=16745.01   act=176013   err=16.59%/100.00% time=0.55s/1.50s
+  [   3] obj=9524.49    act=72112    err=12.21%/100.00% time=1.40s/2.90s
+  [   4] obj=8610.44    act=90976    err=11.21%/100.00% time=1.00s/3.89s
+  [   5] obj=7235.17    act=86391    err=11.27%/100.00% time=1.01s/4.90s
+  [   6] obj=6855.59    act=88760    err=11.18%/100.00% time=0.61s/5.51s
+  [   7] obj=6405.31    act=83076    err=10.91%/100.00% time=2.28s/7.78s
+  [   8] obj=5471.90    act=87937    err=11.16%/100.00% time=0.61s/8.39s
+  [   9] obj=5141.71    act=77380    err=10.66%/100.00% time=0.61s/9.00s
+  [  10] obj=3650.44    act=64564    err= 5.93%/100.00% time=0.61s/9.60s
+  [  11] obj=2369.76    act=50464    err= 3.37%/100.00% time=0.61s/10.21s
+  [  12] obj=1839.15    act=45750    err= 2.91%/100.00% time=0.61s/10.82s
+  [  13] obj=1572.17    act=42949    err= 2.78%/100.00% time=0.61s/11.42s
+  [  14] obj=1277.75    act=36162    err= 2.52%/100.00% time=0.60s/12.03s
+  [  15] obj=1118.64    act=30987    err= 1.62%/100.00% time=0.60s/12.63s
+  [  16] obj=979.05     act=28119    err= 2.08%/100.00% time=0.60s/13.23s
+  [  17] obj=865.76     act=25900    err= 1.41%/100.00% time=0.60s/13.83s
+  [  18] obj=791.39     act=24444    err= 1.43%/100.00% time=0.62s/14.45s
+  [  19] obj=727.99     act=22123    err= 1.25%/100.00% time=0.61s/15.06s
+  [  20] obj=594.76     act=19831    err= 1.07%/100.00% time=0.60s/15.66s
+  [  21] obj=538.22     act=19330    err= 0.97%/100.00% time=0.61s/16.27s
+  [  22] obj=480.89     act=18060    err= 0.90%/100.00% time=0.60s/16.87s
+  [  23] obj=419.75     act=14969    err= 0.84%/100.00% time=0.61s/17.48s
+  [  24] obj=409.39     act=13609    err= 0.58%/100.00% time=0.60s/18.08s
+  [  25] obj=368.59     act=14340    err= 0.57%/100.00% time=0.60s/18.68s
+  [  26] obj=346.15     act=13530    err= 0.58%/100.00% time=0.60s/19.29s
+  [  27] obj=315.91     act=12476    err= 0.48%/100.00% time=0.61s/19.89s
+  [  28] obj=292.42     act=11541    err= 0.47%/100.00% time=0.61s/20.50s
+  [  29] obj=281.42     act=11026    err= 0.31%/62.50% time=0.60s/21.11s
+  [  30] obj=264.11     act=11449    err= 0.36%/75.00% time=0.60s/21.71s
+  [  31] obj=252.95     act=10996    err= 0.33%/75.00% time=0.60s/22.31s
+  [  32] obj=236.42     act=10336    err= 0.22%/62.50% time=0.60s/22.91s
+  [  33] obj=218.63     act=9252     err= 0.27%/62.50% time=0.60s/23.51s
+  [  34] obj=214.00     act=8428     err= 0.20%/62.50% time=0.60s/24.11s
+  [  35] obj=203.80     act=8519     err= 0.14%/50.00% time=0.60s/24.71s
+  [  36] obj=197.32     act=8118     err= 0.11%/62.50% time=0.60s/25.31s
+  [  37] obj=191.50     act=7390     err= 0.07%/50.00% time=0.60s/25.91s
+  [  38] obj=181.16     act=6371     err= 0.07%/37.50% time=0.60s/26.51s
+  [  39] obj=176.10     act=6056     err= 0.02%/25.00% time=0.61s/27.12s
+  [  40] obj=169.42     act=5326     err= 0.01%/12.50% time=0.60s/27.72s
+  [  41] obj=163.97     act=4114     err= 0.00%/ 0.00% time=0.60s/28.32s
+  [  42] obj=158.65     act=5939     err= 0.18%/12.50% time=1.43s/29.76s
+  [  43] obj=156.96     act=5001     err= 0.00%/ 0.00% time=0.60s/30.35s
+  [  44] obj=153.87     act=4207     err= 0.20%/25.00% time=0.60s/30.95s
+  [  45] obj=152.19     act=4358     err= 0.00%/ 0.00% time=0.60s/31.55s
+  [  46] obj=147.62     act=3998     err= 0.00%/ 0.00% time=0.60s/32.15s
+  [  47] obj=143.20     act=3304     err= 0.02%/12.50% time=0.60s/32.75s
+  [  48] obj=141.90     act=2787     err= 0.00%/ 0.00% time=0.60s/33.35s
+  [  49] obj=139.10     act=2914     err= 0.00%/ 0.00% time=0.60s/33.95s
+  [  50] obj=137.38     act=2737     err= 0.00%/ 0.00% time=0.60s/34.55s
+  [  51] obj=135.70     act=2393     err= 0.00%/ 0.00% time=0.60s/35.15s
+  [  52] obj=133.73     act=2276     err= 0.00%/ 0.00% time=0.60s/35.75s
+  [  53] obj=133.01     act=2160     err= 0.00%/ 0.00% time=0.60s/36.35s
+  [  54] obj=131.69     act=2093     err= 0.00%/ 0.00% time=0.60s/36.95s
+  [  55] obj=131.37     act=2110     err= 0.00%/ 0.00% time=0.60s/37.55s
+  [  56] obj=129.97     act=2102     err= 0.00%/ 0.00% time=0.60s/38.15s
+  [  57] obj=129.47     act=2072     err= 0.00%/ 0.00% time=0.60s/38.75s
+  [  58] obj=128.78     act=1948     err= 0.08%/12.50% time=0.60s/39.35s
+  [  59] obj=127.81     act=1956     err= 0.00%/ 0.00% time=0.60s/39.95s
+  [  60] obj=126.79     act=1839     err= 0.00%/ 0.00% time=0.60s/40.55s
+  [  61] obj=126.28     act=1813     err= 0.00%/ 0.00% time=0.60s/41.15s
+  [  62] obj=125.44     act=1771     err= 0.00%/ 0.00% time=0.60s/41.75s
+  [  63] obj=125.11     act=1722     err= 0.00%/ 0.00% time=0.60s/42.34s
+  [  64] obj=124.20     act=1683     err= 0.00%/ 0.00% time=0.60s/42.95s
+  [  65] obj=123.85     act=1639     err= 0.00%/ 0.00% time=0.60s/43.54s
+  [  66] obj=122.90     act=1592     err= 0.00%/ 0.00% time=0.60s/44.14s
+  [  67] obj=122.60     act=1549     err= 0.00%/ 0.00% time=0.60s/44.73s
+  [  68] obj=121.99     act=1529     err= 0.00%/ 0.00% time=0.60s/45.33s
+  [  69] obj=121.33     act=1453     err= 0.00%/ 0.00% time=0.60s/45.93s
+  [  70] obj=120.72     act=1351     err= 0.00%/ 0.00% time=1.43s/47.36s
+  [  71] obj=119.98     act=1554     err= 0.00%/ 0.00% time=1.02s/48.38s
+  [  72] obj=119.46     act=1411     err= 0.00%/ 0.00% time=1.01s/49.39s
+  [  73] obj=119.01     act=1418     err= 0.00%/ 0.00% time=1.01s/50.40s
+  [  74] obj=118.67     act=1344     err= 0.00%/ 0.00% time=1.02s/51.42s
+  [  75] obj=118.36     act=1310     err= 0.00%/ 0.00% time=1.01s/52.43s
+  [  76] obj=118.20     act=1233     err= 0.00%/ 0.00% time=0.60s/53.03s
+  [  77] obj=117.46     act=1408     err= 0.00%/ 0.00% time=0.60s/53.63s
+  [  78] obj=117.07     act=1222     err= 0.00%/ 0.00% time=0.60s/54.23s
+  [  79] obj=116.78     act=1174     err= 0.00%/ 0.00% time=0.59s/54.82s
+  [  80] obj=116.37     act=1151     err= 0.00%/ 0.00% time=0.60s/55.42s
+  [  81] obj=115.98     act=1162     err= 0.00%/ 0.00% time=0.60s/56.02s
+  [  82] obj=115.71     act=1122     err= 0.00%/ 0.00% time=0.60s/56.62s
+  [  83] obj=115.40     act=1132     err= 0.00%/ 0.00% time=0.60s/57.22s
+  [  84] obj=114.96     act=1121     err= 0.00%/ 0.00% time=0.60s/57.82s
+  [  85] obj=114.81     act=1110     err= 0.00%/ 0.00% time=0.60s/58.41s
+  [  86] obj=114.52     act=1095     err= 0.00%/ 0.00% time=0.60s/59.01s
+  [  87] obj=114.27     act=1094     err= 0.00%/ 0.00% time=0.60s/59.61s
+  [  88] obj=114.12     act=1065     err= 0.00%/ 0.00% time=0.60s/60.21s
+  [  89] obj=113.82     act=1080     err= 0.00%/ 0.00% time=0.60s/60.81s
+  [  90] obj=113.65     act=1062     err= 0.00%/ 0.00% time=0.60s/61.41s
+  [  91] obj=113.33     act=1058     err= 0.00%/ 0.00% time=0.60s/62.01s
+  [  92] obj=113.22     act=1020     err= 0.00%/ 0.00% time=0.60s/62.61s
+  [  93] obj=112.81     act=1008     err= 0.00%/ 0.00% time=0.60s/63.21s
+  [  94] obj=112.56     act=995      err= 0.00%/ 0.00% time=0.60s/63.81s
+  [  95] obj=112.42     act=982      err= 0.00%/ 0.00% time=0.60s/64.41s
+  [  96] obj=112.25     act=971      err= 0.00%/ 0.00% time=0.60s/65.00s
+  [  97] obj=112.07     act=986      err= 0.00%/ 0.00% time=0.60s/65.60s
+  [  98] obj=111.87     act=969      err= 0.00%/ 0.00% time=0.60s/66.20s
+  [  99] obj=111.71     act=962      err= 0.00%/ 0.00% time=0.60s/66.80s
+  [ 100] obj=111.47     act=952      err= 0.00%/ 0.00% time=0.60s/67.39s
+  [ 101] obj=111.34     act=943      err= 0.00%/ 0.00% time=0.60s/67.99s
+  [ 102] obj=111.17     act=930      err= 0.00%/ 0.00% time=0.60s/68.59s
+  [ 103] obj=111.04     act=915      err= 0.00%/ 0.00% time=0.60s/69.19s
+  [ 104] obj=110.86     act=905      err= 0.00%/ 0.00% time=0.60s/69.79s
+  [ 105] obj=110.71     act=903      err= 0.00%/ 0.00% time=0.60s/70.39s
+  [ 106] obj=110.65     act=880      err= 0.00%/ 0.00% time=0.60s/70.98s
+  [ 107] obj=110.43     act=889      err= 0.00%/ 0.00% time=0.60s/71.58s
+  [ 108] obj=110.36     act=862      err= 0.00%/ 0.00% time=0.60s/72.18s
+* Save the model
+* Done
+Model for segmentation created in 73251 ms
+sourceTEIPathLabel: /home/azureuser/grobid/grobid-main/grobid-trainer/resources/dataset/segmentation/evaluation/tei
+sourceRawPathLabel: /home/azureuser/grobid/grobid-main/grobid-trainer/resources/dataset/segmentation/evaluation/raw
+trainingOutputPath: /home/azureuser/grobid/grobid-main/grobid-trainer/../grobid-home/tmp/segmentation2003030455526449347.test
+evalOutputPath: null
+Sep 14, 2022 7:14:13 AM org.grobid.core.jni.WapitiModel init
+INFO: Loading model: /home/azureuser/grobid/grobid-main/grobid-trainer/../grobid-home/models/segmentation/model.wapiti (size: 1518407)
+[Wapiti] Loading model: "/home/azureuser/grobid/grobid-main/grobid-trainer/../grobid-home/models/segmentation/model.wapiti"
+Model path: /home/azureuser/grobid/grobid-main/grobid-trainer/../grobid-home/models/segmentation/model.wapiti
+Empty data is provided to Wapiti tagger: java.lang.Throwable
+Labeling took: 3 ms
+	at org.grobid.core.jni.WapitiWrapper.label(WapitiWrapper.java:14)
+	at org.grobid.core.jni.WapitiModel.label(WapitiModel.java:45)
+	at org.grobid.core.engines.tagging.WapitiTagger.label(WapitiTagger.java:25)
+	at org.grobid.core.engines.tagging.WapitiTagger.label(WapitiTagger.java:20)
+	at org.grobid.trainer.evaluation.EvaluationUtilities.evaluateStandard(EvaluationUtilities.java:117)
+	at org.grobid.trainer.evaluation.EvaluationUtilities.evaluateStandard(EvaluationUtilities.java:102)
+	at org.grobid.trainer.AbstractTrainer.evaluate(AbstractTrainer.java:127)
+	at org.grobid.trainer.AbstractTrainer.runEvaluation(AbstractTrainer.java:577)
+	at org.grobid.trainer.SegmentationTrainer.main(SegmentationTrainer.java:343)
+
+
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+
+all (micro avg.)     0            0            0            0            0      
+all (macro avg.)     0            0            0            0            0      
+
+===== Instance-level results =====
+
+Total expected instances:   0
+Correct instances:          0
+Instance-level recall:      0
+
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+See https://docs.gradle.org/7.1.1/userguide/command_line_interface.html#sec:command_line_warnings
+
+BUILD SUCCESSFUL in 1m 20s
+6 actionable tasks: 1 executed, 5 up-to-date

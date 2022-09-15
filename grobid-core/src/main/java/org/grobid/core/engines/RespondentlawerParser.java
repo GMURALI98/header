@@ -322,7 +322,7 @@ public class RespondentlawerParser {
                 if ((line.trim().length() == 0)) {
                     // new author
 					if (head)
-                    	buffer.append("/t<respondent_lawer>\n");
+                    	buffer.append("/t<respondent_lawyer>\n");
 					else {
 						//buffer.append("<author>");
 					}

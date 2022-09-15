@@ -1391,7 +1391,7 @@ public class FullTextParser extends AbstractParser {
                                 theTotalTok += theTok;
                             }
                         }
-                        if (line.endsWith("<petitioner_lawer>")) {
+                        if (line.endsWith("<petitioner_lawyer>")) {
                             input += theTotalTok;
                         }
                         q++;
@@ -1417,7 +1417,7 @@ public class FullTextParser extends AbstractParser {
                                 theTotalTok += theTok;
                             }
                         }
-                        if (line.endsWith("<respondent_lawer>")) {
+                        if (line.endsWith("<respondent_lawyer>")) {
                             input += theTotalTok;
                         }
                         q++;
@@ -1585,13 +1585,13 @@ public class FullTextParser extends AbstractParser {
                             writerName.write("\n<tei xml:space=\"preserve\" xmlns=\"http://www.tei-c.org/ns/1.0\"" + " xmlns:xlink=\"http://www.w3.org/1999/xlink\" "
                                     + "xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">");
                             writerName.write("\n\t<teiHeader>\n\t\t<fileDesc>\n\t\t\t<sourceDesc>");
-                            writerName.write("\n\t\t\t\t<biblStruct>\n\t\t\t\t\t<analytic>\n\n\t\t\t\t\t\t<petitioner_lawer>");
+                            writerName.write("\n\t\t\t\t<biblStruct>\n\t\t\t\t\t<analytic>\n\n\t\t\t\t\t\t<petitioner_lawyer>");
                             writerName.write("\n\t\t\t\t\t\t\t<persName>\n");
 
                             writerName.write(bufferPetitionerlawer.toString());
 
                             writerName.write("\t\t\t\t\t\t\t</persName>\n");
-                            writerName.write("\t\t\t\t\t\t</petitioner_lawer>\n\n\t\t\t\t\t</analytic>");
+                            writerName.write("\t\t\t\t\t\t</petitioner_lawyer>\n\n\t\t\t\t\t</analytic>");
                             writerName.write("\n\t\t\t\t</biblStruct>\n\t\t\t</sourceDesc>\n\t\t</fileDesc>");
                             writerName.write("\n\t</teiHeader>\n</tei>\n");
                             writerName.close();
@@ -1608,13 +1608,13 @@ public class FullTextParser extends AbstractParser {
                             writerName.write("\n<tei xml:space=\"preserve\" xmlns=\"http://www.tei-c.org/ns/1.0\"" + " xmlns:xlink=\"http://www.w3.org/1999/xlink\" "
                                     + "xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">");
                             writerName.write("\n\t<teiHeader>\n\t\t<fileDesc>\n\t\t\t<sourceDesc>");
-                            writerName.write("\n\t\t\t\t<biblStruct>\n\t\t\t\t\t<analytic>\n\n\t\t\t\t\t\t<respondent_lawer>");
+                            writerName.write("\n\t\t\t\t<biblStruct>\n\t\t\t\t\t<analytic>\n\n\t\t\t\t\t\t<respondent_lawyer>");
                             writerName.write("\n\t\t\t\t\t\t\t<persName>\n");
 
                             writerName.write(bufferRespondentlawer.toString());
 
                             writerName.write("\t\t\t\t\t\t\t</persName>\n");
-                            writerName.write("\t\t\t\t\t\t</respondent_lawer>\n\n\t\t\t\t\t</analytic>");
+                            writerName.write("\t\t\t\t\t\t</respondent_lawyer>\n\n\t\t\t\t\t</analytic>");
                             writerName.write("\n\t\t\t\t</biblStruct>\n\t\t\t</sourceDesc>\n\t\t</fileDesc>");
                             writerName.write("\n\t</teiHeader>\n</tei>\n");
                             writerName.close();

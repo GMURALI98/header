@@ -182,51 +182,51 @@
 				<lb />
 				:
 			</extra>
-			<petitioner_lawer>
+			<petitioner_lawyer>
 				Mr. Giridhar and Sai
 				<lb />
-			</petitioner_lawer>
+			</petitioner_lawyer>
 			<extra>
 				For R1
 				<lb />
 			</extra>
-			<respondent_lawer>
+			<respondent_lawyer>
 				: Mr. V.Kathirvelu
 				<lb />
-			</respondent_lawer>
+			</respondent_lawyer>
 			<extra>
 				For R2
 				<lb />
 			</extra>
-			<respondent_lawer>
+			<respondent_lawyer>
 				: Mr. Abdul Saleem
 				<lb />
-			</respondent_lawer>
+			</respondent_lawyer>
 			<extra>
 				For R3
 				<lb />
 			</extra>
-			<respondent_lawer>
+			<respondent_lawyer>
 				: Mr.Abishek Jenasenan
 				<lb />
-			</respondent_lawer>
+			</respondent_lawyer>
 			<extra>
 				For R4
 				<lb />
 			</extra>
-			<respondent_lawer>
+			<respondent_lawyer>
 				Mrs. B.Saraswathi
 				<lb />
-			</respondent_lawer>
+			</respondent_lawyer>
 			:
 			<extra>
 				For R5
 				<lb />
 			</extra>
-			<respondent_lawer>
+			<respondent_lawyer>
 				: Mr.Venkataseshan
 				<lb />
-			</respondent_lawer>
+			</respondent_lawyer>
 			<page>
 				3/18
 				<lb />
@@ -236,25 +236,25 @@
 				<lb />
 				:
 			</extra>
-			<respondent_lawer>
+			<respondent_lawyer>
 				Mr.R.Nepoliyan
 				<lb />
-			</respondent_lawer>
+			</respondent_lawyer>
 			<extra>
 				For R7
 				<lb />
 				:
 			</extra>
-			<respondent_lawer>
+			<respondent_lawyer>
 				Mr.V.P.Raman
 				<lb />
-				<respondent_lawer>
+				<respondent_lawyer>
 					<document_type>
 						J U D G M E N T
 						<lb />
 					</document_type>
-				</respondent_lawer>
-			</respondent_lawer>
+				</respondent_lawyer>
+			</respondent_lawyer>
 		</front>
 	</text>
 </tei>

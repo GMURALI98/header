@@ -42,7 +42,7 @@
 				Through:
 				<lb />
 			</extra>
-			<petitioner_lawer>
+			<petitioner_lawyer>
 				Mr.Arjun Garg, Ms.Sana
 				<lb />
 				Kamra and Mr.Rahul Gupta,
@@ -67,30 +67,30 @@
 					Through:
 					<lb />
 				</extra>
-				<respondent_lawer>
+				<respondent_lawyer>
 					Mr. NikhilGoel, Standing
 					<lb />
 					Counsel, Ms.Ridhima Gaur,
 					<lb />
-				</respondent_lawer>
+				</respondent_lawyer>
 				<extra>
 					Adv for Union of India.
 					<lb />
 				</extra>
-				<respondent_lawer>
+				<respondent_lawyer>
 					Ms.Archana Pathak Dave
 					<lb />
-				</respondent_lawer>
+				</respondent_lawyer>
 				<extra>
 					, Adv
 					<lb />
 					for R-2
 					<lb />
 				</extra>
-				<respondent_lawer>
+				<respondent_lawyer>
 					Mr.Aditya Ranjan
 					<lb />
-				</respondent_lawer>
+				</respondent_lawyer>
 				<extra>
 					, Standing
 					<lb />
@@ -107,7 +107,7 @@
 					JUDGMENT
 					<lb />
 				</document_type>
-			</petitioner_lawer>
+			</petitioner_lawyer>
 		</front>
 	</text>
 </tei>

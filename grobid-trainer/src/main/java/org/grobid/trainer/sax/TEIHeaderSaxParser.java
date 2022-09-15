@@ -217,9 +217,9 @@ public class TEIHeaderSaxParser extends DefaultHandler {
         } else if (qName.equals("respondent")) {
             currentTag = "<respondent>";
         } else if (qName.equals("petitioner_lawer")) {
-            currentTag = "<petitioner_lawer>";
+            currentTag = "<petitioner_lawyer";
         } else if (qName.equals("respondent_lawer")) {
-            currentTag = "<respondent_lawer>";
+            currentTag = "<respondent_lawyer>";
         } else if (qName.equals("docAuthor")) {
             currentTag = "<author>";
         } /*else if (qName.equals("web")) {

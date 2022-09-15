@@ -6,7 +6,7 @@
 				<biblStruct>
 					<analytic>
 
-						<petitioner_lawer>
+						<petitioner_lawyer
 							<persName>
 								<forename>Bail</forename>
 								 <surname>Appln</surname>.
@@ -22,7 +22,7 @@
 							<persName>
 								 <surname>Manjeet Arya</surname>
 							</persName>
-						</petitioner_lawer>
+						</petitioner_lawyer
 
 					</analytic>
 				</biblStruct>

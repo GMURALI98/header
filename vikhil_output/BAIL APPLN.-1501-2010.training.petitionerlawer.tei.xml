@@ -6,7 +6,7 @@
 				<biblStruct>
 					<analytic>
 
-						<petitioner_lawer>
+						<petitioner_lawyer
 							<persName>
 								 <forename>Mr</forename>.
 								 <surname>Rajesh Chowdhary with</surname>
@@ -30,7 +30,7 @@
 							<persName>
 								<surname>Prakash</surname>,
 							</persName>
-						</petitioner_lawer>
+						</petitioner_lawyer
 
 					</analytic>
 				</biblStruct>

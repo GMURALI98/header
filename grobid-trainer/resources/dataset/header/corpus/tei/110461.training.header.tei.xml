@@ -54,7 +54,7 @@
 				----
 				<lb />
 			</extra>
-			<petitioner_lawer>
+			<petitioner_lawyer>
 				<docAuthor>
 					Ms. P.S. Cardozo a/w. Ms. Maya Majumdar
 					<lb />
@@ -63,11 +63,11 @@
 					for appellant.
 					<lb />
 				</extra>
-				<respondent_lawer>
+				<respondent_lawyer>
 					Mr. Rafique Dada, Senior Advocate a/w. Mr. Jaydeep Patel, Mr. Zubair Dada,
 					<lb />
 					Ms. Shilpa Balani and Ms. Parnari Shingala i/b. A.S. Dayal
-				</respondent_lawer>
+				</respondent_lawyer>
 				<extra>
 					and Associates for
 					<lb />
@@ -95,7 +95,7 @@
 				<document_type>
 					ORAL JUDGMENT : (PER K.R. SHRIRAM, J.)
 				</document_type>
-			</petitioner_lawer>
+			</petitioner_lawyer>
 		</front>
 	</text>
 </tei>

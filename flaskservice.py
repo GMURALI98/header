@@ -14,8 +14,8 @@ app = Flask(__name__)
 @app.route("/createTraining",methods=["POST"])
 def main():
 
-    # models = ["segmentation", "fulltext", "header"]
-    models = ["fulltext"]
+    models = ["segmentation", "fulltext", "header", "table"]
+    # models = ["table"]
     data = {}
 
     try:

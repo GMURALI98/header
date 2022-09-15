@@ -726,39 +726,39 @@ public class TEIFormatter {
         
 
         if ((biblio.getCasenumbers() != null) && (biblio.getCasenumbers().size() > 0)) {
-            tei.append("\t\t\t\t\t<case_number>\n");
+            tei.append("\t\t\t\t\t<case_numbers>\n");
             List<Casenumber> casenumbers = biblio.getCasenumbers();
 
             for (Casenumber keyw : casenumbers) {
                 String res = keyw.getCasenumber().trim();
-                tei.append("\t\t\t\t\t<case");
-                tei.append(">" + TextUtilities.HTMLEncode(res) + "</case>\n");
+                tei.append("\t\t\t\t\t<case_number");
+                tei.append(">" + TextUtilities.HTMLEncode(res) + "</case_number>\n");
 
             }
-            tei.append("\t\t\t\t\t</case_number>\n");
+            tei.append("\t\t\t\t\t</case_numbers>\n");
         } else if (biblio.getCasenumber() != null) {
             String casenumbers = biblio.getCasenumber();
-            tei.append("\t\t\t\t\t<case_number");
+            tei.append("\t\t\t\t\t<case_numbers");
             tei.append(">");
-            tei.append(TextUtilities.HTMLEncode(biblio.getCasenumber())).append("</case_number\n");
+            tei.append(TextUtilities.HTMLEncode(biblio.getCasenumber())).append("</case_numbers\n");
         }
 
         if ((biblio.getJudges() != null) && (biblio.getJudges().size() > 0)) {
-            tei.append("\t\t\t\t\t<judge>\n");
+            tei.append("\t\t\t\t\t<judges>\n");
             List<Judge> judges = biblio.getJudges();
 
             for (Judge keyw : judges) {
                 String res = keyw.getJudge().trim();
-                tei.append("\t\t\t\t\t<judgename");
-                tei.append(">" + TextUtilities.HTMLEncode(res) + "</judgename>\n");
+                tei.append("\t\t\t\t\t<judge");
+                tei.append(">" + TextUtilities.HTMLEncode(res) + "</judge>\n");
 
             }
-            tei.append("\t\t\t\t\t</judge>\n");
+            tei.append("\t\t\t\t\t</judges>\n");
         } else if (biblio.getJudge() != null) {
             String judges = biblio.getJudge();
-            tei.append("\t\t\t\t\t<judge");
+            tei.append("\t\t\t\t\t<judges");
             tei.append(">");
-            tei.append(TextUtilities.HTMLEncode(biblio.getJudge())).append("</judge\n");
+            tei.append(TextUtilities.HTMLEncode(biblio.getJudge())).append("</judges\n");
         }
 
         // keywords here !! Normally the keyword field has been preprocessed

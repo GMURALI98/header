@@ -36,7 +36,7 @@ public class Judge {
         if (judge == null) {
             return null;
         }
-        String res = "<judge>" + TextUtilities.HTMLEncode(judge) + "</judge>";
+        String res = "<judges>" + TextUtilities.HTMLEncode(judge) + "</judges>";
         return res;
     }
 

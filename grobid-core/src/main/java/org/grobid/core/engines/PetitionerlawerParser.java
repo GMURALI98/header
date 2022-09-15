@@ -322,9 +322,9 @@ public class PetitionerlawerParser {
                 if ((line.trim().length() == 0)) {
                     // new author
 					if (head)
-                    	buffer.append("/t<petitioner_lawer>\n");
+                    	buffer.append("/t<petitioner_lawyer>\n");
 					else {
-						//buffer.append("<petitioner_lawer>");
+						//buffer.append("<petitioner_lawyer>");
 					}
                     continue;
                 } else {
@@ -397,14 +397,14 @@ public class PetitionerlawerParser {
                         if (head) {
                             buffer.append("\t\t\t\t\t\t\t</persName>\n");
                         } else {
-                            //buffer.append("</petitioner_lawer>\n");
+                            //buffer.append("</petitioner_lawyer>\n");
                         }
                         hasForename = false;
                         hasSurname = false;
                         if (head) {
                             buffer.append("\t\t\t\t\t\t\t<persName>\n");
                         } else {
-                            //buffer.append("<petitioner_lawer>\n");
+                            //buffer.append("<petitioner_lawyer>\n");
                         }
                         hasMarker = true;
                     }
@@ -433,14 +433,14 @@ public class PetitionerlawerParser {
                         if (head) {
                             buffer.append("\t\t\t\t\t\t\t</persName>\n");
                         } else {
-                            //buffer.append("</petitioner_lawer>\n");
+                            //buffer.append("</petitioner_lawyer>\n");
                         }
                         hasMarker = false;
                         hasSurname = false;
                         if (head) {
                             buffer.append("\t\t\t\t\t\t\t<persName>\n");
                         } else {
-                            //buffer.append("<petitioner_lawer>\n");
+                            //buffer.append("<petitioner_lawyer>\n");
                         }
                     }
                     hasForename = true;

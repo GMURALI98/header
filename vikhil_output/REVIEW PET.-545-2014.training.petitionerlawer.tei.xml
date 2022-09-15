@@ -6,7 +6,7 @@
 				<biblStruct>
 					<analytic>
 
-						<petitioner_lawer>
+						<petitioner_lawyer
 							<persName>
 								<forename>Review Pet</forename>.
 								<surname>545/2014</surname>
@@ -27,7 +27,7 @@
 								 <forename>Mr</forename>.
 								<surname>Harish Malhotra</surname>,
 							</persName>
-						</petitioner_lawer>
+						</petitioner_lawyer
 
 					</analytic>
 				</biblStruct>

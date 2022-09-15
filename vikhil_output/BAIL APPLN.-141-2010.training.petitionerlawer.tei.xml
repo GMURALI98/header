@@ -6,7 +6,7 @@
 				<biblStruct>
 					<analytic>
 
-						<petitioner_lawer>
+						<petitioner_lawyer
 							<persName>
 								<forename>BAIL</forename>
 								 <surname>APPLN</surname>.
@@ -14,7 +14,7 @@
 							<persName>
 								 <surname>141/2010</surname>
 							</persName>
-						</petitioner_lawer>
+						</petitioner_lawyer
 
 					</analytic>
 				</biblStruct>

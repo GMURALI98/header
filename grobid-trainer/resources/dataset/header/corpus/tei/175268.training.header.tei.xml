@@ -52,10 +52,10 @@
 				For Petitioners :
 				<lb />
 			</extra>
-			<petitioner_lawer>
+			<petitioner_lawyer>
 				Ms. Rachhitta Rai
 				<lb />
-			</petitioner_lawer>
+			</petitioner_lawyer>
 			<extra>
 				, Advocate.
 				<lb />
@@ -66,17 +66,17 @@
 				No.1
 				<lb />
 			</extra>
-			<respondent_lawer>
+			<respondent_lawyer>
 				Mr. Vivek Kohli
 				<lb />
-			</respondent_lawer>
+			</respondent_lawyer>
 			<extra>
 				, Advocate General.
 			</extra>
-			<respondent_lawer>
+			<respondent_lawyer>
 				Ms. Yeshi Wangmoo Rinchen
 				<lb />
-			</respondent_lawer>
+			</respondent_lawyer>
 			<extra>
 				, Government
 				<lb />
@@ -86,10 +86,10 @@
 				For Respondent :
 				<lb />
 			</extra>
-			<respondent_lawer>
+			<respondent_lawyer>
 				Mr. Simeon Subba
 				<lb />
-			</respondent_lawer>
+			</respondent_lawyer>
 		</front>
 	</text>
 </tei>
