@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="0A6MIWJJF61JRQV" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 7
+				<lb />
+			</page>
+			<extra>
+				IN THE
+				<lb />
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of Decision:
+				<lb />
+			</extra>
+			<judgement_date>
+				December 02, 2016
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				RSA 346/2016
+				<lb />
+			</case_numbers>
+			<petitioner>
+				GYAN CHAND
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Appellant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Mr.N.K.Aggarwal &amp; Ms.Nupur
+				<lb />
+				Sachdeva
+			</petitioner_lawyers>
+			<extra>
+				, Advocates with appellant in
+				<lb />
+				person
+				<lb />
+			</extra>
+			<extra>
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				KAMLESH
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr.Deepak Gupta,
+			</respondent_lawyers>
+			<extra>
+				Advocate with
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Ankush Sharma &amp; Mr.Gaurav Dhakar,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Advocates
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MS. JUSTICE PRATIBHA RANI
+				<lb />
+			</judges>
+			<document_type>
+				JUDGMENT (Oral)
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

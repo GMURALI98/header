@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="0B16W85689B3IY0" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 9
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Judgment reserved on:
+			</extra>
+			<judgement_date>
+				15.3.2016
+				<lb />
+			</judgement_date>
+			<extra>
+				Judgment delivered on:
+			</extra>
+			<case_numbers>
+				CM(M) 771/2015 &amp; C.M. No.16237/2015
+				<lb />
+			</case_numbers>
+			<judgement_date>
+				17.3.2016
+				<lb />
+			</judgement_date>
+			<petitioner>
+				M/S TEXMACO LTD
+				<lb />
+				(NOW KNOWN AS M/S TEXMACO
+				<lb />
+				INFRASTRUCTURE &amp; HOLDING LTD)
+			</petitioner>
+			<extra>
+				.....
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. J.P. Sengh
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Adv. with
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr.Amit Bhasin, Adv. and Mr. Rajesh
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				Dubari, Legal Officer.
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				CH RAM SWAROOP WRESTLING CLUB &amp; ORS
+			</respondent>
+			<extra>
+				.....
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Rakesh Munjal,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Sr. Adv. with
+			</extra>
+			<respondent_lawyers>
+				Mr.R.P. S. Sirohi, Adv for R-1.
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MS. JUSTICE INDERMEET KAUR
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

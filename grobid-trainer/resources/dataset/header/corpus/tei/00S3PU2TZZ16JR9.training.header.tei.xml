@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="00S3PU2TZZ16JR9" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 4
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Judgment delivered on:
+			</extra>
+			<judgement_date>
+				27 th September, 2018
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				W.P.(C) 2241/2018
+				<lb />
+			</case_numbers>
+			<petitioner>
+				M/S TARA CHAND SUMIT CONST. CO.
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				DELHI DEVELOPMENT AUTHORITY
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Advocates who appeared in this case:
+				<lb />
+				For the Petitioner
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Ms. Stuti Jain and Mr. Akshu Jain
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advocates.
+				<lb />
+			</extra>
+			<extra>
+				For the Respondent
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms. Kanika Singh and Mr. Sangram Singh
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Advocates
+				<lb />
+				for DDA.
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE SIDDARTH MRIDUL
+				<lb />
+			</judges>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

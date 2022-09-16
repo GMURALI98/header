@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-2577-2014" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 6
+				<lb />
+			</page>
+			<extra>
+				*
+				<lb />
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of hearing and order :
+			</extra>
+			<judgement_date>
+				December 07, 2015
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				BAIL APPLN. 2577/2014
+				<lb />
+			</case_numbers>
+			<petitioner>
+				DEEPAK KUMAR
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr.Satish Tamta
+			</petitioner_lawyers>
+			<extra>
+				, Advocate.
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				STATE
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Vinod Diwakar
+			</respondent_lawyers>
+			<extra>
+				, Additional
+				<lb />
+				Public Prosecutor for the State
+				<lb />
+				Ms.Manjeet Kaur, Advocate for the
+				<lb />
+				Complainant.
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE P.S.TEJI
+				<lb />
+			</judges>
+			<document_type>
+				ORDER
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

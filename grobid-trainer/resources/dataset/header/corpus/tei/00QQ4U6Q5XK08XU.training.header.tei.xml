@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="00QQ4U6Q5XK08XU" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 3
+				<lb />
+			</page>
+			<extra>
+				IN THE
+				<lb />
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<case_numbers>
+				W.P.(C) 8144/2016
+			</case_numbers>
+			<petitioner>
+				BANSI DHAR AGARWAL
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Mr. Varun Kumar
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advocate.
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				REGISTRAR COOPERATIVE SOCIETIES &amp; ANR.
+				<lb />
+			</respondent>
+			<extra>
+				.….
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr. Rishi Kumar and Ms. Neha Rastogi,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Advocates for respondent No. 1.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Vivek Kumar Tandon
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Advocate for
+				<lb />
+				respondent No. 2.
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE HIMA KOHLI
+				<lb />
+				HON&apos;BLE MS. JUSTICE SANGITA DHINGRA SEHGAL
+				<lb />
+			</judges>
+			<document_type>
+				O R D E R
+				<lb />
+				(ORAL)
+				<lb />
+			</document_type>
+			<judgement_date>
+				01.05.2017
+				<lb />
+			</judgement_date>
+		</front>
+	</text>
+</tei>

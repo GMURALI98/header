@@ -1,0 +1,348 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="1GG4WLWZWGG4Y6C" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 143
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Reserved on:
+			</extra>
+			<judgement_date>
+				24.11.2017
+				<lb />
+			</judgement_date>
+			<extra>
+				Pronounced on:
+			</extra>
+			<judgement_date>
+				22.12.2017
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				W.P.(C) 2563/2013
+				<lb />
+				W.P.(C) 6728/2013, C.M. APPL.14592/2013
+				<lb />
+				W.P.(C) 4792/2014, C.M. APPL.9548/2014
+				<lb />
+				W.P.(C) 6767/2014, C.M. APPL.16010/2014
+				<lb />
+				W.P.(C) 2825/2015, C.M. APPL.5077/2015
+				<lb />
+				W.P.(C) 2886/2015, C.M. APPL.5179/2015
+				<lb />
+				W.P.(C) 3247/2015, C.M. APPL.5819/2015 &amp; 5820/2015 W.P.(C) 3308/2015, C.M. APPL.5928/2015
+				<lb />
+				W.P.(C) 3626/2015, C.M. APPL.6472/2015
+				<lb />
+				W.P.(C) 6839/2015, C.M. APPL.12508/2015
+				<lb />
+				W.P.(C) 9166/2015, C.M. APPL.20893 &amp; 20894/2015 W.P.(C) 1927/2016, C.M. APPL.8262/2016
+				<lb />
+				W.P.(C) 5994/2016, C.M. APPL.24660/2016 &amp; 24661/2016 W.P.(C) 9153/2016, C.M. APPL.37062-37063/2016
+				<lb />
+			</case_numbers>
+			<petitioner>
+				FASHION DESIGN COUNCIL OF INDIA
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				GOVT. OF NCT OF DELHI AND ANR.
+			</respondent>
+			<extra>
+				..
+				Respondents
+				<lb />
+			</extra>
+			<petitioner>
+				BCCI
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				
+				Petitioner
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				GOVT. OF NCT OF DELHI AND ORS.
+			</respondent>
+			<extra>
+				..
+				Respondents
+			</extra>
+			<petitioner>
+				GMR SPORTS PVT. LTD.
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				COMMISSIONER OF EXCISE, ENTT AND LUXURY TAX
+				<lb />
+				AND ANR.
+			</respondent>
+			<extra>
+				..
+				
+				Respondents
+				<lb />
+			</extra>
+			<petitioner>
+				DEN SOCCER PRIVATE LIMITED
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				GNCTD AND ORS.
+			</respondent>
+			<extra>
+				..
+				Respondents
+				<lb />
+			</extra>
+			<petitioner>
+				PRO SPORTIFY PVT. LTD.
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				THE COMMISSIONER OF ENTERTAINMENT TAX,
+				<lb />
+				GNCTD
+			</respondent>
+			<extra>
+				..
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Present:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Arshad Hidaytullah, Sr. Advocate with Mr.
+				<lb />
+				Jitendra Singh and Mr. Saurabh S. Sinha
+			</petitioner_lawyers>
+			<extra>
+				, Advocates
+				<lb />
+				for petitioner/FDCI.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Amit Sibal, Sr. Advocate along with Ms. Isha Jha
+				<lb />
+				and Ms. Ishita Srivastava
+			</petitioner_lawyers>
+			<extra>
+				, Advocates for petitioners in
+				<lb />
+				W.P.(C)7465/2013 &amp; 2586/2017.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Kamal Sawhney with Mr. Shikhar Garg,
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				Advocates for petitioner in W.P.(C)4966/2013.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Abhinav Agnihotri
+			</petitioner_lawyers>
+			<extra>
+				, Advocate for petitioner-Den
+				<lb />
+				Soccer Pvt. Ltd. in W.P.(C) 2886/2015 &amp; 5994/2016.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Siddharth Bambha
+			</petitioner_lawyers>
+			<extra>
+				, Advocate along with
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr.Rachit Shrivastava
+			</petitioner_lawyers>
+			<extra>
+				, Advocate for the petitioners in
+				<lb />
+				W.P.(C) 12287/2015.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Atul Sharma with Mr. Abhinav Agnihotri and Ms.
+				<lb />
+				Satakshi Som
+			</petitioner_lawyers>
+			<extra>
+				, Advocates for petitioners in
+				<lb />
+				W.P.(C)7495/2014 &amp; 9661/2016.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Parag P. Tripathi, Sr. Advocate with Mr. Kunal
+				<lb />
+				Bahari,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Advocates
+				<lb />
+				for
+				<lb />
+				respondent
+				<lb />
+				in
+				<lb />
+				W.P.(C)2563/2013.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Naushad Ahmed Khan
+			</respondent_lawyers>
+			<extra>
+				, ASC (Civil)/GNCTD with
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms. Aastha Nigam
+			</respondent_lawyers>
+			<extra>
+				, Advocate for respondents in
+				<lb />
+				W.P.(C)4966/2013 &amp; 7465/2013.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Sanjoy Ghose
+			</respondent_lawyers>
+			<extra>
+				, Addl. Standing Counsel for
+				<lb />
+				GNCTD
+				<lb />
+				with
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.
+				<lb />
+				Rishabh
+				<lb />
+				Jetely
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				in
+				<lb />
+				W.P.(C)3626/2015.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Satyakam
+			</respondent_lawyers>
+			<extra>
+				, Addl. Standing Counsel, GNCTD for
+				<lb />
+				the respondent with Mr. P.K. Goel, Assistant
+				<lb />
+				Commissioner in W.P.(C)9153/2016 &amp; 1927/2016.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Anuj Aggarwal
+			</respondent_lawyers>
+			<extra>
+				, Addl. Standing Counsel/GNCTD
+				<lb />
+				with
+			</extra>
+			<respondent_lawyers>
+				Mr. Deboshree Mukherjee,
+			</respondent_lawyers>
+			<extra>
+				Advocate for
+				<lb />
+				respondents in W.P.(C) 2563/2013, 6728/2013,
+				<lb />
+				4792/2014, 6767/2014, 2825/2015, 2886/2015,
+				<lb />
+				3247/2015, 3308/2015, 6839/2015 &amp; 9166/2015.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Gautam Narayan, ASC along with Mr. R.A. Iyer,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Advocate for respondent in W.P.(C)12287/2015.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE S.RAVINDRA BHAT
+				<lb />
+				HON&apos;BLE MS. JUSTICE DEEPA SHARMA
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

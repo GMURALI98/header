@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-1683-2021" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 8
+				<lb />
+			</page>
+			<extra>
+				*
+				<lb />
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of decision:
+			</extra>
+			<judgement_date>
+				21 st October, 2021
+				<lb />
+			</judgement_date>
+			<extra>
+				IN THE MATTER OF:
+				<lb />
+			</extra>
+			<case_numbers>
+				BAIL APPLN. 1683/2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				NIDHU @ SHEELA
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. F. K. Jha
+			</petitioner_lawyers>
+			<extra>
+				, Advocate
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				GOVT. OF NCT OF DELHI
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr. Amit Chadha
+			</respondent_lawyers>
+			<extra>
+				, APP for the State
+				<lb />
+				with Insp. Gursewak Singh and
+				<lb />
+				SHO/Insp. Arvind Kumar, PS
+				<lb />
+				Khayala.
+				<lb />
+			</extra>
+			<case_numbers>
+				BAIL APPLN. 1684/2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				SANJAY KUMAR SAHU
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. F. K. Jha, Advocate
+			</petitioner_lawyers>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				GOVT. OF NCT OF DELHI
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Amit Chadha
+			</respondent_lawyers>
+			<extra>
+				, APP for the State.
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<document_type>
+				HON&apos;BLE MR. JUSTICE SUBRAMONIUM PRASAD
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="RKG15112017CMM12472017" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 4
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Decided on:
+			</extra>
+			<judgement_date>
+				15 th November, 2017
+				<lb />
+			</judgement_date>
+			<petitioner>
+				HABIB UR REHMAN
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Satish Sahai, Mr. Amique
+				<lb />
+				Khalid, Mr. Abhishek Kumar &amp;
+				<lb />
+				Ms. Shruti Rathore
+			</petitioner_lawyers>
+			<extra>
+				, Advs.
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				UNION OF INIDA &amp; ORS
+				<lb />
+			</respondent>
+			<extra>
+				.….
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Rakesh Kumar &amp; Mr.
+				<lb />
+				Santosh Prasad Chaursiya,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Advs. for UOI with Dr. S.K.
+				<lb />
+				Singh, Asst. Director (H),
+				<lb />
+				CPWD.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms. Arti Bansal
+			</respondent_lawyers>
+			<extra>
+				, Adv. for R6.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Manika Tripathy Pandey &amp;
+				<lb />
+				Mr. Ashutosh Kaushik
+			</respondent_lawyers>
+			<extra>
+				, Advs.
+				<lb />
+				for R7&amp;8 with Inspector Inder
+				<lb />
+				Lal &amp; A.S.I. Vijay Singh.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Vivek B. Saharya
+			</respondent_lawyers>
+			<extra>
+				, Adv. for
+				<lb />
+				R-9.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE R.K.GAUBA
+				<lb />
+			</judges>
+			<document_type>
+				JUDGMENT (ORAL)
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

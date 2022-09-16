@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-839-2010" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 9
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<case_numbers>
+				Bail Application No. 839/2010 and Crl. M.A. No.718/2010
+				<lb />
+			</case_numbers>
+			<extra>
+				%
+				<lb />
+			</extra>
+			<extra>
+				Reserved on:
+			</extra>
+			<judgement_date>
+				3 rd June, 2010
+				<lb />
+			</judgement_date>
+			<extra>
+				Decided on:
+			</extra>
+			<judgement_date>
+				4 th June, 2010
+				<lb />
+			</judgement_date>
+			<petitioner>
+				Dr. Ketan Desai
+				<lb />
+				S/o Sh. Dhirajlal Desai
+				<lb />
+				&quot;Ashirvas&quot;, 7, Friends Avenue,
+				<lb />
+				Sindhu Bhavan Road, Badakdev,
+				<lb />
+				Ahmedabad (Gujrat).
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Sidharth Luthra
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate with
+			</extra>
+			<petitioner_lawyers>
+				Mr. Pramod Dubey, Mr. J.S. Bhasin,
+				<lb />
+				Mr. Vivek Jain and Ms. Misha Narayan,
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				Advocates
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				The State
+				<lb />
+				(Throgh C.B.I.)
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms. Sonia Mathur and Mr. Sushil Kumar
+				<lb />
+				Dubey, Advocates with I.O. Satender
+				<lb />
+				Goswami.
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Coram:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MS. JUSTICE MUKTA GUPTA
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="O.M.P. (COMM)-547-2020" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 16
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Reserved on:
+			</extra>
+			<judgement_date>
+				27 th October, 2021
+				<lb />
+			</judgement_date>
+			<extra>
+				Pronounced on:
+			</extra>
+			<judgement_date>
+				08 th April, 2022
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				O.M.P.(COMM) 547/2020 &amp; I.As. 10708/2020, 3593/2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				NATIONAL INSURANCE COMPANY LIMITED
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Niraj Singh and Mr.
+				<lb />
+				Deepak Jaiswal
+			</petitioner_lawyers>
+			<extra>
+				, Advocates.
+			</extra>
+			<respondent>
+				DIGITAL WORLD &amp; ANR.
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Naveen Kumar Chaudhary
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				,Advocate for Respondent No.1.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE SANJEEV NARULA
+				<lb />
+			</judges>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

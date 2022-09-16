@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="0HF9EMDNLR45JRA" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 2
+				<lb />
+			</page>
+			<extra>
+				THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of Order:
+			</extra>
+			<judgement_date>
+				August 30, 2018
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				W.P.(C) 8684/2018
+				<lb />
+			</case_numbers>
+			<petitioner>
+				SUDESH BALA
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Deepak Khosla
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advocate
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				GOVT OF NCT DELHI &amp; ANR.
+			</respondent>
+			<extra>
+				..
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Yeeshu Jain,
+			</respondent_lawyers>
+			<extra>
+				Standing Counsel
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms.Jyoti Tyagi
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Advocate
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MS. JUSTICE SUNIL GAUR
+				<lb />
+			</judges>
+			<document_type>
+				ORDER
+				<lb />
+				(ORAL)
+			</document_type>
+		</front>
+	</text>
+</tei>

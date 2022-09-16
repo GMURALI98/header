@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-278-2021" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 6
+				<lb />
+			</page>
+			<extra>
+				*
+				<lb />
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of decision:
+			</extra>
+			<judgement_date>
+				28 th APRIL, 2021
+				<lb />
+			</judgement_date>
+			<extra>
+				IN THE MATTER OF:
+				<lb />
+			</extra>
+			<case_numbers>
+				BAIL APPLN. 278/2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				ZAHID@ MOHD JAHID
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Firoz Iqbal Khan
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advocate
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				STATE OF NCT OF DELHI
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms. Meenakshi Chauhan
+			</respondent_lawyers>
+			<extra>
+				, APP along
+				<lb />
+				with ASI Pawan Kumar, P.S. Gandhi
+				<lb />
+				Nagar.
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE SUBRAMONIUM PRASAD
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="SUG29082018CW61752018" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 2
+				<lb />
+			</page>
+			<extra>
+				THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of Order:
+			</extra>
+			<judgement_date>
+				August 29, 2018
+				<lb />
+			</judgement_date>
+			<petitioner>
+				SMT. KASTURI
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. N.S. Dalal Mr. Amit
+				<lb />
+				Dhankhar
+			</petitioner_lawyers>
+			<extra>
+				, Advocates
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				LAND AND BUILDING DEPARTMENT
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Yeeshu Jain
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Standing Counsel
+			</extra>
+			<respondent_lawyers>
+				Ms. Jyoti Tyagi
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Advocate
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE SUNIL GAUR
+				<lb />
+			</judges>
+			<document_type>
+				O R D E R
+				<lb />
+				(ORAL)
+			</document_type>
+		</front>
+	</text>
+</tei>

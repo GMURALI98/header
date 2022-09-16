@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="O.M.P. (COMM)-376-2021" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 23
+				<lb />
+				$~9 (2021)
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of Decision:
+			</extra>
+			<judgement_date>
+				21 st December, 2021
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				O.M.P.(COMM) 376/2021 &amp; IA Nos. 17159/2021, 17160/ 2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				INDIAN HIGHWAYS MANAGEMENT
+				<lb />
+				COMPANY LIMITED
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Ms Padma Priya and Ms Shreya
+				<lb />
+				Sethi
+			</petitioner_lawyers>
+			<extra>
+				, Advocates.
+			</extra>
+			<respondent>
+				SOWiL LIMITED
+			</respondent>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms Manmeet Arora, Ms Pavitra
+				<lb />
+				Kaur and Mr Kartikeya Sharma,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Advocates.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+			</extra>
+			<judges>
+				<lb />
+				HON&apos;BLE MR. JUSTICE VIBHU BAKHRU
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

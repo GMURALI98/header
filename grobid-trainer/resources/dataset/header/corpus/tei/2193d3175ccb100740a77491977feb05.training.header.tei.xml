@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="2193d3175ccb100740a77491977feb05" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<extra>
+				$~
+				<lb />
+				*
+				<lb />
+			</extra>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+			</court>
+			<extra>
+				<lb />
+				%
+				<lb />
+			</extra>
+			<extra>
+				Reserved on:
+				<lb />
+			</extra>
+			<judgement_date>
+				21.10.2020
+				<lb />
+			</judgement_date>
+			<extra>
+				Pronounced on:
+			</extra>
+			<judgement_date>
+				17.11.2020
+			</judgement_date>
+			<lb />
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P. (C) 4114/2020 &amp; CM No. 14769/2020
+			</case_numbers>
+			<lb />
+			<petitioner>
+				DR. PRADEEP SHINDE
+				
+				
+				&amp; ORS.
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				
+				Petitioners
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<lb />
+			<petitioner_lawyers>
+				Mr. Akhil Sibal, Sr. Advocate
+				<lb />
+				with Mr. Maanav Kumar, Ms.
+				<lb />
+				Roshni Namboodiry, Ms. Nitya
+				<lb />
+				Gupta, Ms. Sonali Malik and Ms.
+				<lb />
+				Nupur
+			</petitioner_lawyers>
+			<extra>
+				, Advocates.
+			</extra>
+			<extra>
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				JAWAHARLAL NEHRU UNIVERSITY THROUGH:
+				<lb />
+				ITS VICE CHANCELLOR &amp; ANR.
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Ms. Monika Arora,
+			</respondent_lawyers>
+			<extra>
+				Standing
+				<lb />
+				Counsel with
+			</extra>
+			<respondent_lawyers>
+				Ms. Ankita Shah,
+			</respondent_lawyers>
+			<lb />
+			<extra>
+				Advocate for R-1.
+			</extra>
+			<lb />
+			<respondent_lawyers>
+				Mr. Ajay Digpaul, CGSC and Mr.
+				<lb />
+				Kamal R. Digpaul
+			</respondent_lawyers>
+			<extra>
+				Advocate for
+				<lb />
+				UOI.
+			</extra>
+			<lb />
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MS. JUSTICE JYOTI SINGH
+			</judges>
+			<document_type>
+				JUDGEMENT
+			</document_type>
+		</front>
+	</text>
+</tei>

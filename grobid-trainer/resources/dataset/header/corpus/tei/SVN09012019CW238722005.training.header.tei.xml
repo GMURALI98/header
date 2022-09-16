@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="SVN09012019CW238722005" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 30
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Reserved on:
+			</extra>
+			<judgement_date>
+				10 th December, 2018
+				<lb />
+			</judgement_date>
+			<extra>
+				Pronounced on:
+			</extra>
+			<judgement_date>
+				9 th January, 2019
+				<lb />
+			</judgement_date>
+			<petitioner>
+				RAJVIR SINGH
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Chandan Kumar
+			</petitioner_lawyers>
+			<extra>
+				, Advocate.
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				UOI &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Rajan Sabharwal
+				<lb />
+			</respondent_lawyers>
+			<respondent_lawyers>
+				, Advocate.
+			</respondent_lawyers>
+			<extra>
+				CORAM:
+			</extra>
+			<judges>
+				JUSTICE S.MURALIDHAR
+				<lb />
+				JUSTICE SANJEEV NARULA
+				<lb />
+			</judges>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

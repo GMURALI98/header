@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="REP15032019CRLMM31372017" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 51
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Reserved on:
+			</extra>
+			<judgement_date>
+				24.01.2019.
+				<lb />
+			</judgement_date>
+			<extra>
+				Date of Decision :
+			</extra>
+			<judgement_date>
+				15.03.2019.
+				<lb />
+			</judgement_date>
+			<petitioner>
+				SHRI SANDEEP SILAS
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Arvind K. Nigam, Sr. Adv. with
+				<lb />
+				Mr. Manish Bishnoi, Mr.Mikhil
+				<lb />
+				Sharma, Mr.Mehtaab Singh Sandhu &amp;
+				<lb />
+				Mr.Pratishth Kaushal
+			</petitioner_lawyers>
+			<extra>
+				, Advs.
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				CBI &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Nikhil Goel, Spl.P.P. with
+				<lb />
+				Mr.Gurpreet Hora, Adv. for CBI.
+				<lb />
+				Mr.Ravinder Agarwal, Adv. for CVC.
+				<lb />
+				Mr.V.S.R.Krishna, Adv. for Railways.
+				<lb />
+			</respondent_lawyers>
+			<petitioner>
+				SH. MS. CHALIA
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Vikas Pahwa, Sr. Adv. with
+				<lb />
+				Mr. Manish Bishnoi, Mr. Karan
+				<lb />
+				Khanuja, Mr. Shadman Ahmed &amp;
+				<lb />
+				Mr.Tushar Agarwal, Advs.
+			</petitioner_lawyers>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				CBI &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondents
+				<lb />
+			</extra>
+			<petitioner>
+				SH. MS. CHALIA
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Vikas Pahwa, Sr. Adv. with
+				<lb />
+				Mr. Manish Bishnoi, Mr. Karan
+				<lb />
+				Khanuja, Mr. Shadman Ahmed &amp;
+				<lb />
+				Mr.Tushar Agarwal
+			</petitioner_lawyers>
+			<extra>
+				, Advs.
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				CBI &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Ashutosh Ghade with Mr.Nikhil,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Advs.
+				<lb />
+				for CBI.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Ravinder Agarwal
+			</respondent_lawyers>
+			<extra>
+				, Adv. for CVC.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.V.S.R.Krishna
+			</respondent_lawyers>
+			<extra>
+				, Adv. for Railways.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Anil
+				<lb />
+				Soni
+			</respondent_lawyers>
+			<extra>
+				,
+				<lb />
+				CGSC
+				<lb />
+				with
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Abhinav Tyagi
+			</respondent_lawyers>
+			<extra>
+				, Adv. for UOI.
+				<lb />
+			</extra>
+			<petitioner>
+				SH. SANDEEP SILAS
+				<lb />
+			</petitioner>
+			.....
+			<extra>
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Manish Bishnoi, Mr.Archit Gupta
+				<lb />
+				&amp; Mr.Abhijit Das, Advs.
+			</petitioner_lawyers>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				CBI &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Nikhil Goel
+			</respondent_lawyers>
+			<extra>
+				, Spl.P.P. with
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Gurpreet Hora
+			</respondent_lawyers>
+			<extra>
+				, Adv. for CBI.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Ravinder Agarwal
+			</respondent_lawyers>
+			<extra>
+				, Adv. for CVC.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.V.S.R.Krishna
+			</respondent_lawyers>
+			<extra>
+				, Adv. for Railways.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MS. JUSTICE REKHA PALLI
+				<lb />
+				REKHA PALLI, J
+				<lb />
+			</judges>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

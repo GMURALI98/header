@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="dcb094d417b965f7f8018b3d225c0e37" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<page>
+				1
+			</page>
+			<lb />
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
+			</court>
+			<lb />
+			<extra>
+				DATED:
+			</extra>
+			<judgement_date>
+				23-01-2014
+			</judgement_date>
+			<lb />
+			<extra>
+				CORAM
+				<lb />
+			</extra>
+			<judges>
+				THE HON&apos;BLE MR.JUSTICE V.RAMASUBRAMANIAN
+			</judges>
+			<lb />
+			<case_numbers>
+				Civil Suit No.562 of 2007
+			</case_numbers>
+			<lb />
+			<petitioner>
+				M.C.Jayasingh
+				<lb />
+			</petitioner>
+			<extra>
+				...Plaintiff
+				<lb />
+			</extra>
+			<extra>
+				Vs
+			</extra>
+			<lb />
+			<respondent>
+				1. Mishra Dhatu Nigam Limited (MIDHANI)
+				<lb />
+				rep.by its Managing Director, Kanchanbagh
+				<lb />
+				Hyderabad 500 058.
+				<lb />
+				2. Apollo Hospitals, Jubilee Hills Road
+				<lb />
+				Banjara Hills, Hyderabad 500 033.
+				<lb />
+				3. Apollo Hospitals Enterprise Limited
+				<lb />
+				Ali Towers, IV Floor, 55, Greams Road
+				<lb />
+				Chennai 600 006.
+				<lb />
+				4. Cancer Institute (W.I.A) (Regional
+				<lb />
+				Cancer Centre), Canal Bank Road
+				<lb />
+				Gandhi Nagar, Adyar, Chennai 600 020.s
+			</respondent>
+			<extra>
+				...Defendant
+				<lb />
+			</extra>
+			<extra>
+				-----
+				<lb />
+				Plaint under Order VII, Rule 1, CPC, read with Order IV, Rule of the Original Side
+				<lb />
+				Rules, Section 108 read with Section 50(1) of the Patents Act, 1970 and Section 22(2)(b)
+				<lb />
+				of the Designs Act, 2000.
+				<lb />
+				-----
+				<lb />
+			</extra>
+			<extra>
+				For Plaintiff   :
+			</extra>
+			<petitioner_lawyers>
+				Mr.M.Sundar
+			</petitioner_lawyers>
+			<lb />
+			<extra>
+				For Defendant-1   :
+			</extra>
+			<respondent_lawyers>
+				Mr.V.Chandrakanthan
+			</respondent_lawyers>
+			<lb />
+			<extra>
+				For Defendants 2&amp;3 :
+			</extra>
+			<respondent_lawyers>
+				Mr.C.Manishankar
+			</respondent_lawyers>
+			<lb />
+			<extra>
+				For Defendant-4   :
+			</extra>
+			<respondent_lawyers>
+				Mr.N.L.Rajah
+			</respondent_lawyers>
+			<lb />
+			<extra>
+				-----
+			</extra>
+			<lb />
+			<document_type>
+				J U D G M E N T
+			</document_type>
+			<lb />
+		</front>
+	</text>
+</tei>

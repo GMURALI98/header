@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="O.M.P. (COMM)-359-2021" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 17
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<case_numbers>
+				O.M.P. (COMM) 359/2021, I.A. 16339/2021 &amp; I.A.16340/2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				SNG DEVELOPERS LIMITED
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Dharmesh Mishra &amp; Mr.
+				<lb />
+				Prateek Gupta
+			</petitioner_lawyers>
+			<extra>
+				, Advs.
+			</extra>
+			<respondent>
+				VARDHMAN BUILDTECH PRIVATE LIMITED
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Sanjeev Kumar Dubey, Sr.
+				<lb />
+				Adv. with Mr. Ashish Khurana,
+				<lb />
+				Mr. Amit Bhatia, Mr. Manmay
+				<lb />
+				Sarawagi &amp; Mr. E Krishna
+				<lb />
+				Dass
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Advs.
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE C. HARI SHANKAR
+				<lb />
+			</judges>
+			<document_type>
+				J U D G M E N T (ORAL)
+				<lb />
+			</document_type>
+			<judgement_date>
+				09.12.2021
+				<lb />
+			</judgement_date>
+		</front>
+	</text>
+</tei>

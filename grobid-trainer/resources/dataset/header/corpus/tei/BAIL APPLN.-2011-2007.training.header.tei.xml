@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-2011-2007" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 5
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<case_numbers>
+				Bail Appl. No.2011/2007
+				<lb />
+			</case_numbers>
+			<extra>
+				Date of Decision:
+			</extra>
+			<judgement_date>
+				04.09.2008
+				<lb />
+			</judgement_date>
+			<petitioner>
+				Sh.Rohtash Sharma &amp; Others
+				<lb />
+			</petitioner>
+			<extra>
+				….
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr.Narinder Kumar Saraswat
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advocate
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				State
+				<lb />
+			</respondent>
+			<extra>
+				….
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Amit Sharma
+			</respondent_lawyers>
+			<extra>
+				, APP for the State.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.R.K.Sharma
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Advocate for the
+				<lb />
+				respondent No.2.
+				<lb />
+				SI Narsingh, P.S.Dabri.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE ANIL KUMAR
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

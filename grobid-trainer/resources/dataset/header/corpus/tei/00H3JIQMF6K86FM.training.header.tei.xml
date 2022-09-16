@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="00H3JIQMF6K86FM" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 6
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<judgement_date>
+				1 st September, 2016
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				RSA 236/2016 &amp; CM Nos. 30418-30419/2016
+				<lb />
+			</case_numbers>
+			<petitioner>
+				SOHAN LAL &amp; ORS.
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Appellant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Mr. Arun Kaushal
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advocate
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				SOBHA SHUKLA
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE VALMIKI J.MEHTA
+				<lb />
+				judge
+			</judges>
+		</front>
+	</text>
+</tei>

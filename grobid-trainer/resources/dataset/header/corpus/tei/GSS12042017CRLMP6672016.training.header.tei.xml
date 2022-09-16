@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="GSS12042017CRLMP6672016" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 13
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of Judgment:
+			</extra>
+			<judgement_date>
+				12 th April, 2017
+				<lb />
+			</judgement_date>
+			<petitioner>
+				STATE OF NCT OF DELHI
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through :
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Ms. Radhika Kolluru,
+			</petitioner_lawyers>
+			<extra>
+				APP for the
+				<lb />
+				State with SI Rameshwar Prasad, PS
+				<lb />
+				Fatehpuri Beri, Delhi.
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				MAHESH &amp; ANR.
+				<lb />
+			</respondent>
+			<extra>
+				....
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through :
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Surender Kumar Atri
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Advocate.
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE G.S.SISTANI
+				<lb />
+				HON&apos;BLE MR. JUSTICE VINOD GOEL
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-2085-2021" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 7
+				<lb />
+			</page>
+			<court>
+				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Reserved on :
+			</extra>
+			<judgement_date>
+				08.03.2022
+				<lb />
+			</judgement_date>
+			<extra>
+				Pronounced on :
+			</extra>
+			<judgement_date>
+				27.04.2022
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				BAIL APPLN. 2085/2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				DHRUV JYOTI GOEL
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Ms. Kiran Suri, Sr. Advocate with
+				<lb />
+				Mr. Dhruva Bhagat, Mr. Kunal gosain
+				<lb />
+				and Mr. Mohit Gulati, Advocates.
+			</petitioner_lawyers>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				STATE &amp; ANR.
+				<lb />
+			</respondent>
+			<extra>
+				....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Amit Ahlawat
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, APP for the State
+				<lb />
+				with SI Raghuveer.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				<lb />
+				Mr. Jatan Singh and Mr. Chrag
+				<lb />
+				Mudgal,
+			</respondent_lawyers>
+			<extra>
+				Advocates for the
+				<lb />
+				complainant.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE RAJNISH BHATNAGAR
+				<lb />
+			</judges>
+			<document_type>
+				ORDER
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

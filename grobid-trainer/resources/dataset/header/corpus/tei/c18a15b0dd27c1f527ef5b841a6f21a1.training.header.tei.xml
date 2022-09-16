@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="d36d0ca50a428d21e9d8d036090dfd62" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<extra>
+				REPORTABLE
+			</extra>
+			<lb />
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				SUPREME COURT OF INDIA
+			</court>
+			<lb />
+			<extra>
+				CIVIL ORIGINAL JURISDICTION
+			</extra>
+			<lb />
+			<case_numbers>
+				WRIT PETITION (CIVIL) NO. 13 OF 2015
+			</case_numbers>
+			<lb />
+			<petitioner>
+				Supreme Court Advocates-on-Record -
+				<lb />
+				Association and another
+				<lb />
+			</petitioner>
+			<extra>
+				... Petitioner(s)
+				<lb />
+			</extra>
+			<extra>
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				Union of India
+				<lb />
+			</respondent>
+			<extra>
+				... Respondent(s)
+			</extra>
+			<extra>
+				With
+			</extra>
+			<lb />
+			<case_numbers>
+				WRIT PETITION (C) NO. 14 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 18 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 23 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 24 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 70 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 83 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 108 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 124 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 209 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 309 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 310 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 323 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				WRIT PETITION (C) NO. 341 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				TRANSFER PETITION(C) NO. 391 OF 2015
+				<lb />
+			</case_numbers>
+			<case_numbers>
+				TRANSFER PETITION (C) NO. 971 OF 2015
+				<lb />
+			</case_numbers>
+			<document_type>
+				J U D G M E N T
+			</document_type>
+			<lb />
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-1501-2010" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 5
+				<lb />
+			</page>
+			<extra>
+				* IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of Reserve:
+			</extra>
+			<judgement_date>
+				02.11.2010
+				<lb />
+			</judgement_date>
+			<extra>
+				Date of Order:
+			</extra>
+			<judgement_date>
+				11 th November, 2010
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				Bail Appln. No. 1652/2010
+				<lb />
+				11.11.2010
+				<lb />
+			</case_numbers>
+			<petitioner>
+				Rajesh
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Rajesh Chowdhary
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				with
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. J.B. Prakash
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advocates
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				State
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Sunil Sharma
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, APP
+			</extra>
+			<case_numbers>
+				Bail Appln. No. 1501/2010
+				<lb />
+				11.11.2010
+				<lb />
+			</case_numbers>
+			<petitioner>
+				Lajjawati
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Rajesh Chowdhary with
+				<lb />
+				Mr. J.B.Prakash
+			</petitioner_lawyers>
+			<extra>
+				, Advocates
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				State
+				<lb />
+			</respondent>
+			.....
+			<extra>
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Sunil Sharma
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, APP
+			</extra>
+			<judges>
+				JUSTICE SHIV NARAYAN DHINGRA
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

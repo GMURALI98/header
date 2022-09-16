@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="00H9FMWQYQR35VQ" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 3
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of decision:
+			</extra>
+			<case_numbers>
+				ARB.P. 545/2018
+				<lb />
+			</case_numbers>
+			<judgement_date>
+				04.12.2018
+				<lb />
+			</judgement_date>
+			<petitioner>
+				PALLAVI FIRMS &amp; NURSERIES
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				
+				
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through
+			</extra>
+			<petitioner_lawyers>
+				Dr. Kedarnath Tripathy and Mr.
+				<lb />
+				B.B. Pradhan, Advs.
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				NATIONAL SEEDS CORPORATION LIMITED
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				
+				
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Yashvardhan, Ms. Smita Kant,
+				<lb />
+				Mr. Abhishek Praharaj and Mr.
+				<lb />
+				Puneet Kumar
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Advs.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE RAJIV SHAKDHER
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

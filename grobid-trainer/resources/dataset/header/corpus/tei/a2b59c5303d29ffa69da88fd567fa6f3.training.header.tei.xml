@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="a2b59c5303d29ffa69da88fd567fa6f3" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				*
+				<lb />
+			</extra>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+			</court>
+			<lb />
+			<extra>
+				Date of decision:
+			</extra>
+			<judgement_date>
+				26 th APRIL, 2022
+				<lb />
+			</judgement_date>
+			<extra>
+				IN THE MATTER OF:
+				<lb />
+			</extra>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				CONT.CAS(C) 60/2022 &amp; CM APPL. 12825/2022
+				<lb />
+			</case_numbers>
+			<petitioner>
+				KINRI DHIR
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Ms. Geeta Luthra, Sr. Advocate with
+				<lb />
+				Ms. Shivani Luthra Lohiya, Ms.
+				<lb />
+				Asmita Narula, Ms. Priyanka
+				<lb />
+				Prasanth
+				<lb />
+				and
+				<lb />
+				Ms.
+				<lb />
+				Apoorva
+				<lb />
+				Maheshwari,
+			</petitioner_lawyers>
+			<extra>
+				Advocates
+			</extra>
+			<extra>
+				versus
+			</extra>
+			<lb />
+			<respondent>
+				VEER SINGH
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				
+				Respondent
+			</extra>
+			<lb />
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Ms. Rebecca John, Sr. Advocate with
+				<lb />
+				Ms. Gauri Rishi, Ms. Srishti Juneja
+				<lb />
+				and Ms. Garima Sehgal, Advocates
+				<lb />
+				for Respondent No. 1
+				<lb />
+				Mr. Manu Aggarwal and Mr.
+				<lb />
+				Shubham Budhiraja,
+			</respondent_lawyers>
+			<extra>
+				Advocates for R-
+				<lb />
+				2 and R-3.
+			</extra>
+			<lb />
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE SUBRAMONIUM PRASAD
+				<lb />
+			</judges>
+			<extra>
+				SUBRAMONIUM PRASAD, J.
+				<lb />
+			</extra>
+		</front>
+	</text>
+</tei>

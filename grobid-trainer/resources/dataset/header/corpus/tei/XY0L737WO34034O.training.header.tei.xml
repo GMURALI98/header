@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="XY0L737WO34034O" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 72
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of Decision:
+			</extra>
+			<judgement_date>
+				20 th December, 2017
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				FAO 345/2016 and CM Appln.26849/2016
+				<lb />
+			</case_numbers>
+			<petitioner>
+				BRIJESH KUMAR VERMA
+			</petitioner>
+			<extra>
+				......
+				Appellant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Harvinder Singh, Mr.Jatin
+				<lb />
+				Kumar
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advocates
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				AURANGJEB &amp; ANR.
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms. Pratima N. Chauhan,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Advocate for respondent no.1.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Sanjoy Ghose
+			</respondent_lawyers>
+			<extra>
+				, ASC for
+				<lb />
+				GNCTD.
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE J.R. MIDHA
+				<lb />
+			</judges>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

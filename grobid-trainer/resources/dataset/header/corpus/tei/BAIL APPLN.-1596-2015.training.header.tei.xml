@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-1596-2015" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 6
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Judgment delivered on :
+			</extra>
+			<judgement_date>
+				December 11, 2015
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				BAIL APPLN. 1596/2015 &amp; Crl.M.A. Nos.7527/2015 &amp; 7810/2015
+				<lb />
+			</case_numbers>
+			<petitioner>
+				HARI SINGH
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr.Deepak Prakash
+			</petitioner_lawyers>
+			<extra>
+				, Advocate with
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Ms.Neelambari
+			</petitioner_lawyers>
+			<extra>
+				, Advocate.
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				THE STATE OF NCT OF DELHI
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms. Manjeet Arya
+			</respondent_lawyers>
+			<extra>
+				, Additional Public
+				<lb />
+				Prosecutor for the State with Sub-
+				<lb />
+				Inspector Ved Prakash, Police Station
+				<lb />
+				Maurya Enclave, Delhi.
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE P.S.TEJI
+				<lb />
+			</judges>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

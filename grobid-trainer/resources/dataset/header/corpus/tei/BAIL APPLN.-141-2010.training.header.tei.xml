@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="BAIL APPLN.-141-2010" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 5
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				%
+				<lb />
+				Order delivered on:
+			</extra>
+			<judgement_date>
+				10 th May, 2010
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				BAIL APPLN. 141/2010
+				<lb />
+			</case_numbers>
+			<petitioner>
+				KULSHRESTHA DHINGRA &amp; ANR.
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Appellants
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. K.K. Sud
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate with
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Shishir Pinaki
+				, Mr. Anwesh Madhukar
+				<lb />
+				&amp; Mr. Kunal Malhotra
+			</petitioner_lawyers>
+			<extra>
+				, Advocates
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				THE STATE
+				<lb />
+			</respondent>
+			<extra>
+				....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Pawan Behl
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, APP.
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE P.K.BHASIN
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

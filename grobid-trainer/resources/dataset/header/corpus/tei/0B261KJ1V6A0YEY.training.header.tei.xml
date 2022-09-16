@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="0B261KJ1V6A0YEY" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<page>
+				Page 1 of 4
+				<lb />
+			</page>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of Judgment:
+			</extra>
+			<judgement_date>
+				12 th October, 2018
+				<lb />
+			</judgement_date>
+			<extra>
+				MAT.APP(F.C.)269/2018
+				<lb />
+			</extra>
+			<petitioner>
+				KAILASH CHANDRA SHARMA
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Appellant
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Randhir Singh and Mr. S.K.
+				<lb />
+				Gupta
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				,Advocates
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				SMT. RAGINI
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Manee Mridul, Mr. Achintya
+				<lb />
+				Dvivedi and Mr. B.P. Pandey,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Advocates
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE G.S.SISTANI
+				<lb />
+				HON&apos;BLE MS. JUSTICE SANGITA DHINGRA SEHGAL
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>
