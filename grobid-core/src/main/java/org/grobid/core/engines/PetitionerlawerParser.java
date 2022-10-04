@@ -324,7 +324,7 @@ public class PetitionerlawerParser {
 					if (head)
                     	buffer.append("/t<petitioner_lawyers>\n");
 					else {
-						//buffer.append("<petitioner_lawyer>");
+						//buffer.append("<petitioner_lawyers>");
 					}
                     continue;
                 } else {
@@ -397,14 +397,14 @@ public class PetitionerlawerParser {
                         if (head) {
                             buffer.append("\t\t\t\t\t\t\t</persName>\n");
                         } else {
-                            //buffer.append("</petitioner_lawyer>\n");
+                            //buffer.append("</petitioner_lawyers>\n");
                         }
                         hasForename = false;
                         hasSurname = false;
                         if (head) {
                             buffer.append("\t\t\t\t\t\t\t<persName>\n");
                         } else {
-                            //buffer.append("<petitioner_lawyer>\n");
+                            //buffer.append("<petitioner_lawyers>\n");
                         }
                         hasMarker = true;
                     }
@@ -433,14 +433,14 @@ public class PetitionerlawerParser {
                         if (head) {
                             buffer.append("\t\t\t\t\t\t\t</persName>\n");
                         } else {
-                            //buffer.append("</petitioner_lawyer>\n");
+                            //buffer.append("</petitioner_lawyers>\n");
                         }
                         hasMarker = false;
                         hasSurname = false;
                         if (head) {
                             buffer.append("\t\t\t\t\t\t\t<persName>\n");
                         } else {
-                            //buffer.append("<petitioner_lawyer>\n");
+                            //buffer.append("<petitioner_lawyers>\n");
                         }
                     }
                     hasForename = true;

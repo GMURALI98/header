@@ -2,110 +2,92 @@ import spacy
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from act_dictionary import act_dic
-
+import re
 
 def load_model(text):
     nlp = spacy.load("section_model")
     # html_url = html_link
     html_text = text
     # print(html)
-    soup = BeautifulSoup(html_text, features="html.parser")
 
+    try:   
+        soup = BeautifulSoup(html_text, features="html.parser")
+ 
+        # kill all script and style elements
+        for script in soup(["script", "style"]):
+            script.extract()    # rip it out
 
-    # kill all script and style elements
-    for script in soup(["script", "style"]):
-        script.extract()    # rip it out
+        # get text
+        text = soup.body.get_text()
 
-    # get text
-    text = soup.body.get_text()
+    except:
+        pass
+
     doc = nlp(text)
-    replaced_text = replace_section_with_anchor(html_text,doc)
-    return replaced_text
+    output = get_acts(html_text, doc)
 
-def replace_section_with_anchor(html_text,doc):
-    # with open (html_url,'r',encoding="utf-8") as file:
-    filedata = html_text
-    filedata = " ".join(filedata.split())
-    # text to ankhor tag conversion
+    return output
+
+def get_acts(text, doc):
+
+    path="https://www.quickcompany.in/acts/"
+    acts_list = []
+    acts_formatted = []
+    data = " ".join(text.split())
+    
     for ent in doc.ents:
-        entity=ent.text.replace("\n"," ")
-        # print(entity)
-        l=ent.text.split()
-        # print(l)
-        if len(l)>1 and "/" in l[1]:
-            s= l[1].split("/")
-            sec=''
-            # for i in s:
-            #     sec+="Section "+i+"/"
-        if len(l)>1:
-            if len(l)>2 and '(' in l[2]:
-                s = ""
-                for i in range(2,len(l)):
-                    if '(' in l[i]:
-                        s+=l[i]
-                    else:
-                        break
-                sec=l[0]+" "+l[1]+s
+        
+        #break at acts, and take only 6 next chars of string to concatand generate key
+        #replace whitespaces in act detected and compare with act dictionary
+        act = re.sub(r'<.*?>', '', ent.text)
+        act_copy = act.lower()
+
+        if "act" in act_copy:
+            tokens = act_copy.split("act")
+            if len(tokens) > 1 and len(tokens[1]) > 3:    
+                # print(tokens)
+                act = tokens[0] + "Act" + tokens[1][:6]
             else:
-                sec=l[0]+" "+l[1]
+                act = tokens[0] + "Act"
+                
+            acts_list.append(act)
+    
+    for index, acts in enumerate(acts_list):
+        section, act = acts.split("of") 
+        section = section.replace(" ", "").split("section")[1].strip()
 
+        if "the" not in act:
+            act = f"the {act}"
+        act = act.strip().replace(" ", "").lower()
+ 
 
+        act_dict_keys_list = list(act_dic.keys())
+        temp = []
+        for i in act_dict_keys_list:
+            i = i.lower().replace(" ", "")
+            try:    
+                i = i.replace("of", "")
+            except:
+                pass
+            temp.append(i)
 
-        # print(ent.text.strip())
-        path="https://www.quickcompany.in/indiacode/"
-        for i in range(1,len(l)):
-            if  (not any(chr.isdigit() for chr in l[i])) and l[i]!="of" and l[i]!="the" and ("/" not in l[i]) and ('(' not in l[i]):
-                    act=l[i::1]
-                    act=" ".join(act)
-                    # print(act+"-Act")
-                    break
-            else:
-                act="Act"
-        # print(act+"-Act",sec+"-section")
-        if len(act)>180:
-                continue
+        for i, a in enumerate(temp):
+            if act==a:
+                act = list(act_dic.values())[i]
+                break
+    
+        if "-" in act:    
+            a_tag = f"<a href={path}{act}#{section}>{doc.ents[index].text}</a>"
+            acts_formatted.append(act)
+
         else:
-            if len(act)>3:
-                act_main = act
-            if "." in act[-1]:
-                act.replace('.',"")
-            if "," in act[-1]:
-                act= act.replace(',',"")
-                # print(act)
-            if act.lower()=='act':
-                try:
-                    act = act_main
-                except:
-                    act = act
-            for i,j in act_dic.items():
-                if act=='Code':
-                    if act==i:
-                        path+=j
-                        break
-                elif act.lower().strip()==i.lower():
-                    # print(1)
-                    path+=j
-                    break
-                elif act.lower() in i.lower():
-                    path+=j
-                    break
-            if len(l)>1 and "/" in l[1]:
-                print(sec+" "+act,"-"+entity)
-                for i in s:
-                    path = path+"#"+i
-                    se = "Section "+i 
-                    a += '<a href="'+path+'">'+se+'</a>/'
-                a = a+" of "+act
-                filedata = filedata.replace(entity,a) 
-            else:
+            pass
 
-                print(sec+" "+act,"-"+entity)
-                path=path+"#"+sec.split()[1]
-                se=sec+" of "+act
-                a='<a href="'+path+'">'+se+" "+'</a>'
-                filedata = filedata.replace(entity,a)
-    # print(filedata)
-    return(filedata)
+        data = data.replace(doc.ents[index].text, a_tag)
+        # print(a_tag)
+        # print(section)
+        # print(act, "\n")
+    
+    # return {"source_data": data, "Acts": set(acts_formatted)}
+    return data, [*{*acts_formatted}]
 
-
-# load_model('D:\quickcompany\Spacy\testing2.html')

@@ -55,6 +55,7 @@ public class TaggingLabels {
 
 
     public final static String COURT_LABEL = "<court>";
+    public final static String NOTES_LABEL = "<notes>";
     public final static String CASENUMBER_LABEL = "<case_numbers>";
     public final static String CASEDATE_LABEL = "<judgement_date>";
     public final static String JUDGE_LABEL = "<judges>";
@@ -159,6 +160,7 @@ public class TaggingLabels {
     public static final TaggingLabel HEADER_RESPLAWERS = new TaggingLabelImpl(GrobidModels.HEADER, RESPLAWERS_LABEL);
 
     public static final TaggingLabel HEADER_COURT = new TaggingLabelImpl(GrobidModels.HEADER, COURT_LABEL);
+    public static final TaggingLabel HEADER_NOTES = new TaggingLabelImpl(GrobidModels.HEADER, NOTES_LABEL);
     public static final TaggingLabel HEADER_CASENUMBER = new TaggingLabelImpl(GrobidModels.HEADER, CASENUMBER_LABEL);
     public static final TaggingLabel HEADER_CASEDATE = new TaggingLabelImpl(GrobidModels.HEADER, CASEDATE_LABEL);
     public static final TaggingLabel HEADER_JUDGE = new TaggingLabelImpl(GrobidModels.HEADER, JUDGE_LABEL);
@@ -325,6 +327,7 @@ public class TaggingLabels {
         register(HEADER_RESPLAWERS);
 
         register(HEADER_COURT);
+        register(HEADER_NOTES);
         register(HEADER_CASENUMBER);
         register(HEADER_CASEDATE);
         register(HEADER_JUDGE);

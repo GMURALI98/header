@@ -144,6 +144,10 @@ public class HeaderParser extends AbstractParser {
                     resHeader.setCourt(resHeader.getCourt());
                 }
 
+                if (resHeader.getNotes() != null) {
+                    resHeader.setNotes(resHeader.getNotes());
+                }
+
                 if (resHeader.getCasedate() != null) {
                     resHeader.setCasedate(resHeader.getCasedate());
                 }
@@ -1033,6 +1037,13 @@ public class HeaderParser extends AbstractParser {
                 if (biblio.getCourt() == null) {
                     biblio.setCourt(clusterContent);
                 }
+            }else if (clusterLabel.equals(TaggingLabels.HEADER_NOTES)) {
+                /*if (biblio.getTitle() != null && isDifferentContent(biblio.getTitle(), clusterContent))
+                    biblio.setTitle(biblio.getTitle() + clusterContent);
+                else*/
+                if (biblio.getNotes() == null) {
+                    biblio.setNotes(clusterContent);
+                }
             } else if (clusterLabel.equals(TaggingLabels.HEADER_CASEDATE)) {
                 /*if (biblio.getTitle() != null && isDifferentContent(biblio.getTitle(), clusterContent))
                     biblio.setTitle(biblio.getTitle() + clusterContent);
@@ -1506,6 +1517,9 @@ public class HeaderParser extends AbstractParser {
                 output = writeField(buffer, s1, lastTag0, s2, "<court>", "<court>", addSpace);
             }
             if (!output) {
+                output = writeField(buffer, s1, lastTag0, s2, "<notes>", "<notes>", addSpace);
+            }
+            if (!output) {
                 output = writeField(buffer, s1, lastTag0, s2, "<case_numbers>", "<case_numbers>", addSpace);
             }
             if (!output) {
@@ -1657,6 +1671,8 @@ public class HeaderParser extends AbstractParser {
                 buffer.append("</titlePart>\n\t</docTitle>\n");
             } else if (lastTag0.equals("<court>")) {
                 buffer.append("</court>\n"); 
+            } else if (lastTag0.equals("<notes>")) {
+                buffer.append("</notes>\n"); 
             } else if (lastTag0.equals("<case_numbers>")) {
                 buffer.append("</case_numbers>\n"); 
             } else if (lastTag0.equals("<judgement_date>")) {
@@ -1675,8 +1691,8 @@ public class HeaderParser extends AbstractParser {
                 buffer.append("</respondent>");
             } else if (lastTag0.equals("<petitioner_lawyers>")) {
                 buffer.append("</petitioner_lawyers>");
-            } else if (lastTag0.equals("<respondent_lawyers>")) {
-                buffer.append("</respondent_lawyers>");
+            } else if (lastTag0.equals("<repondent_lawer>")) {
+                buffer.append("</repondent_lawer>");
             } else if (lastTag0.equals("<location>")) {
                 buffer.append("</address>\n");
             } else if (lastTag0.equals("<meeting>")) {

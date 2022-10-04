@@ -81,6 +81,7 @@ public class BiblioItem {
                 ", publisher='" + publisher + '\'' +
                 ", nbPages=" + nbPages +
                 ", court=" + court + '\'' +
+                ", notes=" + notes + '\'' +
                 ", casedate=" + casedate + '\'' +
                 // ", judge=" + judge + '\'' +
                 ", casetype=" + casetype + '\'' +
@@ -259,6 +260,7 @@ public class BiblioItem {
     // the journal for a journal article, etc. 
 
     private String court = null;
+    private String notes = null;
     private String casedate = null;
     // private String judge = null;
     private String casetype = null;
@@ -773,6 +775,11 @@ public class BiblioItem {
 
     public String getCourt() {
         return court;
+    }
+
+
+    public String getNotes() {
+        return notes;
     }
 
     public String getCasedate() {
@@ -1620,6 +1627,10 @@ public class BiblioItem {
         court = c;
     }
 
+    public void setNotes(String c) {
+        notes = c;
+    }
+
     public void setCasedate(String c) {
         casedate = c;
     }
@@ -2056,6 +2067,7 @@ public class BiblioItem {
         copyright = null;
         funding = null;
         court = null;
+        notes = null;
         casedate = null;
         // judge = null;
         casedate = null;
@@ -2576,7 +2588,7 @@ public class BiblioItem {
             
             //respondnentlawer
             if (collaboration != null) {
-                bibtex.add(" respondnent_lawer = {" + collaboration +"}");
+                bibtex.add(" respondent_lawyers = {" + collaboration +"}");
             } else {           
                 StringJoiner respondentlawers = new StringJoiner(" and ", "  respondent_lawyers = {", "}");
                 if (fullRespondentlawers != null) {
