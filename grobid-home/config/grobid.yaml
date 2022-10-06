@@ -15,12 +15,13 @@ grobid:
       # path relative to the grobid-home path (e.g. grobid-home/pdfalto), you don't want to change this normally
       path: "pdfalto"
       # security for PDF parsing
-      memoryLimitMb: 6096
+      memoryLimitMb: 34096
       timeoutSec: 60
 
     # security relative to the PDF parsing result
     blocksMax: 100000
     tokensMax: 1000000
+
 
   consolidation:
     # define the bibliographical data consolidation service to be used, either "crossref" for CrossRef REST API or 
@@ -58,7 +59,7 @@ grobid:
   # maximum concurrency allowed to GROBID server for processing parallel requests - change it according to your CPU/GPU capacities
   # for a production server running only GROBID, set the value slightly above the available number of threads of the server
   # to get best performance and security
-  concurrency: 10
+  concurrency: 20
   # when the pool is full, for queries waiting for the availability of a Grobid engine, this is the maximum time wait to try 
   # to get an engine (in seconds) - normally never change it
   poolMaxWait: 1
@@ -233,13 +234,12 @@ grobid:
         # wapiti training parameters, they will be used at training time only
         epsilon: 0.0001
         window: 20
-
   # for **service only**: how to load the models, 
   # false -> models are loaded when needed (default), avoiding putting in memory useless models but slow down significantly
   #          the service at first call
   # true -> all the models are loaded into memory at the server startup, slow the start of the services and models not
   #         used will take some memory, but server is immediatly warm and ready
-  modelPreload: false
+  modelPreload: true
 
 server:
     type: custom
