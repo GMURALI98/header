@@ -2,13 +2,13 @@ import subprocess
 #curl -v --form input=@./thefile.pdf  20.235.240.75:8070/api/processFulltextDocument
 
 def run():
-    output = subprocess.run(['curl', '-v', '--form', 'input=@./bigsize_test.pdf', '20.235.240.75:8070/api/processFulltextDocument'])
+    output = subprocess.run(['curl', '-v', '--form', 'input=@./bigsize_test.pdf', 'localhost:8070/api/processFulltextDocument'])
     return output
 
 from multiprocessing.pool import ThreadPool as Pool
 # from multiprocessing import Pool
 
-pool_size = 15  
+pool_size = 8  
 
 try:
     while(True):
