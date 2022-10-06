@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5284870" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				HIGH COURT OF JUDICATURE FOR RAJASTHAN AT JODHPUR
+				<lb />
+			</court>
+			<case_numbers>
+				S.B.Misc. Application No. 79 / 2016
+				<lb />
+			</case_numbers>
+			<petitioner>
+				Gram Panchayat Mandal &amp; Anr.
+				<lb />
+			</petitioner>
+			<extra>
+				----Petitioners
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				Wakf Committee, Mandal &amp; Ors.
+				<lb />
+			</respondent>
+			<extra>
+				----Respondents _____________________________________________________
+				<lb />
+			</extra>
+			<extra>
+				For Petitioner(s) :
+			</extra>
+			<petitioner_lawyers>
+				Mr. LK Purohit.
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For Respondent(s) :
+			</extra>
+			<respondent_lawyers>
+				Mr. RJ Punia.
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				_____________________________________________________
+				<lb />
+			</extra>
+			<judges>
+				<lb />
+				HON&apos;BLE MR. JUSTICE SANJEEV PRAKASH SHARMA
+				<lb />
+			</judges>
+			<document_type>
+				Judgment / Order
+				<lb />
+			</document_type>
+			<judgement_date>
+				14/02/2017
+				<lb />
+			</judgement_date>
+		</front>
+	</text>
+</tei>

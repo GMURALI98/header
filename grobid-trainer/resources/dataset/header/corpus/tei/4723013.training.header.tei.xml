@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="4723013" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				HIGH COURT OF JUDICATURE FOR RAJASTHAN JODHPUR
+				<lb />
+			</court>
+			<case_numbers>
+				S.B. Civil Writ Petition No
+				. 60/2017
+				<lb />
+			</case_numbers>
+			<petitioner>
+				Gopal Lal
+				<lb />
+			</petitioner>
+			<extra>
+				----Petitioner
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				Tulsi Ram And Ors
+				<lb />
+			</respondent>
+			<extra>
+				----Respondent
+				<lb />
+			</extra>
+			<extra>
+				For Petitioner(s)
+				<lb />
+				:
+			</extra>
+			<petitioner_lawyers>
+				Mr. G.S. Rathore
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For Respondent(s)
+				<lb />
+				:
+			</extra>
+			<respondent_lawyers>
+				Mr. R.S. Mankad for
+				<lb />
+				Mr. Vivek Shrimali
+				<lb />
+			</respondent_lawyers>
+			<judges>
+				HON&apos;BLE MR. JUSTICE VINIT KUMAR MATHUR
+				<lb />
+			</judges>
+			<document_type>
+				Order
+				<lb />
+			</document_type>
+			<judgement_date>
+				18/07/2022
+			</judgement_date>
+		</front>
+	</text>
+</tei>

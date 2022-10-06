@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5673375" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				HIGH COURT OF JUDICATURE FOR RAJASTHAN AT JODHPUR
+				<lb />
+			</court>
+			<case_numbers>
+				S.B. Civil Writ Petition No. 4166 / 2017
+				<lb />
+			</case_numbers>
+			<petitioner>
+				Ankit Babal
+				<lb />
+			</petitioner>
+			<extra>
+				----Petitioner
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				State Of Rajasthan &amp; Ors.
+				<lb />
+			</respondent>
+			<extra>
+				----Respondent _____________________________________________________
+				<lb />
+			</extra>
+			<extra>
+				For Petitioner(s) :
+			</extra>
+			<petitioner_lawyers>
+				Mr G.R. Punia
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate assisted by Mr
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Rajesh Punia
+			</petitioner_lawyers>
+			<extra>
+				_____________________________________________________
+				<lb />
+			</extra>
+			<judges>
+				JUSTICE DINESH MEHTA
+			</judges>
+			<document_type>
+				Order
+			</document_type>
+		</front>
+	</text>
+</tei>

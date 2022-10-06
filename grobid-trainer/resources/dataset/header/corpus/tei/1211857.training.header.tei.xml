@@ -5,10 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1/36
-			</page>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
@@ -22,11 +18,13 @@
 			</extra>
 			<case_numbers>
 				WRIT PETITION NO. 12156 OF 2019
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				Hanuman Nagar ( Jogeshwari) SRA CHS (Prop.) )
 				<lb />
+			</petitioner>
+			<extra>
 				Through its Chairman -Anant Madhukar Naik, )
 				<lb />
 				Having its address at CTS No. 231 (pt.), 268 &amp; 268 (1))
@@ -38,56 +36,73 @@
 				Mumbai -400 060
 				<lb />
 				)
-			</petitioner>
-			<lb />
+			</extra>
 			<extra>
 				… Petitioner
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				Versus
+				<lb />
 			</extra>
-			<lb />
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1.M/s. Kanchi Builders &amp; Developers, )
+				M/s. Kanchi Builders &amp; Developers
+			</respondent>
+			<extra>
+				, )
 				<lb />
 				Having its ofce at A, 202, Gogift, Adarsh Vihar )
 				<lb />
 				Complex, Of. Marve, Malad (West), )
 				<lb />
 				Mumbai -400 064 )
-			</respondent>
-			<lb />
+				<lb />
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2.Slum Rehabilitation Authority, )
+				Slum Rehabilitation Authority
+			</respondent>
+			<extra>
+				, )
 				<lb />
 				Administrative Building, Prof. Anant Kanekar Marg, )
 				<lb />
 				Bandra (East), Mumbai -400 051 )
-			</respondent>
-			<lb />
+				<lb />
+			</extra>
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				3. The Apex Grievance Redressal Committee, )
+				The Apex Grievance Redressal Committee
+			</respondent>
+			<extra>
+				, )
 				<lb />
 				Government of Maharashtra, )
 				<lb />
 				Old Custom House, Mumbai.
 				<lb />
 				)
-			</respondent>
-			<lb />
+				<lb />
+			</extra>
 			<extra>
 				… Respondents
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				ALONG WITH
 			</extra>
 			<lb />
 			<case_numbers>
 				INTERIM APPLICATION (L) NO.96210 OF 2020
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner_lawyers>
 				Mr.D.Nalawade
 			</petitioner_lawyers>
@@ -113,8 +128,8 @@
 			</respondent_lawyers>
 			<extra>
 				for Respondent No. 2
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
 				Mr.P.K.Dhakephalkar,
 			</respondent_lawyers>
@@ -126,12 +141,8 @@
 			</respondent_lawyers>
 			<extra>
 				for Respondent No. 3.
+				<lb />
 			</extra>
-			<lb />
-			<page>
-				2/36
-			</page>
-			<lb />
 			<extra>
 				CORAM :
 			</extra>
@@ -139,28 +150,30 @@
 				S.J.KATHAWALLA, &amp;
 				<lb />
 				R.I.CHAGLA, JJ.
+				<lb />
 			</judges>
-			<lb />
 			<extra>
 				RESERVED ON :
-			</extra>
-			<judgement_date>
+				
 				15TH DECEMBER, 2020
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				PRONOUNCED ON :
 			</extra>
 			<judgement_date>
 				29TH APRIL, 2021
+				<lb />
 			</judgement_date>
-			<lb />
 			<extra>
 				(THOUGH VIDEO CONFERENCING)
+				<lb />
 			</extra>
-			<lb />
+			<extra>
+				ORAL
+			</extra>
 			<document_type>
-				ORAL JUDGMENT
+				JUDGMENT
 			</document_type>
 			<extra>
 				(PER S.J. KATHAWALLA, J.) :

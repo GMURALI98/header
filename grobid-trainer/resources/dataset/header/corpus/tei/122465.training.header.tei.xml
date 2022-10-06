@@ -5,77 +5,75 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				1
-			</page>
-			<lb />
 			<extra>
 				REPORTABLE
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
-			
 			<court>
-				 SUPREME COURT OF INDIA
+				SUPREME COURT OF INDIA
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				CRIMINAL ORIGINAL JURISDICTION
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				WRIT PETITION (CRIMINAL) NO. 76 OF 2016
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				NAVTEJ SINGH JOHAR &amp; ORS.
+				<lb />
 			</petitioner>
-			<lb />
 			<extra>
 				…Petitioner(s)
 				<lb />
+			</extra>
+			<extra>
 				VERSUS
 			</extra>
-			<lb />
 			<respondent>
 				UNION OF INDIA
 				<lb />
 				THR. SECRETARY
 				<lb />
 				MINISTRY OF LAW AND JUSTICE
+				VERSUS
 			</respondent>
-			<lb />
 			<extra>
 				…Respondent(s)
 				<lb />
-				WITH
 			</extra>
-			<lb />
+			<extra>
+				WITH
+				<lb />
+			</extra>
 			<case_numbers>
 				WRIT PETITION (CIVIL) NO. 572 OF 2016
+				<lb />
 			</case_numbers>
-			<lb />
 			<case_numbers>
 				WRIT PETITION (CRIMINAL) NO. 88 OF 2018
+				<lb />
 			</case_numbers>
-			<lb />
 			<case_numbers>
 				WRIT PETITION (CRIMINAL) NO. 100 OF 2018
+				<lb />
 			</case_numbers>
-			<lb />
 			<case_numbers>
 				WRIT PETITION (CRIMINAL) NO. 101 OF 2018
+				<lb />
 			</case_numbers>
-			<lb />
 			<case_numbers>
 				WRIT PETITION (CRIMINAL) NO. 121 OF 2018
+				<lb />
 			</case_numbers>
-			<lb />
 			<document_type>
 				J U D G M E N T
+				<lb />
 			</document_type>
 			<lb />
 		</front>

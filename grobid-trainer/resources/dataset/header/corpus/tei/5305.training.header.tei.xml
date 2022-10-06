@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5305" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				IN THE
+				<lb />
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				%
+				<lb />
+			</extra>
+			<extra>
+				Judgment delivered on
+				<lb />
+			</extra>
+			<judgement_date>
+				13.05.2021
+				<lb />
+			</judgement_date>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W. P. (CRL.) 1923/2020
+				<lb />
+			</case_numbers>
+			<petitioner>
+				UPENDRA RAI
+				<lb />
+			</petitioner>
+			<extra>
+				..... Petitioner
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				CENTRAL BUREAU OF INVESTIGATION
+				<lb />
+				&amp; ANR.
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondents
+				<lb />
+			</extra>
+			<extra>
+				Advocates who appeared in this case:
+				<lb />
+				For the Petitioner :
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr Arjun Dewan, Mr Arjun Mukherjee and
+				<lb />
+				Mr Shahryar Khan
+			</petitioner_lawyers>
+			<extra>
+				, Advocates.
+				<lb />
+				For the Respondents:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr Nikhil Goel
+			</respondent_lawyers>
+			<extra>
+				, SPP for CBI.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr SV Raju, ASG and Mr Amit Mahajan,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				CGSC with
+			</extra>
+			<respondent_lawyers>
+				Ms Sarica Raju, Mr A.
+				<lb />
+				Venkatesh, Mr Guntur Pramod Kumar and
+				<lb />
+				Mr Kritagya Kumar Kait,
+			</respondent_lawyers>
+			<extra>
+				Advocates for R-2.
+				<lb />
+			</extra>
+			<extra>
+				CORAM
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR JUSTICE VIBHU BAKHRU
+				<lb />
+			</judges>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 9
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -27,11 +22,10 @@
 			</extra>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				
 				3 rd June, 2010
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Decided on:
 			</extra>
@@ -42,6 +36,8 @@
 			<petitioner>
 				Dr. Ketan Desai
 				<lb />
+			</petitioner>
+			<extra>
 				S/o Sh. Dhirajlal Desai
 				<lb />
 				&quot;Ashirvas&quot;, 7, Friends Avenue,
@@ -50,7 +46,7 @@
 				<lb />
 				Ahmedabad (Gujrat).
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				.....
 				petitioner

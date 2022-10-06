@@ -5,27 +5,23 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-			</page>
-			<lb />
 			<extra>
-				IN THE 
+				IN THE
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				DATE :
 			</extra>
 			<judgement_date>
-				 26.11.2013
+				26.11.2013
 			</judgement_date>
 			<extra>
 				CORAM
 				<lb />
-				THE 
+				THE
 			</extra>
 			<judges>
 				HONOURABLE MR. JUSTICE R.SUDHAKAR
@@ -37,7 +33,7 @@
 				THE
 			</extra>
 			<judges>
-				 HONOURABLE MRS. JUSTICE PUSHPA SATHYANARAYANA
+				HONOURABLE MRS. JUSTICE PUSHPA SATHYANARAYANA
 			</judges>
 			<lb />
 			<case_numbers>
@@ -46,78 +42,102 @@
 				AND
 				<lb />
 				M.P. NO. 1 OF 2013
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				Lalitha Bharani
+				<lb />
 			</petitioner>
-			<lb />
 			<extra>
 				.. Petitioner
 				<lb />
-				-Vs -
 			</extra>
-			<lb />
-			<respondent>
-				1. The Government of Tamil Nadu
+			<extra>
+				-Vs -
 				<lb />
+			</extra>
+			<extra>
+				1.
+			</extra>
+			<respondent>
+				The Government of Tamil Nadu
+				<lb />
+			</respondent>
+			<extra>
 				rep. By Secretary to Government
 				<lb />
 				Adi Dravidar &amp; Tribal Welfare Dept.
 				<lb />
 				Fort St. George, Chennai -600 009.
-			</respondent>
-			<lb />
+				<lb />
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2. The Chairman
+				The Chairman
 				<lb />
 				State Level Scrutiny Committee
 				<lb />
 				Adi Dravidar &amp; Tribal Welfare Dept.
 				<lb />
+			</respondent>
+			<extra>
 				Fort St. George, Chennai -600 009.
-			</respondent>
-			<lb />
-			<respondent>
-				3. The Director of Tribal Welfare
 				<lb />
-				Chepauk, Chennai - 600 005.
-			</respondent>
-			<lb />
+			</extra>
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				4. The Collector
+				The Director of Tribal Welfare
+				<lb />
+			</respondent>
+			<extra>
+				Chepauk, Chennai - 600 005.
+				<lb />
+			</extra>
+			<extra>
+				4.
+			</extra>
+			<respondent>
+				The Collector
 				<lb />
 				Kancheepuram District.
+				<lb />
 			</respondent>
-			<lb />
+			<extra>
+				5.
+			</extra>
 			<respondent>
-				5. The Revenue Divisional Officer
+				The Revenue Divisional Officer
 				<lb />
 				Chengalpattu Taluk.
+				<lb />
 			</respondent>
-			<lb />
+			<extra>
+				6.
+			</extra>
 			<respondent>
-				6. The District Adi Dravidar &amp;
+				The District Adi Dravidar &amp;
 				<lb />
 				Tribal Welfare Officer
 				<lb />
 				Kancheepuram, Kancheepuram Dt.
+				<lb />
 			</respondent>
-			<lb />
+			<extra>
+				7.
+			</extra>
 			<respondent>
-				7. The Tamil Nadu Public Service Commission
+				The Tamil Nadu Public Service Commission
 				<lb />
 				Chennai 600 006.
+				<lb />
 			</respondent>
-			<lb />
 			<extra>
 				.. Respondents
 			</extra>
-			<lb />
-			<page>
-				2
-			</page>
-			<lb />
 			<extra>
 				Writ petition filed for the issuance of a writ of certiorari calling for the records of the 2 nd
 				<lb />
@@ -149,6 +169,7 @@
 			</extra>
 			<document_type>
 				ORDER
+				<lb />
 			</document_type>
 			<lb />
 		</front>

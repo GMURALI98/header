@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 2
-				<lb />
-			</page>
 			<extra>
 				THE
 			</extra>
@@ -18,7 +13,13 @@
 				<lb />
 			</court>
 			<extra>
-				Date of Order:
+				Date of
+			</extra>
+			<document_type>
+				Order
+			</document_type>
+			<extra>
+				:
 			</extra>
 			<judgement_date>
 				August 29, 2018
@@ -87,8 +88,10 @@
 			<document_type>
 				O R D E R
 				<lb />
-				(ORAL)
 			</document_type>
+			<extra>
+				(ORAL)
+			</extra>
 		</front>
 	</text>
 </tei>

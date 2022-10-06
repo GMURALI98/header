@@ -5,7 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<case_numbers>
 				W.P(MD)No.24012 of 2019
 				<lb />
@@ -15,8 +14,8 @@
 			</extra>
 			<court>
 				MADURAI BENCH OF MADRAS HIGH COURT
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				DATED:
 			</extra>
@@ -27,23 +26,24 @@
 			<extra>
 				CORAM:
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HONOURABLE MR.JUSTICE M.SUNDAR
+				HONOURABLE MR.JUSTICE M.SUNDAR
+				<lb />
 			</judges>
-			<lb />
 			<case_numbers>
 				W.P(MD)No.24012 of 2019
+				<lb />
 			</case_numbers>
-			<lb />
 			<extra>
 				and
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				W.M.P.(MD)No.20613 of 2019
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				V.Marimuthu
 				<lb />
@@ -54,28 +54,37 @@
 			</extra>
 			<extra>
 				Vs.
+				<lb />
 			</extra>
-			<lb />
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1.The District Collector,
+				The District Collector,
 				<lb />
 				Ramanathapuram District,
 				<lb />
 				Ramanathapuram.
+				<lb />
 			</respondent>
-			<lb />
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2.The Revenue Divisional Officer,
+				The Revenue Divisional Officer,
 				<lb />
 				Paramakudi Revenue Division,
 				<lb />
 				Paramakudi,
 				<lb />
 				Ramanathapuram District.
+				<lb />
 			</respondent>
-			<lb />
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				3.The Joint Registrar of Co-operative Societies/
+				The Joint Registrar of Co-operative Societies/
 				<lb />
 				Managing Director,
 				<lb />
@@ -84,10 +93,13 @@
 				Ramanathapuram,
 				<lb />
 				Ramanathapuram District.
+				<lb />
 			</respondent>
-			<lb />
+			<extra>
+				4.
+			</extra>
 			<respondent>
-				4.The Tahsildar,
+				The Tahsildar,
 				<lb />
 				Kadaladi Taluk,
 				<lb />
@@ -95,24 +107,25 @@
 				<lb />
 				Ramanathapuram District.
 			</respondent>
-			<lb />
-			<page>
-				1/18
-			</page>
-			<lb />
+			<extra>
+				5.
+			</extra>
 			<respondent>
-				5.The Village Administrative Officer,
+				The Village Administrative Officer,
 				<lb />
 				Vagaikulam Group - Office at Sayalkudi,
 				<lb />
 				Kadaladi Taluk,
 				<lb />
 				Ramanathapuram District.
+				<lb />
 			</respondent>
-			<lb />
+			<extra>
+				6.
+			</extra>
 			<respondent>
 				<lb />
-				6.The Secretary,
+				The Secretary,
 				<lb />
 				Pillaiyarkulam Primary Agricultural Co-operative Credit Society,
 				<lb />
@@ -144,15 +157,15 @@
 			</extra>
 			<petitioner_lawyers>
 				Mr.Raja Karthikeyan
+				<lb />
 			</petitioner_lawyers>
-			<lb />
 			<extra>
 				For Respondents :
 			</extra>
 			<respondent_lawyers>
 				Mr.K.MU.Muthu
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				Additional Government Pleader
 				<lb />
@@ -162,20 +175,16 @@
 			</extra>
 			<respondent_lawyers>
 				Mr.K.Rajkumar
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				for Mr.C.Ramar
 				<lb />
 				Additional Government Pleader
 				<lb />
 				for R.6
+				<lb />
 			</extra>
-			<lb />
-			<page>
-				2/18
-			</page>
-			<lb />
 			<extra>
 				:
 			</extra>
@@ -187,8 +196,8 @@
 				for Mr.K.Kumaravel
 				<lb />
 				for R.7
+				<lb />
 			</extra>
-			<lb />
 			<document_type>
 				ORDER
 			</document_type>

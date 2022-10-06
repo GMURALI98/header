@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 143
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -19,11 +14,10 @@
 			</court>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				<lb />
 				24.11.2017
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Pronounced on:
 			</extra>
@@ -169,7 +163,13 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Arshad Hidaytullah, Sr. Advocate with Mr.
+				Mr. Arshad Hidaytullah
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate with
+			</extra>
+			<petitioner_lawyers>
+				Mr.
 				<lb />
 				Jitendra Singh and Mr. Saurabh S. Sinha
 			</petitioner_lawyers>
@@ -180,7 +180,13 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Amit Sibal, Sr. Advocate along with Ms. Isha Jha
+				Mr. Amit Sibal
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate along with
+			</extra>
+			<petitioner_lawyers>
+				Ms. Isha Jha
 				<lb />
 				and Ms. Ishita Srivastava
 			</petitioner_lawyers>
@@ -191,22 +197,29 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Kamal Sawhney with Mr. Shikhar Garg,
+				Mr. Kamal Sawhney with Mr. Shikhar Garg
 				<lb />
 			</petitioner_lawyers>
 			<extra>
-				Advocates for petitioner in W.P.(C)4966/2013.
-				<lb />
+				,
+				Advocates for petitioner in
 			</extra>
+			<case_numbers>
+				W.P.(C)4966/2013.
+				<lb />
+			</case_numbers>
 			<petitioner_lawyers>
 				Mr. Abhinav Agnihotri
 			</petitioner_lawyers>
 			<extra>
 				, Advocate for petitioner-Den
 				<lb />
-				Soccer Pvt. Ltd. in W.P.(C) 2886/2015 &amp; 5994/2016.
-				<lb />
+				Soccer Pvt. Ltd. in
 			</extra>
+			<case_numbers>
+				W.P.(C) 2886/2015 &amp; 5994/2016.
+				<lb />
+			</case_numbers>
 			<petitioner_lawyers>
 				Mr. Siddharth Bambha
 			</petitioner_lawyers>
@@ -220,9 +233,11 @@
 			<extra>
 				, Advocate for the petitioners in
 				<lb />
+			</extra>
+			<case_numbers>
 				W.P.(C) 12287/2015.
 				<lb />
-			</extra>
+			</case_numbers>
 			<petitioner_lawyers>
 				Mr. Atul Sharma with Mr. Abhinav Agnihotri and Ms.
 				<lb />
@@ -231,11 +246,19 @@
 			<extra>
 				, Advocates for petitioners in
 				<lb />
+			</extra>
+			<case_numbers>
 				W.P.(C)7495/2014 &amp; 9661/2016.
 				<lb />
+			</case_numbers>
+			<respondent_lawyers>
+				Mr. Parag P. Tripathi
+			</respondent_lawyers>
+			<extra>
+				, Sr. Advocate with
 			</extra>
 			<respondent_lawyers>
-				Mr. Parag P. Tripathi, Sr. Advocate with Mr. Kunal
+				Mr. Kunal
 				<lb />
 				Bahari,
 				<lb />
@@ -249,9 +272,11 @@
 				<lb />
 				in
 				<lb />
+			</extra>
+			<case_numbers>
 				W.P.(C)2563/2013.
 				<lb />
-			</extra>
+			</case_numbers>
 			<respondent_lawyers>
 				Mr. Naushad Ahmed Khan
 			</respondent_lawyers>
@@ -265,9 +290,11 @@
 			<extra>
 				, Advocate for respondents in
 				<lb />
+			</extra>
+			<case_numbers>
 				W.P.(C)4966/2013 &amp; 7465/2013.
 				<lb />
-			</extra>
+			</case_numbers>
 			<respondent_lawyers>
 				Mr. Sanjoy Ghose
 			</respondent_lawyers>
@@ -290,9 +317,11 @@
 			<extra>
 				in
 				<lb />
+			</extra>
+			<case_numbers>
 				W.P.(C)3626/2015.
 				<lb />
-			</extra>
+			</case_numbers>
 			<respondent_lawyers>
 				Mr. Satyakam
 			</respondent_lawyers>
@@ -318,21 +347,33 @@
 			<extra>
 				Advocate for
 				<lb />
-				respondents in W.P.(C) 2563/2013, 6728/2013,
+				respondents in
+			</extra>
+			<case_numbers>
+				W.P.(C) 2563/2013, 6728/2013,
 				<lb />
 				4792/2014, 6767/2014, 2825/2015, 2886/2015,
 				<lb />
 				3247/2015, 3308/2015, 6839/2015 &amp; 9166/2015.
 				<lb />
+			</case_numbers>
+			<respondent_lawyers>
+				Mr. Gautam Narayan
+			</respondent_lawyers>
+			<extra>
+				, ASC along with
 			</extra>
 			<respondent_lawyers>
-				Mr. Gautam Narayan, ASC along with Mr. R.A. Iyer,
+				Mr. R.A. Iyer,
 				<lb />
 			</respondent_lawyers>
 			<extra>
-				Advocate for respondent in W.P.(C)12287/2015.
-				<lb />
+				Advocate for respondent in
 			</extra>
+			<case_numbers>
+				W.P.(C)12287/2015.
+				<lb />
+			</case_numbers>
 			<extra>
 				CORAM:
 				<lb />

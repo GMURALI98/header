@@ -5,10 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-			</page>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
@@ -26,33 +22,42 @@
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HON&apos;BLE MR.JUSTICE M.SUNDAR
+				HON&apos;BLE MR.JUSTICE M.SUNDAR
+				<lb />
 			</judges>
-			<lb />
 			<case_numbers>
 				C.S.No.414 of 2017
 				<lb />
 				and O.A.Nos.564 to 566 of 2017
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
-				M/s.Apex Laboratories Pvt. Ltd.,
+				M/s.Apex Laboratories Pvt. Ltd.
+			</petitioner>
+			<extra>
+				,
 				<lb />
 				29, IIIrd Floor, SIDCO Garment Complex,
 				<lb />
 				Guindy, Chennai -600 032.
-			</petitioner>
-			<lb />
+				<lb />
+			</extra>
 			<extra>
 				.. Plaintiff
 				<lb />
-				Vs.
 			</extra>
-			<lb />
+			<extra>
+				Vs.
+				<lb />
+			</extra>
 			<respondent>
-				Dr.Ajaat Shatru,
+				Dr.Ajaat Shatru
+			</respondent>
+			<extra>
+				,
 				<lb />
 				trading as Sidpha Laboratories,
 				<lb />
@@ -61,7 +66,7 @@
 				Rampur Road,
 				<lb />
 				Patna -800 006
-			</respondent>
+			</extra>
 			<lb />
 			<extra>
 				.. Defendant
@@ -86,11 +91,6 @@
 				<lb />
 				deceptively similar to the plaintiff&apos;s registered trademarks with the 7 colour
 			</extra>
-			<lb />
-			<page>
-				2
-			</page>
-			<lb />
 			<extra>
 				strips label or in any other manner whatsoever;
 				<lb />
@@ -150,11 +150,6 @@
 				<lb />
 				found to have been made by the Defendants after the latter have rendered
 			</extra>
-			<lb />
-			<page>
-				3
-			</page>
-			<lb />
 			<extra>
 				accounts;
 				<lb />

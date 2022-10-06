@@ -1,114 +1,248 @@
 <?xml version="1.0"?>
 <tei xml:space="preserve">
 	<teiHeader>
-		<fileDesc xml:id="13534631" />
+		<fileDesc xml:id="57339" />
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
 			<extra>
-				AFR
+				$~
+				<lb />
+				*
+				IN THE
 				<lb />
 			</extra>
 			<court>
-				HIGH COURT OF CHHATTISGARH, BILASPUR
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
+			<extra>
+				Reserved on:
+				
+				24 th March, 2021
+				<lb />
+			</extra>
+			<extra>
+				Decided on:
+			</extra>
+			<judgement_date>
+				5 th April, 2021
+				<lb />
+			</judgement_date>
 			<case_numbers>
-				Criminal Appeal No.1310 of 2015
+				I.A. 12115/2020 in
+				<lb />
+				+
+				<lb />
+				CS(COMM) 553/2020
 				<lb />
 			</case_numbers>
-			<extra>
-				Judgment reserved on :
-			</extra>
-			<judgement_date>
-				1.3.2017
-				<lb />
-			</judgement_date>
-			<extra>
-				Judgment delivered on :
-			</extra>
-			<judgement_date>
-				4.5.2017
-				<lb />
-			</judgement_date>
 			<petitioner>
-				Sunil Kumar Jangdey, Aged about 26 Years, S/o Anjori Jangdey,
-				<lb />
-				R/o Village Bharuwadih, P.S. Palari, Civil and Revenue District
-				<lb />
-				Balodabazar Bhatapara (Chhattisgarh)
+				BRITANNIA INDUSTRIES LTD
 				<lb />
 			</petitioner>
 			<extra>
-				----Appellant versus
+				..... Plaintiff
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Mr. Sudhir Chandra
+			</petitioner_lawyers>
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Mr.
+				<lb />
+				Sandeep Sethi,
+			</petitioner_lawyers>
+			<extra>
+				Sr. Advs. assisted by
+			</extra>
+			<petitioner_lawyers>
+				Mr.
+				<lb />
+				Sagar Chandra,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Ms. Ishani Chandra
+			</petitioner_lawyers>
+			<extra>
+				and
+			</extra>
+			<petitioner_lawyers>
+				Ms.
+				<lb />
+				Shubhie Wahi,
+			</petitioner_lawyers>
+			<extra>
+				Advs.
+				<lb />
+			</extra>
+			<extra>
+				versus
 				<lb />
 			</extra>
 			<respondent>
-				State of Chhattisgarh through Police Station Palari, Civil and
-				<lb />
-				Revenue District Balodabazar Bhatapara (Chhattisgarh)
+				ITC LTD &amp; ORS.
 				<lb />
 			</respondent>
 			<extra>
-				----Respondent
+				..... Defendants
 				<lb />
 			</extra>
-			<note type="doctype">
-				-
-			</note>
-			<idno>
-				-----------------------------------------------------------------------------------------
-				<lb />
-			</idno>
 			<extra>
-				For Appellant
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr. Sajan Poovayya,
+			</respondent_lawyers>
+			<extra>
+				Sr. Adv.
 				<lb />
-				:
+				with
+			</extra>
+			<respondent_lawyers>
+				Mr. Saikrishna Rajagopala,
+			</respondent_lawyers>
+			<respondent_lawyers>
+				Mr. Sudeep
+				<lb />
+				Chatterjee,
+			</respondent_lawyers>
+			<respondent_lawyers>
+				Ms. Nupur Lamba,
+			</respondent_lawyers>
+			<respondent_lawyers>
+				Mr.
+				<lb />
+				Pratibhanu Singh
+			</respondent_lawyers>
+			<extra>
+				and
+			</extra>
+			<respondent_lawyers>
+				Mr.Kiratraj Sadana,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Advs. for D-1
+				<lb />
+			</extra>
+			<case_numbers>
+				I.A. 12125/2020 in
+				<lb />
+				+
+				<lb />
+				CS(COMM) 554/2020
+				<lb />
+			</case_numbers>
+			<petitioner>
+				BRITANNIA INDUSTRIES LTD
+				<lb />
+			</petitioner>
+			<extra>
+				..... Plaintiff
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Mr. Jayant Mehta,
+			</petitioner_lawyers>
+			<extra>
+				Sr. Adv. with
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Rakesh Thakur, Advocate
-				<lb />
+				Mr. Sagar Chandra,
+			</petitioner_lawyers>
+			<petitioner_lawyers>
+				Ms. Ishani Chandra
 			</petitioner_lawyers>
 			<extra>
-				For Respondent/State :
+				and
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Sanjeev Pandey
+				Ms. Shubhie Wahi,
 			</petitioner_lawyers>
 			<extra>
-				, Govt. Advocate
+				Advs.
 				<lb />
-				-
 			</extra>
-			<idno>
-				-----------------------------------------------------------------------------------------
+			<extra>
+				versus
 				<lb />
-			</idno>
+			</extra>
+			<respondent>
+				ITC LTD &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				..... Defendants
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr. Sajan Poovayya,
+			</respondent_lawyers>
+			<extra>
+				Sr. Adv.
+				<lb />
+				with
+			</extra>
+			<respondent_lawyers>
+				Mr. Sudeep Chatterjee,
+			</respondent_lawyers>
+			<respondent_lawyers>
+				Ms. Nupur
+				<lb />
+				Lamba,
+			</respondent_lawyers>
+			<respondent_lawyers>
+				Mr. Pratibhanu Singh
+			</respondent_lawyers>
+			<extra>
+				and
+			</extra>
+			<respondent_lawyers>
+				Mr.
+			</respondent_lawyers>
+			<lb />
+			<case_numbers>
+				I.A. 12115/2020 in CS(COMM) 553/2020 &amp;
+				<lb />
+				I.A. 12125/2020 in CS(COMM) 554/2020
+			</case_numbers>
+			<respondent_lawyers>
+				Kiratraj Sadana,
+			</respondent_lawyers>
+			<extra>
+				Advs. for D-1
+			</extra>
+			<lb />
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
 			<judges>
-				Hon&apos;ble Shri Justice Anil Kumar Shukla
-				<lb />
-				C.A.V.
+				HON&apos;BLE MR. JUSTICE C.HARI SHANKAR
 				<lb />
 			</judges>
-			<document_type>
-				Judgment
-			</document_type>
-			<respondent>
-				1.
-			</respondent>
 			<extra>
-				Challenge in this appeal is to the judgment of conviction and
-				<lb />
-				sentence dated 17.05.2013 passed by the First Additional
-				<lb />
-				Sessions Judge, Balodabazar in Sessions Trial No.56/2012,
-				<lb />
-				whereby the learned Additional Sessions Judge has convicted
-				<lb />
-				and sentenced the Appellant as under:
+				%
 			</extra>
+			<document_type>
+				J U D G M E N T
+			</document_type>
+			<lb />
 		</front>
 	</text>
 </tei>

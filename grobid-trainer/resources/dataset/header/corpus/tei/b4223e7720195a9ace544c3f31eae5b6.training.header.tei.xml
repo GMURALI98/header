@@ -14,11 +14,10 @@
 			</court>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				
 				29 th August, 2016
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Pronounced on :
 			</extra>
@@ -50,10 +49,10 @@
 			<petitioner_lawyers>
 				Mr. Vikas Arora and Ms. Radhika
 				<lb />
-				Arora,
+				Arora
 			</petitioner_lawyers>
 			<extra>
-				Advocates
+				, Advocates
 			</extra>
 			<extra>
 				Versus
@@ -160,15 +159,15 @@
 				Through:
 			</extra>
 			<petitioner_lawyers>
-				Mr. K. Singhal,
+				Mr. K. Singhal
 			</petitioner_lawyers>
 			<extra>
-				Advocate
+				, Advocate
 			</extra>
 			<extra>
 				Versus
+				<lb />
 			</extra>
-			<lb />
 			<respondent>
 				STATE NCT OF DELHI
 				<lb />
@@ -183,20 +182,15 @@
 				Through:
 			</extra>
 			<respondent_lawyers>
-				Ms. Aasha Tiwari,
+				Ms. Aasha Tiwari
 			</respondent_lawyers>
 			<extra>
-				APP for State
+				, APP for State
 			</extra>
-			<lb />
-			<page>
-				Page  1 of 140
-			</page>
-			<lb />
 			<case_numbers>
 				CRL.A. 1338/2015
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				VISHNU S/O PANCHU RAM
 				<lb />
@@ -213,16 +207,16 @@
 			<petitioner_lawyers>
 				Mr. M.N. Dudeja and Mr. Rajesh
 				<lb />
-				Kaushik,
+				Kaushik
 			</petitioner_lawyers>
 			<extra>
-				Advocates
+				, Advocates
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				Versus
+				<lb />
 			</extra>
-			<lb />
 			<respondent>
 				STATE NCT OF DELHI
 				<lb />
@@ -237,10 +231,10 @@
 				Through:
 			</extra>
 			<respondent_lawyers>
-				Ms. Aasha Tiwari,
+				Ms. Aasha Tiwari
 			</respondent_lawyers>
 			<extra>
-				APP for State
+				, APP for State
 			</extra>
 			<lb />
 			<extra>
@@ -249,8 +243,8 @@
 			</extra>
 			<case_numbers>
 				CRL.A. 283/2016
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				SONVEER alias PINKU
 				<lb />
@@ -265,13 +259,16 @@
 				Through:
 			</extra>
 			<petitioner_lawyers>
-				Mr. Rajeev Mohan, Advocate
+				Mr. Rajeev Mohan
 			</petitioner_lawyers>
-			<lb />
+			<extra>
+				, Advocate
+				<lb />
+			</extra>
 			<extra>
 				Versus
+				<lb />
 			</extra>
-			<lb />
 			<respondent>
 				STATE
 				<lb />
@@ -280,16 +277,16 @@
 				.....
 				
 				Respondent
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				Through:
 			</extra>
 			<respondent_lawyers>
-				Ms. Aasha Tiwari,
+				Ms. Aasha Tiwari
 			</respondent_lawyers>
 			<extra>
-				APP for State
+				, APP for State
 			</extra>
 			<lb />
 			<extra>
@@ -303,8 +300,8 @@
 			</judges>
 			<document_type>
 				JUDGMENT
+				<lb />
 			</document_type>
-			<lb />
 		</front>
 	</text>
 </tei>

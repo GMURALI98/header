@@ -10,9 +10,6 @@
 				O.M.P.(I) (COMM.) 142/2020
 				<lb />
 			</case_numbers>
-			<page>
-				Page 1 of
-			</page>
 			<extra>
 				<lb />
 				$~1
@@ -29,11 +26,10 @@
 			</court>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				
 				26 th August,
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Pronounced on:
 			</extra>
@@ -77,8 +73,11 @@
 			<petitioner_lawyers>
 				Mr.
 				<lb />
-				Rajesh P.,Advs.
+				Rajesh P.
 			</petitioner_lawyers>
+			<extra>
+				,Advs.
+			</extra>
 			<extra>
 				versus
 			</extra>
@@ -97,22 +96,23 @@
 			</extra>
 			<respondent_lawyers>
 				Mr. Sunil Dalal,
-			</respondent_lawyers>
-			<respondent_lawyers>
+				<lb />
 				Mr. Jaskaran
 				<lb />
-				Singh and Mr. Kashish Narang,
+				Singh and Mr. Kashish Narang
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
+				,
 				Advs. for IBHFL
 			</extra>
 			<lb />
 			<respondent_lawyers>
-				Mr. Sandeep Sethi, Sr. Adv.
+				Mr. Sandeep Sethi
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
+				, Sr. Adv.
 				assisted by
 			</extra>
 			<respondent_lawyers>
@@ -131,12 +131,12 @@
 			</extra>
 			<judges>
 				HON&apos;BLE MR. JUSTICE C. HARI SHANKAR
+				<lb />
 			</judges>
-			<lb />
 			<document_type>
 				J U D G M E N T
+				<lb />
 			</document_type>
-			<lb />
 		</front>
 	</text>
 </tei>

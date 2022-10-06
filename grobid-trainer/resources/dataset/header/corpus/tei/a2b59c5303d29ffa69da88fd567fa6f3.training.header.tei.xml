@@ -14,8 +14,8 @@
 			</extra>
 			<court>
 				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				Date of decision:
 			</extra>
@@ -49,8 +49,13 @@
 				Through:
 			</extra>
 			<petitioner_lawyers>
-				Ms. Geeta Luthra, Sr. Advocate with
+				Ms. Geeta Luthra
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate with
 				<lb />
+			</extra>
+			<petitioner_lawyers>
 				Ms. Shivani Luthra Lohiya, Ms.
 				<lb />
 				Asmita Narula, Ms. Priyanka
@@ -70,8 +75,8 @@
 			</extra>
 			<extra>
 				versus
+				<lb />
 			</extra>
-			<lb />
 			<respondent>
 				VEER SINGH
 				<lb />
@@ -86,20 +91,30 @@
 				Through:
 			</extra>
 			<respondent_lawyers>
-				Ms. Rebecca John, Sr. Advocate with
+				Ms. Rebecca John
+			</respondent_lawyers>
+			<extra>
+				, Sr. Advocate with
 				<lb />
+			</extra>
+			<respondent_lawyers>
 				Ms. Gauri Rishi, Ms. Srishti Juneja
 				<lb />
-				and Ms. Garima Sehgal, Advocates
+				and Ms. Garima Sehgal
+			</respondent_lawyers>
+			<extra>
+				, Advocates
 				<lb />
 				for Respondent No. 1
 				<lb />
+			</extra>
+			<respondent_lawyers>
 				Mr. Manu Aggarwal and Mr.
 				<lb />
-				Shubham Budhiraja,
+				Shubham Budhiraja
 			</respondent_lawyers>
 			<extra>
-				Advocates for R-
+				, Advocates for R-
 				<lb />
 				2 and R-3.
 			</extra>

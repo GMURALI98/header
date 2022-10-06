@@ -245,10 +245,10 @@ server:
     type: custom
     applicationConnectors:
     - type: http
-      port: 8070
+      port: 9070
     adminConnectors:
     - type: http
-      port: 8071
+      port: 9071
     registerDefaultExceptionMappers: false
 
 logging:

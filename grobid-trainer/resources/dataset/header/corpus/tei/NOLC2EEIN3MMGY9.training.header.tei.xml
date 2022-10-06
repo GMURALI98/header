@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 143
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -19,11 +14,10 @@
 			</court>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				
 				24.11.2017.
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Date of Decision :
 			</extra>
@@ -150,8 +144,13 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Arshad Hidaytullah, Sr. Advocate with Mr.
+				Mr. Arshad Hidaytullah
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate with Mr.
 				<lb />
+			</extra>
+			<petitioner_lawyers>
 				Jitendra Singh and Mr. Saurabh S. Sinha
 			</petitioner_lawyers>
 			<extra>
@@ -161,15 +160,21 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Amit Sibal, Sr. Advocate along with Ms. Isha Jha
+				Mr. Amit Sibal
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate along with
+			</extra>
+			<petitioner_lawyers>
+				Ms. Isha Jha
 				<lb />
 				and Ms. Ishita Srivastava, Advocates for petitioner in
 				<lb />
-				Mr. Kamal Sawhney with Mr. Shikhar Garg,
+				Mr. Kamal Sawhney with Mr. Shikhar Garg
 				<lb />
 			</petitioner_lawyers>
 			<extra>
-				Advocates for petitioner in W.P.(C)4966/2013.
+				, Advocates for petitioner in W.P.(C)4966/2013.
 				<lb />
 			</extra>
 			<petitioner_lawyers>
@@ -275,7 +280,13 @@
 			<extra>
 				, Addl. Standing Counsel/GNCTD
 				<lb />
-				with Mr. Deboshree Mukherjee, Advocate for
+				with
+			</extra>
+			<respondent_lawyers>
+				Mr. Deboshree Mukherjee
+			</respondent_lawyers>
+			<extra>
+				, Advocate for
 				<lb />
 				respondents in W.P.(C) 2563/2013, 6728/2013,
 				<lb />

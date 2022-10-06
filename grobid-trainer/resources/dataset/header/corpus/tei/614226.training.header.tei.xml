@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				1/18
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -19,11 +14,10 @@
 			</court>
 			<extra>
 				RESERVED ON:
-			</extra>
-			<judgement_date>
+				
 				25.06.2019
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				DATED:
 				<lb />
@@ -35,13 +29,21 @@
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HON&apos;BLE DR.JUSTICE VINEET KOTHARI
+				HON&apos;BLE DR.JUSTICE VINEET KOTHARI
 				<lb />
+			</judges>
+			<extra>
 				AND
 				<lb />
-				THE HON&apos;BLE MR.JUSTICE C.V.KARTHIKEYAN
+			</extra>
+			<extra>
+				THE
+			</extra>
+			<judges>
+				HON&apos;BLE MR.JUSTICE C.V.KARTHIKEYAN
 				<lb />
 			</judges>
 			<case_numbers>
@@ -51,6 +53,8 @@
 			<petitioner>
 				Minor Miss. Monica Rajendran
 				<lb />
+			</petitioner>
+			<extra>
 				aged 17 years, DOB: 30.05.2001
 				<lb />
 				Rep. by Father and Natural Guardian
@@ -61,7 +65,7 @@
 				<lb />
 				Khajaguda, Hyderabad.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				... Appellant/Petitioner
 				<lb />
@@ -70,65 +74,87 @@
 				Vs.
 				<lb />
 			</extra>
-			<respondent>
+			<extra>
 				1.
 				<lb />
+			</extra>
+			<respondent>
 				State of Tamil Nadu
 				<lb />
 				Rep. by its Secretary
 				<lb />
 				Health and Family Welfare Department,
 				<lb />
+			</respondent>
+			<extra>
 				Fort St. George, Chennai -600 009.
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				2.
 				<lb />
+			</extra>
+			<respondent>
 				The Secretary
 				<lb />
 				Selection Committee
 				<lb />
 				Directorate of Medical Education
 				<lb />
+			</respondent>
+			<extra>
 				#162, Periyar E.V.R. High Road,
 				<lb />
 				Kilpauk,
 				<lb />
 				Chennai -600 010.
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				3.
 				<lb />
+			</extra>
+			<respondent>
 				The Dean
 				<lb />
 				PSG Institute of Medical Sciences &amp; Research
 				<lb />
-				Off Avanashi Road,
+				Off Avanashi Road
+				<lb />
+			</respondent>
+			<extra>
+				,
 				
 				Peelamedu
 				<lb />
 				Coimbatore -641 004.
-				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				4.
 				<lb />
+			</extra>
+			<respondent>
 				The Dean
 				<lb />
 				Trichy SRM Medical College
 				<lb />
-				Hospital and Research Centre,
+				Hospital and Research Centre
+			</respondent>
+			<extra>
+				,
 				<lb />
 				Irugalur, Trichy -621 105.
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				5.
 				<lb />
+			</extra>
+			<respondent>
 				Korla Dhanushya Subrahmanya Shasank
 				<lb />
+			</respondent>
+			<extra>
 				NEET Management Rank No. 2665
 				<lb />
 				(Through: The Secretary, Selection Committee,
@@ -139,31 +165,40 @@
 				<lb />
 				Chennai -10.
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				6.
 				<lb />
+			</extra>
+			<respondent>
 				The Dean
 				<lb />
 				Velammal Medical College Hospital and Research Institute
 				<lb />
-				Velammal Village,
+				Velammal
+			</respondent>
+			<extra>
+				Village,
 				
 				Madurai-Tuticorin Ring Road
 				<lb />
 				Anuppanadi, Madurai -625 009.
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				7.
 				<lb />
+			</extra>
+			<respondent>
 				Medical Council of India
 				<lb />
+			</respondent>
+			<extra>
 				Pocket -14, Sector -8
 				<lb />
 				Dwarka, New Delhi 110 077.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				(R7 as a necessary party as per Order impleaded made in
 				<lb />
@@ -237,10 +272,6 @@
 				: Mr.Venkataseshan
 				<lb />
 			</respondent_lawyers>
-			<page>
-				3/18
-				<lb />
-			</page>
 			<extra>
 				For R6
 				<lb />

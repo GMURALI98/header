@@ -5,7 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
@@ -17,15 +16,20 @@
 				REVIEW petitioner.545/2014 in O.M.P.745/2014
 				<lb />
 			</case_numbers>
-			<extra>
-				Judgment reserved on:
-			</extra>
 			<judgement_date>
-				17.07.2015
-				<lb />
+				Judgment
 			</judgement_date>
 			<extra>
-				Judgement pronounced on:
+				reserved on:
+				
+				17.07.2015
+				<lb />
+			</extra>
+			<document_type>
+				Judgement
+			</document_type>
+			<extra>
+				pronounced on:
 			</extra>
 			<judgement_date>
 				20.08.2015
@@ -44,8 +48,13 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr.Harish Malhotra, Sr.Adv. with
+				Mr.Harish Malhotra
+			</petitioner_lawyers>
+			<extra>
+				, Sr.Adv. with
 				<lb />
+			</extra>
+			<petitioner_lawyers>
 				Mr.Rajender Agarwal
 			</petitioner_lawyers>
 			<extra>

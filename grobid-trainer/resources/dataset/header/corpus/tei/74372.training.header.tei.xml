@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 119
-				<lb />
-			</page>
 			<extra>
 				$~
 				<lb />
@@ -23,11 +18,10 @@
 			</court>
 			<extra>
 				Judgment reserved on:
-			</extra>
-			<judgement_date>
+				<lb />
 				20.02.2017
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				%
 				<lb />
@@ -92,8 +86,13 @@
 				<lb />
 			</extra>
 			<respondent_lawyers>
-				Ms. Prathiba M. Singh, Sr. Adv. with
+				Ms. Prathiba M. Singh
+			</respondent_lawyers>
+			<extra>
+				, Sr. Adv. with
 				<lb />
+			</extra>
+			<respondent_lawyers>
 				Mr. Kapil Wadhwa, Mr. Sumeer
 				<lb />
 				Sodhi, Mr. Aman Nandrajog, Mr.

@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 8
-				<lb />
-			</page>
 			<extra>
 				*
 				<lb />
@@ -100,8 +95,12 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. F. K. Jha, Advocate
+				Mr. F. K. Jha
 			</petitioner_lawyers>
+			<extra>
+				, Advocate
+				<lb />
+			</extra>
 			<extra>
 				versus
 				<lb />

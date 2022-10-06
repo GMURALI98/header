@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5251265" />
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF JUDICATURE FOR
+				<lb />
+				RAJASTHAN AT JODHPUR
+				<lb />
+			</court>
+			<case_numbers>
+				S.B.CIVIL SECOND APPEAL NO. 314 / 1999
+				<lb />
+			</case_numbers>
+			<petitioner>
+				RAM CHAND
+				<lb />
+			</petitioner>
+			<extra>
+				----Appellant
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				LRS OF MOTI LAL
+				<lb />
+			</respondent>
+			<extra>
+				----Respondent __________________________________________
+				<lb />
+				For Appellant
+				<lb />
+				:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Abhinav Jain.
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For Respondents :
+			</extra>
+			<extra>
+				__________________________________________
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE ARUN BHANSALI
+				<lb />
+			</judges>
+			<document_type>
+				Order
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

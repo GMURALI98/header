@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 74
-				<lb />
-			</page>
 			<extra>
 				$~S~
 				<lb />
@@ -92,9 +87,11 @@
 				P.S.: Neb Sarai.
 				<lb />
 			</respondent_lawyers>
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CRL.A. 1485/2013
 				<lb />
 			</case_numbers>
@@ -173,9 +170,11 @@
 				P.S.: Neb Sarai.
 				<lb />
 			</extra>
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CRL.A. 1501/2013
 				<lb />
 			</case_numbers>
@@ -192,17 +191,14 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. S.B. Dandapani,
+				Mr. S.B. Dandapani
 				<lb />
 			</petitioner_lawyers>
 			<extra>
+				,
 				Advocate.
 				<lb />
 			</extra>
-			<page>
-				Page 2 of 74
-				<lb />
-			</page>
 			<extra>
 				versus
 				<lb />
@@ -257,8 +253,6 @@
 			</petitioner_lawyers>
 			<extra>
 				, Advocate
-				<lb>
-				</lb>
 				<lb />
 				(DHCLSC) along with
 				<lb />
@@ -304,9 +298,11 @@
 				P.S.: Neb Sarai.
 				<lb />
 			</extra>
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CRL.A. 88/2014
 				<lb />
 			</case_numbers>
@@ -322,10 +318,11 @@
 				Through:
 			</extra>
 			<petitioner_lawyers>
-				Mr. Ashish Dutta,
+				Mr. Ashish Dutta
 				<lb />
 			</petitioner_lawyers>
 			<extra>
+				,
 				APP for the
 				<lb />
 				State along with S.I. Ajeet Kumar,
@@ -350,10 +347,11 @@
 				<lb />
 			</extra>
 			<respondent_lawyers>
-				Ms. Inderjeet Sidhu,
+				Ms. Inderjeet Sidhu
 				<lb />
 			</respondent_lawyers>
 			<extra>
+				,
 				Advocate
 				<lb />
 				(DHCLSC) along with Ms.

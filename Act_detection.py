@@ -9,15 +9,21 @@ def load_model(text):
     # html_url = html_link
     html_text = text
     # print(html)
-    soup = BeautifulSoup(html_text, features="html.parser")
+    try:
+            
+        soup = BeautifulSoup(html_text, features="html.parser")
 
 
-    # kill all script and style elements
-    for script in soup(["script", "style"]):
-        script.extract()    # rip it out
+        # kill all script and style elements
+        for script in soup(["script", "style"]):
+            script.extract()    # rip it out
 
-    # get text
-    text = soup.body.get_text()
+        # get text
+        text = soup.body.get_text()
+
+    except:
+        pass
+        
     doc = nlp(text)
     replaced_text = replace_section_with_anchor(html_text,doc)
     return replaced_text

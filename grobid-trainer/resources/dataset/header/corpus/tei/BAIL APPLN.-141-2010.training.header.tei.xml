@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 5
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -20,7 +15,13 @@
 			<extra>
 				%
 				<lb />
-				Order delivered on:
+			</extra>
+			<document_type>
+				Order
+				<lb />
+			</document_type>
+			<extra>
+				delivered on:
 			</extra>
 			<judgement_date>
 				10 th May, 2010
@@ -52,6 +53,7 @@
 			</extra>
 			<petitioner_lawyers>
 				Mr. Shishir Pinaki
+				<lb />
 				, Mr. Anwesh Madhukar
 				<lb />
 				&amp; Mr. Kunal Malhotra

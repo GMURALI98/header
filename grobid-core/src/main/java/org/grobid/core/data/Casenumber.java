@@ -36,7 +36,7 @@ public class Casenumber {
         if (casenumber == null) {
             return null;
         }
-        String res = "<casenumber>" + TextUtilities.HTMLEncode(casenumber) + "</casenumber>";
+        String res = "<case_numbers>" + TextUtilities.HTMLEncode(casenumber) + "</case_numbers>";
         return res;
     }
 

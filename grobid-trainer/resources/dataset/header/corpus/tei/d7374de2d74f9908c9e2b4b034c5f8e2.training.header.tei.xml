@@ -5,22 +5,19 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				RESERVED ON
 				<lb />
-			</extra>
-			<judgement_date>
 				: 24.09.2019
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				PRONOUNCED ON :
 			</extra>
@@ -30,66 +27,67 @@
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HONOURABLE Mr.JUSTICE P.N.PRAKASH
+				HONOURABLE Mr.JUSTICE P.N.PRAKASH
 			</judges>
 			<lb />
 			<case_numbers>
 				Criminal Appeal Nos.17, 18, 22 and 23 of 2015
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				Venkat
+				<lb />
 			</petitioner>
-			<lb />
 			<extra>
 				.. Appellant in
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				C.A.No.17 of 2015/A2
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				G.Kumar
+				<lb />
 			</petitioner>
-			<lb />
 			<extra>
 				.. Appellant in
 			</extra>
 			<lb />
 			<case_numbers>
 				C.A.No.18 of 2015/A3
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				M.Kanniappan
+				<lb />
 			</petitioner>
-			<lb />
 			<extra>
 				.. Appellant in
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				C.A.No.22 of 2015/A4
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				B.Murali
+				<lb />
 			</petitioner>
-			<lb />
 			<extra>
 				.. Appellant in
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				C.A.No.23 of 2015/A1
 			</case_numbers>
 			<extra>
 				Vs
+				<lb />
 			</extra>
-			<lb />
 			<respondent>
 				State rep. by
 				<lb />
@@ -106,12 +104,12 @@
 			</respondent>
 			<extra>
 				.. Respondent/
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				Complainant in all C.A.s
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				Criminal Appeals filed under Section 374(2) Cr.P.C against the
 				<lb />
@@ -119,18 +117,12 @@
 				<lb />
 				Judge, Chennai in S.C.No.394 of 2007.
 			</extra>
-			<lb />
-			<page>
-				1/32
-			</page>
-			<lb />
 			<extra>
 				For Appellant in C.A.No.23 of 2015/A1 :
 			</extra>
 			<petitioner_lawyers>
 				Mr.Kumar Tarejaa -Amicus Curiae
 			</petitioner_lawyers>
-			<lb />
 			<extra>
 				For Appellant in C.A.No.17 of 2015/A2 :
 			</extra>
@@ -143,36 +135,40 @@
 			</extra>
 			<extra>
 				for Mr.S.Suresh
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				For Appellant in C.A.No.18 of 2015/A3 :
 			</extra>
 			<petitioner_lawyers>
 				Mr.Sunder Mohan
+				<lb />
 			</petitioner_lawyers>
-			<lb />
 			<extra>
 				Appellant in C.A.No.22 of 2015/A4
 				<lb />
 				: Died
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				For Respondent in all C.A.s
 				<lb />
 				:
 			</extra>
 			<respondent_lawyers>
-				Mrs.P.Kritika Kamal,
+				Mrs.P.Kritika Kamal
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
+				,
 				Govt. Advocate (Crl. Side)
+				<lb />
 			</extra>
-			<lb />
+			<extra>
+				COMMON
+			</extra>
 			<document_type>
-				COMMON JUDGEMENT
+				JUDGEMENT
 			</document_type>
 		</front>
 	</text>

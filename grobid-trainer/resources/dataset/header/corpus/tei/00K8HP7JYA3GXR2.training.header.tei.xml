@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 4
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -84,10 +79,11 @@
 			<respondent_lawyers>
 				Mr. Rakesh Kumar &amp; Mr.
 				<lb />
-				Santosh Prasad Chaursiya,
+				Santosh Prasad Chaursiya
 				<lb />
 			</respondent_lawyers>
 			<extra>
+				,
 				Advs. for UOI with Dr. S.K.
 				<lb />
 				Singh, Asst. Director (H),
@@ -135,9 +131,12 @@
 				<lb />
 			</judges>
 			<document_type>
-				JUDGMENT (ORAL)
+				JUDGMENT
 				<lb />
 			</document_type>
+			<extra>
+				(ORAL)
+			</extra>
 		</front>
 	</text>
 </tei>

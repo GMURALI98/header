@@ -5,10 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-			</page>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
@@ -16,26 +12,26 @@
 				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
-			<lb />
 			<extra>
 				DATED:
 			</extra>
 			<judgement_date>
 				23-01-2014
+				<lb />
 			</judgement_date>
-			<lb />
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HON&apos;BLE MR.JUSTICE V.RAMASUBRAMANIAN
+				HON&apos;BLE MR.JUSTICE V.RAMASUBRAMANIAN
+				<lb />
 			</judges>
-			<lb />
 			<case_numbers>
 				Civil Suit No.562 of 2007
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				M.C.Jayasingh
 				<lb />
@@ -46,31 +42,59 @@
 			</extra>
 			<extra>
 				Vs
-			</extra>
-			<lb />
-			<respondent>
-				1. Mishra Dhatu Nigam Limited (MIDHANI)
 				<lb />
+			</extra>
+			<extra>
+				1.
+			</extra>
+			<respondent>
+				Mishra Dhatu Nigam Limited (MIDHANI)
+				<lb />
+			</respondent>
+			<extra>
 				rep.by its Managing Director, Kanchanbagh
 				<lb />
 				Hyderabad 500 058.
 				<lb />
-				2. Apollo Hospitals, Jubilee Hills Road
+			</extra>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				Apollo Hospitals
+			</respondent>
+			<extra>
+				, Jubilee Hills Road
 				<lb />
 				Banjara Hills, Hyderabad 500 033.
 				<lb />
-				3. Apollo Hospitals Enterprise Limited
+			</extra>
+			<extra>
+				3.
+			</extra>
+			<respondent>
+				Apollo Hospitals Enterprise Limited
 				<lb />
+			</respondent>
+			<extra>
 				Ali Towers, IV Floor, 55, Greams Road
 				<lb />
 				Chennai 600 006.
 				<lb />
-				4. Cancer Institute (W.I.A) (Regional
+			</extra>
+			<extra>
+				4.
+			</extra>
+			<respondent>
+				Cancer Institute (W.I.A) (Regional
 				<lb />
-				Cancer Centre), Canal Bank Road
+				Cancer Centre)
+			</respondent>
+			<extra>
+				, Canal Bank Road
 				<lb />
 				Gandhi Nagar, Adyar, Chennai 600 020.s
-			</respondent>
+			</extra>
 			<extra>
 				...Defendant
 				<lb />
@@ -92,37 +116,37 @@
 			</extra>
 			<petitioner_lawyers>
 				Mr.M.Sundar
+				<lb />
 			</petitioner_lawyers>
-			<lb />
 			<extra>
 				For Defendant-1   :
 			</extra>
 			<respondent_lawyers>
 				Mr.V.Chandrakanthan
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				For Defendants 2&amp;3 :
 			</extra>
 			<respondent_lawyers>
 				Mr.C.Manishankar
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				For Defendant-4   :
 			</extra>
 			<respondent_lawyers>
 				Mr.N.L.Rajah
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				-----
+				<lb />
 			</extra>
-			<lb />
 			<document_type>
 				J U D G M E N T
+				<lb />
 			</document_type>
-			<lb />
 		</front>
 	</text>
 </tei>

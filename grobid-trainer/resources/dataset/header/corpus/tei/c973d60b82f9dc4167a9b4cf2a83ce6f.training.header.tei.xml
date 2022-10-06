@@ -5,7 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<case_numbers>
 				C.S.No.299 of 2020
 				<lb />
@@ -14,38 +13,36 @@
 				<lb />
 				A.No.2603 of 2020
 			</case_numbers>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				Reserved on
 				<lb />
-			</extra>
-			<judgement_date>
 				: 21.10.2021
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
-				Pronounced on
+				Pronounced on :
 				<lb />
 			</extra>
 			<judgement_date>
-				:25.10.2021
+				25.10.2021
 				<lb />
 			</judgement_date>
 			<extra>
 				Coram:
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HONOURABLE DR. JUSTICE G. JAYACHANDRAN
+				HONOURABLE DR. JUSTICE G. JAYACHANDRAN
+				<lb />
 			</judges>
-			<lb />
 			<case_numbers>
 				C.S.No.299 of 2020
 				<lb />
@@ -56,16 +53,22 @@
 				and
 				<lb />
 				A.No.2603 of 2020
+				<lb />
 			</case_numbers>
-			<lb />
+			<extra>
+				1.
+			</extra>
 			<petitioner>
-				1.Aqua Pump Industries,
+				Aqua Pump Industries,
 				<lb />
 				rep by its Managing Partner
 				<lb />
 				Mr.Ramaswamy Kumaravelu,
 				<lb />
-				Thudiyalure Post, Coimbatore 641 034.
+				Thudiyalure Post
+			</petitioner>
+			<extra>
+				, Coimbatore 641 034.
 				<lb />
 				Having their branch office at
 				<lb />
@@ -75,12 +78,19 @@
 				<lb />
 				Chennai 600 001.
 				<lb />
-				2.Aqua Sub Engineering
+			</extra>
+			<extra>
+				2.
+			</extra>
+			<petitioner>
+				Aqua Sub Engineering
 				<lb />
 				rep. By its Managing Partner,
 				<lb />
 				Mr.Ramaswamy Kumaravelu,
 				<lb />
+			</petitioner>
+			<extra>
 				Thudiyalure Post, Coimbatore 641 034,
 				<lb />
 				Having their branch office at
@@ -91,22 +101,14 @@
 				<lb />
 				Chennai 600 001.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				.. Plaintiffs
 			</extra>
 			<extra>
 				/versus/
+				<lb />
 			</extra>
-			<lb />
-			<page>
-				1/19
-			</page>
-			<lb />
-			<extra>
-				https://www.mhc.tn.gov.in/judis/
-			</extra>
-			<lb />
 			<case_numbers>
 				C.S.No.299 of 2020
 				<lb />
@@ -116,11 +118,16 @@
 				A.No.2603 of 2020
 				<lb />
 			</case_numbers>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1.Ashok Kumar Jaiswal
+				Ashok Kumar Jaiswal
 				<lb />
 				C/o Arryan Future Aqua Engineering Pvt. Ltd.,
 				<lb />
+			</respondent>
+			<extra>
 				2258, Opposite Pratap Market,
 				<lb />
 				Damoh Road,
@@ -137,7 +144,7 @@
 				<lb />
 				Madhya Pradesh.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				..
 				
@@ -170,14 +177,6 @@
 				<lb />
 				AQUA GROUP INDUSTRIES as such or prefix or suffix in Submersible Pumps,
 			</extra>
-			<page>
-				2/19
-			</page>
-			<lb />
-			<extra>
-				https://www.mhc.tn.gov.in/judis/
-			</extra>
-			<lb />
 			<case_numbers>
 				C.S.No.299 of 2020
 				<lb />
@@ -186,8 +185,8 @@
 				565 	of 2020 &amp;
 				<lb />
 				A.No.2603 of 2020
+				<lb />
 			</case_numbers>
-			<lb />
 			<extra>
 				Electric Motors or any other pumps or motors and its spares or in any other goods
 				<lb />
@@ -224,23 +223,14 @@
 				<lb />
 				ENGINEERING, AQUAPUMP &amp; AQUAPUMP INDUSTRIES,AQUA
 			</extra>
-			<page>
-				3/19
-			</page>
-			<extra>
-				<lb />
-				https://www.mhc.tn.gov.in/judis/
-				<lb />
-			</extra>
-			<lb />
 			<case_numbers>
 				C.S.No.299 of 2020
 				<lb />
 				&amp; O.A.Nos.564 &amp; 565 of 2020 &amp;
 				<lb />
 				A.No.2603 of 2020
+				<lb />
 			</case_numbers>
-			<lb />
 			<extra>
 				GROUP INDUSTRIES as such or with prefix or suffix in Submersible Pumps ,
 				<lb />
@@ -277,14 +267,6 @@
 				goods pumps and motors and decree the suit for the profits found to have been
 				<lb />
 			</extra>
-			<page>
-				4/19
-			</page>
-			<extra>
-				<lb />
-				https://www.mhc.tn.gov.in/judis/
-				<lb />
-			</extra>
 			<case_numbers>
 				C.S.No.299 of 2020
 				<lb />
@@ -299,25 +281,25 @@
 				(e). directing the
 				
 				defendants to pay to the plaintiffs the costs of the suit.
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				For Plaintiffs
 				<lb />
 				:
 			</extra>
-			<petitioner>
+			<petitioner_lawyers>
 				M/s Gladys Daniel
-			</petitioner>
-			<lb />
+				<lb />
+			</petitioner_lawyers>
 			<extra>
 				------
+				<lb />
 			</extra>
-			<lb />
 			<document_type>
 				J U D G M E N T
+				<lb />
 			</document_type>
-			<lb />
 		</front>
 	</text>
 </tei>

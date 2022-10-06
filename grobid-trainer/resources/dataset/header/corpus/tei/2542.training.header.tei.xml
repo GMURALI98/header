@@ -5,30 +5,33 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 51
-				<lb />
-			</page>
-			<court>
+			<extra>
 				$~
 				<lb />
 				*
 				<lb />
-				IN THE HIGH COURT OF DELHI AT NEW DELHI
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
-			<judgement_date>
+			<extra>
 				Reserved on: 24 th February, 2021
 				<lb />
-			</judgement_date>
+			</extra>
+			<extra>
+				Date of decision:
+			</extra>
 			<judgement_date>
-				Date of decision: 9 th March, 2021
+				9 th March, 2021
 				<lb />
 			</judgement_date>
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CS(COMM) 581/2020 &amp; I.A. 12750/2020
 				<lb />
 			</case_numbers>
@@ -44,9 +47,15 @@
 				Through:
 			</extra>
 			<petitioner_lawyers>
-				Mr. C. M. Lall, Sr. Adv.
+				Mr. C. M. Lall
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Adv.
 				<lb />
-				assisted by Ms. Nancy Roy, Ms. Palak
+				assisted by
+			</extra>
+			<petitioner_lawyers>
+				Ms. Nancy Roy, Ms. Palak
 				<lb />
 				Arora, Mr. Sanjay Aggarwal, Ms. Vasvi Jain
 				<lb />
@@ -82,15 +91,19 @@
 				Advs. for Defendant Nos.1 &amp; 2
 				<lb />
 			</extra>
-			<judges>
+			<extra>
 				CORAM:
 				<lb />
+			</extra>
+			<judges>
 				HON&apos;BLE MR. JUSTICE C. HARI SHANKAR
 				<lb />
 			</judges>
-			<document_type>
+			<extra>
 				%
 				<lb />
+			</extra>
+			<document_type>
 				J U D G M E N T
 			</document_type>
 		</front>

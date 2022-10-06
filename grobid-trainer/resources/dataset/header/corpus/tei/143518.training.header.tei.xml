@@ -5,59 +5,53 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1
-			</page>
 			<extra>
 				REPORTABLE
 				<lb />
-				<extra>
-					IN THE
-				</extra>
-				<court>
-					<lb />
-					 SUPREME COURT OF INDIA
-					<lb />
-					
-				</court>
-				<extra>
-					CIVIL APPELLATE JURISDICTION
-					<lb />
-				</extra>
-				<case_numbers>
-					CIVIL APPEAL NO.5252 OF 2016
-					<lb />
-					
-				</case_numbers>
-				<extra>
-					(ARISING OUT OF S.L.P. (CIVIL) NO. 8988 OF 2014)
-					<lb />
-				</extra>
-				<petitioner>
-					STAR SPORTS INDIA PRIVATE LIMITED
-					<lb />
-				</petitioner>
-				<extra>
-					.....APPELLANT(S)
-					<lb />
-				</extra>
-				<extra>
-					VERSUS
-				</extra>
-				<respondent>
-					PRASAR BHARATI &amp; ORS.
-					<lb />
-				</respondent>
-				<extra>
-					.....RESPONDENT(S)
-					<lb />
-				</extra>
-				<document_type>
-					J U D G M E N T
-					<lb />
-				</document_type>
 			</extra>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				<lb />
+				SUPREME COURT OF INDIA
+				<lb />
+			</court>
+			<extra>
+				CIVIL APPELLATE JURISDICTION
+				<lb />
+			</extra>
+			<case_numbers>
+				CIVIL APPEAL NO.5252 OF 2016
+				<lb />
+			</case_numbers>
+			<extra>
+				(ARISING OUT OF S.L.P. (CIVIL) NO. 8988 OF 2014)
+				<lb />
+			</extra>
+			<petitioner>
+				STAR SPORTS INDIA PRIVATE LIMITED
+				<lb />
+			</petitioner>
+			<extra>
+				.....APPELLANT(S)
+				<lb />
+			</extra>
+			<extra>
+				VERSUS
+			</extra>
+			<respondent>
+				PRASAR BHARATI &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				.....RESPONDENT(S)
+				<lb />
+			</extra>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
 		</front>
 	</text>
 </tei>

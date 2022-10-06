@@ -5,10 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1 / 34
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -56,7 +52,10 @@
 				<lb />
 			</extra>
 			<petitioner>
-				Dhanlaxmi Chandu Devrukar alias Samina Arif Khan,
+				Dhanlaxmi Chandu Devrukar alias Samina Arif Khan
+			</petitioner>
+			<extra>
+				,
 				
 				Age … years, Occupation : Housewife, Indian Inhabitant,
 				<lb />
@@ -64,7 +63,7 @@
 				<lb />
 				Akurali Road, Kandivali (East), Mumbai -400 101.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				… Petitioner
 				<lb />
@@ -73,12 +72,17 @@
 				Versus
 				<lb />
 			</extra>
-			<respondent>
+			<extra>
 				1.
 				<lb />
+			</extra>
+			<respondent>
 				The Town Planning/Land Acquisition Officer,
 				<lb />
-				Malad, Mumbai District, Administrative Building,
+				Malad, Mumbai District
+			</respondent>
+			<extra>
+				, Administrative Building,
 				<lb />
 				5 th Floor, Natakwala Lane, S.V. Road, Borivali (East),
 				<lb />
@@ -86,23 +90,33 @@
 				<lb />
 				Appellate Side, High Court, Bombay.
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				2.
+			</extra>
+			<respondent>
 				<lb />
 				The Deputy Director of Land and Survey Record,
 				<lb />
-				DD Building, 1 st Floor, Old Tax Building, Fort,
+				DD Building
+			</respondent>
+			<extra>
+				, 1 st Floor, Old Tax Building, Fort,
 				<lb />
 				Mumbai -400 023 through the Government Pleader,
 				<lb />
 				Appellate Side, High Court, Bombay.
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				3.
 				<lb />
-				The District Supt. Of Land and Survey Record,
+			</extra>
+			<respondent>
+				The District Supt. Of Land and Survey Record
+			</respondent>
+			<extra>
+				,
 				<lb />
 				Administrative Building, 10 th Floor,
 				<lb />
@@ -112,12 +126,16 @@
 				<lb />
 				Appellate Side, High Court, Bombay.
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				4.
 				<lb />
+			</extra>
+			<respondent>
 				Hon&apos;ble Revenue Minister, Mantralaya,
 				<lb />
+			</respondent>
+			<extra>
 				Fort, Mumbai 400 023 through the
 				<lb />
 				Government Pleader,
@@ -126,37 +144,51 @@
 				<lb />
 				High Court, Bombay.
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				5.
 				<lb />
-				The Mumbai Pradesh Congress Committee,
+			</extra>
+			<respondent>
+				The Mumbai Pradesh Congress Committee
+			</respondent>
+			<extra>
+				,
 				<lb />
 				Veerkope, Vakhadi, i.e. Village Chinchivali,
 				<lb />
 				Bandar Road, Malad (West), Mumbai -400 064.
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				6.
 				<lb />
-				Sardar Vallabhbhai Patel Academy Trust,
+			</extra>
+			<respondent>
+				Sardar Vallabhbhai Patel Academy Trust
+			</respondent>
+			<extra>
+				,
 				<lb />
 				Vittal Sadan, Congress Committee, V.P. Road,
 				<lb />
 				Fort, Mumbai -400 004.
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				7.
 				<lb />
+			</extra>
+			<respondent>
 				Brahut Bharti Samaj Trust Devrukhwadi Wadi,
+			</respondent>
+			<extra>
 				<lb />
 				Chinchivali, Bandar Road, Malad (West),
 				<lb />
 				Mumbai -400 064.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				… Respondents
 				<lb />
@@ -189,30 +221,38 @@
 				Versus
 				<lb />
 			</extra>
-			<respondent>
+			<extra>
 				1.
 				<lb />
+			</extra>
+			<respondent>
 				S.M. Naqvi
 				<lb />
 				Advocate and Notary, Government of India,
 				<lb />
+			</respondent>
+			<extra>
 				49, Roshan Estate, Jari Mari, Kurla (West),
 				<lb />
 				Mumbai -400 070
 				<lb />
-			</respondent>
-			<respondent>
+			</extra>
+			<extra>
 				2.
-				<lb />
+			</extra>
+			<respondent>
 				Sandeep Sadanand Dharne,
 				<lb />
+			</respondent>
+			<extra>
 				202, Laxmi Palace, Cross Road No.3,
 				<lb />
 				Liberty Garden, Malad (West),
 				<lb />
+				`
 				Mumbai -400 064.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				... Respondents
 			</extra>
@@ -234,10 +274,15 @@
 				COMMERCIAL ARBITRATION PETITION NO. 20 OF 2020
 				<lb />
 			</extra>
-			<petitioner>
+			<extra>
 				1.
 				<lb />
-				M/s. Sanskriti Developers,
+			</extra>
+			<petitioner>
+				M/s. Sanskriti Developers
+			</petitioner>
+			<extra>
+				,
 				<lb />
 				A partnership firm, registered under the
 				<lb />
@@ -245,21 +290,31 @@
 				<lb />
 				21, 13 th Khetwadi Lane, Mumbai -400 004.
 				<lb />
-			</petitioner>
-			<petitioner>
+			</extra>
+			<extra>
 				2.
 				<lb />
-				Mr. Vijay Jain,
+			</extra>
+			<petitioner>
+				Mr. Vijay Jain
+			</petitioner>
+			<extra>
+				,
 				<lb />
 				having its office at 207, Mantri Building, SSP
 				<lb />
 				JSS Road, Girgaum, Mumbai -400 004.
 				<lb />
-			</petitioner>
-			<petitioner>
+			</extra>
+			<extra>
 				3.
+			</extra>
+			<petitioner>
 				<lb />
-				Hitesh Bohra,
+				Hitesh Bohra
+			</petitioner>
+			<extra>
+				,
 				<lb />
 				Having office at 21, 13
 				
@@ -267,11 +322,16 @@
 				<lb />
 				Mumbai -400 004.
 				<lb />
-			</petitioner>
-			<petitioner>
+			</extra>
+			<extra>
 				4.
 				<lb />
-				M/s. D.R. Developers,
+			</extra>
+			<petitioner>
+				M/s. D.R. Developers
+			</petitioner>
+			<extra>
+				,
 				<lb />
 				A proprietary concern through its Proprietor,
 				<lb />
@@ -281,7 +341,7 @@
 				<lb />
 				Mumbai 400 004.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				…
 				<lb />
@@ -294,10 +354,15 @@
 				In the matter between :
 				<lb />
 			</extra>
-			<petitioner>
+			<extra>
 				1.
+			</extra>
+			<petitioner>
 				<lb />
-				M/s. Sanskriti Developers,
+				M/s. Sanskriti Developers
+			</petitioner>
+			<extra>
+				,
 				<lb />
 				A partnership firm, registered under the Indian
 				<lb />
@@ -305,21 +370,31 @@
 				<lb />
 				13 th Khetwadi Lane, Mumabi -400 004.
 				<lb />
-			</petitioner>
-			<petitioner>
+			</extra>
+			<extra>
 				2.
 				<lb />
-				Mr. Vijay Jain,
+			</extra>
+			<petitioner>
+				Mr. Vijay Jain
+			</petitioner>
+			<extra>
+				,
 				<lb />
 				having its office at 207, Mantri Building,
 				<lb />
 				JSS Road, Girgaum, Mumbai -400 004.
 				<lb />
-			</petitioner>
-			<petitioner>
+			</extra>
+			<extra>
 				3.
 				<lb />
-				Hitesh Bohra,
+			</extra>
+			<petitioner>
+				Hitesh Bohra
+			</petitioner>
+			<extra>
+				,
 				<lb />
 				Having office at 21, 13
 				
@@ -327,11 +402,16 @@
 				<lb />
 				Mumbai -400 004.
 				<lb />
-			</petitioner>
-			<petitioner>
+			</extra>
+			<extra>
 				4.
 				<lb />
-				M/s. D.R. Developers,
+			</extra>
+			<petitioner>
+				M/s. D.R. Developers
+			</petitioner>
+			<extra>
+				,
 				<lb />
 				A proprietary concern through its Proprietor,
 				<lb />
@@ -343,17 +423,13 @@
 				<lb />
 				Mumbai 400 004.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				…
 				<lb />
 				Appellants/ Respondents SSP
 				<lb />
 			</extra>
-			<page>
-				5 / 34
-				<lb />
-			</page>
 			<extra>
 				Versus
 				<lb />
@@ -361,13 +437,15 @@
 			<respondent>
 				M/s. Mandal Infrastructure Pvt. Ltd.
 				<lb />
+			</respondent>
+			<extra>
 				A private limited company having its Office at
 				<lb />
 				342, New Corporate Plaza, Ramchandra Lane,
 				<lb />
 				Malad (West), Mumbai -400 064.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				… Respondent
 				<lb />
@@ -493,9 +571,12 @@
 				<lb />
 			</judgement_date>
 			<document_type>
-				JUDGMENT (PER : S.J. KATHAWALLA, J.
+				JUDGMENT
 				<lb />
 			</document_type>
+			<extra>
+				(PER : S.J. KATHAWALLA, J.
+			</extra>
 		</front>
 	</text>
 </tei>

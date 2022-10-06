@@ -5,28 +5,23 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				1
-			</page>
-			<lb />
 			<extra>
 				BEFORE THE
 			</extra>
 			<court>
 				SPECIAL COURT AT BOMBAY
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				CONSTITUTED UNDER THE SPECIAL COURT (TRIAL OF OFFENCES
 				<lb />
 				RELATING TO TRANSACTJONS IN SECURITIES) ACT, 1992
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				SPECIAL CASE NO. 3 OF 1996
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				Central Bureau of Investigation
 				<lb />
@@ -38,90 +33,123 @@
 			</extra>
 			<extra>
 				V/s
+				<lb />
 			</extra>
-			<lb />
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1. Saranathan Mohan
+				Saranathan Mohan
 				<lb />
 			</respondent>
 			<extra>
 				.... Accused No.1.
 				<lb />
 			</extra>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2. N. Balasubramani.am
+				N. Balasubramani.am
 				<lb />
 			</respondent>
 			<extra>
 				.... Accused No.2.
 				<lb />
 			</extra>
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				3. B.R. Acharya
+				B.R. Acharya
 				<lb />
 			</respondent>
 			<extra>
 				. ... Accused No.3.
 				<lb />
 			</extra>
+			<extra>
+				4.
+			</extra>
 			<respondent>
-				4. Mr P.J. Subbarao
+				Mr P.J. Subbarao
 				<lb />
 			</respondent>
 			<extra>
 				.... Accused No.4.
 				<lb />
 			</extra>
+			<extra>
+				5.
+			</extra>
 			<respondent>
-				5. Hiten P. Dalal
+				Hiten P. Dalal
 				<lb />
 			</respondent>
 			<extra>
 				. ... Accused No.5.
 				<lb />
 			</extra>
+			<extra>
+				6.
+			</extra>
 			<respondent>
-				6. S.K. Jhaveri
+				S.K. Jhaveri
 				<lb />
 			</respondent>
 			<extra>
 				. ... Accused No.6.
 				<lb />
 			</extra>
+			<extra>
+				7.
+			</extra>
 			<respondent>
-				7. Pallav Seth
+				Pallav Seth
 				<lb />
 			</respondent>
 			<extra>
 				.... Accused No. 7
 				<lb />
 			</extra>
+			<extra>
+				8.
+			</extra>
 			<respondent>
-				8. M.K. Ashok Kumar
+				M.K. Ashok Kumar
 				<lb />
 			</respondent>
 			<extra>
 				.... Accused No.8
 				<lb />
 			</extra>
+			<extra>
+				9.
+			</extra>
 			<respondent>
-				9. Ketan V. Parekh
+				Ketan V. Parekh
 				<lb />
 			</respondent>
 			<extra>
 				. ... Accused No. 9
 				<lb />
 			</extra>
+			<extra>
+				10.
+			</extra>
 			<respondent>
-				10. Navinchandra N. Parekh
+				Navinchandra N. Parekh
 				<lb />
 			</respondent>
 			<extra>
 				.... Accused No.10
 				<lb />
 			</extra>
+			<extra>
+				11.
+			</extra>
 			<respondent>
-				11. B. V. Srinivasan
+				B. V. Srinivasan
 				<lb />
 			</respondent>
 			<extra>
@@ -129,50 +157,46 @@
 			</extra>
 			<lb />
 			<petitioner_lawyers>
-				Mr. V.G. Pradhan with Mr. R.S. Mhamane,
+				Mr. V.G. Pradhan with Mr. R.S. Mhamane
 			</petitioner_lawyers>
 			<extra>
-				Special Public Prosecutors
+				, Special Public Prosecutors
 				<lb />
 				for C.B.I.
 			</extra>
-			<page>
-				2
-			</page>
-			<lb />
 			<respondent_lawyers>
-				Mr. A.Z. Mookhtiar,
+				Mr. A.Z. Mookhtiar
 			</respondent_lawyers>
 			<extra>
-				advocate (Legal Aid) for accused No.l.
+				, advocate (Legal Aid) for accused No.l.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
 				Mr. Girish Kulkarni,
 			</respondent_lawyers>
 			<extra>
 				advocate for accused No.2.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
 				Mrs. B.A. Jakhade (Legal Aid),
 			</respondent_lawyers>
 			<extra>
 				advocate for accused No.3.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
-				Mr. P .D. Sawardekar,
+				Mr. P .D. Sawardekar
 			</respondent_lawyers>
 			<extra>
-				advocate for accused No.4.
+				, advocate for accused No.4.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
-				Mr. Sunil Kale,
+				Mr. Sunil Kale
 			</respondent_lawyers>
 			<extra>
-				advocate for accused No.S.
+				, advocate for accused No.S.
 			</extra>
 			<lb />
 			<respondent_lawyers>
@@ -181,18 +205,18 @@
 			<lb />
 			<extra>
 				advocates for accused No.6.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
 				Mr. Purandhare with Mr. Vivek Sharma &amp; Ms.
 				<lb />
-				Reshma Ruparel,
+				Reshma Ruparel
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
-				advocates for accused No.7.
+				, advocates for accused No.7.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
 				Mr. Mr. Amit Desai with Ms. Maya Sarkar i/b Madhukar Munim &amp;
 				<lb />
@@ -200,21 +224,21 @@
 			</respondent_lawyers>
 			<extra>
 				advocates for accused No.8.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
 				Mr. Mahesh Jethmalani with Mr. Arnol Chougule &amp; Mr. Ajit Karwande,
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				advocates for accused No.9 and 10.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
-				Mr. D.R. Pinge,
+				Mr. D.R. Pinge
 			</respondent_lawyers>
 			<extra>
-				advocate (Legal Aid) for accused No.11.
+				, advocate (Legal Aid) for accused No.11.
 			</extra>
 			<lb />
 			<extra>
@@ -222,27 +246,31 @@
 			</extra>
 			<judges>
 				V.M. KANADE, J.
+				<lb />
 			</judges>
-			<lb />
 			<extra>
 				Judge, Special Court
 			</extra>
 			<lb />
 			<extra>
 				DATE
+				:
 				<lb />
 			</extra>
 			<judgement_date>
-				: 7th March, 2008 &amp; 1st April, 2008
+				7th March, 2008 &amp; 1st April, 2008
+				<lb />
 			</judgement_date>
-			<lb />
-			<page>
-				3
-			</page>
-			<lb />
+			<extra>
+				ORAL
+			</extra>
 			<document_type>
-				ORAL JUDGEMENT:
+				JUDGEMENT
 			</document_type>
+			<extra>
+				:
+				<lb />
+			</extra>
 		</front>
 	</text>
 </tei>

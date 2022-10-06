@@ -7,24 +7,26 @@
 		<front>
 			<extra>
 				REPORTABLE
+				<lb />
 			</extra>
-			<lb />
 			<court>
 				IN THE SUPREME COURT OF INDIA
 				<lb />
 				CIVIL ORIGINAL JURISDICTION
 				<lb />
 			</court>
-			<extra>
+			<case_numbers>
 				WRIT PETITION (CIVIL) NO. 494 OF 2012
-			</extra>
-			<lb />
+				<lb />
+			</case_numbers>
 			<petitioner>
 				JUSTICE K.S. PUTTASWAMY (RETD.)
 				<lb />
+			</petitioner>
+			<extra>
 				AND ANOTHER
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				....
 				.PETITIONER(S)
@@ -46,7 +48,7 @@
 				WITH
 				<lb />
 			</extra>
-			<extra>
+			<case_numbers>
 				TRANSFERRED CASE (CIVIL) NO. 151 OF 2013
 				<lb />
 				TRANSFERRED CASE (CIVIL) NO. 152 OF 2013
@@ -129,7 +131,7 @@
 				WRIT PETITION (CIVIL) NO. 1002 OF 2017
 				<lb />
 				Writ Petition (Civil) No. 494 of 2012 &amp; connected matters
-				
+				<lb />
 				WRIT PETITION (CIVIL) NO. 1056 OF 2017
 				<lb />
 				A N D
@@ -140,7 +142,7 @@
 				<lb />
 				WRIT PETITION (CIVIL) NO. 1014 OF 2017
 				<lb />
-			</extra>
+			</case_numbers>
 			<document_type>
 				J U D G M E N T
 			</document_type>

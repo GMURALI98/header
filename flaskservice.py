@@ -11,6 +11,10 @@ from Act_detection import load_model
 
 app = Flask(__name__)
 
+@app.route("/",methods=["GET"])
+def health():
+    return "Server is up and running,  200"
+
 @app.route("/createTraining",methods=["POST"])
 def main():
 

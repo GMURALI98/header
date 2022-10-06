@@ -5,9 +5,11 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
+			<extra>
+				IN THE
+			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+				HIGH COURT OF JUDICATURE AT BOMBAY
 				<lb />
 			</court>
 			<extra>
@@ -19,13 +21,16 @@
 				<lb />
 			</case_numbers>
 			<petitioner>
-				Commissioner of Customs (Export),
+				Commissioner of Customs (Export)
+				<lb />
+			</petitioner>
+			<extra>
+				,
 				<lb />
 				having office at Jawaharlal Nehru Customs House,
 				<lb />
 				Nhava Sheva, District -Raigad
-				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				)
 				<lb />
@@ -41,11 +46,13 @@
 			<respondent>
 				Reliance Industries Limited
 				<lb />
+			</respondent>
+			<extra>
 				having office at Maker Chamber -IV, 3 rd Floor,
 				<lb />
 				Nariman Point, Mumbai -400 021
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				)
 				<lb />
@@ -59,49 +66,61 @@
 			<petitioner_lawyers>
 				Ms. P.S. Cardozo a/w. Ms. Maya Majumdar
 				<lb />
-				<extra>
-					for appellant.
-					<lb />
-				</extra>
-				<respondent_lawyers>
-					Mr. Rafique Dada, Senior Advocate a/w. Mr. Jaydeep Patel, Mr. Zubair Dada,
-					<lb />
-					Ms. Shilpa Balani and Ms. Parnari Shingala i/b. A.S. Dayal
-				</respondent_lawyers>
-				<extra>
-					and Associates for
-					<lb />
-					respondent.
-					<lb />
-				</extra>
-				<extra>
-					----
-					<lb />
-				</extra>
-				<judges>
-					CORAM :
-					
-					K.R. SHRIRAM &amp; AMIT B. BORKAR, JJ.
-					<lb />
-				</judges>
-				<extra>
-					RESERVED ON :
-				</extra>
-				<judgement_date>
-					9 th DECEMBER 2021
-					<lb />
-				</judgement_date>
-				<extra>
-					PRONOUNCED ON :
-				</extra>
-				<judgement_date>
-					20 th DECEMBER 2021
-					<lb />
-				</judgement_date>
-				<document_type>
-					ORAL JUDGMENT : (PER K.R. SHRIRAM, J.)
-				</document_type>
 			</petitioner_lawyers>
+			<extra>
+				for appellant.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Rafique Dada
+			</respondent_lawyers>
+			<extra>
+				, Senior Advocate a/w.
+			</extra>
+			<respondent_lawyers>
+				Mr. Jaydeep Patel, Mr. Zubair Dada,
+				<lb />
+				Ms. Shilpa Balani and Ms. Parnari Shingala i/b. A.S. Dayal
+			</respondent_lawyers>
+			<extra>
+				and Associates for
+				<lb />
+				respondent.
+				<lb />
+			</extra>
+			<extra>
+				----
+				<lb />
+			</extra>
+			<extra>
+				CORAM :
+			</extra>
+			<judges>
+				K.R. SHRIRAM &amp; AMIT B. BORKAR, JJ.
+				<lb />
+			</judges>
+			<extra>
+				RESERVED ON :
+				
+				9 th DECEMBER 2021
+				<lb />
+			</extra>
+			<extra>
+				PRONOUNCED ON :
+			</extra>
+			<judgement_date>
+				20 th DECEMBER 2021
+				<lb />
+			</judgement_date>
+			<extra>
+				ORAL
+			</extra>
+			<document_type>
+				JUDGMENT
+			</document_type>
+			<extra>
+				: (PER K.R. SHRIRAM, J.)
+			</extra>
 		</front>
 	</text>
 </tei>

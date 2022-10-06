@@ -31,7 +31,7 @@ public class TEIHeaderSaxParser extends DefaultHandler {
     private ArrayList<String> labeled = null; // store line by line the labeled data
 
     private List<String> endTags = Arrays.asList("titlePart", "note", "docAuthor", "petitioner", "respondent", "petitioner_lawyers", "respondent_lawyers", "affiliation", "address", "email", "idno",
-        "date", "keywords", "keyword", "reference", "ptr", "div", "editor", "meeting", "court", "judgement_date", "document_type", "extra", "case_numbers", "judges");
+        "date", "keywords", "keyword", "reference", "ptr", "div", "editor", "meeting", "court", "notes", "judgement_date", "judge", "document_type", "extra", "case_numbers", "judges", "case_number");
 
     private List<String> intermediaryTags = Arrays.asList("byline", "front", "lb", "tei", "teiHeader", "fileDesc", "text", "byline", "docTitle", "p");
 
@@ -133,6 +133,8 @@ public class TEIHeaderSaxParser extends DefaultHandler {
             }
         } else if (qName.equals("court")) {
             currentTag = "<court>";
+        } else if (qName.equals("notes")) {
+            currentTag = "<notes>";
         } else if (qName.equals("case_numbers")) {
             currentTag = "<case_numbers>";
         } else if (qName.equals("judgement_date")) {
@@ -217,7 +219,7 @@ public class TEIHeaderSaxParser extends DefaultHandler {
         } else if (qName.equals("respondent")) {
             currentTag = "<respondent>";
         } else if (qName.equals("petitioner_lawyers")) {
-            currentTag = "<petitioner_lawyers";
+            currentTag = "<petitioner_lawyers>";
         } else if (qName.equals("respondent_lawyers")) {
             currentTag = "<respondent_lawyers>";
         } else if (qName.equals("docAuthor")) {

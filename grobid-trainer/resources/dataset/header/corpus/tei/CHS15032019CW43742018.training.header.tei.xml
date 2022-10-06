@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 173
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -19,11 +14,10 @@
 			</court>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				
 				31 st January, 2019
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Pronounced on:
 			</extra>
@@ -47,11 +41,11 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Sunil Gupta,
+				Mr. Sunil Gupta
 				<lb />
 			</petitioner_lawyers>
 			<extra>
-				Sr. Adv. with Mr.
+				, Sr. Adv. with Mr.
 				<lb />
 			</extra>
 			<petitioner_lawyers>
@@ -90,8 +84,13 @@
 			<respondent_lawyers>
 				Mr. Chirayu Jain and
 				<lb />
-				Ms. N. Goyal, Advs.
+				Ms. N. Goyal
+			</respondent_lawyers>
+			<extra>
+				, Advs.
 				<lb />
+			</extra>
+			<respondent_lawyers>
 				Mr. Khagesh B. Jha, Ms. Shikha
 				<lb />
 				Sharma Bagga
@@ -105,11 +104,10 @@
 			</extra>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				
 				6 th February, 2019
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Pronounced on:
 			</extra>
@@ -133,8 +131,13 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Sunil Gupta, Sr. Adv. with Mr.
+				Mr. Sunil Gupta
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Adv. with Mr.
 				<lb />
+			</extra>
+			<petitioner_lawyers>
 				Romy Chacko, Mr. Vedanta
 				<lb />
 				Varma, Mr. Chandan Kumar

@@ -5,7 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
@@ -15,11 +14,10 @@
 			</court>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				
 				28 th May 2019
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Pronounced on:
 			</extra>
@@ -102,6 +100,7 @@
 			</extra>
 			<respondent_lawyers>
 				Mr. AbinavVasisht
+				<lb />
 			</respondent_lawyers>
 			<extra>
 				, Senior Advocate

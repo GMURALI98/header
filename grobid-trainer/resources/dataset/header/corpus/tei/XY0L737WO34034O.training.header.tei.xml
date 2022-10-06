@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 72
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -67,11 +62,11 @@
 				<lb />
 			</extra>
 			<respondent_lawyers>
-				Ms. Pratima N. Chauhan,
+				Ms. Pratima N. Chauhan
 				<lb />
 			</respondent_lawyers>
 			<extra>
-				Advocate for respondent no.1.
+				, Advocate for respondent no.1.
 				<lb />
 			</extra>
 			<respondent_lawyers>

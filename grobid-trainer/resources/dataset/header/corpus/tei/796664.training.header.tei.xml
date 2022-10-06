@@ -5,7 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<case_numbers>
 				C.S.No.299 of 2020
 				<lb />
@@ -24,11 +23,9 @@
 			<extra>
 				Reserved on :
 				<lb />
-			</extra>
-			<judgement_date>
 				21.10.2021
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Pronounced on
 				<lb />
@@ -59,9 +56,14 @@
 				A.No.2603 of 2020
 				<lb />
 			</case_numbers>
+			<extra>
+				1.
+			</extra>
 			<petitioner>
-				1.Aqua Pump Industries,
+				Aqua Pump Industries,
 				<lb />
+			</petitioner>
+			<extra>
 				rep by its Managing Partner
 				<lb />
 				Mr.Ramaswamy Kumaravelu,
@@ -76,10 +78,15 @@
 				<lb />
 				Chennai 600 001.
 				<lb />
-			</petitioner>
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<petitioner>
-				2.Aqua Sub Engineering
+				Aqua Sub Engineering
 				<lb />
+			</petitioner>
+			<extra>
 				rep. By its Managing Partner,
 				<lb />
 				Mr.Ramaswamy Kumaravelu,
@@ -94,7 +101,7 @@
 				<lb />
 				Chennai 600 001.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				.. Plaintiffs
 				<lb />
@@ -103,29 +110,31 @@
 				/versus/
 				<lb />
 			</extra>
-			<page>
-				1/19
-				<lb />
-			</page>
 			<extra>
-				https://www.mhc.tn.gov.in/judis/
-				<lb />
+				1.
 			</extra>
 			<respondent>
-				1.Ashok Kumar Jaiswal
+				Ashok Kumar Jaiswal
 				<lb />
 				C/o Arryan Future Aqua Engineering Pvt. Ltd.,
 				<lb />
+			</respondent>
+			<extra>
 				2258, Opposite Pratap Market,
 				<lb />
 				Damoh Road,
 				<lb />
 				Jabalpur 482 002, Madhyapradesh
 				<lb />
-			</respondent>
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2.Arryan Future Aqua Engineering Pvt.Ltd.,
+				Arryan Future Aqua Engineering Pvt.Ltd.,
 				<lb />
+			</respondent>
+			<extra>
 				2258, Opposite Pratap Market,
 				<lb />
 				Damoh Road,
@@ -134,7 +143,7 @@
 				<lb />
 				Madhya Pradesh.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				.. Defendants
 				<lb />
@@ -198,8 +207,10 @@
 				M/s Gladys Daniel
 				<lb />
 			</petitioner_lawyers>
-			------
-			<lb />
+			<extra>
+				------
+				<lb />
+			</extra>
 			<document_type>
 				J U D G M E N T
 				<lb />

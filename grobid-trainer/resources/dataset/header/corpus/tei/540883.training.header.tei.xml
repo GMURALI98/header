@@ -5,8 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			1
-			<lb />
 			<extra>
 				IN THE
 			</extra>
@@ -15,7 +13,7 @@
 				<lb />
 			</court>
 			<extra>
-				Dated: 
+				Dated:
 			</extra>
 			<judgement_date>
 				13.11.2018
@@ -24,10 +22,10 @@
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				
-				THE HON&apos;BLE MR.JUSTICE M.SUNDAR
+				HON&apos;BLE MR.JUSTICE M.SUNDAR
 				<lb />
 			</judges>
 			<case_numbers>
@@ -58,6 +56,8 @@
 				<lb />
 				The KHAZANA Imitation JEWELLERY and Bags
 				<lb />
+			</respondent>
+			<extra>
 				2 nd Floor, Dasapalla,
 				<lb />
 				Chitralaya Cine Mall
@@ -66,7 +66,7 @@
 				<lb />
 				Visakhapatnam-20
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				.. Defendant
 				<lb />

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5198451" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				IN THE
+				<lb />
+			</extra>
+			<court>
+				HIGH COURT OF JUDICATURE FOR RAJASTHAN
+				<lb />
+				BENCH AT JAIPUR
+				<lb />
+			</court>
+			<case_numbers>
+				D.B.CRIMINAL APPEAL NO. 1065/2011
+				<lb />
+			</case_numbers>
+			<petitioner>
+				Kalulal
+			</petitioner>
+			<extra>
+				son of Daulatram, by caste Nai, Resident of Aarnia
+				<lb />
+				Kalan, P.S. Suket, District Kota, (Raj.)
+				<lb />
+			</extra>
+			<extra>
+				----Appellant
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				State of Rajasthan through PP.
+				<lb />
+			</respondent>
+			<extra>
+				----Respondent _____________________________________________________________
+				<lb />
+				For Appellant
+				<lb />
+				:
+			</extra>
+			<petitioner_lawyers>
+				Mr. Gaurav Gupta
+			</petitioner_lawyers>
+			<extra>
+				, for the appellant
+				<lb />
+				For Respondents :
+			</extra>
+			<respondent_lawyers>
+				Mr. Aladeen Khan PP for the State
+				<lb />
+				Mr. Anshuman Saxena
+			</respondent_lawyers>
+			<extra>
+				, counsel for the complainant.
+			</extra>
+			<extra>
+				_____________________________________________________________
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE KANWALJIT SINGH AHLUWALIA
+				<lb />
+				HON&apos;BLE MR. JUSTICE PRAKASH GUPTA
+				<lb />
+			</judges>
+			<document_type>
+				Judgment
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

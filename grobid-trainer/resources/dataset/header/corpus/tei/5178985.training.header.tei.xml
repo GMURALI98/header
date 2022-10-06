@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5178985" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				[1]
+				<lb />
+			</extra>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF JUDICATURE FOR RAJASTHAN AT JODHPUR
+				<lb />
+			</court>
+			<document_type>
+				O R D E R
+				<lb />
+			</document_type>
+			<case_numbers>
+				S.B. CIVIL WRIT PETITION NO.9656/2008
+				<lb />
+			</case_numbers>
+			<extra>
+				Vinod Kumar Sanadhya Vs. Surendra Mohan
+				<lb />
+			</extra>
+			<extra>
+				DATE OF ORDER:
+				<lb />
+			</extra>
+			<judgement_date>
+				6 th August, 2013
+				<lb />
+			</judgement_date>
+			<judges>
+				HON&apos;BLE MR. JUSTICE P.K. LOHRA
+			</judges>
+			<petitioner_lawyers>
+				Mr. Deelip Kawadia
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, for the petitioner.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Suresh Shrimali
+			</respondent_lawyers>
+			<extra>
+				, for the respondent.
+				<lb />
+			</extra>
+		</front>
+	</text>
+</tei>

@@ -5,13 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of
-				
-				227
-				<lb />
-			</page>
 			<extra>
 				*
 				<lb />
@@ -148,9 +141,10 @@
 			<respondent_lawyers>
 				Dr.C.S Vaidyanathan and Mr.Amit
 				<lb />
-				Sibal,
+				Sibal
 			</respondent_lawyers>
 			<extra>
+				,
 				Senior Advocates with
 				<lb />
 			</extra>

@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 51
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -19,11 +14,10 @@
 			</court>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				
 				24.01.2019.
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Date of Decision :
 			</extra>
@@ -45,8 +39,13 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Arvind K. Nigam, Sr. Adv. with
+				Mr. Arvind K. Nigam
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Adv. with
 				<lb />
+			</extra>
+			<petitioner_lawyers>
 				Mr. Manish Bishnoi, Mr.Mikhil
 				<lb />
 				Sharma, Mr.Mehtaab Singh Sandhu &amp;
@@ -74,20 +73,40 @@
 				<lb />
 			</extra>
 			<respondent_lawyers>
-				Mr.Nikhil Goel, Spl.P.P. with
-				<lb />
-				Mr.Gurpreet Hora, Adv. for CBI.
-				<lb />
-				Mr.Ravinder Agarwal, Adv. for CVC.
-				<lb />
-				Mr.V.S.R.Krishna, Adv. for Railways.
-				<lb />
+				Mr.Nikhil Goel
 			</respondent_lawyers>
+			<extra>
+				, Spl.P.P. with
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Gurpreet Hora
+			</respondent_lawyers>
+			<extra>
+				, Adv. for CBI.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Ravinder Agarwal
+			</respondent_lawyers>
+			<extra>
+				, Adv. for CVC.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.V.S.R.Krishna
+			</respondent_lawyers>
+			<extra>
+				, Adv. for Railways.
+				<lb />
+			</extra>
 			<petitioner>
 				SH. MS. CHALIA
 				<lb />
 			</petitioner>
-			.....
+			<extra>
+				.....
+			</extra>
 			<extra>
 				petitioner
 				<lb />
@@ -97,14 +116,22 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Vikas Pahwa, Sr. Adv. with
+				Mr. Vikas Pahwa
 				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Adv. with
+			</extra>
+			<petitioner_lawyers>
 				Mr. Manish Bishnoi, Mr. Karan
 				<lb />
 				Khanuja, Mr. Shadman Ahmed &amp;
 				<lb />
-				Mr.Tushar Agarwal, Advs.
+				Mr.Tushar Agarwal
 			</petitioner_lawyers>
+			<extra>
+				, Advs.
+			</extra>
 			<extra>
 				Versus
 				<lb />
@@ -132,8 +159,13 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Vikas Pahwa, Sr. Adv. with
+				Mr. Vikas Pahwa
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Adv. with
 				<lb />
+			</extra>
+			<petitioner_lawyers>
 				Mr. Manish Bishnoi, Mr. Karan
 				<lb />
 				Khanuja, Mr. Shadman Ahmed &amp;

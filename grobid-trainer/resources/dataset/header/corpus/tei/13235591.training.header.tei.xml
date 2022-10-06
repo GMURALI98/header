@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13235591" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				State of Meghalaya v. CMJ Foundation
+				<lb />
+			</extra>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF MEGHALAYA AT SHILLONG
+				<lb />
+			</court>
+			<extra>
+				:
+			</extra>
+			<document_type>
+				ORDER
+				<lb />
+			</document_type>
+			<extra>
+				:
+			</extra>
+			<case_numbers>
+				WA No.14 of 2017
+				<lb />
+				MC (WA) No.8 of 2017
+				<lb />
+			</case_numbers>
+			<petitioner>
+				State of Meghalaya and another
+				<lb />
+			</petitioner>
+			<extra>
+				….. Appellants
+				<lb />
+			</extra>
+			<extra>
+				-Versus-
+				<lb />
+			</extra>
+			<respondent>
+				CMJ Foundation and others
+				<lb />
+			</respondent>
+			<extra>
+				….. Respondents
+				<lb />
+			</extra>
+			<extra>
+				Date of Order:
+				<lb />
+				::
+				<lb />
+			</extra>
+			<extra>
+				12.06.2017
+				<lb />
+			</extra>
+			<extra>
+				PRESENT
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE SHRI JUSTICE DINESH MAHESHWARI
+			</judges>
+			<extra>
+				, CHIEF JUSTICE
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE SHRI JUSTICE VED PRAKASH VAISH
+			</judges>
+			<petitioner_lawyers>
+				Shri HS Thangkhiew, Sr.Adv with Shri PN Nongbri,
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				for the appellants
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Shri A Singh
+			</respondent_lawyers>
+			<extra>
+				, for the respondents
+			</extra>
+		</front>
+	</text>
+</tei>

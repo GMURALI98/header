@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 4
-				<lb />
-			</page>
 			<extra>
 				$~2
 				<lb />
@@ -88,9 +83,12 @@
 				<lb />
 			</judges>
 			<document_type>
-				JUDGMENT (ORAL)
+				JUDGMENT
 				<lb />
 			</document_type>
+			<extra>
+				(ORAL)
+			</extra>
 		</front>
 	</text>
 </tei>

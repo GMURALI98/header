@@ -17,11 +17,10 @@
 				RESERVED ON
 				<lb />
 				:
-			</extra>
-			<judgement_date>
+				
 				24.09.2019
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				PRONOUNCED ON :
 			</extra>
@@ -95,11 +94,13 @@
 				<lb />
 				C.B.C.I.D.,
 				<lb />
+			</respondent>
+			<extra>
 				V-5 Thirumangalam Police Station,
 				<lb />
 				Chennai.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				.. Respondent/
 				<lb />
@@ -116,10 +117,6 @@
 				Judge, Chennai in S.C.No.394 of 2007.
 				<lb />
 			</extra>
-			<page>
-				1/32
-				<lb />
-			</page>
 			<extra>
 				For Appellant in C.A.No.23 of 2015/A1 :
 				<lb />
@@ -167,8 +164,11 @@
 				Govt. Advocate (Crl. Side)
 				<lb />
 			</extra>
+			<extra>
+				C O M M O N
+			</extra>
 			<document_type>
-				C O M M O N J U D G M E N T
+				J U D G M E N T
 				<lb />
 			</document_type>
 		</front>

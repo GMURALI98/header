@@ -5,10 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				1
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -17,17 +13,18 @@
 				<lb />
 			</court>
 			<extra>
-				DATED
+				DATED :
 			</extra>
 			<judgement_date>
-				: 13.10.2015
+				13.10.2015
 			</judgement_date>
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HONOURABLE MR.JUSTICE S.MANIKUMAR
+				HONOURABLE MR.JUSTICE S.MANIKUMAR
 				<lb />
 				AND
 				<lb />
@@ -61,31 +58,61 @@
 			<petitioner>
 				M/s.Royal Sundaram Alliance Insurance Co. Ltd.,
 				<lb />
+			</petitioner>
+			<extra>
 				No.8/H-1, Mangalam Building 4 Road,
 				<lb />
 				Salem 636 009.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				... Appellant
 				<lb />
 			</extra>
 			<extra>
 				vs.
+				lb />
 			</extra>
-			<lb />
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1. Tmt.Vennila
+				Tmt.Vennila
 				<lb />
-				2. Govindammal
+			</respondent>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				Govindammal
 				<lb />
-				3. Perumal
+			</respondent>
+			<extra>
+				3.
+			</extra>
+			<respondent>
+				Perumal
 				<lb />
-				4. Alamelu
+			</respondent>
+			<extra>
+				4.
+			</extra>
+			<respondent>
+				Alamelu
 				<lb />
-				5. Muniyammal
+			</respondent>
+			<extra>
+				5.
+			</extra>
+			<respondent>
+				Muniyammal
 				<lb />
-				6. Madheswaran
+			</respondent>
+			<extra>
+				6.
+			</extra>
+			<respondent>
+				Madheswaran
 				<lb />
 			</respondent>
 			<extra>
@@ -120,11 +147,8 @@
 			</extra>
 			<respondent_lawyers>
 				Mr.G.K.Sekar
+				<lb />
 			</respondent_lawyers>
-			<lb />
-			<page>
-				2
-			</page>
 			<case_numbers>
 				(C.M.A.
 				No.723 of 2015)
@@ -133,39 +157,72 @@
 			<petitioner>
 				M/s.Royal Sundaram Alliance Insurance Co. Ltd.,
 				<lb />
+			</petitioner>
+			<extra>
 				No.8/H-1, Mangalam Building 4 Road,
 				<lb />
 				Salem 636 009.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				... Appellant
 				<lb />
 			</extra>
 			<extra>
 				vs.
+				<lb />
 			</extra>
-			<lb />
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1. Ambiga
+				Ambiga
 				<lb />
-				2. Poovarasan (Minor)
+			</respondent>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				Poovarasan (Minor)
 				<lb />
-				3. Sandhiya (Minor)
+			</respondent>
+			<extra>
+				3.
+			</extra>
+			<respondent>
+				Sandhiya (Minor)
 				<lb />
-				4. Palaniammal
+			</respondent>
+			<extra>
+				4.
+			</extra>
+			<respondent>
+				Palaniammal
 				<lb />
-				5. Govindan
+			</respondent>
+			<extra>
+				5.
+			</extra>
+			<respondent>
+				Govindan
 				<lb />
-				6. M.M.Contractor,
+			</respondent>
+			<extra>
+				6.
+			</extra>
+			<respondent>
+				M.M.Contractor
 				<lb />
+			</respondent>
+			<extra>
+				,
 				No.245, South Metha Street,
 				<lb />
 				Thiruvagoundanoor,
 				<lb />
 				Salem, Tamil Nadu.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				... Respondents
 				<lb />
@@ -215,9 +272,11 @@
 				<lb />
 				Metropolitan Transport Corporation (Chennai) Ltd.,
 				<lb />
+			</petitioner>
+			<extra>
 				Pallavan House, Anna Salai, Chennai-2.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				... Appellant
 				<lb />
@@ -226,23 +285,43 @@
 				vs.
 				<lb />
 			</extra>
-			<page>
-				3
-			</page>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1. B.Thaniga
+				B.Thaniga
 				<lb />
-				2. S.Dhanalakshmi
-				<lb />
-				3. B.Sathya
-				<lb />
-				4. K.Ali
-				<lb />
-				5. B.Anandan
-				<lb />
-				...
 			</respondent>
 			<extra>
+				2.
+			</extra>
+			<respondent>
+				S.Dhanalakshmi
+				<lb />
+			</respondent>
+			<extra>
+				3.
+			</extra>
+			<respondent>
+				B.Sathya
+				<lb />
+			</respondent>
+			<extra>
+				4.
+			</extra>
+			<respondent>
+				K.Ali
+				<lb />
+			</respondent>
+			<extra>
+				5.
+			</extra>
+			<respondent>
+				B.Anandan
+				<lb />
+			</respondent>
+			<extra>
+				...
 				Respondents
 				<lb />
 			</extra>
@@ -272,10 +351,13 @@
 			</extra>
 			<respondent_lawyers>
 				Mr.D.Velu
+				<lb />
 			</respondent_lawyers>
-			<lb />
+			<extra>
+				COMMON
+			</extra>
 			<document_type>
-				COMMON JUDGMENT
+				JUDGMENT
 			</document_type>
 			<lb />
 		</front>

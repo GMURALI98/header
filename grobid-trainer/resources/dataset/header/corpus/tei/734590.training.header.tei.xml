@@ -10,11 +10,11 @@
 				IN THE
 			</extra>
 			<court>
-				 HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
 			<extra>
-				Dated : 
+				Dated :
 			</extra>
 			<judgement_date>
 				07.01.2021
@@ -25,7 +25,7 @@
 				THE
 			</extra>
 			<judges>
-				 HONOURABLE MR. JUSTICE M.SUNDAR
+				HONOURABLE MR. JUSTICE M.SUNDAR
 				<lb />
 			</judges>
 			<case_numbers>
@@ -35,6 +35,8 @@
 			<petitioner>
 				M/s.OM Sakthi Travels Private Limited
 				<lb />
+			</petitioner>
+			<extra>
 				Represented by its Director
 				<lb />
 				R.Saravanan
@@ -47,7 +49,7 @@
 				<lb />
 				Chennai-600 029.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				... Petitioner
 				<lb />
@@ -56,24 +58,36 @@
 				vs.
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1. M/s.Shri Subhameenakshi Auto Finance
+				M/s.Shri Subhameenakshi Auto Finance
 				<lb />
+			</respondent>
+			<extra>
 				Rep. by its partner D.S.Senthivel
 				<lb />
 				No.162, Tamil Sangam Road
 				<lb />
 				Madurai -625 001.
 				<lb />
-				2. Y.K.Rajagopal
+			</extra>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				Y.K.Rajagopal
 				<lb />
+			</respondent>
+			<extra>
 				Sole Arbitrator
 				<lb />
 				222/3 Rohini Flats, Anna Nagar West
 				<lb />
 				Chennai-600 101.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				... Respondents
 				<lb />

@@ -232,9 +232,12 @@
 				<lb />
 			</judgement_date>
 			<judges>
-				Judgment (Per Coram : Sandeep K. Shinde J.): -
+				Judgment
 				<lb />
 			</judges>
+			<extra>
+				(Per Coram : Sandeep K. Shinde J.): -
+			</extra>
 		</front>
 	</text>
 </tei>

@@ -5,7 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
 				$~
 				<lb />
@@ -16,36 +15,40 @@
 			<court>
 				HIGH COURT OF DELHI AT NEW DELHI
 			</court>
-			<lb />
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				<lb />
 				24 th March, 2021
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Decided on:
 			</extra>
 			<judgement_date>
 				5 th April, 2021
+				<lb />
 			</judgement_date>
-			<lb />
 			<case_numbers>
 				I.A. 12115/2020 in
 				<lb />
+			</case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CS(COMM) 553/2020
 			</case_numbers>
 			<lb />
 			<petitioner>
 				BRITANNIA INDUSTRIES LTD
+				<lb />
 			</petitioner>
-			<lb />
 			<extra>
 				..... Plaintiff
 				<lb />
+			</extra>
+			<extra>
 				Through:
 			</extra>
 			<petitioner_lawyers>
@@ -57,9 +60,10 @@
 			<petitioner_lawyers>
 				Mr.
 				<lb />
-				Sandeep Sethi,
+				Sandeep Sethi
 			</petitioner_lawyers>
 			<extra>
+				,
 				Sr. Advs. assisted by
 			</extra>
 			<petitioner_lawyers>
@@ -82,29 +86,31 @@
 				Advs.
 				<lb />
 				versus
+				<lb />
 			</extra>
-			<lb />
 			<respondent>
 				ITC LTD &amp; ORS.
+				<lb />
 			</respondent>
-			<lb />
 			<extra>
 				..... Defendants
 				<lb />
+			</extra>
+			<extra>
 				Through:
 			</extra>
 			<respondent_lawyers>
-				Mr. Sajan Poovayya,
+				Mr. Sajan Poovayya
 			</respondent_lawyers>
 			<extra>
+				,
 				Sr. Adv.
 				<lb />
 				with
 			</extra>
 			<respondent_lawyers>
 				Mr. Saikrishna Rajagopala,
-			</respondent_lawyers>
-			<respondent_lawyers>
+				<lb />
 				Mr. Sudeep
 				<lb />
 				Chatterjee,
@@ -131,8 +137,12 @@
 			<case_numbers>
 				I.A. 12125/2020 in
 				<lb />
+			</case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CS(COMM) 554/2020
 			</case_numbers>
 			<lb />
@@ -143,6 +153,8 @@
 			<extra>
 				..... Plaintiff
 				<lb />
+			</extra>
+			<extra>
 				Through:
 			</extra>
 			<petitioner_lawyers>
@@ -160,28 +172,30 @@
 			</petitioner_lawyers>
 			<extra>
 				and
+				<lb />
 			</extra>
-			<lb />
 			<petitioner_lawyers>
 				Ms. Shubhie Wahi,
 			</petitioner_lawyers>
 			<extra>
 				Advs.
 				<lb />
-				versus
 			</extra>
-			<lb />
+			<extra>
+				versus
+				<lb />
+			</extra>
 			<respondent>
 				ITC LTD &amp; ORS.
+				<lb />
 			</respondent>
-			<lb />
 			<extra>
 				..... Defendants
 				<lb />
 				Through:
 			</extra>
 			<respondent_lawyers>
-				Mr. Sajan Poovayya,
+				Mr. Sajan Poovayya
 			</respondent_lawyers>
 			<extra>
 				Sr. Adv.
@@ -189,7 +203,7 @@
 				with
 			</extra>
 			<respondent_lawyers>
-				Mr. Sudeep Chatterjee,
+				Mr. Sudeep Chatterjee
 			</respondent_lawyers>
 			<respondent_lawyers>
 				Ms. Nupur
@@ -202,22 +216,13 @@
 			<extra>
 				and
 			</extra>
-			<respondent_lawyers>
-				Mr.
-			</respondent_lawyers>
-			<lb />
 			<case_numbers>
 				I.A. 12115/2020 in CS(COMM) 553/2020 &amp;
 				<lb />
 				I.A. 12125/2020 in CS(COMM) 554/2020
 			</case_numbers>
-			<lb />
-			<page>
-				Page 1 of 45
-			</page>
-			<lb />
 			<respondent_lawyers>
-				Kiratraj Sadana,
+				Mr. Kiratraj Sadana,
 			</respondent_lawyers>
 			<extra>
 				Advs. for D-1
@@ -229,14 +234,15 @@
 			</extra>
 			<judges>
 				HON&apos;BLE MR. JUSTICE C.HARI SHANKAR
+				<lb />
 			</judges>
-			<lb />
 			<extra>
 				%
 			</extra>
 			<lb />
 			<document_type>
 				J U D G M E N T
+				<lb />
 			</document_type>
 			<lb />
 		</front>

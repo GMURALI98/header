@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 19
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -17,8 +12,11 @@
 				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
+			<document_type>
+				Judgment
+			</document_type>
 			<extra>
-				Judgment delivered on:
+				delivered on:
 			</extra>
 			<judgement_date>
 				25.03.2022
@@ -77,9 +75,12 @@
 				<lb />
 				Mr Anshuman Pande, Ms Gaurika Mohan and
 				<lb />
-				Ms Vishalakshi Singh, Advocates
+				Ms Vishalakshi Singh
 				<lb />
 			</respondent_lawyers>
+			<extra>
+				, Advocates
+			</extra>
 			<extra>
 				CORAM
 				<lb />

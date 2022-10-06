@@ -5,15 +5,11 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
-				1/39
-				<lb />
-				adms-2-06.doc
-				<lb />
+				IN THE
 			</extra>
 			<court>
-				IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+				HIGH COURT OF JUDICATURE AT BOMBAY
 				<lb />
 				ADMIRALTY AND VICE ADMIRALTY JURISDICTION
 				<lb />
@@ -23,7 +19,10 @@
 				<lb />
 			</case_numbers>
 			<petitioner>
-				Elecon Engineering Company Limited, a
+				Elecon Engineering Company Limited
+			</petitioner>
+			<extra>
+				, a
 				<lb />
 				limited company incorporated under the
 				<lb />
@@ -32,7 +31,7 @@
 				at Post Box No.6, Anand Sojitra Road,
 				<lb />
 				Vallabh Vidyanagar 388 120, Gujarat, India
-			</petitioner>
+			</extra>
 			<extra>
 				) ) )
 				<lb />
@@ -43,8 +42,11 @@
 				V/s.
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1. Rickmers Dubai a motor vessel flying
+				Rickmers Dubai a motor vessel flying
 				<lb />
 				panamanian flag together with her hull, tackle
 				<lb />
@@ -60,11 +62,16 @@
 				) ) ) ) )
 				<lb />
 			</extra>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2. BIBI Shipping S.A. a company organized and
+				BIBI Shipping S.A. a company organized and
 				<lb />
 				incorporated under the Laws of Marshall Island
 				<lb />
+			</respondent>
+			<extra>
 				having its office at Marshall Island and
 				<lb />
 				carrying on business at Mumbai through
@@ -74,13 +81,19 @@
 				Building 1 st floor, 18 J.N. Heredia Marg,
 				<lb />
 				Ballard Estate, Mumbai 400 038.
-			</respondent>
+			</extra>
 			<extra>
 				) ) ) ) ) )
 				<lb />
 			</extra>
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				3. Rickmers Linie GmBH &amp; Cie KG Hamburg a
+				Rickmers Linie GmBH &amp; Cie KG Hamburg
+			</respondent>
+			<extra>
+				a
 				<lb />
 				Company organized and incorporated under
 				<lb />
@@ -97,13 +110,19 @@
 				18 J.N. Heredia Marg, Ballard Estate, Mumbai
 				<lb />
 				-400 038.
-			</respondent>
+			</extra>
 			<extra>
 				) ) ) ) ) ) )
 				<lb />
 			</extra>
+			<extra>
+				4.
+			</extra>
 			<respondent>
-				4. United Liner Agencies of India Pvt. Ltd. a
+				United Liner Agencies of India Pvt. Ltd.
+			</respondent>
+			<extra>
+				a
 				<lb />
 				Private Limited Company incorporated under
 				<lb />
@@ -114,13 +133,19 @@
 				Heredia Marg, Ballard Estate, Mumbai -400
 				<lb />
 				038.
-			</respondent>
+			</extra>
 			<extra>
 				) ) ) ) )
 				<lb />
 			</extra>
+			<extra>
+				5.
+			</extra>
 			<respondent>
-				5. Henderson Line Limited a Company
+				Henderson Line Limited
+			</respondent>
+			<extra>
+				a Company
 				<lb />
 				organized and incorporated under the Laws of
 				<lb />
@@ -137,26 +162,38 @@
 				Leela Galleria, Andheri Kurla Road, Andheri
 				<lb />
 				(E), Mumbai -400 059.
-			</respondent>
+			</extra>
 			<extra>
 				) ) ) ) ) ) )
 				<lb />
 			</extra>
+			<extra>
+				6.
+			</extra>
 			<respondent>
-				6. Excel Gmbh a Company organized and
+				Excel Gmbh
+			</respondent>
+			<extra>
+				a Company organized and
 				<lb />
 				incorporated under the laws of Germany and
 				<lb />
 				carrying on business at Breitenweg 1 a, 28195
 				<lb />
 				Bremen, Germany.
-			</respondent>
+			</extra>
 			<extra>
 				) ) )
 				<lb />
 			</extra>
+			<extra>
+				7.
+			</extra>
 			<respondent>
-				7. DHL Lemuir Logistics Private Limited, a
+				DHL Lemuir Logistics Private Limited
+			</respondent>
+			<extra>
+				, a
 				<lb />
 				Private Limited Company incorporated under
 				<lb />
@@ -171,13 +208,19 @@
 				Complex, 6 th Floor, Nr. Express Hotel, R.C. Dutt
 				<lb />
 				Road, Alkapuri, Vadodara -390 005.
-			</respondent>
+			</extra>
 			<extra>
 				) ) ) ) ) ) )
 				<lb />
 			</extra>
+			<extra>
+				8.
+			</extra>
 			<respondent>
-				8. Turbowinds NV a Company organized and
+				Turbowinds NV
+			</respondent>
+			<extra>
+				a Company organized and
 				<lb />
 				incorporated under the Law of Belgium and
 				<lb />
@@ -188,13 +231,19 @@
 				carrying on business at Prins Bisschopssingel
 				<lb />
 				50, 3500 Hasselt Belgium.
-			</respondent>
+			</extra>
 			<extra>
 				) ) ) ) )
 				<lb />
 			</extra>
+			<extra>
+				9.
+			</extra>
 			<respondent>
-				9. United India Insurance Co. Ltd, a Limited
+				United India Insurance Co. Ltd
+			</respondent>
+			<extra>
+				, a Limited
 				<lb />
 				Company incorporated under the Companies
 				<lb />
@@ -211,7 +260,7 @@
 				House, 5 th Floor, Veer Nariman Road, P.B.
 				<lb />
 				No.977, Bombay -400 020.
-			</respondent>
+			</extra>
 			<extra>
 				) ) ) ) ) ) )
 				<lb />
@@ -223,7 +272,13 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Rahul Narichania, Senior Advocate a/w Ms Aditi Pawar, Mr. D. N.
+				Mr. Rahul Narichania
+			</petitioner_lawyers>
+			<extra>
+				, Senior Advocate a/w
+			</extra>
+			<petitioner_lawyers>
+				Ms Aditi Pawar, Mr. D. N.
 				<lb />
 				Motiwala and Ms Sneha Pandey i/b Motiwalla
 				<lb>
@@ -252,11 +307,10 @@
 			</judges>
 			<extra>
 				RESERVED ON :
-			</extra>
-			<judgement_date>
+				
 				8 th AUGUST 2019
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				PRONOUNCED ON :
 			</extra>
@@ -265,9 +319,12 @@
 				<lb />
 			</judgement_date>
 			<document_type>
-				JUDGMENT :
+				JUDGMENT
 				<lb />
 			</document_type>
+			<extra>
+				:
+			</extra>
 		</front>
 	</text>
 </tei>

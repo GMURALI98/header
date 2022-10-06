@@ -1,0 +1,920 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13430665" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				HIGH COURT OF CHHATTISGARH, BILASPUR
+				<lb />
+			</court>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<petitioner>
+				Siyaram Kurre
+			</petitioner>
+			<extra>
+				, S/o Shri Sant Ram Kurre, Aged About 62 Years,
+				<lb />
+				Retired Additional Collector, R/o Patrakar Colony, Ring Road -2
+				<lb />
+				Bilaspur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<petitioner>
+				Dindayal Mandavi
+			</petitioner>
+			<extra>
+				, S/o Shri Bharat Singh Mandavi, Aged About
+				<lb />
+				39 Years, Deputy Collector (Incharge Tahsildar), R/o F-3, New
+				<lb />
+				Civil Lines, District-Mahasamund (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				3.
+				<lb />
+			</extra>
+			<petitioner>
+				Arjun Shrivastava
+			</petitioner>
+			<extra>
+				, S/o Shri Y.L. Shrivastava, Naib Tahsildar,
+				<lb />
+				Aged About 55 Years, R/o Shanti Nagar, Jagdalpur, District-
+				<lb />
+				Jagdalpur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				4.
+				<lb />
+			</extra>
+			<petitioner>
+				Dharam Narayan Sahu
+			</petitioner>
+			<extra>
+				, S/o Shri Lakhan Sahu, Patwari, Aged
+				<lb />
+				About 60 Years, R/o Bhagat Singh Ward-6 Patharaguda,
+				<lb />
+				Jagdalpur, District-Jagdalpur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				----Petitioners
+				<lb />
+			</extra>
+			<extra>
+				Versus
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<respondent>
+				State of Chhattisgarh
+			</respondent>
+			<extra>
+				, Through: The Secretary to the
+				<lb />
+				Government of Chhattisgarh: Department of Revenue and
+				<lb />
+				Disaster Management
+			</extra>
+			<extra>
+				: Mahanadi Bhawan, Atal Nagar, Raipur,
+				<lb />
+				District -Raipur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<respondent>
+				Union of India
+			</respondent>
+			<extra>
+				, Through: The Secretary to the Department of
+				<lb />
+				Railway
+			</extra>
+			<extra>
+				, Raisina Road, Rail Bhawan, 1, New -Delhi.
+				<lb />
+			</extra>
+			<extra>
+				3.
+				<lb />
+			</extra>
+			<respondent>
+				The Collector Jagdalpur, District -Jagdalpur (C.G.)
+				<lb />
+			</respondent>
+			<extra>
+				4.
+				<lb />
+			</extra>
+			<respondent>
+				Station House Officer, Police Station -Jagdalpur, District -
+				<lb />
+				Jagdalpur (C.G.)
+				<lb />
+			</respondent>
+			<extra>
+				5.
+				<lb />
+			</extra>
+			<respondent>
+				Bastar Railway Private Limited
+			</respondent>
+			<extra>
+				, Through: The Chief Executive
+				<lb />
+				Officer Regd.
+			</extra>
+			<extra>
+				Off. : Exploration Centre, NMDC, Greens Villey
+				<lb />
+				City, Housing Board, Colony, Boriyakala, Raipur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				----Respondents
+				<lb />
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<petitioner>
+				Neelima Belsaria
+			</petitioner>
+			<extra>
+				, W/o Shri T.V. Ravi, Aged About 34 Years.
+				<lb />
+				2., Aged About 41 Years.
+				<lb />
+				Both Residents of : R/o Village-Pallai, Tehsil-Jagdalpur, District-
+				<lb />
+				Bastar (C.G.). Pin Code -494005.
+				<lb />
+				<lb />
+			</extra>
+			<extra>
+				----Petitioners
+				<lb />
+			</extra>
+			<extra>
+				Versus
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<respondent>
+				State of Chhattisgarh
+			</respondent>
+			<extra>
+				, Through: Station House Officer (SHO),
+				<lb />
+				Police Station-Kotwali, Jagdalpur, District-Bastar (C.G.). Pin -
+				<lb />
+				494001.
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<respondent>
+				Union of India
+			</respondent>
+			<extra>
+				, Through: Secretary, Ministry of Railways,
+				<lb />
+				Government of India, Rail Bhawan, Raisina Road, Delhi. Pin
+				<lb />
+				Code -110001.
+				<lb />
+			</extra>
+			<extra>
+				3.
+				<lb />
+			</extra>
+			<respondent>
+				Bank of Baroda
+			</respondent>
+			<extra>
+				, Through its: Chief Manager, Near Zhankaar
+				<lb />
+				Talkies, Jagdalpur, District -Bastar (C.G.). Pin -494001.
+				<lb />
+			</extra>
+			<extra>
+				4.
+				<lb />
+			</extra>
+			<respondent>
+				State Bank of India
+			</respondent>
+			<extra>
+				, Through its: Chief Manager, Collectorate
+				<lb />
+				Branch, Jagdalpur, District -Bastar (C.G.). Pin -494001.
+				<lb />
+			</extra>
+			<extra>
+				5.
+				<lb />
+			</extra>
+			<respondent>
+				State Bank of India
+			</respondent>
+			<extra>
+				, Through its: Branch Manager, Krishi Vikas
+				<lb />
+				Branch, Jagdalpur, District-Bastar (C.G.). Pin Code -494001.
+				<lb />
+			</extra>
+			<extra>
+				----Respondents
+				<lb />
+			</extra>
+			<lb />
+			<petitioner>
+				Bali Nagwanshi
+			</petitioner>
+			<extra>
+				, S/o Shri Buter Nagwanshi, Aged About 54
+				<lb />
+				Years, R/o House No. 87, Sun City, Jagdalpur, District-Bastar
+				<lb />
+				(C.G.)
+				<lb />
+			</extra>
+			<extra>
+				----Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Versus
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<respondent>
+				State of Chhattisgarh
+			</respondent>
+			<extra>
+				, through the Secretary, Department of
+				<lb />
+				Revenue and Disaster Management, Mahanadi Bhawan, Atal
+				<lb />
+				Nagar, Naya Raipur, District-Raipur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<respondent>
+				Dr. Ayyaj Tamboli
+			</respondent>
+			<extra>
+				, Collector, Bastar, having office at Jagdalpur,
+				<lb />
+				District-Bastar (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				3.
+				<lb />
+			</extra>
+			<respondent>
+				Police Station Kotwali
+			</respondent>
+			<extra>
+				, Jagdalpur through its Station House
+				<lb />
+				Officer, Jagdalpur, District-Bastar (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				4.
+				<lb />
+			</extra>
+			<respondent>
+				Bank of Baroda through its Branch Manager
+			</respondent>
+			<extra>
+				, Branch Jagdalpur,
+				<lb />
+				District-Bastar (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				5.
+				<lb />
+			</extra>
+			<respondent>
+				Union of India
+			</respondent>
+			<extra>
+				, through the Secretary, Ministry of Railways, Rail
+				<lb />
+				Bhawan, New Delhi-1., District : New Delhi, Delhi.
+				<lb />
+			</extra>
+			<extra>
+				6.
+				<lb />
+			</extra>
+			<respondent>
+				Bastar Railway Private Limited (Joint venture of NMDC, IRCON,
+				<lb />
+				SAIL and CMDC)
+			</respondent>
+			<extra>
+				through its Chief Executive Officer, having its
+				<lb />
+				office at Global Exploration Centre, NMDC, Green Valley City,
+				<lb />
+				Housing Board Colony, Boriyakala, Raipur, District-Raipur
+				<lb />
+				(C.G.)
+				<lb />
+			</extra>
+			<extra>
+				----Respondents
+				<lb />
+			</extra>
+			<petitioner>
+				Koushal Kumar Thakur
+			</petitioner>
+			<extra>
+				, S/o Sevak Ram Thakur, Aged About 28
+				<lb />
+				Years, R/o Village and Post Puri, Tahsil and Police Station
+				<lb />
+				Charama, District-Kanker (C.G.), at present R/o D.N.K. Colony,
+				<lb />
+				Kanera Road, Kondagaon, Police Station-Kondagaon, District
+				
+				
+				-
+				<lb />
+				Kondagaon (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				----Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Versus
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<respondent>
+				State of Chhattisgarh
+			</respondent>
+			<extra>
+				, Through: The Secretary, Department of
+				<lb />
+				Revenue and Disaster Management, Mantralaya, Mahanadi
+				<lb />
+				Bhawan, Atal Nagar, Nawa Raipur, District-Raipur (C.G.)
+				<lb />
+				2.
+				<lb />
+				Secretary, Union of India, Department of Railway, Raisina Road,
+				<lb />
+				Rail Bhawan, 1, New Delhi.
+				<lb />
+				3.
+				<lb />
+				The Collector, Jagdalpur, District-Jagdalpur (C.G.)
+				<lb />
+				4.
+				<lb />
+				Station House Officer, Police Station Jagdalpur, District-
+				<lb />
+				Jagdalpur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				----Respondents
+				<lb />
+			</extra>
+			<petitioner>
+				Smt. Neelima Belsaria
+			</petitioner>
+			<extra>
+				, W/o Shri T. V. Ravi, Aged About 34
+				<lb />
+				Years, R/o Village-Pallai, Tahsil-Jagdalpur, District-Bastar
+				<lb />
+				(C.G.)
+				<lb />
+			</extra>
+			<extra>
+				----Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Versus
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<respondent>
+				State of Chhattisgarh,
+			</respondent>
+			<extra>
+				Through: The Secretary to the
+				<lb />
+				Government of Chhattisgarh, Department of Revenue and
+				<lb />
+				Disaster Management: Mahanadi Bhawan, Atal Nagar, Raipur,
+				<lb />
+				District-Raipur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<respondent>
+				Union of India
+			</respondent>
+			<extra>
+				, Through: The Secretary to the Department of
+				<lb />
+				Railway, Raisina Road, Rail Bhawan, 1, New -Delhi.
+				<lb />
+			</extra>
+			<extra>
+				3.
+				<lb />
+			</extra>
+			<respondent>
+				The Collector Jagdalpur
+				, District-Jagdalpur (C.G.)
+				<lb />
+			</respondent>
+			<extra>
+				4.
+				<lb />
+			</extra>
+			<respondent>
+				Station House Officer, Police Station -Jagdalpur, District-
+				<lb />
+				Jagdalpur (C.G.)
+				<lb />
+			</respondent>
+			<extra>
+				----Respondents
+				<lb />
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<petitioner>
+				Suresh B. Matali,
+			</petitioner>
+			<extra>
+				S/o Shri B.S. Matali, Aged About 52 Years,
+				<lb />
+				Addl. General Manager (Civil), R/o House No. 10, Ashoka
+				<lb />
+				Lifestyle, Dharampura-3, Police Station-City Kotwali, Jagdalpur,
+				<lb />
+				District-Bastar (C.G.), Permanent R/o H.No.-MIG-39,
+				<lb />
+				Jalanagar, Vijayapura, 586101, Karnatka.
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<petitioner>
+				A.V.R. Murty
+			</petitioner>
+			<extra>
+				, S/o Shri A. Krishna Murty, Aged About 54 Years,
+				<lb />
+				Joint General Manager (Civil), R/o House No. 69, Ashoka
+				<lb />
+				Lifestyle, Dharampura-3, Police Station-City Kotwali, Jagdalpur,
+				<lb />
+				District-Bastar (C.G.), Permanent R/o H/No.-12-2-16/2, Chinna
+				<lb />
+				Veedhi, Samalkot, 533440, East Godawari District, Andhara
+				<lb />
+				Pradesh.
+				<lb />
+			</extra>
+			<extra>
+				----Petitioners
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<respondent>
+				State of Chhattisgarh
+			</respondent>
+			<extra>
+				, Through The Secretary to the Government
+				<lb />
+				of Chhattisgarh, Department of Revenue and Disaster
+				<lb />
+				Management Mahanadi Bhawan, Atal Nagar, Raipur, District-
+				<lb />
+				Raipur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<respondent>
+				Union of India
+			</respondent>
+			<extra>
+				, Through The Secretary to the Department of
+				<lb />
+				Railway, Raisina Road, Rail Bahawan, 1, New Delhi, District-
+				<lb />
+				New Delhi, Delhi.
+				<lb />
+			</extra>
+			<extra>
+				3.
+				<lb />
+			</extra>
+			<respondent>
+				The Collector Jagdalpur, District-Bastar (C.G.)
+				<lb />
+			</respondent>
+			<extra>
+				4.
+				<lb />
+			</extra>
+			<respondent>
+				Station House Officer, Police Station-Jagdalpur, District-Bastar
+				<lb />
+				(C.G.)
+				<lb />
+			</respondent>
+			<extra>
+				----Respondents
+				<lb />
+			</extra>
+			<petitioner>
+				Bastar Railway Private Limited
+			</petitioner>
+			<extra>
+				, A Joint Venture Company of
+				<lb />
+				NMDC Ltd., SAIL, CMDC Ltd. and IRCON Ltd. through its
+				<lb />
+				Executive Director/CEO, Housing Board Colony, Boriyakala,
+				<lb />
+				Sejbahar, Raipur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				----Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Versus
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<respondent>
+				State of Chhattisgarh
+			</respondent>
+			<extra>
+				, through its Secretary, Department of
+				<lb />
+				Revenue, Atal Nagar, Nava Raipur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<respondent>
+				Union of India
+			</respondent>
+			<extra>
+				, through its Secretary, Ministry of Railways, New
+				<lb />
+				Delhi.
+				<lb />
+			</extra>
+			<extra>
+				3.
+				<lb />
+			</extra>
+			<respondent>
+				Commissioner Div. Bastar cum Arbitrator Under Railways Act
+				<lb />
+				District-Bastar (C.G.)
+				<lb />
+			</respondent>
+			<extra>
+				4.
+				<lb />
+			</extra>
+			<respondent>
+				Collector Bastar, District-Bastar (C.G.)
+				<lb />
+			</respondent>
+			<extra>
+				5.
+				<lb />
+			</extra>
+			<respondent>
+				Additional Collector Bastar cum Land Acquisition Officer/
+				<lb />
+				Competent Authority, District-Bastar, Jagdalpur (C.G.)
+				<lb />
+			</respondent>
+			<extra>
+				6.
+				<lb />
+			</extra>
+			<respondent>
+				Bali Nagwanshi
+			</respondent>
+			<extra>
+				, S/o Buter Nagwanshi, aged about not known to
+				<lb />
+				the petitioner, R/o Sun City, Jagdalpur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				7.
+				<lb />
+			</extra>
+			<respondent>
+				Nilima
+			</respondent>
+			<extra>
+				, W/o T.V. Ravi, aged about not known to the petitioner,
+				<lb />
+				R/o Palli Village, Jagdalpur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				8.
+				<lb />
+			</extra>
+			<respondent>
+				Smt. Pakli
+			</respondent>
+			<extra>
+				, W/o Late Maniram, aged about not known to the
+				<lb />
+				petitioner, R/o Palli Village, Jagdalpur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				9.
+				<lb />
+			</extra>
+			<respondent>
+				Nitya Gopal
+			</respondent>
+			<extra>
+				, S/o Shitij Chand, H/o Reena Village Kangoli,
+				<lb />
+				District-Bastar (C.G.)
+				<lb />
+				10. Seem Rathi, W/o Ajay Rathi, Village-Palli, District-Bastar
+				<lb />
+				Jagdalpur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				----Respondents And
+				<lb />
+			</extra>
+			<petitioner>
+				Hira Lal Nayak
+			</petitioner>
+			<extra>
+				, S/o Late Kunwar Singh Nayak, Aged About 61
+				<lb />
+				Years, R/o Vijay Nagar Chowk, Near Avanti Vihar Sector-2,
+				<lb />
+				Tehsil &amp; District-Raipur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				----Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Versus
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<respondent>
+				State of Chhattisgarh
+			</respondent>
+			<extra>
+				, Through Secretary, Department of
+				<lb />
+				Revenue and Disaster Management Mahanadi Bhawan,
+				<lb />
+				Mantralaya, Atal Nagar, Raipur (C.G.)
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<respondent>
+				Collector, District-Jagdalpur (C.G.)
+				<lb />
+			</respondent>
+			<extra>
+				3.
+				<lb />
+			</extra>
+			<respondent>
+				Union of India
+			</respondent>
+			<extra>
+				, Through Secretary Ministry of Railway, Rail
+				<lb />
+				Bhawan, Rafi Marg, New Delhi -110001.
+				<lb />
+			</extra>
+			<extra>
+				4.
+				<lb />
+			</extra>
+			<respondent>
+				Station House Officer, Police Station-Jagdalpur, District-Bastar
+				<lb />
+				(C.G.)
+				<lb />
+			</respondent>
+			<extra>
+				----Respondents
+				<lb />
+			</extra>
+			<extra>
+				For Petitioners
+				<lb />
+				:
+			</extra>
+			<petitioner_lawyers>
+				Mr. Krishnan Venugopal
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate with
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr Amit Verma, Ms. Swati Sood, Mr.
+				<lb />
+				Kaushik Mishra, Mr. Anurag Dayal
+				<lb />
+				Shrivastgava, Mr. Arvind Shrivastava, Mr.
+				<lb />
+				Rohan &amp; Mr. Siddharth Shukla, Advocates.
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				Sr. Advocate with
+				<lb />
+			</extra>
+			<extra>
+				For Respondent/State :
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Devendra Pratap Singh, Dy. A.G. with
+				<lb />
+				Mr. Sudeep Verma, Dy. G.A.
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				For
+				<lb />
+				respective respondents
+				<lb />
+				:
+			</extra>
+			<respondent_lawyers>
+				Mr. Vaibhav Dhar Diwan
+			</respondent_lawyers>
+			<extra>
+				, Advocate on behalf
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				of Mr. P.R. Patankar, Mr. Manoj Mishra, Mr.
+				<lb />
+				Ankit Singhal, Mr. Yash Agrawal, and Mr.
+				<lb />
+				Ankur Agrawal
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Advocates.
+			</extra>
+			<extra>
+				Advocate on behalf
+				<lb />
+				of
+			</extra>
+			<respondent_lawyers>
+				Mr. Ramakant Mishra, A.S.G.
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Advocates.
+				<lb />
+			</extra>
+			<extra>
+				For Union of India
+				<lb />
+				:
+				<lb />
+			</extra>
+			<extra>
+				For Bastar Railway
+				<lb />
+				Pvt. Ltd.
+				<lb />
+				:
+			</extra>
+			<respondent_lawyers>
+				Mr. Vikash Singh
+			</respondent_lawyers>
+			<extra>
+				, Sr. Advocate with
+			</extra>
+			<respondent_lawyers>
+				Mr.
+				<lb />
+				Vaibhav Shukla, Ms. Deepika Kalia, Ms.
+				<lb />
+				Astha Shukla &amp; Mr. Chandradeep Prasad,
+				<lb />
+				Advocates.
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Sr. Advocate with
+				<lb />
+			</extra>
+			<extra>
+				Advocates.
+				<lb />
+			</extra>
+			<judges>
+				Hon'ble Shri Justice Narendra Kumar Vyas
+				<lb />
+			</judges>
+			<extra>
+				CAV
+			</extra>
+			<document_type>
+				Order
+			</document_type>
+		</front>
+	</text>
+</tei>

@@ -7,7 +7,7 @@
 		<front>
 			<lb />
 			<extra>
-					THE 
+				THE
 			</extra>
 			<court>
 				HIGH COURT OF SIKKIM : GANGTOK
@@ -26,12 +26,22 @@
 				<lb />
 			</extra>
 			<judges>
-				
-				THE HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
+				THE HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI
+			</judges>
+			<extra>
+				, CHIEF JUSTICE
 				<lb />
-				THE HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI, JUDGE
+			</extra>
+			<extra>
+				THE
+			</extra>
+			<judges>
+				HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI
 				<lb />
 			</judges>
+			<extra>
+				, JUDGE
+			</extra>
 			<extra>
 				--------------------------------------------------------------------------------------------------------------------------------
 				<lb />
@@ -94,16 +104,19 @@
 				--------------------------------------------------------------------------------------
 				<lb />
 			</extra>
-			<judgement_date>
+			<extra>
 				Date of Hearing
 				<lb />
 				: 03-09-2020
 				<lb />
-			</judgement_date>
-			<judgement_date>
+			</extra>
+			<extra>
 				Date of Judgment
 				<lb />
-				: 14-09-2020
+				:
+			</extra>
+			<judgement_date>
+				14-09-2020
 				<lb />
 			</judgement_date>
 			<document_type>
