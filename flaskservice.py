@@ -7,7 +7,8 @@ import shutil
 import zipfile
 import requests
 from math import floor, ceil
-from Act_detection import load_model
+# from Act_detection import load_model
+from spacy_prediction import predict
 
 app = Flask(__name__)
 
@@ -140,11 +141,13 @@ def trainmodel():
 @app.route("/spacy",methods=["POST"])
 def spacy():
     html_text = request.form["key"]
-    detected_text, acts=load_model(html_text)
+    output = predict(html_text)
     
-    return {"html data": detected_text, "Acts": acts}
+    return output
+    # detected_text, acts=load_model(html_text)
+    
+    # return {"html data": detected_text, "Acts": acts}
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0",debug=True)
     
-json = {"xml":" xml content","raw":" content of raw "}
