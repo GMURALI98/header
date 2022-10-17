@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="174335"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+
+	<extra>REPORTABLE<lb/> IN THE</extra>
+
+	<court>SUPREME COURT OF INDIA<lb/></court>
+
+	<extra>CIVIL APPELLATE JURISDICTION<lb/></extra>
+
+	<case_numbers>CIVIL APPEAL NO. 4795 OF 2021<lb/></case_numbers>
+
+	<petitioner>M/S PAHWA PLASTICS PVT. LTD. AND ANR.<lb/></petitioner>
+	<extra>…... Appellants Versus<lb/></extra>
+
+	<respondent>DASTAK NGO AND ORS.<lb/></respondent>
+	<extra>….. Respondents<lb/></extra>
+
+	<document_type>J U D G M E N T<lb/> INDIRA BANERJEE, J.</document_type>
+
+		</front>
+	</text>
+</tei>

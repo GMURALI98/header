@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent_lawyers>
+							<persName>
+ Mr.
+								 <forename>Arshad</forename>
+								 <surname>Hidaytullah</surname>, Mr.
+							</persName>
+							<persName>
+								 <forename>Amit</forename>
+								 <surname>Sibal</surname>, Mr.
+							</persName>
+							<persName>
+								 <forename>Abhinav</forename>
+								 <surname>Agnihotri</surname> Mr.
+							</persName>
+							<persName>
+								 <forename>Siddharth</forename>
+								 <surname>Bambha</surname> Mr.
+							</persName>
+							<persName>
+								 <forename>Atul</forename>
+								 <surname>Sharma</surname> Mr. Abhinav Agnihotri and Ms.
+							</persName>
+							<persName>
+								 <forename>Satakshi</forename>
+								 <surname>Som</surname> Mr.
+							</persName>
+							<persName>
+								 <forename>Naushad</forename>
+								 <surname>Ahmed</surname> Khan Ms.
+							</persName>
+							<persName>
+								 <forename>Aastha</forename>
+								 <surname>Nigam</surname> Mr.
+							</persName>
+							<persName>
+								 <forename>Sanjoy</forename>
+								 <surname>Ghose</surname>, Addl. Mr.
+							</persName>
+							<persName>
+								 <forename>Rishabh</forename>
+								 <surname>Jetely</surname> Mr. Mr. P.K. Goel Mr.
+							</persName>
+							<persName>
+								 <forename>Anuj</forename>
+								 <surname>Aggarwal</surname> Mr.
+							</persName>
+							<persName>
+								 <forename>Deboshree</forename>
+								 <surname>Mukherjee</surname> Mr. R.A. Iyer Mr.
+							</persName>
+							<persName>
+								 <forename>Peeyoosh</forename>
+								 <surname>Kalra</surname> Mr.
+							</persName>
+							<persName>
+								 <forename>Shiva</forename>
+								 <surname>Sharma</surname> Ms.
+							</persName>
+							<persName>
+								 <forename>Meera</forename>
+								 <surname>Bhatia</surname>
+							</persName>
+						</respondent_lawyers>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

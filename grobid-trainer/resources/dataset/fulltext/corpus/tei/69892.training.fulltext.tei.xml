@@ -5,10 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<head>
-			G.S. SISTANI, J. (ORAL)
-			<lb />
-		</head>
-		<head>
 			CM APPL 42806/2018 (exemption)
 			<lb />
 		</head>
@@ -245,7 +241,10 @@
 		<p>
 			OCTOBER 12, 2018
 			<lb />
+		</p>
+		<p>
 			pst
+			<lb />
 		</p>
 	</text>
 </tei>

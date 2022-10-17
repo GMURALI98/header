@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<petitioner>
+							<persName>
+								 <forename>POONAMALLEE</forename>
+								 <surname>CIRCLE</surname>, RIVER &amp; LORRY OWNERS ASSN TIRUVALLUR CENTRAL DISTRICT REG. NO.609/1997 BANGALORE HIGH
+							</persName>
+							<persName>
+								 <surname>ROAD</surname>,
+								 <forename>NASARATH</forename>
+							</persName>
+							<persName>
+								 <surname>PETTAI</surname>, CHENNAI-123, REP. BY ITS PRESIDENT S.
+							</persName>
+							<persName>
+								 <surname>MANIKUMAR</surname>, J.
+							</persName>
+						</petitioner>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

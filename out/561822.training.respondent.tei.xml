@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent>
+							<persName>
+ Mr.A.D.Padmasingh Isaac M/s.
+								<forename>Aachi</forename> Masala Foods (P) Ltd.
+							</persName>
+							<persName>
+								 <forename>Mallika</forename>
+								 <surname>Thiagarajan</surname>, AA-19, 3 rd Street,
+							</persName>
+							<persName>
+								 <forename>Anna</forename>
+								 <surname>Nagar</surname>, Chennai-600 040.
+							</persName>
+						</respondent>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

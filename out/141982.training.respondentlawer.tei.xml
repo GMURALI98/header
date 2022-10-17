@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent_lawyers>
+							<persName>
+ Mr. K. C. Dua, Mr.
+								 <forename>Shibashish</forename>
+								 <surname>Misra</surname>, Mr. Rustom B. Hathikhanawala, Mr. E. C.
+							</persName>
+							<persName>
+								 <forename>Vidya</forename>
+								 <surname>Sagar</surname>, Mr. P. Parmeswaran, Mr.
+							</persName>
+							<persName>
+								 <forename>Ardhendumauli</forename>
+								 <surname>Kumar</surname>
+							</persName>
+							<persName>
+								 <forename>Prasad</forename>
+								 <surname>Mr</surname>.
+							</persName>
+							<persName>
+								 <forename>Aviral</forename>
+								 <surname>Shukla</surname>, Mr. Amit A. Pai, Ms.
+							</persName>
+							<persName>
+								 <forename>Pankhuri</forename>
+								 <surname>Bhardwaj</surname>, Mr.
+							</persName>
+							<persName>
+								 <forename>Nitesh</forename>
+								 <surname>Ranjan</surname>, Mr.
+							</persName>
+							<persName>
+								 <forename>Pramod</forename>
+								 <surname>Dayal</surname>, Mr. K.C. Dua, Mr.
+							</persName>
+							<persName>
+								 <forename>Nikhil</forename>
+								 <surname>Nayyar</surname>, Mr.
+							</persName>
+							<persName>
+								 <forename>Satya</forename>
+								 <middlename>Mitra</middlename>
+								 <surname>Garg</surname>, Mr. Rustom B. Hathikhanawala, Mr. B.
+							</persName>
+							<persName>
+								 <forename>Krishna</forename>
+								 <surname>Prasad</surname>, Mr.
+							</persName>
+							<persName>
+								 <forename>Ajay</forename>
+								 <surname>Pal</surname>, Mr.
+							</persName>
+							<persName>
+								 <forename>Parmanand</forename>
+								 <surname>Gaur</surname>,
+							</persName>
+						</respondent_lawyers>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

@@ -9,6 +9,8 @@ import requests
 from math import floor, ceil
 # from Act_detection import load_model
 from spacy_prediction import predict
+import easyocr
+import numpy as np
 
 app = Flask(__name__)
 
@@ -147,6 +149,13 @@ def spacy():
     # detected_text, acts=load_model(html_text)
     
     # return {"html data": detected_text, "Acts": acts}
+
+# @app.route("/ocr", methods=["POST"])
+# def get_text_from_logo():
+#     imageurl = request.form["url"]
+#     reader = easyocr.Reader(['en', 'ch_sim'], detect_network = 'dbnet18')
+#     detected_text = reader.readtext(imageurl, detail = 0)
+#     return {"detected text from image": detected_text}
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0",debug=True)

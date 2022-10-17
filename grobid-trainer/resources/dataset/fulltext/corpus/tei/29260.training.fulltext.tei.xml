@@ -1,51 +1,216 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <tei xml:space="preserve">
 	<teiHeader>
-		<fileDesc xml:id="0"/>
+		<fileDesc xml:id="0" />
 	</teiHeader>
 	<text xml:lang="en">
-			<head> SIDDHARTH MRIDUL, J (ORAL) <lb/></head>
-
-			<p>1.<lb/> Petitioner is aggrieved by the order No.92/2017 dated 13.9.2017<lb/> passed by the Contractor&apos;s Registration Board, whereby, the petitioner, who<lb/> is a contractor of the respondent, has been debarred from tendering further<lb/> for tenders issued by the DDA for a period of three years from the date of<lb/> issuance of the impugned order. The said order has been passed pursuant to a<lb/> show cause notice dated 19.7.2017 issued to the petitioner, which reads as<lb/> under :<lb/></p>
-
-            <list>
-
-			<item>&quot;It has been intimated to this office by CE(Dwarka)/DDA<lb/> regarding subject cited above. It is informed that the Agency<lb/> habitually litigious in nature and have indulged in many<lb/> litigations/arbitration with the Department which is violation of<lb/> Clause 23.1 (C) of Enlistment Rule as well as Agency is<lb/> habitually in making baseless allegations against officials of<lb/> DDA and finding slackness in commencement of work after<lb/> award.<lb/></item>
-
-			<item>Therefore, I served up to you to Show Cause why<lb/> disciplinary action as laid down Under Rule 23 of The<lb/> Enlistment Rule of DDA should not taken against you.<lb/> </item>
-            
-            <item> Your reply should reach this office within 15 days from<lb/> the date of issue of this letter, If No reply is received from you or<lb/> the reply is not found satisfactorily, action as deem fit shall be<lb/> taken against you without further notice.&quot;<lb/></item>
-
-            </list>
-
-			<p>2.<lb/> While the show cause notice by itself does not elaborate/give the basis<lb/> to form an opinion for the petitioner being habitual in making baseless<lb/> allegations and his slackness in commencement of work after award, the<lb/> impugned order by itself, is a non-speaking order. As per the averments<lb/> made in the petition, which are supported by an affidavit, the petitioner had<lb/> responded to the show cause notice and given a reply running into almost ten<lb/> pages, but, the impugned order cryptically disposed it off vide the impugned<lb/> order.<lb/></p>
-
-			<p>3.<lb/> In (2014) 9 SCC 105 Gorkha Security Services vs. Government<lb/> (NCT of Delhi) and Others, it has come to be held, as under :<lb/></p>
-            
-            <list>
-            
-            <item>  &quot;21) The Central issue, however, pertains to the requirement<lb/> of stating the action which is proposed to be taken. The<lb/> fundamental purpose behind the serving of Show Cause Notice<lb/> is to make the noticee understand the precise case set up against<lb/> him which he has to meet. This would require the statement of<lb/> imputations detailing out the alleged breaches and defaults he<lb/> has committed, so that he gets an opportunity to rebut the same.<lb/> Another requirement, according to us, is the nature of action<lb/> which is proposed to be taken for such a breach. That should<lb/> also be stated so that the noticee is able to point out that<lb/> proposed action is not warranted in the given case, even if the<lb/> defaults/ breaches complained of are not satisfactorily<lb/> explained. When it comes to black listing, this requirement<lb/> becomes all the more imperative, having regard to the fact that<lb/> it is harshest possible action.<lb/> </item>
-            
-            <item> 22) The High Court has simply stated that the purpose of<lb/> show cause notice is primarily to enable the noticee to meet the<lb/> grounds on which the action is proposed against him. No doubt,<lb/> the High Court is justified to this extent. However, it is equally<lb/> important to mention as to what would be the consequence if the<lb/> noticee does not satisfactorily meet the grounds on which an<lb/> action is proposed. To put it otherwise, we are of the opinion<lb/> that in order to fulfil the requirements of principles of natural<lb/> justice, a show cause notice should meet the following two<lb/> requirements viz:<lb/></item>
-
-			<item>i)<lb/> The material/ grounds to be stated on which according to<lb/> the Department necessitates an action;<lb/></item>
-
-			<item>ii)<lb/> Particular penalty/action which is proposed to be taken.<lb/> It is this second requirement which the High Court has failed to<lb/> omit.<lb/></item>
-            
-            <item>  we may hasten to add that even if it is not specifically<lb/> mentioned in the show cause notice but it can be clearly and<lb/> safely be discerned from the reading thereof, that would be<lb/> sufficient to meet this requirement.&quot;<lb/></item>
-
-            </list>
-
-			<p>4.<lb/> In view of the ratio of the judgment (supra), show cause notice dated<lb/> 19.7.2017 and the impugned order No.92/2017 dated 13.9.2017 are set aside.<lb/> Liberty is however, reserved to the respondent-DDA to issue fresh show<lb/> cause intimating the reasons to form an opinion for the issuance of the show<lb/> cause notice for debarment/blacklisting and then, pass a speaking order,<lb/> having given an opportunity of reply and personal hearing, if, called for.<lb/></p>
-
-			<p>5.<lb/> The petition is disposed off accordingly.<lb/></p>
-            
-            <p> Dasti.<lb/></p>
-
-			<p>SIDDHARTH MRIDUL<lb/> (JUDGE)<lb/></p>
-            
-            <p>  SEPTEMBER 27, 2018<lb/> RS</p>
-
-
+		<p>
+			1.
+			<lb />
+			Petitioner is aggrieved by the order No.92/2017 dated 13.9.2017
+			<lb />
+			passed by the Contractor&apos;s Registration Board, whereby, the petitioner, who
+			<lb />
+			is a contractor of the respondent, has been debarred from tendering further
+			<lb />
+			for tenders issued by the DDA for a period of three years from the date of
+			<lb />
+			issuance of the impugned order. The said order has been passed pursuant to a
+			<lb />
+			show cause notice dated 19.7.2017 issued to the petitioner, which reads as
+			<lb />
+			under :
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;It has been intimated to this office by CE(Dwarka)/DDA
+				<lb />
+				regarding subject cited above. It is informed that the Agency
+				<lb />
+				habitually litigious in nature and have indulged in many
+				<lb />
+				litigations/arbitration with the Department which is violation of
+				<lb />
+				Clause 23.1 (C) of Enlistment Rule as well as Agency is
+				<lb />
+				habitually in making baseless allegations against officials of
+				<lb />
+				DDA and finding slackness in commencement of work after
+				<lb />
+				award.
+				<lb />
+			</item>
+			<item>
+				Therefore, I served up to you to Show Cause why
+				<lb />
+				disciplinary action as laid down Under Rule 23 of The
+				<lb />
+				Enlistment Rule of DDA should not taken against you.
+				<lb />
+			</item>
+			<item>
+				Your reply should reach this office within 15 days from
+				<lb />
+				the date of issue of this letter, If No reply is received from you or
+				<lb />
+				the reply is not found satisfactorily, action as deem fit shall be
+				<lb />
+				taken against you without further notice.&quot;
+				<lb />
+			</item>
+		</list>
+		<p>
+			2.
+			<lb />
+			While the show cause notice by itself does not elaborate/give the basis
+			<lb />
+			to form an opinion for the petitioner being habitual in making baseless
+			<lb />
+			allegations and his slackness in commencement of work after award, the
+			<lb />
+			impugned order by itself, is a non-speaking order. As per the averments
+			<lb />
+			made in the petition, which are supported by an affidavit, the petitioner had
+			<lb />
+			responded to the show cause notice and given a reply running into almost ten
+			<lb />
+			pages, but, the impugned order cryptically disposed it off vide the impugned
+			<lb />
+			order.
+			<lb />
+		</p>
+		<p>
+			3.
+			<lb />
+			In (2014) 9 SCC 105 Gorkha Security Services vs. Government
+			<lb />
+			(NCT of Delhi) and Others, it has come to be held, as under :
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;21) The Central issue, however, pertains to the requirement
+				<lb />
+				of stating the action which is proposed to be taken. The
+				<lb />
+				fundamental purpose behind the serving of Show Cause Notice
+				<lb />
+				is to make the noticee understand the precise case set up against
+				<lb />
+				him which he has to meet. This would require the statement of
+				<lb />
+				imputations detailing out the alleged breaches and defaults he
+				<lb />
+				has committed, so that he gets an opportunity to rebut the same.
+				<lb />
+				Another requirement, according to us, is the nature of action
+				<lb />
+				which is proposed to be taken for such a breach. That should
+				<lb />
+				also be stated so that the noticee is able to point out that
+				<lb />
+				proposed action is not warranted in the given case, even if the
+				<lb />
+				defaults/ breaches complained of are not satisfactorily
+				<lb />
+				explained. When it comes to black listing, this requirement
+				<lb />
+				becomes all the more imperative, having regard to the fact that
+				<lb />
+				it is harshest possible action.
+				<lb />
+			</item>
+			<item>
+				22) The High Court has simply stated that the purpose of
+				<lb />
+				show cause notice is primarily to enable the noticee to meet the
+				<lb />
+				grounds on which the action is proposed against him. No doubt,
+				<lb />
+				the High Court is justified to this extent. However, it is equally
+				<lb />
+				important to mention as to what would be the consequence if the
+				<lb />
+				noticee does not satisfactorily meet the grounds on which an
+				<lb />
+				action is proposed. To put it otherwise, we are of the opinion
+				<lb />
+				that in order to fulfil the requirements of principles of natural
+				<lb />
+				justice, a show cause notice should meet the following two
+				<lb />
+				requirements viz:
+				<lb />
+			</item>
+			<item>
+				i)
+				<lb />
+				The material/ grounds to be stated on which according to
+				<lb />
+				the Department necessitates an action;
+				<lb />
+			</item>
+			<item>
+				ii)
+				<lb />
+				Particular penalty/action which is proposed to be taken.
+				<lb />
+				It is this second requirement which the High Court has failed to
+				<lb />
+				omit.
+				<lb />
+			</item>
+			<item>
+				we may hasten to add that even if it is not specifically
+				<lb />
+				mentioned in the show cause notice but it can be clearly and
+				<lb />
+				safely be discerned from the reading thereof, that would be
+				<lb />
+				sufficient to meet this requirement.&quot;
+				<lb />
+			</item>
+		</list>
+		<p>
+			4.
+			<lb />
+			In view of the ratio of the judgment (supra), show cause notice dated
+			<lb />
+			19.7.2017 and the impugned order No.92/2017 dated 13.9.2017 are set aside.
+			<lb />
+			Liberty is however, reserved to the respondent-DDA to issue fresh show
+			<lb />
+			cause intimating the reasons to form an opinion for the issuance of the show
+			<lb />
+			cause notice for debarment/blacklisting and then, pass a speaking order,
+			<lb />
+			having given an opportunity of reply and personal hearing, if, called for.
+			<lb />
+		</p>
+		<p>
+			5.
+			<lb />
+			The petition is disposed off accordingly.
+			<lb />
+		</p>
+		<p>
+			Dasti.
+			<lb />
+		</p>
+		<p>
+			SIDDHARTH MRIDUL
+			<lb />
+			(JUDGE)
+			<lb />
+		</p>
+		<p>
+			SEPTEMBER 27, 2018
+			<lb />
+		</p>
+		<p>
+			RS
+			<lb />
+		</p>
 	</text>
 </tei>

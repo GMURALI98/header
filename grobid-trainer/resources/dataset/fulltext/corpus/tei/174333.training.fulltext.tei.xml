@@ -1,20 +1,46 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <tei xml:space="preserve">
 	<teiHeader>
-		<fileDesc xml:id="0"/>
+		<fileDesc xml:id="0" />
 	</teiHeader>
 	<text xml:lang="en">
-
-			<p>There is delay of 2323 days in preferring the instant Review Petition. We have<lb/> gone through the contents of the application seeking condonation of delay. The<lb/> explanation offered is far from being satisfactory. The application for condonation<lb/> of delay is, therefore, rejected.<lb/> Consequently, the Review Petition stands rejected on the ground of delay.<lb/></p>
-                        <list>
-			<item>…………………………J.<lb/> [Uday Umesh Lalit]<lb/></item>
-
-			<item>…………………………J.<lb/> [L. Nageswara Rao]<lb/></item>
-
-			<item>…………………………J.<lb/> [Vineet Saran]<lb/></item>
-                        </list>
-			<p>New Delhi;<lb/> December 14, 2021.<lb/> Digitally signed by Dr.<lb/> Mukesh Nasa<lb/> Date: 2021.12.17<lb/> 15:51:58 IST<lb/> Reason:<lb/> Signature Not Verified</p>
-
-
+		<p>
+			There is delay of 2323 days in preferring the instant Review Petition. We have
+			<lb />
+			gone through the contents of the application seeking condonation of delay. The
+			<lb />
+			explanation offered is far from being satisfactory. The application for condonation
+			<lb />
+			of delay is, therefore, rejected.
+			<lb />
+			Consequently, the Review Petition stands rejected on the ground of delay.
+			<lb />
+		</p>
+		<p>
+			…………………………J.
+			<lb />
+			[Uday Umesh Lalit]
+			<lb />
+		</p>
+		<p>
+			…………………………J.
+			<lb />
+			[L. Nageswara Rao]
+			<lb />
+		</p>
+		<p>
+			…………………………J.
+			<lb />
+			[Vineet Saran]
+			<lb />
+		</p>
+		<p>
+			New Delhi;
+			<lb />
+		</p>
+		<p>
+			December 14, 2021.
+			<lb />
+		</p>
 	</text>
 </tei>

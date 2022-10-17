@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<petitioner>
+							<persName>
+ M/s
+								 <forename>Sarika</forename>
+								 <surname>Sharma</surname>
+							</persName>
+							<persName>
+								 <forename>Aditya</forename>
+								 <middlename>Nath</middlename>
+								 <surname>Sharma</surname> M/s
+							</persName>
+							<persName>
+								 <forename>Jai</forename>
+								 <surname>Shree</surname>
+							</persName>
+							<persName>
+								 <forename>Tilak</forename>
+								 <surname>Raj</surname> and Company Rakesh Kumar M/s Rajesh and Company M/s Rajesh and Company S.P. Dhall and others
+							</persName>
+							<persName>
+								 <forename>Seema</forename>
+								 <surname>Khanna</surname>
+							</persName>
+							<persName>
+								 <forename>Rajinder</forename>
+								 <surname>Bhawta</surname> &amp; Company
+							</persName>
+							<persName>
+								 <forename>Balvinder</forename>
+								 <surname>Singh</surname> and others
+							</persName>
+							<persName>
+								 <forename>Rajesh</forename>
+								 <surname>Bhalla</surname> and others
+							</persName>
+							<persName>
+								 <forename>Seema</forename>
+								 <surname>Khanna</surname>
+							</persName>
+							<persName>
+								 <forename>Surjeet</forename>
+								 <surname>Singh</surname> and others M/s
+							</persName>
+							<persName>
+								 <forename>Bhavya</forename>
+								 <surname>Enterprises</surname> and others
+							</persName>
+							<persName>
+								 <forename>Lalit</forename>
+								 <surname>Thakur</surname>
+							</persName>
+						</petitioner>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

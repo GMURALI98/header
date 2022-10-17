@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<petitioner>
+							<persName>
+								 <forename>FASHION DESIGN COUNCIL OF INDIA BCCI GMR SPORTS</forename>
+								 <middlename>PVT</middlename>.
+								 <surname>LTD</surname>.
+							</persName>
+							<persName>
+								 <surname>DEN SOCCER PRIVATE LIMITED PRO SPORTIFY PVT</surname>.
+							</persName>
+							<persName>
+								 <surname>LTD</surname>. Mr.
+								 <forename>Gautam</forename>
+							</persName>
+							<persName>
+								 <surname>Narayan</surname>
+							</persName>
+						</petitioner>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

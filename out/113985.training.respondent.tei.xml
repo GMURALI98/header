@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent>
+							<persName>
+								 <forename>STATE OF HIMACHAL PRADESH THROUGH ITS CHIEF SECRETARY, SHIMLA- THE H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY PAWAN KUMAR
+								 <forename>S/O SH</forename>.
+							</persName>
+							<persName>
+								 <forename>RATTAN</forename>
+								 <middlename>LAL</middlename>
+								 <surname>VPO</surname>
+							</persName>
+							<persName>
+								 <forename>SALWANA</forename>,
+								 <middlename>TEHSIL</middlename>
+								 <surname>SUNDER NAGAR</surname>,
+								 <middlename>DISTT</middlename>.
+							</persName>
+							<persName>
+								 <forename>MANDI AMAN GAUTAM S/O SH</forename>.
+							</persName>
+							<persName>
+								 <forename>HANSRAJ</forename>
+								 <surname>GAUTAM</surname>,
+								 <middlename>VILL</middlename>.
+							</persName>
+							<persName>
+								 <surname>LUHUNOO</surname>,
+							</persName>
+							<persName>
+								 <surname>TEHSIL</surname> &amp;
+								 <middlename>NIKHIL</middlename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname>
+								 <forename>S/O SH</forename>.
+							</persName>
+							<persName>
+								 <forename>ROSHAN</forename>
+								 <middlename>LAL</middlename>
+								 <surname>SHARMA</surname>, WARD NO. 04, HOUSE NO. 3.158, TEHSIL &amp;
+								 <middlename>DISTT</middlename>.
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <forename>PRIYANKA</forename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname> D/O SH.
+								 <forename>RAJ</forename>
+							</persName>
+							<persName>
+								 <surname>KUMAR</surname>,
+								 <middlename>VILL</middlename>.
+							</persName>
+							<persName>
+								 <surname>BHAGOT</surname>, P.O.
+							</persName>
+							<persName>
+								 <surname>SANED</surname>,
+							</persName>
+							<persName>
+								 <surname>TEHSIL</surname> &amp;
+							</persName>
+							<persName>
+								 <surname>DISTT</surname>.
+								 <forename>HAMIRPUR RAHUL S/O SH</forename>.
+							</persName>
+							<persName>
+								 <surname>BHAG MAL VILLAGE</surname> &amp;
+								 <middlename>POST</middlename> OFFICE
+							</persName>
+							<persName>
+								 <surname>DARKOTI</surname>.
+							</persName>
+							<persName>
+								 <surname>TESHIL KOTKHAI</surname>,
+								 <middlename>DISTT</middlename>.
+								 <forename>SHIMLA</forename>
+							</persName>
+							<persName>
+								 <surname>HP</surname>.
+								 <forename>NANAK CHAND S/O SH. REWAT RAM, VPO</forename>
+							</persName>
+							<persName>
+								 <surname>SADHOT</surname>,
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>SARKAGHAT</surname>,
+								 <forename>NARESH</forename>
+							</persName>
+							<persName>
+								 <surname>KUMAR</surname>
+								 <forename>S/O SH. LEKH KIRAN</forename>
+							</persName>
+							<persName>
+								 <surname>SAINI KASHYAP</surname> D/O SH. AMAN
+								 <middlename>NATH</middlename>
+							</persName>
+							<persName>
+								 <surname>SAINI</surname>
+								 <forename>SINGH</forename>
+								 <middlename>COTTAGE SANDEEP</middlename>
+							</persName>
+							<persName>
+								 <surname>THAKUR</surname>
+								 <forename>S/O SH. UDHAM NAVEEN</forename>
+							</persName>
+							<persName>
+								 <surname>SINGH</surname>
+								 <forename>S/O SH. GIAN CHAND, VILL &amp; P.O. BARINJHERWAN</forename>
+								 <middlename>PRAKASH</middlename>
+							</persName>
+							<persName>
+								 <surname>CHAND</surname>
+								 <forename>S/O SH</forename>.
+							</persName>
+							<persName>
+								 <surname>PURAN CHAND SET</surname> NO. 51 CHARITON ESTATE SUMMER HILL SHIMLA. MEENAKSHI D/O AMAR
+								 <forename>SINGH</forename>
+								 <middlename>PRADEEP</middlename>
+							</persName>
+							<persName>
+								 <surname>KUMAR</surname>
+								 <forename>SON OF SHRI</forename>
+								 <middlename>BHAG</middlename>
+							</persName>
+							<persName>
+								 <surname>SINGH</surname>, RESIDENT OF VILLAGE BADDU,WARD NO. 1, POST OFFICE &amp; TEHSIL GHUMARWIN VIVEK
+								 <forename>SHARMA SON OF SHRI LAXMI</forename>
+							</persName>
+							<persName>
+								 <surname>NAND</surname>, VILLAGE
+							</persName>
+							<persName>
+								 <surname>PANOL</surname>,
+								 <middlename>POST</middlename> OFFICE
+							</persName>
+							<persName>
+								 <surname>AMARPUR</surname>,
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>GHUMARWIN</surname>
+								 <forename>ANJNA KUMARI WIFE OF SANJEEV</forename>
+								 <middlename>KUMAR</middlename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname>,
+								 <middlename>VILLAGE</middlename>
+							</persName>
+							<persName>
+								 <surname>PANIYALA</surname>,
+								 <middlename>POST</middlename> OFFICE
+							</persName>
+							<persName>
+								 <surname>KOTHI</surname>,
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>GHUMARWIN HIMACHAL PRADESH STAFF SELECTION COMMISSION HAMIRPUR DISTRICT HIMACHAL PRADESH THROUGH ITS</surname> SECRETARY. MS BABITA D/O SH
+								 <forename>RAI</forename>
+							</persName>
+							<persName>
+								 <surname>SINGH</surname>
+								 <forename>MAMTA</forename>
+							</persName>
+							<persName>
+								 <surname>THAKUR</surname> D/O SH
+								 <forename>RAJ SHUBHAM THAKUR S/O SH. LAKSHI SINGH</forename>
+							</persName>
+							<persName>
+								 <surname>THAKUR</surname>
+								 <forename>STATE OF HIMACHAL PRADESH THROUGH GOVERNMENT OF HIMACHAL PRADESH THROUGH ITS SECRETARY PERSONNEL. STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL</forename>
+							</persName>
+							<persName>
+								 <surname>DEPARTMENTO</surname>.
+							</persName>
+							<persName>
+								 <surname>RAKKER</surname>,
+							</persName>
+							<persName>
+								 <surname>TEH</surname>.
+							</persName>
+							<persName>
+								 <surname>BAIJNATH</surname>,
+								 <middlename>DIST</middlename>.
+							</persName>
+							<persName>
+								 <surname>KANGRA</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT &amp; P.O.</forename>
+							</persName>
+							<persName>
+								 <surname>SUNHI</surname>,
+							</persName>
+							<persName>
+								 <surname>TEH</surname>.
+							</persName>
+							<persName>
+								 <surname>BAGOH</surname>,
+								 <middlename>DIST</middlename>.
+							</persName>
+							<persName>
+								 <surname>KANGRA</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>RPADESH</surname>.
+								 <forename>STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH
+								 <forename>HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL</forename>
+								 <middlename>DEPARTMENT</middlename>
+							</persName>
+							<persName>
+								 <surname>SUNDER SINGH</surname> VILLAGE
+							</persName>
+							<persName>
+								 <surname>PANJORI</surname>,
+								 <forename>P.O.</forename>
+							</persName>
+							<persName>
+								 <surname>HALLAN</surname>,
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>SHAILAI</surname>,
+								 <middlename>DISTT</middlename>.
+							</persName>
+							<persName>
+								 <surname>SIRMOUR</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL DEPARTMENT STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS CHIEF SECRETARY TO THE
+								 <forename>GOVERNMENT</forename>
+							</persName>
+							<persName>
+								 <surname>OF HIMACHAL PRADESH</surname>,
+								 <forename>SHIMLA</forename>.
+							</persName>
+							<persName>
+								 <surname>THE</surname>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, H.P. THROUGH ITS SECRETARY.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HP THROUGH SECRETARY HIMACHAL PRADESH STAFF SELECTION COMMISSION</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY.
+								 <forename>HIMACHAL</forename>
+								 <middlename>PRADESH</middlename>
+							</persName>
+							<persName>
+								 <surname>STAFF SELECTION COMMISSION</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <forename>DISTRICT HAMIRPUR STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH SECRETARY (PERSONNEL) TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-
+							</persName>
+							<persName>
+								 <surname>…RESPONDENTSSH</surname>.
+								 <forename>ROHIT</forename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname>
+								 <forename>S/O SH</forename>.
+							</persName>
+							<persName>
+								 <forename>KEWAL</forename>
+								 <surname>KRISHAN</surname>,
+							</persName>
+							<persName>
+								 <forename>STATE OF HIMACHAL</forename>
+								 <surname>PRADESH</surname>, THROUGH ITS SECRETARY (PERSONNEL)TO THE
+							</persName>
+							<persName>
+								 <surname>GOVERNMENT OF HIMACHAL PRADESH</surname>,
+								 <forename>SHIMLA</forename>.
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH STAFF SELECTION COMMISSION</surname>, THROUGH ITS SECRETARY, HAMIRPUR.
+								 <forename>BHAVNESH KUMAR SON OF SH. MANOHAR LAL HIMACHAL PRADESH STAFF SELECTION COMMISSION</forename>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <forename>DISTRICT HAMIRPUR STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ITS SECRETARY (PERSONNEL) TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-
+							</persName>
+							<persName>
+								 <surname>…RESPONDENTS</surname>.
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH SUBORDINATE SELECTION COMMISSION</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <forename>STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH SECRETARY …RESPONDENTS.
+								 <forename>STATE OF HIMACHAL PRADESH THROUGH STATE OF HIMACHAL PRADESH THROUGH HIMACHAL PRADESH STAFF SELECTION STATE OF HIMACHAL PRADESH THROUGH STATE OF HIMACHAL PRADESH THROUGH HIMACHAL PRADESH STAFF SELECTION STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH ADDITIONAL CHIEF SECRETARY (PERSONNEL) TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2.
+							</persName>
+							<persName>
+								 <forename>STATE OF HIMACHAL PRADESH, THROUGH STATE OF HIMACHAL</forename>
+								 <surname>PRADESH</surname>, THROUGH ADDITIONAL CHIEF SECRETARY STATE OF HIMACHAL PRADESH,
+							</persName>
+							<persName>
+								 <forename>THROUGH STATE OF HIMACHAL</forename>
+								 <surname>PRADESH</surname>, THROUGH ADDITIONAL CHIEF SECRETARY STATE
+							</persName>
+							<persName>
+								 <forename>OF HIMACHAL PRADESH THROUGH STATE OF</forename>
+								 <surname>HIMACHAL PRADESH THROUGH HIMACHAL PRADESH STAFF SELECTION COMMISSION THROUGH ITS SECRETARY</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, DISTRICT HAMIRPUR-177001.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH STATE OF HIMACHAL PRADESH THROUGH HIMACHAL PRADESH STAFF SELECTION COMMISSION THROUGH ITS SECRETARY</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, DISTRICT HAMIRPUR-177001.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH STATE OF HIMACHAL PRADESH THROUGH HIMACHAL PRADESH STAFF SELECTION COMMISSION THROUGH ITS SECRETARY</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, DISTRICT HAMIRPUR-177001.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH STATE OF HIMACHAL PRADESH THROUGH HIMACHAL PRADESH STAFF SELECTION COMMISSION THROUGH ITS SECRETARY</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, DISTRICT HAMIRPUR-177001.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH STATE OF HIMACHAL PRADESH THROUGH HIMACHAL PRADESH STAFF SELECTION COMMISSION THROUGH ITS SECRETARY</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, DISTRICT HAMIRPUR-177001.O SH.
+								 <forename>SATYA</forename>
+								 <middlename>PAL</middlename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname>,
+								 <middlename>VILLAGE</middlename>
+							</persName>
+							<persName>
+								 <surname>BHATER</surname>,
+								 <middlename>PO</middlename>
+							</persName>
+							<persName>
+								 <surname>MOHIN</surname>,
+								 <forename>TEHSIL AND DISTRICT HAMIRPUR STATE OF HIMACHAL PRADESH THROUGH STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH HIMACHAL PRADESH STAFF SELECTION COMMISSION THROUGH ITS SECRETARY</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, DISTRICT HAMIRPUR-177001. ADDITIONAL CHIEF SECRETARY PERSONNEL DEPARTMENT,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2.
+							</persName>
+							<persName>
+								 <forename>STATE OF HIMACHAL</forename>
+								 <surname>PRADESH</surname>,
+							</persName>
+							<persName>
+								 <surname>THROUGH CHIEF SECRETARY TO THE GOVERNMENT OF HIMACHAL PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>PERSONAL</forename>
+								 <surname>DEPARTMENT</surname>, THE SOCIAL JUSTICE AND EMPOWERMENT THROUGH ITS PRINCIPAL SECRETARY. THE COMMISSIONER OF STATE TAXES AND EXCISE, BLOCK NO. 30, SDA COMPLEX KASUMPTI, SHIMLA-09,HP. THE DIRECTOR HEALTH SERVICE, HEALTH AND FAMILY WELFARE DIRECTORATE, SDA COMPLEX KASUMPTI SHIMLA-09, HP. THE PRINCIPAL CHIEF CONSERVATOR OF FORESTS (HOFF) HIMACHAL PRADESH
+								 <middlename>FOREST</middlename>
+							</persName>
+							<persName>
+								 <surname>DEPARTMENT</surname>,
+							</persName>
+							<persName>
+								 <surname>TALLAND</surname>,
+								 <forename>SHIMLA</forename>- 171001. THE
+							</persName>
+							<persName>
+								 <forename>DIRECTORATE</forename>
+								 <surname>TREASURIES</surname>, ACCOUNTS AND LOTTERIES, BLOCK NO. STATE OF HIMACHAL PRADESH THROUGH ITS CHIEF SECRETARY, SHIMLA-2. THE
+							</persName>
+							<persName>
+								 <forename>HP</forename>
+								 <surname>STAFF SELECTION COMMISSION</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								<middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>STATE OF HIMACHAL PRADESH THROUGH THE H.P. STAFF SELECTION COMMISSION</forename>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL</forename>
+							</persName>
+							<persName>
+								 <surname>DEPARTMENT</surname>,
+								 <middlename>GOVERNMENT</middlename>
+							</persName>
+							<persName>
+								 <surname>OF HIMACHAL PRADESH</surname>, SHIMLA-02, THROUGH ITS SECRETARY. THE SOCIAL JUSTICE AND EMPOWERMENT TO THROUGH ITS SECRETARY.
+								 <forename>THE COMMISSION OF STATE TAXES AND EXCISE</forename>, THE
+							</persName>
+							<persName>
+								 <forename>DIRECTOR</forename>
+								 <middlename>HEALTH</middlename>
+								 <surname>SERVICES</surname>, HEALTH AND THE PRINCIPAL CHIEF CONSERVATOR OF FORESTS, HIMACHAL PRADESH
+								 <middlename>FOREST</middlename>
+							</persName>
+							<persName>
+								 <surname>DEPARTMENT</surname>,
+							</persName>
+							<persName>
+								 <surname>TOWLAND</surname>, SHIMLA-171001 DIRECTOR TREASURIES. ACCOUNTS AND LOTTERIES THROUGH ITS DIRECTOR.
+								 <forename>SH. PUNEET S/O SH</forename>.
+							</persName>
+							<persName>
+								 <forename>RANJEET</forename>
+								 <surname>SINGH</surname>,
+							</persName>
+							<persName>
+								 <forename>AGRICULTURIST STATE OF HIMACHAL</forename>
+								 <surname>PRADESH</surname>, THROUGH SECRETARY (TECHNICAL EDUCATION) TO THE GOVERNMENT OF HIMACHAL PRADESH. THE SECRETARY (PERSONNEL) TO THE
+							</persName>
+							<persName>
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+								 <surname>PRADESH</surname>,
+							</persName>
+							<persName>
+								 <forename>SHIMLA</forename>-2.
+							</persName>
+							<persName>
+								 <forename>HIMACHAL</forename>
+								 <middlename>PRADESH</middlename>
+								 <surname>STAFF SELECTION COMMISSION HAMIRPUR</surname>, THROUGH ITS
+							</persName>
+							<persName>
+								 <surname>SECRETARY</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+							</persName>
+							<persName>
+								 <surname>SH</surname>.
+							</persName>
+							<persName>
+								 <surname>BINNI</surname>
+								 <forename>S/O SH. AMAR</forename>
+							</persName>
+							<persName>
+								 <surname>CHAND</surname>, AGRICULTURIST BILASPUR HP 174029.
+								 <forename>STATE OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, THROUGH SECRETARY (TECHNICAL EDUCATION) TO THE GOVERNMENT OF HIMACHAL PRADESH. THE SECRETARY (PERSONNEL) TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2.
+							</persName>
+							<persName>
+								 <forename>HIMACHAL</forename>
+								 <middlename>PRADESH</middlename>
+								 <surname>STAFF SELECTION COMMISSION HAMIRPUR</surname>, THROUGH ITS
+							</persName>
+							<persName>
+								 <surname>SECRETARY</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH ITS CHIEF SECRETARY TO THE GOVERNMENT OF HIMACHAL PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY.
+								 <forename>OF VILLAGE</forename>
+							</persName>
+							<persName>
+								 <surname>CHANYANA</surname>,
+							</persName>
+							<persName>
+								 <surname>TEH</surname>.
+							</persName>
+							<persName>
+								 <surname>PACHHAD</surname>, P.O.
+							</persName>
+							<persName>
+								 <surname>BHELAN</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH ITS CHIEF SECRETARY TO THE GOVERNMENT OF HIMACHAL PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH ITS CHIEF SECRETARY TO THE GOVERNMENT OF HIMACHAL PRADESH</surname>,
+								 <forename>SHIMLA</forename>.
+							</persName>
+							<persName>
+								 <surname>THE</surname>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, H. P. THROUGH ITS SECRETARY.
+								 <forename>NETER</forename>
+							</persName>
+							<persName>
+								 <surname>SINGH STATE OF HIMACHAL PRADESH THROUGH ITS CHIEF SECRETARY TO THE GOVERNMENT OF HIMACHAL PRADESH</surname>,
+								 <forename>SHIMLA</forename>.
+							</persName>
+							<persName>
+								 <surname>THE</surname>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY.
+								 <forename>NARENDER</forename>
+								 <middlename>PAL</middlename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname>
+								 <forename>S/O SH. GIAN CHAND</forename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname>,
+								 <forename>R/O BADWAL, P.O.</forename>
+							</persName>
+							<persName>
+								 <surname>BOONI</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, 177048 STATE OF HIMACHAL PRADESH THROUGH ITS SECRETARY (TECHNICAL EDUCATION) TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-171002. THE
+							</persName>
+							<persName>
+								 <forename>HIMACHAL</forename>
+								 <surname>PRADESH STAFF SELECTION COMMISSION</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS CHAIRMAN. THE
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHALPRADESH THROUGH ITS SECRETARY., SHIMLA-02, THROUGH ITS SECRETARY. SH.
+								 <forename>NARINDER</forename>
+							</persName>
+							<persName>
+								 <surname>KUMAR</surname>
+								 <forename>S/O SH</forename>.
+							</persName>
+							<persName>
+								 <forename>SAWROOP</forename>
+								 <surname>CHAND</surname>, STATE OF HIMACHAL PRADESH THROUGH SECRETARY (TECHNICAL EDUCATION) TO THE GOVERNMENT OF HIMACHAL PRADESH. THE SECRETARY (PERSONNEL) TO THE
+							</persName>
+							<persName>
+								 <forename>GOVERNMENT OF HIAMCHAL</forename>
+								 <surname>PRADESH</surname>,
+							</persName>
+							<persName>
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>, THROUGH ITS
+							</persName>
+							<persName>
+								 <surname>SECRETARY</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>STATE OF HIMACHAL PRADESH THROUGH SECRETARY (TECHNICAL EDUCATION)TO THE GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-171002. THE
+							</persName>
+							<persName>
+								 <forename>HIMACHAL</forename>
+								 <surname>PRADESH STAFF SELECTION COMMISSION</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, DISTRICT HAMIRPUR THROUGH ITS CHAIRMAN. TEHSIL
+								 <forename>PAONTA</forename>
+							</persName>
+							<persName>
+								 <surname>SAHIB</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>SIRMAUR</surname>, H.P. STATE OF HIMACHAL PRADESH THROUGH ITS ADDITIONAL CHIEF SECRETARY (PERSONNEL) TO THE
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2.
+							</persName>
+							<persName>
+								 <forename>HIMACHAL</forename>
+								 <middlename>PRADESH</middlename>
+								 <surname>STAFF SELECTION COMMISSION</surname>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, THROUGH ITS SECRETARY.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH ITS CHIEF SECRETARY TO THE GOVERNMENT OF HIMACHAL PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH ITS CHIEF SECRETARY TO THE GOVERNMENT OF HIMACHAL PRADESH</surname>,
+								 <forename>SHIMLA</forename>-2. THE
+							</persName>
+							<persName>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH</surname> THE
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH</surname> THE
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH</surname> THE
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY.
+								 <forename>STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH ITS CHIEF SECRETARY TO THE GOVERNMENT OF HIMACHAL PRADESH</surname>,
+								 <forename>SHIMLA</forename>.
+							</persName>
+							<persName>
+								 <surname>THE</surname>
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTT</middlename>.
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, H.P. THROUGH ITS SECRETARY. STATE OF HIMACHAL PRADESH THROUGH ITS CHIEF SECRETARY, SHIMNLA-2. THE
+								 <forename>H.P. STAFF SELECTION COMMISSION, HAMIRPUR</forename>
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH THROUGH ITS SECRETARY.
+								 <forename>AKSHAY SHARMA SON OF SHRI DAVINDER</forename>
+								 <middlename>KUMAR</middlename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname>, R/O
+								 <forename>RAMA</forename>
+							</persName>
+							<persName>
+								 <surname>BHAWAN NEAR BINDER COLONY JUBDI DHAR DHALLI SHIMLA</surname>.
+								 <forename>ANKUSH SHARMA SON OF SHRI NARENDER</forename>
+							</persName>
+							<persName>
+								 <surname>KUMAR</surname>,
+								 <middlename>RESIDENT</middlename>
+							</persName>
+							<persName>
+								 <surname>OF KHUBJA BHAWAN GOHAN LOWER CEMETERY ROAD SANJAULI SHIMLA</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>SANDEEP KUMAR SON OF SHRI VILLAGE</forename>
+							</persName>
+							<persName>
+								 <surname>BUDDU</surname>,
+								 <middlename>POST</middlename>
+							</persName>
+							<persName>
+								 <surname>OFFICE</surname> &amp;
+							</persName>
+							<persName>
+								 <surname>TEHSIL</surname>
+								 <forename>GHUMARWIN</forename>
+							</persName>
+							<persName>
+								 <surname>BILASPUR</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>RAJ KUMAR SON OF SHRI DESH RAJ R/O TEHSIL</forename> SARKAGHAT BAG (175) MANDI,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>PANKAJ SHARMA SON OF SHRI CHUNI</forename>
+							</persName>
+							<persName>
+								 <surname>LAL</surname>,
+								 <forename>RESIDENT OF VILLAGE</forename>
+							</persName>
+							<persName>
+								 <surname>REWALSAR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>MANDI</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>SUSHIL CHAND KATOCH SON OF SH. PRAKASH SINGH KATOCH RESIDENT OF VILLAGE</forename>
+								 <middlename>BHAGOT</middlename>,
+								 <middlename>POST</middlename>
+							</persName>
+							<persName>
+								 <surname>KUTHERA</surname>,
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>GHUMARWIN</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>BILASPUR</surname>.
+								 <forename>ABHIMANYU SINGH SON OF SHRI JEEVAN</forename>
+								 <middlename>SINGH</middlename>
+							</persName>
+							<persName>
+								 <surname>THAKUR RESIDENT OF VILLAGE KUTWA</surname>,
+								 <middlename>POST</middlename> OFFICE
+								 <forename>KAMAND</forename>
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>ANI</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>KULLU</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>SANJEEV KUMAR SON OF SHRI DEVI RESIDENT OF VILLAGE RAMNAGAR….. STATE OF</forename>
+							</persName>
+							<persName>
+								 <surname>HIMACHAL PRADESH THROUGH CHIEF SECRETARY TO THE GOVERNMENT OF HIMACHAL PRADESH</surname>.
+							</persName>
+							<persName>
+								 <surname>SECRETARY PERSONNEL TO THE GOVERNMENT OF HIMACHAL PRADESH</surname>.
+								 <forename>H.P. STAFF SELECTION COMMISSION</forename>,
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR SHRI PRADEEP KUMAR SON OF SHRI</surname>
+								 <forename>TARA</forename>
+							</persName>
+							<persName>
+								 <surname>CHAND</surname>,
+								 <forename>RESIDENT OF VILLAGE</forename>
+								 <middlename>KOT</middlename>,
+								 <middlename>POST</middlename> OFFICE
+							</persName>
+							<persName>
+								 <surname>BALINDI</surname>,
+							</persName>
+							<persName>
+								 <surname>TEHSILKARSOG</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>MANDI</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>SHRI</forename>
+								 <middlename>BUNESHEWAR</middlename>
+							</persName>
+							<persName>
+								 <surname>SINGH</surname>,
+								 <forename>VPO</forename>
+							</persName>
+							<persName>
+								 <surname>SINDSALI</surname>,
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>CHIRGAON</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>SHIMLA</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+								 <forename>SHRI HARSH KUMAR SON OF SHRI</forename>
+								 <middlename>PRADEEP</middlename>
+							</persName>
+							<persName>
+								 <surname>KUMAR</surname>,
+								 <middlename>RESIDENT</middlename>
+							</persName>
+							<persName>
+								 <surname>OF VILLAGE ALWAH</surname>,
+								 <middlename>POST</middlename> OFFICE
+							</persName>
+							<persName>
+								 <surname>BADORG</surname>,
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>THEOG</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>SHIMLA</surname>,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>.
+							</persName>
+							<persName>
+								 <surname>MR</surname>.
+								 <forename>PARNEET SHARAM SON OF SHRI VASUDEV</forename>
+							</persName>
+							<persName>
+								 <surname>SHARMA RESIDING AT DIVYA COTTAGE</surname>,
+								 <middlename>NEAR</middlename>
+							</persName>
+							<persName>
+								 <surname>JAIN TRADERS</surname>, MR.
+								 <forename>KULDEEP SHARMA SON OF SHRI RAJ KUMAR</forename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname>,
+								 <middlename>RESIDENT</middlename>
+							</persName>
+							<persName>
+								 <surname>OF VILLAGE KOTI</surname>,
+								 <middlename>POST</middlename> OFFICE
+							</persName>
+							<persName>
+								 <surname>MARHANA</surname>,
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>GHUMARWIN</surname>,
+							</persName>
+							<persName>
+								 <surname>BILASPUR</surname>.
+							</persName>
+							<persName>
+								 <surname>MR</surname>.
+								 <forename>RAJEEV KUMAR SON OF SHRI</forename>
+								 <middlename>PREM</middlename>
+							</persName>
+							<persName>
+								 <surname>CHAND RESIDENT OF VILLAGE CHOGAN</surname>,
+								 <middlename>POST</middlename>
+							</persName>
+							<persName>
+								 <surname>BIR</surname>
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>BAIJNATHO</surname>
+								 <forename>SHARMA</forename>
+							</persName>
+							<persName>
+								 <surname>HOUSE</surname>,
+							</persName>
+							<persName>
+								 <surname>KANGADHAR</surname>,
+								 <middlename>BELOW</middlename>
+							</persName>
+							<persName>
+								 <surname>BCS NEW SHIMLA171009</surname>.
+							</persName>
+							<persName>
+								 <surname>MR</surname>.
+								 <forename>ASHOK</forename>
+							</persName>
+							<persName>
+								 <surname>SHARMA STAFF SELECTION COMMISSION</surname>,
+							</persName>
+						</respondent>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

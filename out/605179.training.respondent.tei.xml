@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent>
+							<persName>
+The
+								 <forename>University</forename>
+								 <surname>Grants</surname> Commission Rep.by its Member
+							</persName>
+							<persName>
+								 <surname>Secretary</surname>
+								 <forename>Bahadur</forename>
+							</persName>
+							<persName>
+								 <surname>Shah</surname>
+								 <forename>Zafar</forename>
+							</persName>
+							<persName>
+								 <surname>Marg</surname>
+								 <forename>New</forename> Delhi 110 002The Registrar University of MadrasPachaiyappa&apos;s Trust Board Rep.by its Member Secretary Mr.K.HemanathThe Principal Pachaiyappa&apos;s College Chennai 600 030
+							</persName>
+						</respondent>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

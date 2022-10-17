@@ -1,45 +1,125 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <tei xml:space="preserve">
 	<teiHeader>
-		<fileDesc xml:id="0"/>
+		<fileDesc xml:id="0" />
 	</teiHeader>
 	<text xml:lang="en">
-			<head>PRAYER</head>
-
-			<item>: Petition filed under Article 226 of the Constitution of India, for<lb/> the issuance of a Writ of Mandamus, directing the respondents 1 to 3 to<lb/> remove the respondent 5 from the Adhoc Committee in Sunnathval Jamath<lb/> Pallivasal, Kanni Beevi Dharka and Mamana Radha Dharka, Palasamudram,<lb/> Palani and pass orders.<lb/> For Petitioner<lb/> :<lb/> Mr. Nihar Ali<lb/> for Mr. S.M.A. Jinnah<lb/> For Respondents<lb/> :<lb/> Mr. S.A. Ajmal Khan<lb/> Standing counsel for R1 to R3<lb/> Mr. K. Hemakarthikeyan<lb/> for R4 and R5<lb/></item>
-
-			<item>O R D E R<lb/> This common order will govern the captioned main writ petition and<lb/> captioned WMP thereat. A public Wakf, which goes by the name<lb/></item>
-
-			<item>&apos;Sunnathval Jamath Pallivasal, Kanni Beevi Dharka and Mamana Radha<lb/> Dharka&apos; [hereinafter &apos;said Wakf&apos; for the sake of convenience and clarity] is<lb/> the nucleus of the captioned writ petition and removal of committee of<lb/> administration qua said Wakf is the central theme of the captioned writ<lb/> petition.<lb/></item>
-
-			<p>2. Captioned writ petition was filed in 2017, to be precise on<lb/> 15.02.2017 and the prayer is to remove the fifth respondent from the<lb/> management of said Wakf.<lb/></p>
-
-			<p>2/7<lb/> https://www.mhc.tn.gov.in/judis<lb/></p>
-
-			<p>3. The case of the writ petitioner is that he is a member of the Jamath<lb/> with voting rights qua said Wakf but it is not necessary to delve into these<lb/> aspects of the matter and it is not necessary to dilate further on these aspects<lb/> of the case on hand as the trajectory the captioned writ petition has taken<lb/> and the central theme in the captioned writ petition make it unnecessary.<lb/></p>
-
-			<p>4. This court is informed without any disputation or disagreement that<lb/> pending writ petition, Tamil Nadu Wakf Board held elections for the<lb/> committee of administration qua said Wakf on 21.07.2019 and 9 individuals<lb/> were elected.<lb/></p>
-
-			<p>5. Mr. Nihar Ali, learned counsel representing the counsel on record<lb/> for the writ petitioner, Mr. S.A. Ajmal Khan, learned Standing Counsel for<lb/> Tamil Nadu Wakf Board on behalf of respondents 1 to 3 and Mr.<lb/> Hemakarthikeyan, learned counsel on record for respondents 4 and 5 are<lb/> before me.<lb/></p>
-
-			<p>6. All the aforementioned counsel submit in one voice that there is no<lb/> disputation or disagreement about elections having been held on 21.07.2019<lb/> 3/7<lb/> https://www.mhc.tn.gov.in/judis<lb/> qua said wakf. All the counsel also submit that of the nine individuals<lb/> elected to the committee of administration 5 th respondent did not get elected<lb/> but the writ petitioner got elected. This court is also informed that the<lb/> tenure of the elected committee of administration is three years i.e, from<lb/> 21.07.2019 to 20.07.2022 and the committee is now in office.<lb/></p>
-
-			<p>7. Learned Standing counsel for Tamil Nadu Wakf Board has placed<lb/> before me proceedings regarding the elected 9 Member Committee of<lb/> administration being put in place and a scanned reproduction of the same is<lb/> as follows:<lb/></p>
-
-			<p>4/7<lb/> https://www.mhc.tn.gov.in/judis<lb/> 8. All the aforementioned counsel further submit without any<lb/> disputation that the above draws the curtains on the captioned main writ<lb/> petition. Captioned main writ petition is disposed of as closed. Though<lb/> obvious it is made clear that I have not expressed any view or opinion on<lb/> the merits of the matter. Consequently, captioned MP is also disposed of as<lb/> closed. There shall be no order as to costs.<lb/></p>
-
-			<p>06.12.2021<lb/> mnr<lb/> Index : Yes/No<lb/> Internet : Yes /No<lb/> 5/7<lb/> https://www.mhc.tn.gov.in/judis<lb/> Note :<lb/></p>
-
-			<p>In view of the present lock down<lb/> owing to COVID-19 pandemic, a web<lb/> copy of the order may be utilized for<lb/> official purposes, but, ensuring that<lb/> the copy of the order that is presented<lb/> is the correct copy, shall be the<lb/> responsibility of the advocate /<lb/> litigant concerned.<lb/> To<lb/> 1. The Chief Executive Officer,<lb/> Tamilnadu Wakf Board,<lb/> Vallal Seethakathi Nagar,<lb/> Chennai.<lb/></p>
-
-			<p>2. The Superintendent of Wakf Board,<lb/> No.1, Town Hall Road,<lb/> Pallivasal Complex 2 nd Floor,<lb/> Madurai.<lb/></p>
-
-			<p>3. The Inspector of Wakf Board,<lb/> Dindigul District.<lb/></p>
-
-			<p>4. The Managing Authority,<lb/> Sunnathval Jamath Pallivasal,<lb/> Kanni Beevi Dharka and Mamana Radha Dharka,<lb/> Palasamudram,<lb/> Palani, Dindigul.<lb/></p>
-
-			<p>6/7<lb/> https://www.mhc.tn.gov.in/judis<lb/> M.SUNDAR, J.<lb/> mnr<lb/> W.P(MD)No. 2725 of 2017<lb/> and<lb/> WMP(MD) No.2255 of 2017<lb/> 06.12.2021<lb/> 7/7<lb/> https://www.mhc.tn.gov.in/judis</p>
-
-
+		<p>
+			This common order will govern the captioned main writ petition and
+			<lb />
+			captioned WMP thereat. A public Wakf, which goes by the name
+			<lb />
+			&apos;Sunnathval Jamath Pallivasal, Kanni Beevi Dharka and Mamana Radha
+			<lb />
+			Dharka&apos; [hereinafter &apos;said Wakf&apos; for the sake of convenience and clarity] is
+			<lb />
+			the nucleus of the captioned writ petition and removal of committee of
+			<lb />
+			administration qua said Wakf is the central theme of the captioned writ
+			<lb />
+			petition.
+			<lb />
+		</p>
+		<p>
+			2. Captioned writ petition was filed in 2017, to be precise on
+			<lb />
+			15.02.2017 and the prayer is to remove the fifth respondent from the
+			<lb />
+			management of said Wakf.
+			<lb />
+		</p>
+		<p>
+			2/7
+			<lb />
+		</p>
+		<p>
+			3. The case of the writ petitioner is that he is a member of the Jamath
+			<lb />
+			with voting rights qua said Wakf but it is not necessary to delve into these
+			<lb />
+			aspects of the matter and it is not necessary to dilate further on these aspects
+			<lb />
+			of the case on hand as the trajectory the captioned writ petition has taken
+			<lb />
+			and the central theme in the captioned writ petition make it unnecessary.
+			<lb />
+		</p>
+		<p>
+			4. This court is informed without any disputation or disagreement that
+			<lb />
+			pending writ petition, Tamil Nadu Wakf Board held elections for the
+			<lb />
+			committee of administration qua said Wakf on 21.07.2019 and 9 individuals
+			<lb />
+			were elected.
+			<lb />
+		</p>
+		<p>
+			5. Mr. Nihar Ali, learned counsel representing the counsel on record
+			<lb />
+			for the writ petitioner, Mr. S.A. Ajmal Khan, learned Standing Counsel for
+			<lb />
+			Tamil Nadu Wakf Board on behalf of respondents 1 to 3 and Mr.
+			<lb />
+			Hemakarthikeyan, learned counsel on record for respondents 4 and 5 are
+			<lb />
+			before me.
+			<lb />
+		</p>
+		<p>
+			6. All the aforementioned counsel submit in one voice that there is no
+			<lb />
+			disputation or disagreement about elections having been held on 21.07.2019
+			<lb />
+			qua said wakf. All the counsel also submit that of the nine individuals
+			<lb />
+			elected to the committee of administration 5 th respondent did not get elected
+			<lb />
+			but the writ petitioner got elected. This court is also informed that the
+			<lb />
+			tenure of the elected committee of administration is three years i.e, from
+			<lb />
+			21.07.2019 to 20.07.2022 and the committee is now in office.
+			<lb />
+		</p>
+		<p>
+			7. Learned Standing counsel for Tamil Nadu Wakf Board has placed
+			<lb />
+			before me proceedings regarding the elected 9 Member Committee of
+			<lb />
+			administration being put in place and a scanned reproduction of the same is
+			<lb />
+			as follows:
+			<lb />
+		</p>
+		<p>
+			8. All the aforementioned counsel further submit without any
+			<lb />
+			disputation that the above draws the curtains on the captioned main writ
+			<lb />
+			petition. Captioned main writ petition is disposed of as closed. Though
+			<lb />
+			obvious it is made clear that I have not expressed any view or opinion on
+			<lb />
+			the merits of the matter. Consequently, captioned MP is also disposed of as
+			<lb />
+			closed. There shall be no order as to costs.
+			<lb />
+		</p>
+		<p>
+			06.12.2021
+			<lb />
+		</p>
+		<p>
+			mnr
+		</p>
+		<p>
+			M.SUNDAR, J.
+			<lb />
+		</p>
+		<p>
+			mnr
+			<lb />
+		</p>
 	</text>
 </tei>

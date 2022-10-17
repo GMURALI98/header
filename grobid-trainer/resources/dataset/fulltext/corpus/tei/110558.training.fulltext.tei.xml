@@ -1,84 +1,688 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <tei xml:space="preserve">
 	<teiHeader>
-		<fileDesc xml:id="0"/>
+		<fileDesc xml:id="0" />
 	</teiHeader>
 	<text xml:lang="en">
-			
-			<p>1]<lb/> W.P. No. 2412/2020 has been instituted by Shri Sachin<lb/> Rameshwarrao Bhople seeking the following relief: -<lb/></p>
-
-            <list>
-
-			<item>&quot;It is, therefore, most humbly and respectfully prayed that this<lb/> Hon&apos;ble Court may kindly be pleased to issue an appropriate writ,<lb/> order or direction and thereby be pleased to hold and declare that<lb/> the judgment &amp; order dated 27/02/2020, passed by this Hon&apos;ble<lb/> Court in W.P. No. 2444/19, 2471/2019 &amp; 2806/2019 (Annex-N) is<lb/> obtained by misrepresentation by the respondent No. 5 to 9 &amp;<lb/> further be pleased to: -<lb/></item>
-
-			<item>i)<lb/> quash &amp; set aside/recall the said judgment &amp; order dated<lb/> 27/02/2020 (Annex-N) passed by this Hon&apos;ble Court in W.P.<lb/>No. 2444/19, 2471/2019 &amp; 2806/2019 (Annex-J to L), in the<lb/> interest of justice;<lb/></item>
-
-			<item>ii)<lb/> issue an appropriate writ, order or direction and thereby be<lb/> pleased to quash &amp; set aside the impugned communication<lb/> dated 09/07/2020 (Annex-T) issued by the respondent No.<lb/>1/University, cancelling the promotion of the petitioner on<lb/> the post of Associate Professor &amp; further be pleased to direct<lb/> the respondent No. 1/University &amp; respondent No. 2/Vice-<lb/>Chancellor to restore the petitioner on the said post, with<lb/> continuity &amp; all benefits, in the interest of justice;<lb/></item>
-
-			<item>iii)<lb/> during the pendency and final disposal of the present<lb/> petition, stay the effect &amp; operation of the impugned<lb/> communication dated 09.07.20 (Annex-T), issued by the<lb/> respondent No. 1/University and further restrain the<lb/> respondent No. 1/University from proceeding ahead with<lb/> the said selection process of promotion of Associate<lb/> Professor in the respondent No. 1/University, in the interest<lb/> of justice;&quot;<lb/></item>
-
-            </list>
-
-			<p>2]<lb/> Since order has been claimed for a declaration is prayed for<lb/> quashing and/or setting aside the judgment and order passed by a co-<lb/>ordinate Bench of this Court, on the ground of alleged misrepresentation,<lb/> Mr. Sudame, learned advocate representing the respondents 5 to 7 has<lb/> raised a preliminary objection to the maintainability of the writ petition.<lb/> According to him, the judgment and order dated February 27, 2020 by<lb/> which the petitioner feels aggrieved has attained finality by reason of no<lb/> appeal being carried therefrom to the Supreme Court as well as no review<lb/> application having been filed in line with the principles flowing from<lb/> section 114 read with Order XLVII of the Code of Civil Procedure. These<lb/> being the remedies made available by law to the petitioner, it is contended<lb/> that he ought to have elected one such remedy but writ remedy is not<lb/> available to him in the circumstances. He also contends that relief as<lb/> claimed by the petitioner cannot be granted since it is not open to us to<lb/> quash and/or set aside the judgment and order of a co-ordinate Bench in<lb/> exercise of judicial review powers; if at all the petitioner is aggrieved, his<lb/> remedy lies elsewhere. It is, thus, prayed that the writ petition be<lb/> dismissed.<lb/></p>
-
-			<p>3]<lb/> Mr. Khedkar, learned advocate representing the petitioner<lb/> counters such preliminary objection by placing reliance on a decision of<lb/> the Supreme Court reported in (2007) 14 SCC 108 : Deepa Gourang<lb/> Murdeshwar Katre vs. Principal, V.A.V. College of Arts and others.<lb/> According to him, the said decision is an authority for the proposition that<lb/> if an order has been passed by a Court of law based on fraud or<lb/> misrepresentation, the Court can recall its order in exercise of its inherent<lb/> power. It is, therefore, submitted that this Court may examine whether the<lb/> contention of the petitioner that the judgment and order dated February<lb/> 27, 2020 was obtained by misrepresentation has substance or not; if yes,<lb/> the Court may proceed to grant such relief as it may consider appropriate<lb/> in the circumstances.<lb/></p>
-
-			<p>4]<lb/> Before dealing with the preliminary objection, it would be<lb/> appropriate for us to notice what was under challenge in W.P. Nos.<lb/> 2444/2019, 2471/2019 &amp; 2806/2019 and what the judgment and order<lb/> dated February 27, 2020 (hereafter &quot;the said judgment&quot;, for short),<lb/> ::: Uploaded on -11/12/2021<lb/> ::: Downloaded on -18/03/2022 20:17:49 :::<lb/> whereby these writ petitions were disposed of, directed. Incidentally, the<lb/> said three writ petitions were instituted by the respondents before us who<lb/> are represented by Mr. Sudame.<lb/></p>
-
-			<p>5]<lb/> The first of these writ petitions [W.P. No. 2444/2019], at the<lb/> instance of Ms. Amrapali W/o Atul Akhare, challenged the promotional<lb/> orders of appointments of the respondents 2 to 5 therein on the post of<lb/> Associate Professor, Agricultural Botany. The second writ petition [W.P. No.<lb/> 2471/2019] was instituted by Dr. Manish Ramdas Deshmukh &amp; one other,<lb/> wherein the appointments on promotion on the post of Associate<lb/> Professor, Agronomy of the respondents 4 to 10 were challenged. In the<lb/> third writ petition [W.P. No.2806/2019], wherein Ms. Vanita Khushalrao<lb/> Khobarkar was the petitioner, challenge was laid to the appointments on<lb/> promotion of the respondents 2 and 3 on the post of Associate Professor,<lb/> Agricultural Economics. All the appointments under challenge were made<lb/> by Dr. Panjabrao Deshmukh Krishi Vidyapeeth (hereafter &quot;the University&quot;,<lb/> for short). The said three writ petitions were heard together and the<lb/> operative part of the said judgment reads as follows: -<lb/></p>
-
-            <list>
-
-			<item>&quot;28.<lb/> Since it has been found that the manner in which the<lb/> concerned respondents have been promoted to the post of<lb/> Associate Professor is not in accordance with ]law, we have no<lb/> hesitation in setting aside the orders of promotion as issued to the<lb/> respondent nos.2 to 5 in Writ Petition No. 2444 of 2019 in the<lb/> subject of Agricultural Botany, respondent nos.4 to 10 in Writ<lb/> Petition No. 2471 of 2019 in the subject of Agronomy and<lb/> respondent nos.2 and 3 in Writ Petition No.2806 of 2019 in the<lb/> subject of Agricultural Economics. The Selection Committee is free<lb/> to consider the proposals as received by 06.11.2017 by applying<lb/> the criteria that was prevailing on the said date for effecting<lb/> promotions to the post of Associate Professor. As regards other<lb/> Associate Professors who have been promoted but who have not<lb/> been impleaded in these writ petitions, the matter is left to the<lb/> wisdom of the University to take appropriate steps in accordance<lb/> with law if so advised. It is clarified that we have not examined the<lb/> legality of the promotions of such Associate Professors who are not<lb/> parties in these writ petitions. It is also declared that Resolution<lb/> No.26 of 2019 passed by the Executive Council dated 07.01.2019 to<lb/> the extent it has the effect of modifying the criteria prescribed in<lb/> the matter of effecting promotions which is in variance with<lb/> Statutes 52 and 73 would not operate till the procedure as<lb/> contemplated by Section 38 of the said Act is complied with. Rule<lb/> in each writ petition is made absolute in aforesaid terms leaving<lb/> the parties to bear their own costs.&quot;<lb/></item>
-
-            </list>
-
-			<p>(emphasis ours)<lb/></p>
-
-			<p>6]<lb/> It is not in dispute that in terms of the operative directions as<lb/> quoted above, the University (where the petitioners as well as the private<lb/> respondents in the aforesaid three writ petitions are employed) initiated<lb/> action for fresh selection and appointment. In course of such process being<lb/> undertaken by the University, the present petitioner who was appointed<lb/> on promotion on the post of Associate Professor in Horticulture was<lb/> served with an order dated July 9, 2020, whereby he was reverted to the<lb/> post of Assistant Professor in Horticulture. Upon this writ petition being<lb/> WP2412.20<lb/> ANSARI<lb/> moved, a co-ordinate Bench of this Court by its order dated October 5,<lb/> 2020 stayed the order of reversion with the effect that the petitioner has<lb/> continued to function as an Associate Professor in Horticulture. However,<lb/> the Court granted liberty to the University to finalize the process of fresh<lb/> selection and we are informed that the process has been completed and<lb/> the consequent recommendation kept in a sealed cover.<lb/></p>
-
-			<p>7]<lb/> The vital that can never be overlooked and<lb/> would always loom large is that the petitioner was not a party to the<lb/> proceedings of W.P. Nos. 2444/2019, 2471/2019 &amp; 2806/2019.<lb/></p>
-
-			<p>8]<lb/> Bearing in mind the aforesaid facts and circumstances, we are<lb/> now tasked to decide the preliminary objection as to whether this writ<lb/> petition is maintainable. The question of grant of relief, if any, would arise<lb/> only if the preliminary objection is overruled.<lb/></p>
-
-			<p>9]<lb/> Mr. Sudame, Mr. Khedkar and Mr. Sambre, learned advocates<lb/> for the University, respondent no. 1, have been heard and the materials on<lb/> record perused.<lb/></p>
-
-			<p>10]<lb/> We are inclined to overrule the objection of Mr. Sudame and<lb/> hold the writ petition to be maintainable having regard to the Constitution<lb/> Bench decision of the Supreme Court reported in AIR 1963 1909 : Shivdeo<lb/> WP2412.20<lb/> ANSARI<lb/> Singh vs. State of Punjab. There, certain agricultural lands were allotted to<lb/> a number of displaced persons including the appellants on a quasi-<lb/>permanent basis under the administration of Evacuee Property Act, 1950<lb/> and Rules made thereunder in a particular village. It was an admitted fact<lb/> the appellants fell under the category of &quot;non-faujis&quot;. On October 9,<lb/> 1951, the Director of Relief and Rehabilitation, Punjab, made an order<lb/> adverse to the interest of the appellants Shivdeo Singh and others. To<lb/> maintain the character of the said village as &quot;fauji&quot;, he directed that the<lb/> appellants have to move out for being accommodated in some other<lb/> village. Soon after this order was made, the appellants preferred a writ<lb/> petition before the High Court of Punjab for quashing the order. The<lb/> Director of Rehabilitation alone was made a party thereto. The petition<lb/> was allowed by Hon&apos;ble Khosla, J. (as His Lordship then was). Eventually<lb/> the respondents 3 to 14 in the appeal before the Supreme Court, who were<lb/> members of &quot;fauji&quot; families and in whose favour either allotment had been<lb/> made or was intended to be made, preferred a petition before the High<lb/> Court under Article 226 of the Constitution for impleading them as parties<lb/> in the appellants&apos; petition and re-hearing the whole matter. The petition<lb/> was entertained by the High Court and Hon&apos;ble Khosla, J. allowed it. The<lb/> appellants preferred a Letters Patent appeal before the High Court which<lb/> having been dismissed, the Supreme Court was approached in appeal by<lb/> special leave. Hon&apos;ble J.R. Mudholkar, J. (as His Lordship then was)<lb/> speaking for the Bench ruled as follows:<lb/> ::: Uploaded on -11/12/2021<lb/> ::: Downloaded on -18/03/2022 20:17:49 :::<lb/></p>
-
-            <list>
-
-			<item>&quot;8.<lb/> The other contention of Mr Gopal Singh pertains to the second<lb/> order of Khosla, J., which, in effect, reviews his prior order. Learned<lb/> counsel contends that Article 226 of the Constitution does not confer<lb/> any power on the High Court to review its own order and, therefore,<lb/> the second order of Khosla, J., was without jurisdiction. It is sufficient<lb/> to say that there is nothing in Article 226 of the Constitution to pre-<lb/>clude a High Court from exercising the power of review which inheres<lb/> in every Court of plenary jurisdiction to prevent miscarriage of justice<lb/> or to correct grave and palpable errors committed by it. Here the pre-<lb/>vious order of Khosla, J., affected the interests of persons who were not<lb/> made parties to the proceeding before him. It was at their instance<lb/> and for giving them a hearing that Khosla, J., entertained the second<lb/> petition. In doing so, he merely did what the principles of natural jus-<lb/>tice required him to do. It is said that the respondents before us had<lb/> no right to apply for review because they were not parties to the pre-<lb/>vious proceedings. As we have already pointed out, it is precisely be-<lb/>cause they were not made parties to the previous proceedings, though<lb/> their interests were sought to be affected by the decision of the High<lb/> Court, that the second application was entertained by Khosla, J.&quot;<lb/></item>
-
-            </list>
-
-			<p>(emphasis ours)<lb/></p>
-
-			<p>11]<lb/> The ratio of such decision has been followed in the decision<lb/> reported in (2004) 6 SCC 126 : Pohla Singh vs. State of Punjab. The law<lb/> declared in such decision is that, if a decision rendered in a writ petition<lb/> adversely affects the interest of a third person who was not impleaded as<lb/> a party in the writ petition, it is always open to him to ask for recall of the<lb/> judgment which has been rendered without affording any opportunity of<lb/> hearing to him.<lb/></p>
-
-			<p>12]<lb/> The facts of the present case appear to be unusually similar<lb/> to those arising for consideration in Shivdeo Singh (supra) and Pohla Singh<lb/> (supra). Admittedly, the petitioner was not included in the array of<lb/> respondents in any of the three writ petitions which were allowed by the<lb/> said judgment. We have noted from paragraph 15 of the said judgment that<lb/> objection had been raised to the effect that all the promotees were not<lb/> impleaded as respondents in the writ petitions. The view expressed by<lb/> co-ordinate Bench while dealing with such objection needs to be noted.<lb/> Paragraph 15 records as follows:<lb/></p>
-
-            <list>
-
-			<item>&quot;15.<lb/> Another objection raised is the absence of all<lb/> promotees being impleaded as respondents in the writ petitions.<lb/> According to the promoted respondents, since the entire process of<lb/> promotion was being challenged by the petitioners, it was<lb/> necessary for them to implead all the Assistant Professors who had<lb/> been promoted as Associate Professors. In reply, it has been<lb/> submitted by the petitioners that only those Assistant Professors<lb/> who were less meritorious than the petitioners but had been<lb/> promoted as Associate Professors were impleaded as respondents.<lb/> The justification for the same is that if the procedure as prescribed<lb/> by the Statutes is adopted, the concerned respondents being less<lb/> meritorious than the petitioners, they were not liable to be<lb/> promoted. The petitioners therefore have chosen to challenge the<lb/> promotions of such promotees who were less meritorious than the<lb/> petitioners.<lb/> In the light of the specific challenge raised by the<lb/> petitioners and as they are aggrieved by the adoption of a different<lb/> procedure than the one prescribed by the Statutes which has<lb/> resulted in less meritorious candidates being promoted, we are<lb/> inclined to examine the challenge as raised on merits and we do<lb/> not find it appropriate to non-suit the petitioners only on the<lb/> ground that all promoted Associate Professors have not been<lb/> impleaded as respondents. In any event, the petitioners have no<lb/> grievance with the promotion of such Associate Professors who are<lb/> more meritorious than them and hence in this backdrop, such<lb/> more meritorious candidates are not found to be even proper<lb/> parties. We are conscious of the position that promotions of such<lb/> Assistant Professors who have been promoted but have not been<lb/> impleaded cannot be challenged in their absence.<lb/></item>
-
-            </list>
-
-			<p>(emphasis ours)<lb/></p>
-
-			<p>13]<lb/> Once the co-ordinate Bench in the said judgment has<lb/> observed that it was conscious of the legal position that promotions of<lb/> such Assistant Professors as Associate Professors who have not been<lb/> impleaded as respondents could not be challenged in their absence, our<lb/> task becomes easy. We are inclined to the view that the observation in the<lb/> operative directions quoted above constitute an error apparent on the face<lb/> of the record which, in the exercise of the inherent power of this Court<lb/> (being a court of plenary jurisdiction) deserves to be reviewed. The<lb/> observation in paragraph 28 is plainly inconsistent with the conclusion<lb/> recorded in paragraph 15 and, thus, interests of justice would require that<lb/> the two inconsistent views be reconciled, if possible; if not, to review the<lb/> said judgment and relieve such of the promotees, who were not parties to<lb/> the earlier proceedings, from being visited with adverse civil<lb/> consequences not only on the ground of their non-impleadment but<lb/> because of the clear stand of the petitioners in course of hearing of the said<lb/> three writ petitions that only selection and appointment of less<lb/> meritorious promotee candidates had been challenged consequent<lb/> whereto only such promotees were impleaded as respondents. The co-<lb/>ordinate Bench having found that the highly meritorious candidates were<lb/> not even proper parties, the observation made in paragraph 28 could be<lb/> applied only to candidates who were not as meritorious as the petitioners<lb/> in W.P. Nos. 2444/2019, 2471/2019 &amp; 2806/2019; but such observation<lb/> had no application qua a candidate like the petitioner, who was not only<lb/> not a respondent, but is claimed to be a highly meritorious candidate. Also,<lb/> the petitioner could not have figured in the scheme of things since none of<lb/> the respondents, who instituted the said three writ petitions as<lb/> petitioners, were Assistant Professors in Horticulture. Their subjects being<lb/> different, the observation in paragraph 28 could not have been made the<lb/> sheet anchor to direct reversion and fresh selection, and carried forward<lb/> to the detriment and prejudice of the petitioner. The University while<lb/> reading paragraph 28 seems to have been clearly oblivious of the<lb/> unambiguous conclusion recorded in paragraph 15 by Their Lordships.<lb/></p>
-
-			<p>14]<lb/> In such view of the matter, in exercise of our power of review,<lb/> we hold that any action taken by the University to divest the petitioner of<lb/> the fruits of promotion as an Associate Professor, Horticulture, triggered<lb/> by the observation in paragraph 28, must be regarded as inoperative and<lb/> ineffective having regard to the observation made in paragraph 15 of the<lb/> said judgment. As a consequence, we hold that the reversion of the<lb/> petitioner by the University by the order dated July 9, 2020 not at all being<lb/> lawful, in the sense that the University was nudged to act on the basis of<lb/> the observation in paragraph 28 of the said judgment by the respondents<lb/> represented by Mr. Sudame despite the observation in paragraph 15<lb/> thereof, merits to be set We order accordingly.<lb/></p>
-
-			<p>15]<lb/> The result of the aforesaid direction would be that the<lb/> petitioner shall be deemed to have continued in service on the promoted<lb/> post of Associate Professor, Horticulture from the initial date of his<lb/> promotion notwithstanding the action taken by the University in terms of<lb/> the said judgment. The selection process that the University has initiated,<lb/> pursuant to the impugned order of this Court, needs to be aborted and<lb/> shall not be carried forward any further. We, therefore, allow the writ<lb/> petition with the aforesaid directions. Since the petitioner has not suffered<lb/> adversely because of the timely intervention by this Court by its aforesaid<lb/> interim order, we refrain from imposing costs.<lb/></p>
-
-			<p>16]<lb/> We, however, make it clear that this order does not affect any<lb/> action taken by the University against the promotees who were<lb/> respondents in the said three writ petitions and which were disposed of<lb/> by the said judgment. Any process initiated against any of the respondents<lb/> in such writ petitions may be taken to its logical conclusion, in accordance<lb/> with law.<lb/></p>
-
-			<p>17]<lb/> Pending application(s), if any, stand(s) disposed of.<lb/></p>
-
-			<p>(VINAY JOSHI, J.)<lb/> </p>
-            
-            <p> (CHIEF JUSTICE)</p>
-
-
+		<p>
+			1]
+			<lb />
+			W.P. No. 2412/2020 has been instituted by Shri Sachin
+			<lb />
+			Rameshwarrao Bhople seeking the following relief: -
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;It is, therefore, most humbly and respectfully prayed that this
+				<lb />
+				Hon&apos;ble Court may kindly be pleased to issue an appropriate writ,
+				<lb />
+				order or direction and thereby be pleased to hold and declare that
+				<lb />
+				the judgment &amp; order dated 27/02/2020, passed by this Hon&apos;ble
+				<lb />
+				Court in W.P. No. 2444/19, 2471/2019 &amp; 2806/2019 (Annex-N) is
+				<lb />
+				obtained by misrepresentation by the respondent No. 5 to 9 &amp;
+				<lb />
+				further be pleased to: -
+				<lb />
+			</item>
+			<item>
+				i)
+				<lb />
+				quash &amp; set aside/recall the said judgment &amp; order dated
+				<lb />
+				27/02/2020 (Annex-N) passed by this Hon&apos;ble Court in W.P.
+				<lb />
+				No. 2444/19, 2471/2019 &amp; 2806/2019 (Annex-J to L), in the
+				<lb />
+				interest of justice;
+				<lb />
+			</item>
+			<item>
+				ii)
+				<lb />
+				issue an appropriate writ, order or direction and thereby be
+				<lb />
+				pleased to quash &amp; set aside the impugned communication
+				<lb />
+				dated 09/07/2020 (Annex-T) issued by the respondent No.
+				<lb />
+				1/University, cancelling the promotion of the petitioner on
+				<lb />
+				the post of Associate Professor &amp; further be pleased to direct
+				<lb />
+				the respondent No. 1/University &amp; respondent No. 2/Vice-
+				<lb />
+				Chancellor to restore the petitioner on the said post, with
+				<lb />
+				continuity &amp; all benefits, in the interest of justice;
+				<lb />
+			</item>
+			<item>
+				iii)
+				<lb />
+				during the pendency and final disposal of the present
+				<lb />
+				petition, stay the effect &amp; operation of the impugned
+				<lb />
+				communication dated 09.07.20 (Annex-T), issued by the
+				<lb />
+				respondent No. 1/University and further restrain the
+				<lb />
+				respondent No. 1/University from proceeding ahead with
+				<lb />
+				the said selection process of promotion of Associate
+				<lb />
+				Professor in the respondent No. 1/University, in the interest
+				<lb />
+				of justice;&quot;
+				<lb />
+			</item>
+		</list>
+		<p>
+			2]
+			<lb />
+			Since order has been claimed for a declaration is prayed for
+			<lb />
+			quashing and/or setting aside the judgment and order passed by a co-
+			<lb />
+			ordinate Bench of this Court, on the ground of alleged misrepresentation,
+			<lb />
+			Mr. Sudame, learned advocate representing the respondents 5 to 7 has
+			<lb />
+			raised a preliminary objection to the maintainability of the writ petition.
+			<lb />
+			According to him, the judgment and order dated February 27, 2020 by
+			<lb />
+			which the petitioner feels aggrieved has attained finality by reason of no
+			<lb />
+			appeal being carried therefrom to the Supreme Court as well as no review
+			<lb />
+			application having been filed in line with the principles flowing from
+			<lb />
+			section 114 read with Order XLVII of the Code of Civil Procedure. These
+			<lb />
+			being the remedies made available by law to the petitioner, it is contended
+			<lb />
+			that he ought to have elected one such remedy but writ remedy is not
+			<lb />
+			available to him in the circumstances. He also contends that relief as
+			<lb />
+			claimed by the petitioner cannot be granted since it is not open to us to
+			<lb />
+			quash and/or set aside the judgment and order of a co-ordinate Bench in
+			<lb />
+			exercise of judicial review powers; if at all the petitioner is aggrieved, his
+			<lb />
+			remedy lies elsewhere. It is, thus, prayed that the writ petition be
+			<lb />
+			dismissed.
+			<lb />
+		</p>
+		<p>
+			3]
+			<lb />
+			Mr. Khedkar, learned advocate representing the petitioner
+			<lb />
+			counters such preliminary objection by placing reliance on a decision of
+			<lb />
+			the Supreme Court reported in (2007) 14 SCC 108 : Deepa Gourang
+			<lb />
+			Murdeshwar Katre vs. Principal, V.A.V. College of Arts and others.
+			<lb />
+			According to him, the said decision is an authority for the proposition that
+			<lb />
+			if an order has been passed by a Court of law based on fraud or
+			<lb />
+			misrepresentation, the Court can recall its order in exercise of its inherent
+			<lb />
+			power. It is, therefore, submitted that this Court may examine whether the
+			<lb />
+			contention of the petitioner that the judgment and order dated February
+			<lb />
+			27, 2020 was obtained by misrepresentation has substance or not; if yes,
+			<lb />
+			the Court may proceed to grant such relief as it may consider appropriate
+			<lb />
+			in the circumstances.
+			<lb />
+		</p>
+		<p>
+			4]
+			<lb />
+			Before dealing with the preliminary objection, it would be
+			<lb />
+			appropriate for us to notice what was under challenge in W.P. Nos.
+			<lb />
+			2444/2019, 2471/2019 &amp; 2806/2019 and what the judgment and order
+			<lb />
+			dated February 27, 2020 (hereafter &quot;the said judgment&quot;, for short),
+			<lb />
+			whereby these writ petitions were disposed of, directed. Incidentally, the
+			<lb />
+			said three writ petitions were instituted by the respondents before us who
+			<lb />
+			are represented by Mr. Sudame.
+			<lb />
+		</p>
+		<p>
+			5]
+			<lb />
+			The first of these writ petitions [W.P. No. 2444/2019], at the
+			<lb />
+			instance of Ms. Amrapali W/o Atul Akhare, challenged the promotional
+			<lb />
+			orders of appointments of the respondents 2 to 5 therein on the post of
+			<lb />
+			Associate Professor, Agricultural Botany. The second writ petition [W.P. No.
+			<lb />
+			2471/2019] was instituted by Dr. Manish Ramdas Deshmukh &amp; one other,
+			<lb />
+			wherein the appointments on promotion on the post of Associate
+			<lb />
+			Professor, Agronomy of the respondents 4 to 10 were challenged. In the
+			<lb />
+			third writ petition [W.P. No.2806/2019], wherein Ms. Vanita Khushalrao
+			<lb />
+			Khobarkar was the petitioner, challenge was laid to the appointments on
+			<lb />
+			promotion of the respondents 2 and 3 on the post of Associate Professor,
+			<lb />
+			Agricultural Economics. All the appointments under challenge were made
+			<lb />
+			by Dr. Panjabrao Deshmukh Krishi Vidyapeeth (hereafter &quot;the University&quot;,
+			<lb />
+			for short). The said three writ petitions were heard together and the
+			<lb />
+			operative part of the said judgment reads as follows: -
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;28.
+				<lb />
+				Since it has been found that the manner in which the
+				<lb />
+				concerned respondents have been promoted to the post of
+				<lb />
+				Associate Professor is not in accordance with ]law, we have no
+				<lb />
+				hesitation in setting aside the orders of promotion as issued to the
+				<lb />
+				respondent nos.2 to 5 in Writ Petition No. 2444 of 2019 in the
+				<lb />
+				subject of Agricultural Botany, respondent nos.4 to 10 in Writ
+				<lb />
+				Petition No. 2471 of 2019 in the subject of Agronomy and
+				<lb />
+				respondent nos.2 and 3 in Writ Petition No.2806 of 2019 in the
+				<lb />
+				subject of Agricultural Economics. The Selection Committee is free
+				<lb />
+				to consider the proposals as received by 06.11.2017 by applying
+				<lb />
+				the criteria that was prevailing on the said date for effecting
+				<lb />
+				promotions to the post of Associate Professor. As regards other
+				<lb />
+				Associate Professors who have been promoted but who have not
+				<lb />
+				been impleaded in these writ petitions, the matter is left to the
+				<lb />
+				wisdom of the University to take appropriate steps in accordance
+				<lb />
+				with law if so advised. It is clarified that we have not examined the
+				<lb />
+				legality of the promotions of such Associate Professors who are not
+				<lb />
+				parties in these writ petitions. It is also declared that Resolution
+				<lb />
+				No.26 of 2019 passed by the Executive Council dated 07.01.2019 to
+				<lb />
+				the extent it has the effect of modifying the criteria prescribed in
+				<lb />
+				the matter of effecting promotions which is in variance with
+				<lb />
+				Statutes 52 and 73 would not operate till the procedure as
+				<lb />
+				contemplated by Section 38 of the said Act is complied with. Rule
+				<lb />
+				in each writ petition is made absolute in aforesaid terms leaving
+				<lb />
+				the parties to bear their own costs.&quot;
+				<lb />
+			</item>
+			<item>
+				(emphasis ours)
+				<lb />
+			</item>
+		</list>
+		<p>
+			6]
+			<lb />
+			It is not in dispute that in terms of the operative directions as
+			<lb />
+			quoted above, the University (where the petitioners as well as the private
+			<lb />
+			respondents in the aforesaid three writ petitions are employed) initiated
+			<lb />
+			action for fresh selection and appointment. In course of such process being
+			<lb />
+			undertaken by the University, the present petitioner who was appointed
+			<lb />
+			on promotion on the post of Associate Professor in Horticulture was
+			<lb />
+			served with an order dated July 9, 2020, whereby he was reverted to the
+			<lb />
+			post of Assistant Professor in Horticulture. Upon this writ petition being
+			<lb />
+			moved, a co-ordinate Bench of this Court by its order dated October 5,
+			<lb />
+			2020 stayed the order of reversion with the effect that the petitioner has
+			<lb />
+			continued to function as an Associate Professor in Horticulture. However,
+			<lb />
+			the Court granted liberty to the University to finalize the process of fresh
+			<lb />
+			selection and we are informed that the process has been completed and
+			<lb />
+			the consequent recommendation kept in a sealed cover.
+			<lb />
+		</p>
+		<p>
+			7]
+			<lb />
+			The vital that can never be overlooked and
+			<lb />
+			would always loom large is that the petitioner was not a party to the
+			<lb />
+			proceedings of W.P. Nos. 2444/2019, 2471/2019 &amp; 2806/2019.
+			<lb />
+		</p>
+		<p>
+			8]
+			<lb />
+			Bearing in mind the aforesaid facts and circumstances, we are
+			<lb />
+			now tasked to decide the preliminary objection as to whether this writ
+			<lb />
+			petition is maintainable. The question of grant of relief, if any, would arise
+			<lb />
+			only if the preliminary objection is overruled.
+			<lb />
+		</p>
+		<p>
+			9]
+			<lb />
+			Mr. Sudame, Mr. Khedkar and Mr. Sambre, learned advocates
+			<lb />
+			for the University, respondent no. 1, have been heard and the materials on
+			<lb />
+			record perused.
+			<lb />
+		</p>
+		<p>
+			10]
+			<lb />
+			We are inclined to overrule the objection of Mr. Sudame and
+			<lb />
+			hold the writ petition to be maintainable having regard to the Constitution
+			<lb />
+			Bench decision of the Supreme Court reported in AIR 1963 1909 : Shivdeo
+			<lb />
+			Singh vs. State of Punjab. There, certain agricultural lands were allotted to
+			<lb />
+			a number of displaced persons including the appellants on a quasi-
+			<lb />
+			permanent basis under the administration of Evacuee Property Act, 1950
+			<lb />
+			and Rules made thereunder in a particular village. It was an admitted fact
+			<lb />
+			the appellants fell under the category of &quot;non-faujis&quot;. On October 9,
+			<lb />
+			1951, the Director of Relief and Rehabilitation, Punjab, made an order
+			<lb />
+			adverse to the interest of the appellants Shivdeo Singh and others. To
+			<lb />
+			maintain the character of the said village as &quot;fauji&quot;, he directed that the
+			<lb />
+			appellants have to move out for being accommodated in some other
+			<lb />
+			village. Soon after this order was made, the appellants preferred a writ
+			<lb />
+			petition before the High Court of Punjab for quashing the order. The
+			<lb />
+			Director of Rehabilitation alone was made a party thereto. The petition
+			<lb />
+			was allowed by Hon&apos;ble Khosla, J. (as His Lordship then was). Eventually
+			<lb />
+			the respondents 3 to 14 in the appeal before the Supreme Court, who were
+			<lb />
+			members of &quot;fauji&quot; families and in whose favour either allotment had been
+			<lb />
+			made or was intended to be made, preferred a petition before the High
+			<lb />
+			Court under Article 226 of the Constitution for impleading them as parties
+			<lb />
+			in the appellants&apos; petition and re-hearing the whole matter. The petition
+			<lb />
+			was entertained by the High Court and Hon&apos;ble Khosla, J. allowed it. The
+			<lb />
+			appellants preferred a Letters Patent appeal before the High Court which
+			<lb />
+			having been dismissed, the Supreme Court was approached in appeal by
+			<lb />
+			special leave. Hon&apos;ble J.R. Mudholkar, J. (as His Lordship then was)
+			<lb />
+			speaking for the Bench ruled as follows:
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;8.
+				<lb />
+				The other contention of Mr Gopal Singh pertains to the second
+				<lb />
+				order of Khosla, J., which, in effect, reviews his prior order. Learned
+				<lb />
+				counsel contends that Article 226 of the Constitution does not confer
+				<lb />
+				any power on the High Court to review its own order and, therefore,
+				<lb />
+				the second order of Khosla, J., was without jurisdiction. It is sufficient
+				<lb />
+				to say that there is nothing in Article 226 of the Constitution to pre-
+				<lb />
+				clude a High Court from exercising the power of review which inheres
+				<lb />
+				in every Court of plenary jurisdiction to prevent miscarriage of justice
+				<lb />
+				or to correct grave and palpable errors committed by it. Here the pre-
+				<lb />
+				vious order of Khosla, J., affected the interests of persons who were not
+				<lb />
+				made parties to the proceeding before him. It was at their instance
+				<lb />
+				and for giving them a hearing that Khosla, J., entertained the second
+				<lb />
+				petition. In doing so, he merely did what the principles of natural jus-
+				<lb />
+				tice required him to do. It is said that the respondents before us had
+				<lb />
+				no right to apply for review because they were not parties to the pre-
+				<lb />
+				vious proceedings. As we have already pointed out, it is precisely be-
+				<lb />
+				cause they were not made parties to the previous proceedings, though
+				<lb />
+				their interests were sought to be affected by the decision of the High
+				<lb />
+				Court, that the second application was entertained by Khosla, J.&quot;
+				<lb />
+			</item>
+			<item>
+				(emphasis ours)
+				<lb />
+			</item>
+		</list>
+		<p>
+			11]
+			<lb />
+			The ratio of such decision has been followed in the decision
+			<lb />
+			reported in (2004) 6 SCC 126 : Pohla Singh vs. State of Punjab. The law
+			<lb />
+			declared in such decision is that, if a decision rendered in a writ petition
+			<lb />
+			adversely affects the interest of a third person who was not impleaded as
+			<lb />
+			a party in the writ petition, it is always open to him to ask for recall of the
+			<lb />
+			judgment which has been rendered without affording any opportunity of
+			<lb />
+			hearing to him.
+			<lb />
+		</p>
+		<p>
+			12]
+			<lb />
+			The facts of the present case appear to be unusually similar
+			<lb />
+			to those arising for consideration in Shivdeo Singh (supra) and Pohla Singh
+			<lb />
+			(supra). Admittedly, the petitioner was not included in the array of
+			<lb />
+			respondents in any of the three writ petitions which were allowed by the
+			<lb />
+			said judgment. We have noted from paragraph 15 of the said judgment that
+			<lb />
+			objection had been raised to the effect that all the promotees were not
+			<lb />
+			impleaded as respondents in the writ petitions. The view expressed by
+			<lb />
+			co-ordinate Bench while dealing with such objection needs to be noted.
+			<lb />
+			Paragraph 15 records as follows:
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;15.
+				<lb />
+				Another objection raised is the absence of all
+				<lb />
+				promotees being impleaded as respondents in the writ petitions.
+				<lb />
+				According to the promoted respondents, since the entire process of
+				<lb />
+				promotion was being challenged by the petitioners, it was
+				<lb />
+				necessary for them to implead all the Assistant Professors who had
+				<lb />
+				been promoted as Associate Professors. In reply, it has been
+				<lb />
+				submitted by the petitioners that only those Assistant Professors
+				<lb />
+				who were less meritorious than the petitioners but had been
+				<lb />
+				promoted as Associate Professors were impleaded as respondents.
+				<lb />
+				The justification for the same is that if the procedure as prescribed
+				<lb />
+				by the Statutes is adopted, the concerned respondents being less
+				<lb />
+				meritorious than the petitioners, they were not liable to be
+				<lb />
+				promoted. The petitioners therefore have chosen to challenge the
+				<lb />
+				promotions of such promotees who were less meritorious than the
+				<lb />
+				petitioners.
+				<lb />
+				In the light of the specific challenge raised by the
+				<lb />
+				petitioners and as they are aggrieved by the adoption of a different
+				<lb />
+				procedure than the one prescribed by the Statutes which has
+				<lb />
+				resulted in less meritorious candidates being promoted, we are
+				<lb />
+				inclined to examine the challenge as raised on merits and we do
+				<lb />
+				not find it appropriate to non-suit the petitioners only on the
+				<lb />
+				ground that all promoted Associate Professors have not been
+				<lb />
+				impleaded as respondents. In any event, the petitioners have no
+				<lb />
+				grievance with the promotion of such Associate Professors who are
+				<lb />
+				more meritorious than them and hence in this backdrop, such
+				<lb />
+				more meritorious candidates are not found to be even proper
+				<lb />
+				parties. We are conscious of the position that promotions of such
+				<lb />
+				Assistant Professors who have been promoted but have not been
+				<lb />
+				impleaded cannot be challenged in their absence.
+				<lb />
+			</item>
+			<item>
+				(emphasis ours)
+				<lb />
+			</item>
+		</list>
+		<p>
+			13]
+			<lb />
+			Once the co-ordinate Bench in the said judgment has
+			<lb />
+			observed that it was conscious of the legal position that promotions of
+			<lb />
+			such Assistant Professors as Associate Professors who have not been
+			<lb />
+			impleaded as respondents could not be challenged in their absence, our
+			<lb />
+			task becomes easy. We are inclined to the view that the observation in the
+			<lb />
+			operative directions quoted above constitute an error apparent on the face
+			<lb />
+			of the record which, in the exercise of the inherent power of this Court
+			<lb />
+			(being a court of plenary jurisdiction) deserves to be reviewed. The
+			<lb />
+			observation in paragraph 28 is plainly inconsistent with the conclusion
+			<lb />
+			recorded in paragraph 15 and, thus, interests of justice would require that
+			<lb />
+			the two inconsistent views be reconciled, if possible; if not, to review the
+			<lb />
+			said judgment and relieve such of the promotees, who were not parties to
+			<lb />
+			the earlier proceedings, from being visited with adverse civil
+			<lb />
+			consequences not only on the ground of their non-impleadment but
+			<lb />
+			because of the clear stand of the petitioners in course of hearing of the said
+			<lb />
+			three writ petitions that only selection and appointment of less
+			<lb />
+			meritorious promotee candidates had been challenged consequent
+			<lb />
+			whereto only such promotees were impleaded as respondents. The co-
+			<lb />
+			ordinate Bench having found that the highly meritorious candidates were
+			<lb />
+			not even proper parties, the observation made in paragraph 28 could be
+			<lb />
+			applied only to candidates who were not as meritorious as the petitioners
+			<lb />
+			in W.P. Nos. 2444/2019, 2471/2019 &amp; 2806/2019; but such observation
+			<lb />
+			had no application qua a candidate like the petitioner, who was not only
+			<lb />
+			not a respondent, but is claimed to be a highly meritorious candidate. Also,
+			<lb />
+			the petitioner could not have figured in the scheme of things since none of
+			<lb />
+			the respondents, who instituted the said three writ petitions as
+			<lb />
+			petitioners, were Assistant Professors in Horticulture. Their subjects being
+			<lb />
+			different, the observation in paragraph 28 could not have been made the
+			<lb />
+			sheet anchor to direct reversion and fresh selection, and carried forward
+			<lb />
+			to the detriment and prejudice of the petitioner. The University while
+			<lb />
+			reading paragraph 28 seems to have been clearly oblivious of the
+			<lb />
+			unambiguous conclusion recorded in paragraph 15 by Their Lordships.
+			<lb />
+		</p>
+		<p>
+			14]
+			<lb />
+			In such view of the matter, in exercise of our power of review,
+			<lb />
+			we hold that any action taken by the University to divest the petitioner of
+			<lb />
+			the fruits of promotion as an Associate Professor, Horticulture, triggered
+			<lb />
+			by the observation in paragraph 28, must be regarded as inoperative and
+			<lb />
+			ineffective having regard to the observation made in paragraph 15 of the
+			<lb />
+			said judgment. As a consequence, we hold that the reversion of the
+			<lb />
+			petitioner by the University by the order dated July 9, 2020 not at all being
+			<lb />
+			lawful, in the sense that the University was nudged to act on the basis of
+			<lb />
+			the observation in paragraph 28 of the said judgment by the respondents
+			<lb />
+			represented by Mr. Sudame despite the observation in paragraph 15
+			<lb />
+			thereof, merits to be set We order accordingly.
+			<lb />
+		</p>
+		<p>
+			15]
+			<lb />
+			The result of the aforesaid direction would be that the
+			<lb />
+			petitioner shall be deemed to have continued in service on the promoted
+			<lb />
+			post of Associate Professor, Horticulture from the initial date of his
+			<lb />
+			promotion notwithstanding the action taken by the University in terms of
+			<lb />
+			the said judgment. The selection process that the University has initiated,
+			<lb />
+			pursuant to the impugned order of this Court, needs to be aborted and
+			<lb />
+			shall not be carried forward any further. We, therefore, allow the writ
+			<lb />
+			petition with the aforesaid directions. Since the petitioner has not suffered
+			<lb />
+			adversely because of the timely intervention by this Court by its aforesaid
+			<lb />
+			interim order, we refrain from imposing costs.
+			<lb />
+		</p>
+		<p>
+			16]
+			<lb />
+			We, however, make it clear that this order does not affect any
+			<lb />
+			action taken by the University against the promotees who were
+			<lb />
+			respondents in the said three writ petitions and which were disposed of
+			<lb />
+			by the said judgment. Any process initiated against any of the respondents
+			<lb />
+			in such writ petitions may be taken to its logical conclusion, in accordance
+			<lb />
+			with law.
+			<lb />
+		</p>
+		<p>
+			17]
+			<lb />
+			Pending application(s), if any, stand(s) disposed of.
+			<lb />
+		</p>
+		<p>
+			(VINAY JOSHI, J.)
+			<lb />
+		</p>
+		<p>
+			(CHIEF JUSTICE)
+			<lb />
+		</p>
 	</text>
 </tei>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<petitioner>
+							<persName>
+								 <forename>REENA</forename>
+								 <surname>KUMARI</surname> D/O
+							</persName>
+							<persName>
+								 <forename>SH</forename>.
+							</persName>
+							<persName>
+								 <forename>GURUCHARAN</forename>
+								 <surname>SINGH</surname>
+							</persName>
+							<persName>
+								 <forename>DURGA</forename>
+								 <middlename>MEDICAL HALL NEAR OLD BUS STAND</middlename>
+								 <surname>RAJGARH</surname>,
+							</persName>
+							<persName>
+								 <surname>SIRMOUR</surname>,
+								 <forename>H.P. SHESH RAM, S/O SHRI NOK</forename>
+							</persName>
+							<persName>
+								 <surname>SINGH</surname>,
+								 <forename>R/O VILL</forename>.
+							</persName>
+							<persName>
+								 <surname>KHAROHAN</surname>, P.O.
+								 <forename>THANA</forename>,
+							</persName>
+							<persName>
+								 <surname>TEH</surname>.
+							</persName>
+							<persName>
+								 <surname>THUNTHUNAG</surname>,
+							</persName>
+							<persName>
+								 <surname>MANDI</surname>, HIMACHAL PRADESH. THROUGH ITS SECRETARY.
+								 <forename>ABHINAY</forename>
+							</persName>
+							<persName>
+								 <surname>KATAOCH</surname>, THROUGH ITS SECRETARY.
+								 <forename>SUDESH</forename>
+							</persName>
+							<persName>
+								 <surname>KUMAR</surname>, THROUGH ITS SECRETARY.
+								 <forename>RIPPU</forename>
+							</persName>
+							<persName>
+								 <surname>DAMMAN</surname>,
+								 <forename>S/O SHRI ASHUTOSH</forename>
+							</persName>
+							<persName>
+								 <surname>KUMAR</surname>,
+								 <middlename>RESIDENT</middlename>
+							</persName>
+							<persName>
+								 <surname>OF VPO DAULATPUR</surname>,
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>KANGRA</surname>, HIMACHAL PRADESH. THROUGH ITS SECRETARY.
+								 <forename>ATUL</forename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname>,
+								 <forename>S/O SANTOSH</forename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname>,
+								 <forename>RESIDENT OF VILLAGE AND</forename>
+								 <middlename>POST OFFICE BIR</middlename>
+							</persName>
+							<persName>
+								 <surname>BAGHER</surname>,
+							</persName>
+							<persName>
+								 <surname>TESHIL</surname>
+								 <forename>TIHRA</forename>
+							</persName>
+							<persName>
+								 <surname>SUJANPUR</surname>,
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>HAMIRPUR</surname>, HIMACHAL PRADESH. THROUGH ITS SECRETARY.
+								 <forename>SUNIL</forename>
+							</persName>
+							<persName>
+								 <surname>KUMAR</surname>, THROUGH ITS SECRETARY.
+								 <forename>RAJEEV</forename>
+							</persName>
+							<persName>
+								 <surname>KUMAR</surname>,
+								 <forename>S/O SH</forename>. PREM CHAND THROUGH ITS SECRETARY.
+							</persName>
+							<persName>
+								 <forename>KULWANT</forename>
+								 <surname>SINGH</surname>, THROUGH ITS SECRETARY.
+							</persName>
+							<persName>
+								 <forename>RAJESH</forename>
+								 <surname>KUMAR</surname>, THROUGH ITS SECRETARY.
+							</persName>
+							<persName>
+								 <forename>SUNIL</forename>
+								 <surname>KUMAR</surname>, THROUGH ITS SECRETARY.
+							</persName>
+							<persName>
+								 <forename>NARESH</forename>
+								 <surname>KUMAR</surname>, THROUGH ITS SECRETARY. ANIL KUMAR THROUGH ITS SECRETARY.
+							</persName>
+							<persName>
+								 <forename>RAHUL</forename>
+								 <surname>KUMAR</surname>, THROUGH ITS SECRETARY.
+							</persName>
+							<persName>
+								 <forename>AKSHAT</forename>
+								 <surname>BHASKER</surname>, THROUGH ITS SECRETARY.
+							</persName>
+							<persName>
+								 <forename>VIKAS</forename>
+								 <surname>SHARMA</surname>, THROUGH ITS SECRETARY. THROUGH ITS SECRETARY. THROUGH ITS SECRETARY.
+							</persName>
+							<persName>
+								 <forename>YOGRAJ, S/O SH. MOTI RAM, VILL KHADVI, P.O.</forename>
+								 <surname>JAON</surname>,
+								 <middlename>TEHSIL</middlename>
+							</persName>
+							<persName>
+								 <surname>ANNI</surname>,
+								 <middlename>DISTT</middlename>.
+							</persName>
+							<persName>
+								 <surname>KULLU</surname>, HIMACHAL PRADESH. THROUGH ITS SECRETARY.
+								 <forename>DEEP</forename>
+							</persName>
+							<persName>
+								 <surname>KUMAR</surname>,
+								 <middlename>SUSHIL</middlename>
+							</persName>
+							<persName>
+								 <surname>CHAUHAN HIMACHAL PRADESH STAFF SELECTION GEETA DEVI</surname>, D/O SH.
+								 <forename>BALDEV RAJ, R/O VILLAGE</forename>
+							</persName>
+							<persName>
+								 <surname>SARLI</surname>,
+								 <middlename>PO</middlename>
+							</persName>
+							<persName>
+								 <surname>GEKHALI</surname>, TEHSIL AND DISTT.
+								 <forename>CHAMBA</forename>, H.P.
+							</persName>
+							<persName>
+								 <forename>HIMACHAL</forename>
+								 <surname>PRADESH STAFF SELECTION MOHINDER SINGH HIMACHAL PRADESH STAFF SELECTION INDRA DEVI HIMACHAL PRADESH STAFF SELECTION SH</surname>.
+							</persName>
+							<persName>
+								 <forename>PURUSHOTAM</forename>
+								 <middlename>KUMAR</middlename>
+								 <surname>HIMACHAL PRADESH STAFF SELECTION INDRA DEVI</surname>,
+							</persName>
+							<persName>
+								 <forename>S/O SH</forename>.
+								 <surname>SUNDER</surname>, VILLAGE
+							</persName>
+							<persName>
+								 <surname>CHAKHAR</surname>,
+								 <middlename>PO</middlename>
+							</persName>
+							<persName>
+								 <surname>AND TEHSIL ARKI</surname>,
+								 <middlename>DISTT</middlename>.
+							</persName>
+							<persName>
+								 <surname>SOLAN</surname>, H.P.
+								 <forename>ROHIT</forename>
+								 <middlename>KAUNDAL</middlename>
+							</persName>
+							<persName>
+								 <surname>SHASHI KUMAR PRADEEP KUMAR ANIL</surname>
+								 <forename>SHARMA</forename>
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH STAFF SELECTION CHUDA MANI</surname>
+								 <forename>SAROJ</forename>
+							</persName>
+							<persName>
+								 <surname>KUMARI</surname>, OF
+							</persName>
+							<persName>
+								 <surname>SH</surname>.
+								 <forename>DALEEP</forename>
+							</persName>
+							<persName>
+								 <surname>THAKUR</surname>,
+								 <middlename>RESIDENT</middlename>
+							</persName>
+							<persName>
+								 <surname>OF THAKUR VILLA</surname>,
+							</persName>
+							<persName>
+								 <surname>DHAINDA</surname>,
+								 <middlename>POST</middlename> OFFICE
+							</persName>
+							<persName>
+								 <surname>TOTU</surname>.
+							</persName>
+							<persName>
+								 <surname>TEHSIL AND DISTRICT SHIMLA</surname>, H.P. THROUGH ITS SECRETARY.
+								 <forename>MANJUSHA</forename>
+							</persName>
+							<persName>
+								 <surname>GANDHI</surname>, D/O LATE
+								 <forename>SH</forename>.
+							</persName>
+							<persName>
+								 <forename>SHYAM</forename>
+								 <middlename>LAL</middlename>
+								 <surname>GANDHI</surname>,
+							</persName>
+							<persName>
+								 <forename>V.P.O KASHLOG</forename>, TEHSIL ARKI DISTRICT SOLAN PIN-171102. THE
+							</persName>
+							<persName>
+								 <forename>PERSONNEL</forename>
+								 <surname>DEPARTMENT</surname>, GOVERNMENT OF HP SHIMLA 02, THROUGH SECRETARY.
+								 <middlename>KAMAL</middlename>
+							</persName>
+							<persName>
+								 <surname>THAKUR</surname>
+								 <forename>GOVIND</forename>
+							</persName>
+							<persName>
+								 <surname>SHARMA</surname>
+								 <forename>S/O SH</forename>.
+							</persName>
+							<persName>
+								 <forename>HIRA</forename>
+								 <middlename>SINGH</middlename>
+								 <surname>SHARMA RESIDENT OF KAMAL COTTAGE SHAKTI VIHAR PANTHAGHATI BEOLIA</surname>,
+							</persName>
+							<persName>
+								 <forename>SHIMLA</forename>
+								 <surname>TEHSIL</surname> &amp;
+								 <middlename>DISTRICT</middlename>
+							</persName>
+							<persName>
+								 <surname>SHIMLA</surname>, H.P. THE
+								 <forename>PERSONNEL</forename>
+							</persName>
+							<persName>
+								 <surname>DEPARTMENT</surname>, GOVERNMENT OF H.P. SHIMLA-02, THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL</forename>
+							</persName>
+							<persName>
+								 <surname>DEPARTMENT</surname>, GOVERNMENT OF H.P. SHIMLA-02, THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL</forename>
+							</persName>
+							<persName>
+								 <surname>DEPARTMENT</surname>, GOVERNMENT OF H.P. SHIMLA-02, THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL</forename>
+							</persName>
+							<persName>
+								 <surname>DEPARTMENT</surname>, GOVERNMENT OF H.P. SHIMLA-02, THROUGH ITS SECRETARY. THE
+								 <forename>PERSONNEL</forename>
+							</persName>
+							<persName>
+								 <surname>DEPARTMENT</surname>, GOVERNMENT OF H.P. SHIMLA-02, THROUGH ITS SECRETARY.
+								 <forename>PRATAP</forename>
+							</persName>
+							<persName>
+								 <surname>SINGH</surname>
+								 <forename>BAL KRISHAN SON OF SHRI MEGH RAM RESIDENT OF VILLAGE</forename>
+							</persName>
+							<persName>
+								 <surname>DIMO</surname>,
+								 <middlename>POST</middlename> OFFICE
+							</persName>
+							<persName>
+								 <surname>SARAIN TEHSIL CHOPAL DISTRICT SHIMLA</surname>.
+							</persName>
+							<persName>
+								 <surname>MS</surname>.
+								 <forename>SUCHITRA</forename>
+							</persName>
+							<persName>
+								 <surname>SEN</surname>,
+							</persName>
+							<persName>
+								 <surname>ADVOCATES</surname>, FOR THE APPELLANTS IN LPA NOS. 116 TO
+							</persName>
+						</petitioner>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

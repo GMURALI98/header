@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent>
+							<persName>
+ The
+								 <forename>Tamil</forename>
+								 <surname>Nadu</surname>
+							</persName>
+							<persName>
+								 <forename>State</forename>
+								 <surname>Marketing</surname>
+							</persName>
+							<persName>
+								 <forename>Corporation</forename>
+								 <surname>Ltd</surname>.,(TASMAC) Rep.by its Managing Director, &quot;Thalamuthu
+							</persName>
+							<persName>
+								 <forename>Natarajan</forename>
+								 <surname>Maaligai</surname>
+							</persName>
+							<persName>
+								<forename>&quot;</forename>, The
+							</persName>
+							<persName>
+								 <forename>Tamil</forename>
+								 <surname>Nadu</surname>
+							</persName>
+							<persName>
+								 <forename>State</forename>
+								 <surname>Marketing</surname>
+							</persName>
+							<persName>
+								 <forename>Corporation</forename>
+								 <surname>Ltd</surname>.,(TASMAC), The
+							</persName>
+							<persName>
+								 <forename>Tamil</forename>
+								 <surname>Nadu</surname>
+							</persName>
+							<persName>
+								 <forename>State</forename>
+								 <surname>Marketing</surname>
+							</persName>
+							<persName>
+								 <forename>Corporation</forename>
+								 <surname>Ltd</surname>.,(TASMAC), Rep. by its District Manager, Thiruvallur (East) District, No.1,
+							</persName>
+							<persName>
+								 <forename>Banglore</forename>
+								 <surname>Highway</surname>, Sembarambakkam, Chennai 602 103, Thiruvallur District. The
+							</persName>
+							<persName>
+								 <forename>Tamil</forename>
+								 <surname>Nadu</surname>
+							</persName>
+							<persName>
+								 <forename>State</forename>
+								 <surname>Marketing</surname>
+							</persName>
+							<persName>
+								 <forename>Corporation</forename>
+								 <surname>Ltd</surname>.,(TASMAC), Rep.by its District Manager, Chennai (Central), District, No.B-4, Ambattur Industrial Estate, Ambattur, Chennai-600 058.
+							</persName>
+						</respondent>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

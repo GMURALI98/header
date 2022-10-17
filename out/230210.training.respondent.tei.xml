@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent>
+							<persName>
+								 <forename>Mishra</forename>
+								 <surname>Dhatu</surname> Nigam Limited (MIDHANI) Apollo Hospitals Enterprise Limited Cancer Institute (W.I.A) (Regional Cancer Centre), Canal
+							</persName>
+							<persName>
+								 <forename>Bank</forename>
+								 <surname>Road</surname>
+							</persName>
+							<persName>
+								 <forename>Gandhi</forename>
+								 <surname>Nagar</surname>, Adyar
+							</persName>
+						</respondent>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

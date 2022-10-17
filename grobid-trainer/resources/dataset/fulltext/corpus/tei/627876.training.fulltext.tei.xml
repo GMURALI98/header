@@ -35,8 +35,6 @@
 			<lb />
 		</p>
 		<p>
-			2/14
-			<lb />
 			and from 01.07.2017, dealers were entitled to get credits, which were available
 			<lb />
 			in their accounts or electronic ledger account (as was the practice under fiscal
@@ -128,7 +126,7 @@
 			seven months is as follows:
 			<lb />
 		</p>
-		<table>
+		<figure type="table">
 			Sl.No
 			<lb />
 			.
@@ -195,7 +193,7 @@
 			<lb />
 			26-Feb-2018
 			<lb />
-		</table>
+		</figure>
 		<p>
 			15. With regard to the technical glitch, first respondent in the counter
 			<lb />
@@ -248,34 +246,38 @@
 			paragraph four read as follows:
 			<lb />
 		</p>
-		<item>
-			It has been decided to put in place an IT-Grievance Redressal
-			<lb />
-			Mechanism to address the difficulties faced by a section of tax payers owing to
-			<lb />
-			technical glitches on the GST portal and the relief that needs to be given to
-			<lb />
-			them. The relief could be in the nature of allowing filing of any Form or Return
-			<lb />
-			prescribed in law or amending any Form or Return already filed. The details of
-			<lb />
-			the said grievance redressal mechanism are provided below:
-			<lb />
-		</item>
+		<list>
+			<item>
+				It has been decided to put in place an IT-Grievance Redressal
+				<lb />
+				Mechanism to address the difficulties faced by a section of tax payers owing to
+				<lb />
+				technical glitches on the GST portal and the relief that needs to be given to
+				<lb />
+				them. The relief could be in the nature of allowing filing of any Form or Return
+				<lb />
+				prescribed in law or amending any Form or Return already filed. The details of
+				<lb />
+				the said grievance redressal mechanism are provided below:
+				<lb />
+			</item>
+		</list>
 		<head>
 			4. IT-Grievance Redressal Committee:
 			<lb />
 		</head>
-		<item>
-			Any issue which needs to be addressed through this mechanism shall
-			<lb />
-			be identified by GSTN and the method of resolution approved by the GST
-			<lb />
-			glitches, the CEO, GSTN and the DG (Systems), CBEC shall participate in these
-			<lb />
-			meetings as special invites.
-			<lb />
-		</item>
+		<list>
+			<item>
+				Any issue which needs to be addressed through this mechanism shall
+				<lb />
+				be identified by GSTN and the method of resolution approved by the GST
+				<lb />
+				glitches, the CEO, GSTN and the DG (Systems), CBEC shall participate in these
+				<lb />
+				meetings as special invites.
+				<lb />
+			</item>
+		</list>
 		<p>
 			18. This Court is informed that any complaint to the aforesaid ITA
 			<lb />
@@ -292,112 +294,114 @@
 			to pass the following order:
 			<lb />
 		</p>
-		<item>
-			a) Writ petitioner shall provide a bank guarantee for Rs.25
-			<lb />
-			lakhs in a format required by the first respondent within one
-			<lb />
-			week from the date of receipt of a copy of this order.
-			<lb />
-		</item>
-		<item>
-			b) One of the share holding directors of the writ petitioner
-			<lb />
-			company shall provide a personal bond in a format as required by
-			<lb />
-			first respondent for the balance sum within one week from the
-			<lb />
-			date of receipt of a copy of this order. To be noted after
-			<lb />
-			deducting 25 lakhs bank guarantee, the balance sum is
-			<lb />
-			Rs.1,39,49,541/-.
-			<lb />
-		</item>
-		<item>
-			c) Thereafter writ petitioner shall send a detailed
-			<lb />
-			communication addressed to the Principal Commissioner of GST
-			<lb />
-			and Central Excise, North Commissionerate, Chennai 34, within
-			<lb />
-			one week therefrom setting out details of the technical glitch
-			<lb />
-			inclusive i.e seven months in all).
-			<lb />
-		</item>
-		<item>
-			d) The Jurisdictional Principal Commissioner shall do the
-			<lb />
-			needful in this regard as expeditiously as possible to ensure that
-			<lb />
-			the same is reached to the I.T.Grievance Redressal Committee
-			<lb />
-			via GSTN, so that the I.T. Grievance Redressal Committee can
-			<lb />
-			take a decision on the technical glitch within one week from the
-			<lb />
-			date of submission of the representation to the Principal
-			<lb />
-			Commissioner.
-			<lb />
-		</item>
-		<item>
-			e) It is open to the I.T. Grievance Redressal Committee to
-			<lb />
-			call for further information from the writ petitioner and/or afford
-			<lb />
-			a personal hearing, if deemed necessary, to take a decision on
-			<lb />
-			the complaint of technical glitch encountered by the writ
-			<lb />
-			petitioner.
-			<lb />
-		</item>
-		<item>
-			f) The decision of the Committee shall be communicated to
-			<lb />
-			the writ petitioner under due acknowledgement within seven
-			<lb />
-			working days from the date of the decision.
-			<lb />
-		</item>
-		<item>
-			g) As the Principal Commissioner is not arrayed as a party
-			<lb />
-			to the instant writ petition, learned standing counsel for Revenue
-			<lb />
-			shall communicate this order to the jurisdictional Principal
-			<lb />
-			Commissioner with a request to do the needful.
-			<lb />
-		</item>
-		<item>
-			h) Though obvious, the demand of interest being dropped,
-			<lb />
-			pursued or partly pursued will depend upon the decision taken by
-			<lb />
-			the I.T. Grievance Redressal Committee.
-			<lb />
-		</item>
-		<item>
-			i) On deposit of 25 lakhs and production of bank guarantee
-			<lb />
-			in the aforesaid manner, the attachment of the writ petitioner&apos;s
-			<lb />
-			account in second respondent bank will stand lifted/raised and
-			<lb />
-			the impugned communication dated 03.05.2019 bearing
-			<lb />
-			C.No.IV/16/22/2019-GST shall be in kept in abeyance till a
-			<lb />
-			decision is taken by the I.T. Grievance Redressal Committee and
-			<lb />
-			communicated to the Writ Petitioner in the aforesaid manner and
-			<lb />
-			within the aforesaid time frame.
-			<lb />
-		</item>
+		<list>
+			<item>
+				a) Writ petitioner shall provide a bank guarantee for Rs.25
+				<lb />
+				lakhs in a format required by the first respondent within one
+				<lb />
+				week from the date of receipt of a copy of this order.
+				<lb />
+			</item>
+			<item>
+				b) One of the share holding directors of the writ petitioner
+				<lb />
+				company shall provide a personal bond in a format as required by
+				<lb />
+				first respondent for the balance sum within one week from the
+				<lb />
+				date of receipt of a copy of this order. To be noted after
+				<lb />
+				deducting 25 lakhs bank guarantee, the balance sum is
+				<lb />
+				Rs.1,39,49,541/-.
+				<lb />
+			</item>
+			<item>
+				c) Thereafter writ petitioner shall send a detailed
+				<lb />
+				communication addressed to the Principal Commissioner of GST
+				<lb />
+				and Central Excise, North Commissionerate, Chennai 34, within
+				<lb />
+				one week therefrom setting out details of the technical glitch
+				<lb />
+				inclusive i.e seven months in all).
+				<lb />
+			</item>
+			<item>
+				d) The Jurisdictional Principal Commissioner shall do the
+				<lb />
+				needful in this regard as expeditiously as possible to ensure that
+				<lb />
+				the same is reached to the I.T.Grievance Redressal Committee
+				<lb />
+				via GSTN, so that the I.T. Grievance Redressal Committee can
+				<lb />
+				take a decision on the technical glitch within one week from the
+				<lb />
+				date of submission of the representation to the Principal
+				<lb />
+				Commissioner.
+				<lb />
+			</item>
+			<item>
+				e) It is open to the I.T. Grievance Redressal Committee to
+				<lb />
+				call for further information from the writ petitioner and/or afford
+				<lb />
+				a personal hearing, if deemed necessary, to take a decision on
+				<lb />
+				the complaint of technical glitch encountered by the writ
+				<lb />
+				petitioner.
+				<lb />
+			</item>
+			<item>
+				f) The decision of the Committee shall be communicated to
+				<lb />
+				the writ petitioner under due acknowledgement within seven
+				<lb />
+				working days from the date of the decision.
+				<lb />
+			</item>
+			<item>
+				g) As the Principal Commissioner is not arrayed as a party
+				<lb />
+				to the instant writ petition, learned standing counsel for Revenue
+				<lb />
+				shall communicate this order to the jurisdictional Principal
+				<lb />
+				Commissioner with a request to do the needful.
+				<lb />
+			</item>
+			<item>
+				h) Though obvious, the demand of interest being dropped,
+				<lb />
+				pursued or partly pursued will depend upon the decision taken by
+				<lb />
+				the I.T. Grievance Redressal Committee.
+				<lb />
+			</item>
+			<item>
+				i) On deposit of 25 lakhs and production of bank guarantee
+				<lb />
+				in the aforesaid manner, the attachment of the writ petitioner&apos;s
+				<lb />
+				account in second respondent bank will stand lifted/raised and
+				<lb />
+				the impugned communication dated 03.05.2019 bearing
+				<lb />
+				C.No.IV/16/22/2019-GST shall be in kept in abeyance till a
+				<lb />
+				decision is taken by the I.T. Grievance Redressal Committee and
+				<lb />
+				communicated to the Writ Petitioner in the aforesaid manner and
+				<lb />
+				within the aforesaid time frame.
+				<lb />
+			</item>
+		</list>
 		<p>
 			20. With the above directions, this writ petition is disposed of.
 			<lb />

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="2832"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>*<lb/> THE</extra>
+
+	<court>HIGH COURT OF DELHI AT NEW DELHI<lb/></court>
+
+	<extra>%<lb/> Judgment delivered on:</extra>
+
+	<judgement_date>16.09.2011<lb/></judgement_date>
+
+	<extra>+<lb/></extra>
+
+	<case_numbers>WP(C) No.5438/2011<lb/></case_numbers>
+
+	<petitioner>BHUPEN ELECTRONICS LTD.<lb/></petitioner>
+	<extra>...... PETITIONER Vs<lb/></extra>
+
+	<respondent>APPELLATE AUTHORITY FOR INDUSTRIAL AND<lb/> FINANCIAL RECONSTRUCTION &amp; ORS.<lb/></respondent>
+	<extra>.... RESPONDENTS<lb/> Advocates who appeared in this case:<lb/> For the Petitioner :<lb/></extra>
+
+	<petitioner_lawyers>Ms.Pooja Verma<lb/></petitioner_lawyers>
+	<extra>For the Respondent:<lb/></extra>
+
+	<respondent_lawyers>Mr. Sachin Datta and Ms. Gayatri Verma<lb/>
+	<extra>CORAM :-<lb/></extra>
+
+	<judges>HON&apos;BLE MR JUSTICE SANJAY KISHAN KAUL<lb/> HON&apos;BLE MR JUSTICE RAJIV SHAKDHER</judges>
+
+		</front>
+	</text>
+</tei>

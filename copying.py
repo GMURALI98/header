@@ -2,7 +2,7 @@ from email import header
 import os
 import glob
 import shutil
-from matplotlib.pyplot import table
+
 
 from numpy import full
 

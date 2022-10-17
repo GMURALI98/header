@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent>
+							<persName>
+The
+								 <forename>Registrar</forename>,
+							</persName>
+							<persName>
+								 <forename>Anna</forename>
+								 <surname>University</surname>,
+							</persName>
+							<persName>
+								 <forename>Sardar</forename>
+								 <middlename>Patel</middlename>
+								 <surname>Road</surname>, Chennai 600 025.The Director,The
+							</persName>
+							<persName>
+								 <forename>Dean</forename>,
+							</persName>
+							<persName>
+								 <forename>Anna</forename>
+								 <surname>University</surname>
+							</persName>
+							<persName>
+								 <forename>Regional</forename>
+								 <surname>Campus</surname>, Tirunelveli, Tirunelveli District 627 007, Tirunelveli.
+							</persName>
+						</respondent>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

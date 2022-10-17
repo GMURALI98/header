@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="230210"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>IN THE</extra>
+
+	<court>HIGH COURT OF JUDICATURE AT MADRAS<lb/></court>
+
+	<extra>DATED:</extra>
+
+	<judgement_date>23-01-2014</judgement_date>
+
+	<extra>CORAM<lb/> THE</extra>
+
+	<judges>HON&apos;BLE MR.JUSTICE V.RAMASUBRAMANIAN<lb/></judges>
+
+	<case_numbers>Civil Suit No.562 of 2007<lb/></case_numbers>
+
+	<petitioner>M.C.Jayasingh<lb/></petitioner>
+	<extra>...Plaintiff Vs<lb/> 1.</extra>
+
+	<respondent>Mishra Dhatu Nigam Limited (MIDHANI)<lb/></respondent>
+	<extra>rep.by its Managing Director, Kanchanbagh<lb/> Hyderabad 500 058.<lb/> 2. Apollo Hospitals, Jubilee Hills Road<lb/> Banjara Hills, Hyderabad 500 033.<lb/> 3.</extra>
+
+	<respondent>Apollo Hospitals Enterprise Limited<lb/></respondent>
+	<extra>Ali Towers, IV Floor, 55, Greams Road<lb/> Chennai 600 006.<lb/> 4.</extra>
+
+	<respondent>Cancer Institute (W.I.A) (Regional<lb/> Cancer Centre), Canal Bank Road<lb/> Gandhi Nagar, Adyar</respondent>
+	<extra>, Chennai 600 020.<lb/> ...Defendants<lb/> -----<lb/>Plaint under Order VII, Rule 1, CPC, read with Order IV, Rule of the Original Side<lb/> Rules, Section 108 read with Section 50(1) of the Patents Act, 1970 and Section 22(2)(b)<lb/> of the Designs Act, 2000.<lb/> -----<lb/>For Plaintiff<lb/> :</extra>
+
+	<petitioner_lawyers>Mr.M.Sundar<lb/></petitioner_lawyers>
+	<extra>For Defendant-1<lb/> :</extra>
+
+	<respondent_lawyers>Mr.V.Chandrakanthan<lb/>
+	<extra>For Defendants 2&amp;3 :</extra>
+
+	<respondent_lawyers>Mr.C.Manishankar<lb/>
+	<extra>For Defendant-4<lb/> :</extra>
+
+	<respondent_lawyers>Mr.N.L.Rajah<lb/>
+	<extra>-----<lb/></extra>
+
+	<document_type>J U D G M E N T</document_type>
+
+		</front>
+	</text>
+</tei>

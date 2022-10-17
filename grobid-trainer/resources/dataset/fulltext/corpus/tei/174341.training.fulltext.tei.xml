@@ -1,241 +1,2226 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <tei xml:space="preserve">
 	<teiHeader>
-		<fileDesc xml:id="0"/>
+		<fileDesc xml:id="0" />
 	</teiHeader>
 	<text xml:lang="en">
-			<p>1.<lb/> Leave granted in all matters.<lb/></p>
-
-			<p>2.<lb/> These appeals are against various orders of Delhi High Court<lb/> connected to the AmazonFuture dispute. Civil Appeals arising<lb/> out of SLP (C) No. 1354748 of 2021 and SLP (C) No. 1355657<lb/> of 2021, impugns order dated 02.02.2021 and 18.03.2021<lb/> passed in OMP (ENF) (Comm) 17 of 2021 and Civil Appeals<lb/> arising out of SLP (C) Nos. 18089 and 18080 of 2021, are<lb/> against impugned orders dated 29.10.2021 passed in Arb. A<lb/> (Comm.) No. 63 of 2021 and I.A. No. 14285 of 2021 in Arb. A<lb/> (Comm.) No. 64 of 2021 respectively.<lb/></p>
-
-			<p>2<lb/></p>
-
-			<p>3.<lb/> At the outset, it is necessary for this Court to have a brief<lb/> background before indulging in analyzing the issue at hand.<lb/> On 22.08.2019, Amazon entered into Shareholder and Share<lb/> Subscription Agreements with Future Coupon Private Limited<lb/> (FCPL). Through these instruments, Amazon intended to<lb/> acquire 49% stake in FCPL. The aforesaid agreements<lb/> contained an arbitration agreement, wherein parties resolved<lb/> to settle their disputes in accordance with the Arbitration<lb/> Rules of the Singapore International Arbitration Center (SIAC).<lb/> The parties had further resolved to have the seats at New<lb/> Delhi.<lb/></p>
-
-			<p>4.<lb/> On 12.08.2019, FCPL and its promoters entered into a<lb/> Shareholder Agreement with Future Retail Limited (FRL).<lb/> Through this Agreement, FCPL was granted certain protective<lb/> rights. One such right is produced as under:<lb/> Clause 10 of SHA:<lb/></p>
-
-			<p>10. TRANSFER OF RETAIL ASSETS<lb/></p>
-
-			<item>10.1 As of the Execution Date, the Company has<lb/> set up an aggregate of at least 1,534 (one<lb/> thousand five hundred and thirty four) retail<lb/> outlets/formats including without limitation<lb/> the Small Store formats across India and<lb/> such retail outlets/stores are an integral part<lb/> of the business conducted by the Company<lb/> representing a significant and substantial<lb/> part of the business conducted by the<lb/> Company. The Existing Shareholders and<lb/> the Company further agree, covenant and<lb/> undertake to FCL that the Company shall be<lb/> the sole vehicle for the conduct of such<lb/> current business comprising of a widespread<lb/> network of the retail outlets/formats<lb/> including without limitation the Small Store<lb/> formats that the Company has established<lb/> and is operating<lb/> across India and<lb/> consequently such business shall continue<lb/> to be an integral part of the Company&apos;s<lb/> business.<lb/></item>
-
-			<item>10.2 Accordingly, any sale, divestment, transfer,<lb/> disposal, etc., of such retail outlets/ formats<lb/> including without limitation the Small Store<lb/> Formats shall be in accordance with this<lb/> Agreement, and the company and the<lb/> Existing<lb/> shareholders<lb/> covenant<lb/> and<lb/> undertake that during the subsistence of this<lb/> Agreement, the company shall not transfer,<lb/> or dispose off the Retail Assets except as<lb/> otherwise mutually agreed between the<lb/> Company, the Existing Shareholders and<lb/> FCL in writing.<lb/></item>
-
-			<item>10.3 Notwithstanding anything contained herein,<lb/> the Company and the Existing Shareholders<lb/> agree that the Retail Assets shall not be<lb/> transferred,<lb/> Encumbered<lb/> divested,<lb/> or<lb/> disposed of, directly or indirectly, in favour of<lb/> a Restricted Person.<lb/></item>
-
-			<p>There is no dispute that one of the restricted persons included<lb/> the Reliance Group.<lb/></p>
-
-			<p>5.<lb/> As in March 2020, FRL submitted that there was business<lb/> downturn due to Covid19 lockdowns as there were<lb/> restrictions on retail sale through brickandmortar shops. In<lb/> light of the same, the Board of FRL decided to sell, retail<lb/> businesses and assets to Reliance, for a consideration in<lb/> excess of Rs. 25,000 crores. Further, it is contended by FRL<lb/> that there were outstanding loans of about Rs.20,000 crores<lb/> with a serious and tangible risk of becoming insolvent. It is<lb/> submitted that it was in this context that the subsequent<lb/> transaction was entered into to alleviate its financial position<lb/> and protect employment of around 25,000 employees of the<lb/> Future Group.<lb/></p>
-
-			<p>6.<lb/> Aggrieved by the aforesaid sale transaction, Amazon initiated<lb/> arbitration proceedings before the SIAC. Amazon filed an<lb/> application for emergency relief with the Registrar of the SIAC<lb/> Court of Arbitration seeking interim prohibitory injunction to<lb/> prevent FRL and FCPL from taking further steps in the<lb/> aforesaid transaction with the Reliance Group. Parallelly, FRL<lb/> filed a suit before the Delhi High Court registered as<lb/> CS(COMM) No. 493 of 2020, against Amazon for tortious<lb/> interference in the Scheme for the sale of assets.<lb/></p>
-
-			<p>7.<lb/> On 25.10.2020, the Emergency Arbitrator passed an Interim<lb/> Award in favor of Amazon. It may be noticed that the<lb/> Emergency Arbitrator and the Single Bench came to<lb/> diametrically opposite conclusions which are juxtaposed<lb/> herein below:<lb/></p>
-
-			<p>Order of Emergency Arbitrator<lb/> dated 25.10.2020<lb/> Order of Single Judge Bench<lb/> in I.A. No. 10376 of 2020 in<lb/> CS(COMM) No. 493 of 2020<lb/> dated 21.12.2020<lb/> 285. In the result, I award, direct,<lb/> and order as follows:<lb/></p>
-
-			<item>(a) the Respondents are<lb/> injuncted from taking<lb/> any steps in furtherance<lb/> or in aid of the Board<lb/> Resolution made by the<lb/> Board of Directors or<lb/> FRL on 29 August 2019<lb/> in<lb/> relation<lb/> to<lb/> the<lb/> Disputed<lb/> Transaction,<lb/> including but not limited<lb/> to filing or pursuing any<lb/> application before any<lb/> person,<lb/> including<lb/> regulatory<lb/> bodies<lb/> or<lb/> agencies in India, or<lb/> requesting for approval<lb/> at any company meeting;<lb/></item>
-
-			<item>(b) the Respondents are<lb/> injuncted from taking<lb/> any steps to complete<lb/> the<lb/> Disputed<lb/> Transaction with entities<lb/> that are part of the MDA<lb/></item>
-
-			<item>12.3 Thus the trinity of the<lb/> principles for grant of interim<lb/> injunction i.e. prima facie case,<lb/> irreparable loss and balance of<lb/> convenience are required to be<lb/> tested in terms of principles as<lb/> noted above. Since this Court<lb/> has held that prima facie the<lb/> representation<lb/> of<lb/> Amazon<lb/> based on the pea that the<lb/> resolution dated 29 th August,<lb/> 2020 of FRL is void and that<lb/> on conflation of the FCPL SHA<lb/> and FRL SHA, the &apos;control&apos; that<lb/> is sought to be asserted by<lb/> Amazon on FRL is not<lb/> permitted under the FEMA FDI<lb/> Rules,<lb/> without<lb/> the<lb/> governmental approvals, this<lb/> Court finds that FRL has made<lb/> out a prima facie case in its<lb/> favour for grant of interim<lb/> injunction. However, the main<lb/> tests in the present case are in<lb/> respect<lb/> of<lb/> &quot;balance<lb/> of<lb/> Group;<lb/></item>
-
-			<item>(c) without prejudice to the<lb/> rights of any current<lb/> Promoter Lenders, the<lb/> Respondents<lb/> are<lb/> injuncted from directly<lb/> or indirectly taking any<lb/> steps<lb/> to<lb/> transfer/dispose/alienat<lb/> e/encumber FRL&apos;s Retail<lb/> Assets or the shares<lb/> held in FRL by the<lb/> Promoters<lb/> in<lb/> any<lb/> manner<lb/> without<lb/> the<lb/> prior written consent of<lb/> the Claimant;<lb/></item>
-
-			<item>(d) the Respondents are<lb/> injuncted from issuing<lb/> securities of FRL or<lb/> obtaining/securing any<lb/> financing, directly or<lb/> indirectly,<lb/> from<lb/> any<lb/> Restricted Person that<lb/> will be in any manner<lb/> contrary<lb/> to<lb/> Section<lb/> 13.3.1 of the FCPL SHA;<lb/></item>
-
-			<item>(e) the orders in (a) to (d)<lb/> above are to take effect<lb/> immediately and will<lb/> remain in place until<lb/> further order from the<lb/> Tribunal,<lb/> when<lb/> constituted; and<lb/></item>
-
-			<item>(f)<lb/> the<lb/> Claimant is<lb/> to<lb/> provide within 7 days<lb/> from the date hereof a<lb/> crossundertaking<lb/> in<lb/> damages<lb/> to<lb/> the<lb/> Respondents.<lb/></item>
-
-			<item>If the<lb/> Parties are unable to<lb/> agree on its terms, they<lb/> convenience&quot; and &quot;irreparable<lb/> loss&quot;. Even if a prima facie<lb/> case is made out by FRL, the<lb/> balance of convenience lies<lb/> both in favour of FRL and<lb/> Amazon. If the case of FRL is<lb/> that the representation by<lb/> Amazon to the statutory<lb/> authorities/regulators is based<lb/> on illegal premise, Amazon has<lb/> also based its representation<lb/> on alleged breach of FCPL SHA<lb/> and FRL SHA, as also the<lb/> directions in the EA order.<lb/> Hence it cannot be said that<lb/> the balance of convenience lies<lb/> in favour of FRL and not in<lb/> favour of Amazon. It would be<lb/> a matter of trial after parties<lb/> have led their evidence or if<lb/> decided<lb/> by<lb/> any<lb/> other<lb/> competent forum to determine<lb/> whether the representation of<lb/> Amazon that the transaction<lb/> between FRL and Reliance<lb/> being in breach of the FCPL<lb/> SHA and FRL SHA would<lb/> outweigh the plea of FRL in the<lb/> present suit. Further in case<lb/> Amazon is not permitted to<lb/> represent its case before the<lb/> statutory<lb/> authorities/Regulators, it will<lb/> suffer an irreparable loss as<lb/> Amazon also claims to have<lb/> created preemptive rights in its<lb/> favour in case the Indian law<lb/> permitted in future. Further<lb/> there may not be irreparable<lb/> loss to FRL for the reason even<lb/> if<lb/> Amazon<lb/> makes<lb/> a<lb/> are<lb/> to<lb/> refer<lb/> their<lb/> differences to me qua EA<lb/> for resolution; and<lb/></item>
-
-			<item>(g) the<lb/> costs<lb/> of<lb/> this<lb/> Application be part of<lb/> the<lb/> costs<lb/> of<lb/> this<lb/> Arbitration.<lb/> representation<lb/> based<lb/> on<lb/> incorrect facts thereby using<lb/> unlawful means, it will be for<lb/> the<lb/> statutory<lb/> authorities/Regulators<lb/> to<lb/> apply their mind to the facts<lb/> and legal issues therein and<lb/> come to the right conclusion.<lb/> There is yet another aspect<lb/> as to why no interim<lb/> injunction can be granted in<lb/> the present application for<lb/> the reason both FRL and<lb/> Amazon have already made<lb/> their representations and<lb/> counter representations to<lb/> the<lb/> statutory<lb/> authorities/regulators<lb/> and<lb/> now it is for the Statutory<lb/> Authorities/Regulators<lb/> to<lb/> take a decision thereon.<lb/> Therefore, this Court finds<lb/> that no case for grant of<lb/> interim injunction is made<lb/> out in favour of the FRL and<lb/> against Amazon.<lb/></item>
-
-			<item>13. Consequently,<lb/> the<lb/> present application is disposed<lb/> of, declining the grant of<lb/> interim injunction as prayed<lb/> for by FRL, however, the<lb/> Statutory<lb/> Authorities/Regulators<lb/> are<lb/> directed to take the decision on<lb/> the applications/objections in<lb/> accordance with law.<lb/></item>
-
-			<p>8.<lb/> In the meanwhile, CCI and SEBI approved the composite<lb/> Scheme proposed by FRLReliance. Thereafter, FRL filed for<lb/> sanction of the composite Scheme of arrangement under the<lb/> provisions of Sections 230 to 232 of the Companies Act, 2013<lb/> before National Company Law Tribunal (NCLT).<lb/></p>
-
-			<p>9.<lb/> Amazon filed a Petition for enforcement of the Emergency<lb/> Arbitrator Award, under Section 17(2) of the Arbitration and<lb/> Conciliation Act, 1996, before the Delhi High Court on<lb/> 25.01.2021 and the same was heard for the first time on<lb/> 28.01.2021. As the appellants herein challenge the impugned<lb/> order on the ground of failure to adhere to the principles of<lb/> natural justice, it is apt to reproduce certain procedural orders<lb/> passed by the learned Single Judge, Justice Midha, in OMP<lb/> (ENF) (COMM) No.17 of 2021. On 28.01.2021, the following<lb/> order was passed:<lb/></p>
-
-			<item>&quot;1. The hearing has been conducted<lb/> through video conference.<lb/></item>
-
-			<item>2. Arguments partly heard.<lb/></item>
-
-			<item>3. List for continuation of the arguments<lb/> on 29th January, 2021 at the end of<lb/> the Board.<lb/></item>
-
-			<item>4. The order be uploaded on the website of<lb/> this Court forthwith.&quot;<lb/> On 29.01.2021, the following order was passed:<lb/></item>
-
-			<item>9<lb/> The hearing has been conducted through<lb/> video conference.<lb/></item>
-
-			<item>2.<lb/> Issue<lb/> notice.<lb/> Learned<lb/> counsels<lb/> for<lb/> respondents accept notice.<lb/></item>
-
-			<item>3.<lb/> Further arguments heard from 02:45 PM to<lb/> 04:30 PM.<lb/></item>
-
-			<item>4.<lb/> List for continuation of the arguments on<lb/> 01st February, 2021.<lb/></item>
-
-			<item>5.<lb/> Both the parties have submitted brief note<lb/> of submissions.<lb/></item>
-
-			<item>6.<lb/> Learned senior counsel for the respondent<lb/> No.2 submits that he shall file additional<lb/> note of submissions on the factual aspect<lb/> by tomorrow afternoon with advance copy<lb/> to the counsel for the petitioner by<lb/> tomorrow evening. Respondent No.2 shall<lb/> also respond to the brief note of<lb/> submissions of the petitioner relating to the<lb/> facts.<lb/></item>
-
-			<item>7.<lb/> The order be uploaded on the website of<lb/> this Court forthwith.&quot;<lb/> On 01.02.2021, the following order was passed:<lb/></item>
-
-			<item>&quot;1.<lb/> Respondent No.2 has filed additional<lb/> submissions to which the petitioner has<lb/> filed the response.<lb/></item>
-
-			<item>2.<lb/> Learned<lb/> senior<lb/> counsels<lb/> for<lb/> the<lb/> respondents have concluded the oral<lb/> arguments.<lb/></item>
-
-			<item>3.<lb/> List for rejoinder submissions of the<lb/> petitioner on 02nd February, 2021.<lb/></item>
-
-			<item>4.<lb/> It is clarified that no further written<lb/> submissions shall be filed by any of the<lb/> parties.&quot;<lb/></item>
-
-			<p>10. On 02.02.2021, the first substantive order [1 st impugned<lb/> Order] was passed in the following manner:<lb/></p>
-
-			<item>&quot;8. This Court is of the prima facie view that<lb/> the Emergency Arbitrator is an Arbitrator; the<lb/> Emergency Arbitrator has rightly proceeded<lb/> against the respondent No.2; the order dated<lb/> 25th October, 2020 is not a nullity; the order<lb/> dated 25th October, 2020 is an order under<lb/> Section 17(1) of the Arbitration and Conciliation<lb/> Act. This Court is of the view that the order dated<lb/> 25th October, 2020 is appealable under Section<lb/> 37 of the Arbitration and Conciliation Act. This<lb/> Court is of the clear view that the order dated<lb/> 25th October, 2020 is enforceable as an order of<lb/> this Court under Section 17(2) of the Arbitration<lb/> and Conciliation Act. The detailed reasons shall<lb/> be given in the reserved order.<lb/></item>
-
-			<item>9.<lb/> This Court is satisfied that immediate<lb/> orders are necessary to protect the rights of the<lb/> petitioner till the pronouncement of the reserved<lb/> order. In that view of the matter, the respondents<lb/> are directed to maintain status quo as on today<lb/> at 04.50 P.M. till the pronouncement of the<lb/> reserved order. The respondents are directed to<lb/> file an affidavit to place on record the actions<lb/> taken by them after 25th October, 2020 and the<lb/> present status of all those actions, within 10<lb/> days. All the concerned authorities are directed to<lb/> maintain status quo with respect to all matters in<lb/> violation of the order dated 25th October, 2020<lb/> and shall file the status report with respect to the<lb/> present status within 10 days of the receipt of<lb/> this order. The other prayers of the petitioner<lb/> shall be considered in the reserved order.<lb/></item>
-
-			<item>10. Copy of this order be given dasti under<lb/> signatures of the Court Master to counsels for the<lb/> parties. Copy of this order be also given dasti<lb/> under signatures of the Court Master to Mr.<lb/> Kirtiman Singh, learned Central Government<lb/> Standing Counsel who shall send the same to all<lb/> the concerned authorities dealing with the<lb/> actions initiated by the respondents in violation<lb/> of the order dated 25th October, 2020. The<lb/> petitioner shall send the list of all the authorities<lb/> to Mr. Kirtiman Singh, learned Central<lb/> Government Standing Counsel within three<lb/> days.&quot;<lb/></item>
-
-			<p>11. Aggrieved by the stay order granted by the learned Single<lb/> Judge, while reserving the matter, FRL filed an intracourt<lb/> appeal before the Division Bench in FAO OS (Comm.) No. 21 of<lb/> 2021. The Division Bench vide Order dated 08.02.2021,<lb/> passed the following order:<lb/></p>
-
-			<item>&quot;12. It is made clear that the observations made<lb/> in this order are only a prima facie view for the<lb/> purpose of grant of interim relief and shall not<lb/> come in the way of the learned Single Judge in<lb/> passing the final order in OMP(ENF)(Comm)<lb/> No.17/2021 and needless to state that the order<lb/> shall<lb/> be<lb/> passed<lb/> uninfluenced<lb/> by<lb/> any<lb/> observations made hereinabove.&quot;<lb/></item>
-
-			<p>12. Amazon appealed against this Order before the Supreme Court<lb/> in SLP (C) No. 285657 of 2021. Vide order dated 22.02.2021,<lb/> this Court interalia held as under:<lb/> &quot;In the meantime, the NCLT proceedings will<lb/> be allowed to go on but will not culminate in<lb/> any final order of sanction of scheme.&quot;<lb/> (Emphasis supplied)<lb/></p>
-
-			<p>13. Again on 18.03.2021, the learned Single Judge in OMP (ENF)<lb/> (COMM) No.17 of 2021, passed the 2 nd impugned order with<lb/> aforesaid directions:<lb/></p>
-
-			<item>&quot;188. The Emergency Arbitrator is an Arbitrator<lb/> for all intents and purposes; order of the<lb/> Emergency Arbitrator is an order under Section<lb/> 17(1) and enforceable as an order of this Court<lb/> under Section 17(2) of the Arbitration and<lb/> Conciliation Act.<lb/> …………<lb/></item>
-
-			<item>190. The respondents have raised a vague plea<lb/> of Nullity without substantiating the same. The<lb/> interim order of the Emergency Arbitrator is not a<lb/> Nullity as alleged by respondent No.2.<lb/></item>
-
-			<item>191. Combining/treating all the agreements as a<lb/> single integrated transaction does not amount to<lb/> control of the petitioner over FRL and therefore,<lb/> the petitioner&apos;s investment does not violate any<lb/> law.<lb/></item>
-
-			<item>192. All the objections raised by the respondents<lb/> are hereby rejected with cost of Rs.20,00,000/ to<lb/> be deposited by the respondents with the Prime<lb/> Minister Relief Fund for being used for providing<lb/> COVID vaccination to the Below Poverty Line<lb/> (BPL) category senior citizens of Delhi. The cost<lb/> be deposited within a period of two weeks and the<lb/> receipt be placed on record within one week of<lb/> the deposit.<lb/></item>
-
-			<item>193. The respondents have deliberately and<lb/> wilfully violated the interim order dated 25th<lb/> October, 2020 and are liable for the<lb/> consequences enumerated in Order XXXIX Rule<lb/> 2A of the Code of Civil Procedure.<lb/></item>
-
-			<item>194. In exercise of power under Order XXXIX<lb/> Rule 2A(1) of the Code of Civil Procedure, the<lb/> assets of respondents No.1 to 13 are hereby<lb/> attached. Respondents No.1 to 13 are directed to<lb/> file an affidavit of their assets as on today in<lb/> Form 16A, Appendix E under Order XXI Rule<lb/> 41(2) of the Code of Civil Procedure within 30<lb/> days. Respondent No.1, 2, 12 and 13 are directed<lb/> to file an additional affidavit in the format of<lb/> Annexure B1 and respondents No.3 to 11 are<lb/> directed to file an additional affidavit in the<lb/> format of Annexure A1 to the judgment of M/s<lb/> Bhandari Engineers &amp; Builders Pvt. Ltd. v.<lb/> M/s Maharia Raj Joint Venture, (supra) along<lb/> with the documents mentioned therein within 30<lb/> days.&quot;<lb/></item>
-
-			<p>14. In the interregnum, the FCPL and FRL approached the Division<lb/> Bench of the Delhi High Court in FAO (OS) (COM) No.50 and<lb/> 51 of 2021 respectively against the 2 nd impugned order<lb/> passed by the learned Single Judge which was stayed vide<lb/> Order dated 22.03.2021.<lb/></p>
-
-			<p>15. Subsequently, Amazon filed SLP (C) Nos. 61136114 of 2021<lb/> before this Court against the order dated 22.03.2021 passed<lb/> by the Division Bench of the High Court.<lb/></p>
-
-			<p>16. This Court consolidated all the appeals filed by Amazon before<lb/> this Court, heard the matters together and passed a final<lb/> judgment dated 06.08.2021, answering only the following two<lb/> legal questions:<lb/></p>
-
-			<p>i. Whether an Emergency Arbitrator&apos;s Award can be<lb/> said to be within the contemplation of the Arbitration<lb/> Act?<lb/></p>
-
-			<p>ii. Whether an order passed under Section 17(2) of<lb/> the Arbitration Act, in enforcement proceedings, is<lb/> appealable under Section 37 of the Arbitration Act?<lb/></p>
-
-			<p>17. This Court answered the first question in the following<lb/> manner:<lb/></p>
-
-			<item>&quot;41. We, therefore, answer the first question by<lb/> declaring that full party autonomy is given by the<lb/> Arbitration Act to have a dispute decided in<lb/> accordance with institutional rules which can<lb/> include Emergency Arbitrators delivering interim<lb/> orders, described as &quot;awards&quot;. Such orders are<lb/> an important step in aid of decongesting the civil<lb/> courts and affording expeditious interim relief to<lb/> the parties. Such orders are referable to and are<lb/> made under Section 17(1) of the Arbitration Act.&quot;<lb/> The second question was answered thus:<lb/></item>
-
-			<item>&quot;76. The second question posed is thus answered<lb/> declaring that no appeal lies under Section 37 of<lb/> the Arbitration Act against an order of<lb/> enforcement of an Emergency Arbitrator&apos;s order<lb/> made under Section 17(2) of the Act. As a result,<lb/> all interim orders of this Court stand vacated. The<lb/> impugned judgments of the Division Bench, dated<lb/> 8th February, 2021 and 22nd March, 2021, are<lb/> set aside. The appeals are disposed of<lb/> accordingly.&quot;<lb/></item>
-
-			<p>18. It may be noted that this Court, in the aforesaid judgment of<lb/> 06.08.2021, did not adjudicate upon the merits of the case<lb/> and limited its reasoning only to answer the legal questions<lb/> which arose therein. On a reading of this judgment, the<lb/> contention of the learned Senior Advocate Mr. Gopal<lb/> Subramanium, that this Court has upheld the Emergency<lb/> Arbitrator Award and did not interfere with the enforcement<lb/> orders in OMP (ENF)(Comm.) No. 17 of 2021, on merits, is not<lb/> correct. Although, the judgment narrates the facts leading up<lb/> to the appeal, the Court neither returned any findings on<lb/> facts, nor adjudicated on merits of the Order passed by<lb/> Justice Midha in the enforcement proceedings. It is this gap<lb/> which has led to the current round of litigation on merits of<lb/> the case for the second time before this Court.<lb/></p>
-
-			<p>19. In the meanwhile, FRL filed an application under Para 10 of<lb/> Schedule 1 of the SIAC Rules for vacating the Award of the<lb/> Emergency Arbitrator before the Arbitral Tribunal. The oral<lb/> submissions on the vacate petitions were heard between 12 th<lb/> 16 th of July 2021 and orders were reserved.<lb/></p>
-
-			<p>20. Contemporaneously, aggrieved by the merits of the orders of<lb/> the Single Judge dated 02.02.2021 and 18.03.2021, FCPL and<lb/> FRL preferred appeals directly before this Court in SLP (C) No.<lb/></p>
-
-			<p>1354748 of 2021 and SLP (C) No. 1355657 of 2021,<lb/> respectively. On 09.09.2021 the following interim order was<lb/> passed by this Court:<lb/></p>
-
-			<item>&quot;Heard learned senior counsel for the<lb/> parties at length and carefully perused the<lb/> material placed on record.<lb/> Issue notice.<lb/></item>
-
-			<item>Taking<lb/> into<lb/> consideration<lb/> the<lb/> submissions advanced by the learned senior<lb/> counsel for the parties and particularly the<lb/> fact that the parties have approached the<lb/> Singapore International Arbitration Centre for<lb/> vacating the Emergency Award passed by the<lb/> Emergency Arbitrator and the arguments in<lb/> the said matter have been ssconcluded and<lb/> the order is going to be pronounced shortly,<lb/> we think it fit to balance the interest of both the<lb/> parties by staying all further proceedings before<lb/> the Delhi High Court for the time being. Ordered<lb/> accordingly. We further direct to all the<lb/> authorities i.e. NCLT, CCI and SEBI not to<lb/> pass any final order for a period of four weeks<lb/> from today. This order has been passed with<lb/> the consent of both the parties.<lb/> List these matters after four weeks.&quot;<lb/> (Emphasis supplied)<lb/></item>
-
-			<p>21. Thereafter, the applications filed by FRL and FCPL for vacating<lb/> the award of the Emergency Arbitrator was dismissed by the<lb/> Arbitral Tribunal by Order dated 21.10.2021.<lb/></p>
-
-			<p>22. The aforesaid order of the Arbitral Tribunal, rejecting the<lb/> vacate petition, was challenged by FCPL and FRL before the<lb/> Delhi High Court in Arb. Pet. No. 63 of 2021 and Arb. Pet. No.<lb/> 64 of 2021. In Arb. Pet. No. 64 of 2021, FRL had filed IA No.<lb/> 14285/2021, seeking the following prayers:<lb/></p>
-
-			<item>a. Stay the operation of the impugned Order dated<lb/> 21.10.2021 passed by the Hon&apos;ble Arbitral Tribunal.<lb/></item>
-
-			<item>b. Alternatively, pass an order allowing the Appellant<lb/> to take steps pursuing the scheme, subject to the<lb/> condition that it shall not invite the passing of any<lb/> final orders of approval of the scheme by the NCLT.<lb/></item>
-
-			<p>23. While issuing notice in both matters, by orders dated<lb/> 29.10.2021 (3 rd impugned Order), the Delhi High Court<lb/> (Justice Suresh Kumar Kait) refused any immediate relief to<lb/> FRL in the following words:<lb/></p>
-
-			<item>&quot;15. During the course of hearing, this Court<lb/> time and again referred that when the subject<lb/> matter of this appeal is pending subjudice<lb/> before the Hon&apos;ble Supreme Court in Special<lb/> Leave Petition (Civil) No. 13547 48/2021 and<lb/> infact, by virtue of order dated 09.09.2021<lb/> proceedings before this Court have been stayed<lb/> and also directions have been passed to NCLT,<lb/> CCI, SEBI to not pass any final order, then how<lb/> interim relief, that too without therebeing any<lb/> hearing or any reply from side opposite on<lb/> record, application for interim stay can be heard<lb/> and orders be passed. Upon this, Mr. Harish<lb/> Salve, learned senior counsel submitted in such<lb/> eventuality, this Court may dismiss the<lb/> application.<lb/></item>
-
-			<item>16. In view of the above, the application seeking<lb/> interim stay being IA No. 14285/2021 (u/S 151<lb/> CPC) is accordingly dismissed.&quot;<lb/></item>
-
-			<p>24. Aggrieved by the aforesaid order, FCPL and FRL have<lb/> approached this Court in SLP (C) Nos. 18089 and 18080 of<lb/> 2021 respectively.<lb/></p>
-
-			<p>25. Mr. Harish Salve, learned Senior Counsel appearing for FRL<lb/> submitted that the orders in the enforcement proceedings have<lb/> been rendered while completely disregarding the order dated<lb/> 21.12.2020 passed by the learned Single Judge of the Delhi<lb/> High Court in CS(Comm) No. 493 of 2020, particularly, the<lb/> finding that FRL does not have any arbitration agreement with<lb/> the respondent. He further submitted that although an appeal<lb/> has been filed against the aforesaid order of the learned Single<lb/> Judge, there is no stay operating against the said order.<lb/></p>
-
-			<p>26. The learned Senior counsel also submitted that the impugned<lb/> orders passed in the enforcement proceedings merit setting<lb/> aside as the said proceedings have been conducted contrary to<lb/> the principles of natural justice. He submitted that the<lb/> procedure adopted has caused serious prejudice to the<lb/> appellants as, after denying them an opportunity to file a reply<lb/> affidavit, the impugned orders in the Enforcement proceedings<lb/> recorded that FRL had not made any plea on the issue as to<lb/> why were the orders of the Emergency Arbitrator a nullity.<lb/></p>
-
-			<p>27. Thirdly, the learned Senior counsel contended that the<lb/> impugned orders passed in the Enforcement proceedings<lb/> extended beyond the scope of the Emergency Arbitrator&apos;s<lb/> interim Award, by directing recall of the approvals granted by<lb/> the Statutory Authorities.<lb/></p>
-
-			<p>28. Lastly, while relying upon the Singapore Arbitration Rules,<lb/> learned Senior counsel submitted that the Tribunal&apos;s interim<lb/> order dated 21.10.2021, overrides the Emergency Arbitrator&apos;s<lb/> interim Award which are the subject matter of the impugned<lb/> enforcement proceedings. As a result, the enforcement<lb/> proceedings and the impugned order have lost their relevance<lb/> due to the subsequent events.<lb/></p>
-
-			<p>29. Mr. Mukul Rohatgi, learned Senior Counsel appearing for<lb/> FCPL and their promoters, while supplementing the<lb/> submissions of Mr. Salve, specifically contended that the<lb/> impugned order merits setting aside due to grave injustice<lb/> caused to the appellants due to the principles of natural<lb/> justice being given a goby. No opportunity was granted for<lb/> filing of any response which has resulted in various factual<lb/> and legal errors creeping in the impugned order. He further<lb/> submitted that considering the procedure followed by it, the<lb/> penal orders passed by the High Court in the impugned order,<lb/> merit a reconsideration.<lb/></p>
-
-			<p>30. Learned Senior counsel further submitted that no prejudice<lb/> would be caused to Amazon by setting aside the impugned<lb/> order passed in the enforcement proceedings or by the passing<lb/> of an interim measure allowing continuation of the<lb/> proceedings before the NCLT. In fact, this Court, vide order<lb/> dated 22.02.2021, has already created an interim arrangement<lb/> by allowing the NCLT proceedings to continue with a direction<lb/> to the NCLT not to pass any final order. On the other hand,<lb/> the impugned order dated 18.03.2021, directed recall of the<lb/> approvals granted by the statutory authorities.<lb/></p>
-
-			<p>31. Mr. Gopal Subramanium, learned Senior Counsel appearing<lb/> for Amazon, submitted that the appellants, by their conduct<lb/> have demonstrated willful and intentional disobedience of the<lb/> Emergency Arbitrator&apos;s interim Award, after agreeing for the<lb/> Emergency Arbitrator. While he fairly stated that Amazon is<lb/> not interested in pursuing the punitive directions imposed on<lb/> FCPL and others, he submitted that the Emergency<lb/> Arbitrator&apos;s interim Award stands confirmed by the Arbitral<lb/> Tribunal, which must be abided by the appellants. Learned<lb/> Counsel argued that when no stay has been granted against<lb/> the interim protection afforded to them by the Arbitral<lb/> Tribunal, the appellants cannot operate in contravention of the<lb/> same and proceed to effectuate the scheme before the NCLT.<lb/> He lastly submitted that pending any challenge, the interim<lb/> orders passed by the Tribunal needs to be maintained and<lb/> given effect to, so as to uphold the effectiveness and sanctity of<lb/> the arbitration process.<lb/></p>
-
-			<p>32. Mr. Aspi Chinoy, learned Senior Counsel appearing for<lb/> Amazon contended that the appellants&apos; reliance on the order<lb/> dated 21.12.20, passed by the learned Single Judge of the<lb/> Delhi High Court in the suit proceeding is misplaced. He<lb/> submitted that, in the first instance, the suit instituted by FRL<lb/> before the Delhi High Court was of the nature of an anti<lb/> arbitration suit and a collateral challenge to the arbitration<lb/> proceedings which is in contravention to Section 5 of the<lb/> Arbitration Act. He further submitted that the observations<lb/> being relied upon by the appellants were made in an order<lb/> declining the relief sought by them before the Delhi High<lb/> Court. Finally, the learned Senior counsel submitted that no<lb/> relief should be granted to the appellants by this Court as they<lb/> have not approached this Court with clean hands having failed<lb/> to comply with any judicial order that has been passed.<lb/></p>
-
-			<p>33. Having heard learned counsel for both the parties and on<lb/> perusing voluminous documents submitted before the Court,<lb/> the following questions arise for our consideration :<lb/></p>
-
-			<p>I. Whether the orders dated 02.02.2021 and 18.03.2021,<lb/> passed by the learned Single Judge in OMP (ENF) (COM)<lb/> No.17 of 2021, are valid in law?<lb/> II. Whether the orders dated 29.10.2021, passed by the<lb/> learned Single Judge in Arb. A (Comm.) No. 64 and 63 of<lb/> 2021, is valid in law?<lb/> Question No. I<lb/></p>
-
-			<p>34. The orders of the learned Single Judge [Justice Midha] in OMP<lb/> (ENF) (COMM) No.17 of 2021, is impugned on the grounds of<lb/> lack of an opportunity granted to FCPL and FRL to file a<lb/> counter to establish their defense. Mr. Rohatgi, learned Senior<lb/> Advocate appearing on behalf of FCPL and its promoters has<lb/> submitted that no time was granted by the learned Single<lb/> Judge to respond. He added that a 200page order has been<lb/> passed without any reply being filed on record and holding<lb/> everyone guilty of contempt of court. He has further submitted<lb/> that punitive directions could not have been passed even in<lb/> contempt jurisdiction without affording the party a proper<lb/> opportunity of filing a reply.<lb/></p>
-
-			<p>35. In this context, our attention has been drawn to a catena of<lb/> procedural orders passed by the High Court in OMP (ENF)<lb/> (COMM) No.17 of 2021. From the record, we observe that FRL<lb/> and FCPL were not provided sufficient time or opportunity to<lb/> file their counter or raise their defense. On 29.01.2021, they<lb/> were allowed to file a brief note of submission within twenty<lb/> four hours, before orders were passed on 02.02.2021.<lb/></p>
-
-			<p>36. On a perusal of the orders, we find that serious procedural<lb/> errors were committed by the learned Single Judge. Natural<lb/> justice is an important facet of a judicial review. Providing<lb/> effective natural justice to affected parties, before a decision is<lb/> taken, is necessary to maintain the Rule of law. Natural justice<lb/> is usually discussed in the context of administrative actions,<lb/> wherein procedural requirement of a fair hearing is read in to<lb/> ensure that no injustice is caused. When it comes to judicial<lb/> review, the natural justice principle is built into the rules and<lb/> procedures of the Court, which are expected to be followed<lb/> meticulously to ensure that highest standards of fairness are<lb/> afforded to the parties.<lb/></p>
-
-			<p>37. It is well known that natural justice is the sworn enemy of<lb/> unfairness. It is expected of the Courts to be cautious and<lb/> afford a reasonable opportunity to parties, especially in<lb/> commercial matters having a serious impact on the economy<lb/> and employment of thousands of people. Coming to the facts<lb/> herein, the opportunity provided to the appellants herein was<lb/> insufficient, and cannot be upheld in the eyes of law.<lb/></p>
-
-			<p>38. Whenever an order is struck down as invalid being in violation<lb/> of the principles of natural justice, there is no final decision of<lb/> the case and fresh proceedings are left open. All that is done is<lb/> to vacate the order assailed by virtue of its inherent defect.<lb/> Such proceedings are not terminated and are usually remitted<lb/> back. [See Canara Bank v. Debasis Das, (2003) 4 SCC 557]<lb/> However, in this case, much water has flown under the bridge,<lb/> since the passing of the order by the learned Single Judge,<lb/> which has now been rendered redundant, for the following<lb/> reasons :<lb/></p>
-
-			<p> Initially, this Court by order dated 22.02.2021, had<lb/> allowed proceedings to continue before the NCLT without<lb/> finalization of the scheme.<lb/></p>
-
-			<p> Thereafter, learned Single Judge passed the 2 nd<lb/> impugned order on 18.03.2021, without considering the<lb/> order of this Court dated 22.02.2021.<lb/>  Subsequently, the Division Bench in FAO (OS)(COM) No.<lb/> 50 and 51 of 2021, had stayed the aforesaid order of the<lb/> Single Judge, which was taken in appeal again before<lb/> this Court.<lb/></p>
-
-			<p> This Court finally disposed of the case, answering only<lb/> two legal questions, without adjudicating on the merits of<lb/> the matter.<lb/></p>
-
-			<p> In the meanwhile, FRL and FCPL had moved the Arbitral<lb/> Tribunal, for vacating the interim injunction granted by<lb/> the Emergency Arbitrator.<lb/></p>
-
-			<p> In view of the pendency of the aforesaid application<lb/> before the Arbitral Tribunal, this Court again through<lb/> interim order dated 09.09.2021, allowed continuation of<lb/> proceedings before the NCLT, without final authorization<lb/> on the scheme.<lb/></p>
-
-			<p>39. One aspect which may be highlighted is the punitive directions<lb/> ordered by the learned Single Judge in the order dated<lb/> 18.03.2021, which are extracted below:<lb/></p>
-
-			<item>&quot;192. All the objections raised by the<lb/> respondents are hereby rejected with cost of<lb/> Rs.20,00,000/ to be deposited by the<lb/> respondents with the Prime Minister Relief<lb/> Fund for being used for providing COVID<lb/> vaccination to the Below Poverty Line (BPL)<lb/> category senior citizens of Delhi. The cost be<lb/> deposited within a period of two weeks and<lb/> the receipt be placed on record within one<lb/> week of the deposit.<lb/></item>
-
-			<item>193. The respondents have deliberately and<lb/> wilfully violated the interim order dated 25th<lb/> October, 2020 and are liable for the<lb/> consequences enumerated in Order XXXIX<lb/> Rule 2A of the Code of Civil Procedure.<lb/></item>
-
-			<item>194. In exercise of power under Order XXXIX<lb/> Rule 2A(1) of the Code, the assets of the<lb/> respondents No.1 to 13 are hereby attached.<lb/> Respondents No. 1 to 13 are directed to file<lb/> an affidavit of their assets as on today in<lb/> Form 16A, Appendix E under Order XXI Rule<lb/> 41(2) of the Code of Civil Procedure within 30<lb/> days. Respondent No. 1, 2, 12 and 13 are<lb/> directed to file an additional affidavit in the<lb/> format of Annexure B1 and respondents no.<lb/></item>
-
-			<item>3 to 11 are directed to file an additional<lb/> affidavit in the format of Annexure A1 to the<lb/> judgment of M/s. Bhandari Engineers &amp;<lb/> Builders Pvt. Ltd. v. M/s. Maharia Raj<lb/> Joint Venture, (supra) along with the<lb/> documents mentioned therein within 30<lb/> days.&quot;<lb/></item>
-
-			<p>40. Our attention is drawn to the fact that the learned Single<lb/> Judge had relied on M/s. Bhandari Engineers &amp; Builders<lb/> Pvt. Ltd. v. M/s. Maharia Raj Joint Venture, 2019 SCC<lb/> Online Del. 11879, which has been overruled by a Division<lb/> Bench order in Delhi Chemical and Pharmaceutical Works<lb/> Pvt. Ltd. &amp; Anr. v. Himgiri Realtors Pvt. Ltd. &amp; Anr., EFA<lb/> (OS) (Comm.) No. 4 of 2021.<lb/></p>
-
-			<p>41. Viewed differently, contempt of a civil nature can be made out<lb/> under Order XXXIX Rule 2A CPC not when there has been<lb/> mere &quot;disobedience&quot;, but only when there has been &quot;wilful<lb/> disobedience&quot;. The allegation of wilful disobedience being in<lb/> the nature of criminal liability, the same has to be proved to<lb/> the satisfaction of the court that the disobedience was not<lb/> mere &quot;disobedience&quot; but &quot;wilful&quot; and &quot;conscious&quot;. This Court<lb/> in the case of Ram Kishan v. Tarun Bajaj, (2014) 16 SCC<lb/> 204, considering the implication of exercise of contempt<lb/> jurisdiction, held that the power must be exercised with<lb/> caution rather than on mere probabilities. While delineating<lb/> the conduct which can be held to be &quot;wilful disobedience&quot;, this<lb/> Court held that:<lb/></p>
-
-			<item>&quot;12. Thus, in order to punish a contemnor, it<lb/> has to be established that disobedience of the<lb/> order is &quot;wilful&quot;. The word &quot;wilful&quot; introduces a<lb/> mental element and hence, requires looking<lb/> into the mind of a person/contemnor by<lb/> gauging his actions, which is an indication of<lb/> one&apos;s state of mind. &quot;Wilful&quot; means knowingly<lb/> intentional,<lb/> conscious,<lb/> calculated<lb/> and<lb/> deliberate with full knowledge of consequences<lb/> flowing therefrom. It excludes casual,<lb/> accidental, bona fide or unintentional acts or<lb/> genuine inability. Wilful acts does not<lb/> encompass involuntarily or negligent actions.<lb/> The act has to be done with a &quot;bad purpose or<lb/> without justifiable excuse or stubbornly,<lb/> obstinately or perversely&quot;. Wilful act is to be<lb/> distinguished from an act done carelessly,<lb/> thoughtlessly, heedlessly or inadvertently. It<lb/> does not include any act done negligently or<lb/> involuntarily. The deliberate conduct of a<lb/> person means that he knows what he is doing<lb/> and intends to do the same. Therefore, there<lb/> has to be a calculated action with evil<lb/> motive on his part. Even if there is a<lb/> disobedience of an order, but such<lb/> disobedience is the result of some<lb/> compelling circumstances under which it<lb/> was not possible for the contemnor to<lb/> comply with the order, the contemnor<lb/> cannot<lb/> be<lb/> punished.<lb/></item>
-
-			<item>&quot;Committal<lb/> or<lb/> sequestration will not be ordered unless<lb/> contempt involves a degree of default or<lb/> misconduct.&quot;<lb/></item>
-
-			<item>(Emphasis supplied)<lb/></item>
-
-			<p>42. Considering the fact that in the suit instituted by FRL, the<lb/> learned Single Judge had earlier allowed FRL and Amazon to<lb/> continue their pursuit before various regulatory authorities,<lb/> and in view of the interim orders of this Court dated<lb/> 22.02.2021 and 09.09.2021, and the Courts below, we are<lb/> inclined to setaside aforesaid directions as the precondition<lb/> of &apos;sufficient mental element for wilful disobedience&apos; is not<lb/> satisfied. Moreover, Mr. Gopal Subramanium, learned Senior<lb/> Advocate appearing for Amazon, has fairly stated that Amazon<lb/> is not interested in proceeding with the punitive directions.<lb/> Taking note of the aforesaid submission, we set aside the<lb/> punitive directions issued in the impugned orders of learned<lb/> Single Judge dated 02.02.2021 and 18.03.2021.<lb/></p>
-
-			<p>43. Coming to the merits of the case, we would like to mention a<lb/> disconcerting aspect wherein the interim order enforcing the<lb/> Emergency Award has adopted a standard beyond &apos;prima facie<lb/> view&apos;, as required under law. It is expected of Courts to be<lb/> cautious while making observations on the merits of the case,<lb/> which would inevitably influence the Arbitral Tribunals<lb/> hearing the matters on merit.<lb/></p>
-
-			<p>44. Therefore, we set aside the order of the learned Single Judge<lb/> dated 02.02.2021 and 18.03.2021 passed in OMP (ENF)<lb/> (COMM.) No.17 of 2021.<lb/></p>
-
-			<p>Question No. II<lb/></p>
-
-			<p>45. At the outset, it is agreed by learned advocates appearing on<lb/> both side that the impugned order dated 29.10.2021 in IA No.<lb/></p>
-
-			<p>14285/2021 moved in Arb. A (Comm.) No. 64 of 2021, needs<lb/> to be set aside for nonconsideration of the orders of this<lb/> Court in the proper perspective. Our order dated 09.09.2021,<lb/> imposed no bar on the High Court to adjudicate the issue<lb/> concerning legality of the vacate application order by the<lb/> Arbitral Tribunal. In our opinion, adjudication of the<lb/> applications under Section 37(2), Arbitration Act filed by the<lb/> appellants before the Delhi High Court are distinct from the<lb/> earlier appeals filed before this Court.<lb/></p>
-
-			<p>46. Further, certain important questions of law concerning the<lb/> effect of the award of an Emergency Arbitrator and the<lb/> jurisdiction of an Arbitral Tribunal qua such awards arise in<lb/> the present matter. Therefore, these matters need to be<lb/> remitted back for adjudication on its own merits.<lb/></p>
-
-			<p>47. In view of the above, we order:<lb/></p>
-
-			<p>31</p>
-
-
+		<p>
+			1.
+			<lb />
+			Leave granted in all matters.
+			<lb />
+		</p>
+		<p>
+			2.
+			<lb />
+			These appeals are against various orders of Delhi High Court
+			<lb />
+			connected to the AmazonFuture dispute. Civil Appeals arising
+			<lb />
+			out of SLP (C) No. 1354748 of 2021 and SLP (C) No. 1355657
+			<lb />
+			of 2021, impugns order dated 02.02.2021 and 18.03.2021
+			<lb />
+			passed in OMP (ENF) (Comm) 17 of 2021 and Civil Appeals
+			<lb />
+			arising out of SLP (C) Nos. 18089 and 18080 of 2021, are
+			<lb />
+			against impugned orders dated 29.10.2021 passed in Arb. A
+			<lb />
+			(Comm.) No. 63 of 2021 and I.A. No. 14285 of 2021 in Arb. A
+			<lb />
+			(Comm.) No. 64 of 2021 respectively.
+			<lb />
+		</p>
+		<p>
+			2
+			<lb />
+		</p>
+		<p>
+			3.
+			<lb />
+			At the outset, it is necessary for this Court to have a brief
+			<lb />
+			background before indulging in analyzing the issue at hand.
+			<lb />
+			On 22.08.2019, Amazon entered into Shareholder and Share
+			<lb />
+			Subscription Agreements with Future Coupon Private Limited
+			<lb />
+			(FCPL). Through these instruments, Amazon intended to
+			<lb />
+			acquire 49% stake in FCPL. The aforesaid agreements
+			<lb />
+			contained an arbitration agreement, wherein parties resolved
+			<lb />
+			to settle their disputes in accordance with the Arbitration
+			<lb />
+			Rules of the Singapore International Arbitration Center (SIAC).
+			<lb />
+			The parties had further resolved to have the seats at New
+			<lb />
+			Delhi.
+			<lb />
+		</p>
+		<p>
+			4.
+			<lb />
+			On 12.08.2019, FCPL and its promoters entered into a
+			<lb />
+			Shareholder Agreement with Future Retail Limited (FRL).
+			<lb />
+			Through this Agreement, FCPL was granted certain protective
+			<lb />
+			rights. One such right is produced as under:
+			<lb />
+			Clause 10 of SHA:
+			<lb />
+		</p>
+		<p>
+			10. TRANSFER OF RETAIL ASSETS
+			<lb />
+		</p>
+		<list>
+			<item>
+				10.1 As of the Execution Date, the Company has
+				<lb />
+				set up an aggregate of at least 1,534 (one
+				<lb />
+				thousand five hundred and thirty four) retail
+				<lb />
+				outlets/formats including without limitation
+				<lb />
+				the Small Store formats across India and
+				<lb />
+				such retail outlets/stores are an integral part
+				<lb />
+				of the business conducted by the Company
+				<lb />
+				representing a significant and substantial
+				<lb />
+				part of the business conducted by the
+				<lb />
+				Company. The Existing Shareholders and
+				<lb />
+				the Company further agree, covenant and
+				<lb />
+				undertake to FCL that the Company shall be
+				<lb />
+				the sole vehicle for the conduct of such
+				<lb />
+				current business comprising of a widespread
+				<lb />
+				network of the retail outlets/formats
+				<lb />
+				including without limitation the Small Store
+				<lb />
+				formats that the Company has established
+				<lb />
+				and is operating
+				<lb />
+				across India and
+				<lb />
+				consequently such business shall continue
+				<lb />
+				to be an integral part of the Company&apos;s
+				<lb />
+				business.
+				<lb />
+			</item>
+			<item>
+				10.2 Accordingly, any sale, divestment, transfer,
+				<lb />
+				disposal, etc., of such retail outlets/ formats
+				<lb />
+				including without limitation the Small Store
+				<lb />
+				Formats shall be in accordance with this
+				<lb />
+				Agreement, and the company and the
+				<lb />
+				Existing
+				<lb />
+				shareholders
+				<lb />
+				covenant
+				<lb />
+				and
+				<lb />
+				undertake that during the subsistence of this
+				<lb />
+				Agreement, the company shall not transfer,
+				<lb />
+				or dispose off the Retail Assets except as
+				<lb />
+				otherwise mutually agreed between the
+				<lb />
+				Company, the Existing Shareholders and
+				<lb />
+				FCL in writing.
+				<lb />
+			</item>
+			<item>
+				10.3 Notwithstanding anything contained herein,
+				<lb />
+				the Company and the Existing Shareholders
+				<lb />
+				agree that the Retail Assets shall not be
+				<lb />
+				transferred,
+				<lb />
+				Encumbered
+				<lb />
+				divested,
+				<lb />
+				or
+				<lb />
+				disposed of, directly or indirectly, in favour of
+				<lb />
+				a Restricted Person.
+				<lb />
+			</item>
+		</list>
+		<p>
+			There is no dispute that one of the restricted persons included
+			<lb />
+			the Reliance Group.
+			<lb />
+		</p>
+		<p>
+			5.
+			<lb />
+			As in March 2020, FRL submitted that there was business
+			<lb />
+			downturn due to Covid19 lockdowns as there were
+			<lb />
+			restrictions on retail sale through brickandmortar shops. In
+			<lb />
+			light of the same, the Board of FRL decided to sell, retail
+			<lb />
+			businesses and assets to Reliance, for a consideration in
+			<lb />
+			excess of Rs. 25,000 crores. Further, it is contended by FRL
+			<lb />
+			that there were outstanding loans of about Rs.20,000 crores
+			<lb />
+			with a serious and tangible risk of becoming insolvent. It is
+			<lb />
+			submitted that it was in this context that the subsequent
+			<lb />
+			transaction was entered into to alleviate its financial position
+			<lb />
+			and protect employment of around 25,000 employees of the
+			<lb />
+			Future Group.
+			<lb />
+		</p>
+		<p>
+			6.
+			<lb />
+			Aggrieved by the aforesaid sale transaction, Amazon initiated
+			<lb />
+			arbitration proceedings before the SIAC. Amazon filed an
+			<lb />
+			application for emergency relief with the Registrar of the SIAC
+			<lb />
+			Court of Arbitration seeking interim prohibitory injunction to
+			<lb />
+			prevent FRL and FCPL from taking further steps in the
+			<lb />
+			aforesaid transaction with the Reliance Group. Parallelly, FRL
+			<lb />
+			filed a suit before the Delhi High Court registered as
+			<lb />
+			CS(COMM) No. 493 of 2020, against Amazon for tortious
+			<lb />
+			interference in the Scheme for the sale of assets.
+			<lb />
+		</p>
+		<p>
+			7.
+			<lb />
+			On 25.10.2020, the Emergency Arbitrator passed an Interim
+			<lb />
+			Award in favor of Amazon. It may be noticed that the
+			<lb />
+			Emergency Arbitrator and the Single Bench came to
+			<lb />
+			diametrically opposite conclusions which are juxtaposed
+			<lb />
+			herein below:
+			<lb />
+		</p>
+		<figure type="table">
+			Order of Emergency Arbitrator
+			<lb />
+			dated 25.10.2020
+			<lb />
+			Order of Single Judge Bench
+			<lb />
+			in I.A. No. 10376 of 2020 in
+			<lb />
+			CS(COMM) No. 493 of 2020
+			<lb />
+			dated 21.12.2020
+			<lb />
+			285. In the result, I award, direct,
+			<lb />
+			and order as follows:
+			<lb />
+			(a) the Respondents are
+			<lb />
+			injuncted from taking
+			<lb />
+			any steps in furtherance
+			<lb />
+			or in aid of the Board
+			<lb />
+			Resolution made by the
+			<lb />
+			Board of Directors or
+			<lb />
+			FRL on 29 August 2019
+			<lb />
+			in
+			<lb />
+			relation
+			<lb />
+			to
+			<lb />
+			the
+			<lb />
+			Disputed
+			<lb />
+			Transaction,
+			<lb />
+			including but not limited
+			<lb />
+			to filing or pursuing any
+			<lb />
+			application before any
+			<lb />
+			person,
+			<lb />
+			including
+			<lb />
+			regulatory
+			<lb />
+			bodies
+			<lb />
+			or
+			<lb />
+			agencies in India, or
+			<lb />
+			requesting for approval
+			<lb />
+			at any company meeting;
+			<lb />
+			(b) the Respondents are
+			<lb />
+			injuncted from taking
+			<lb />
+			any steps to complete
+			<lb />
+			the
+			<lb />
+			Disputed
+			<lb />
+			Transaction with entities
+			<lb />
+			that are part of the MDA
+			<lb />
+			12.3 Thus the trinity of the
+			<lb />
+			principles for grant of interim
+			<lb />
+			injunction i.e. prima facie case,
+			<lb />
+			irreparable loss and balance of
+			<lb />
+			convenience are required to be
+			<lb />
+			tested in terms of principles as
+			<lb />
+			noted above. Since this Court
+			<lb />
+			has held that prima facie the
+			<lb />
+			representation
+			<lb />
+			of
+			<lb />
+			Amazon
+			<lb />
+			based on the pea that the
+			<lb />
+			resolution dated 29 th August,
+			<lb />
+			2020 of FRL is void and that
+			<lb />
+			on conflation of the FCPL SHA
+			<lb />
+			and FRL SHA, the &apos;control&apos; that
+			<lb />
+			is sought to be asserted by
+			<lb />
+			Amazon on FRL is not
+			<lb />
+			permitted under the FEMA FDI
+			<lb />
+			Rules,
+			<lb />
+			without
+			<lb />
+			the
+			<lb />
+			governmental approvals, this
+			<lb />
+			Court finds that FRL has made
+			<lb />
+			out a prima facie case in its
+			<lb />
+			favour for grant of interim
+			<lb />
+			injunction. However, the main
+			<lb />
+			tests in the present case are in
+			<lb />
+			respect
+			<lb />
+			of
+			<lb />
+			&quot;balance
+			<lb />
+			of
+			<lb />
+			Group;
+			<lb />
+			(c) without prejudice to the
+			<lb />
+			rights of any current
+			<lb />
+			Promoter Lenders, the
+			<lb />
+			Respondents
+			<lb />
+			are
+			<lb />
+			injuncted from directly
+			<lb />
+			or indirectly taking any
+			<lb />
+			steps
+			<lb />
+			to
+			<lb />
+			transfer/dispose/alienat
+			<lb />
+			e/encumber FRL&apos;s Retail
+			<lb />
+			Assets or the shares
+			<lb />
+			held in FRL by the
+			<lb />
+			Promoters
+			<lb />
+			in
+			<lb />
+			any
+			<lb />
+			manner
+			<lb />
+			without
+			<lb />
+			the
+			<lb />
+			prior written consent of
+			<lb />
+			the Claimant;
+			<lb />
+			(d) the Respondents are
+			<lb />
+			injuncted from issuing
+			<lb />
+			securities of FRL or
+			<lb />
+			obtaining/securing any
+			<lb />
+			financing, directly or
+			<lb />
+			indirectly,
+			<lb />
+			from
+			<lb />
+			any
+			<lb />
+			Restricted Person that
+			<lb />
+			will be in any manner
+			<lb />
+			contrary
+			<lb />
+			to
+			<lb />
+			Section
+			<lb />
+			13.3.1 of the FCPL SHA;
+			<lb />
+			(e) the orders in (a) to (d)
+			<lb />
+			above are to take effect
+			<lb />
+			immediately and will
+			<lb />
+			remain in place until
+			<lb />
+			further order from the
+			<lb />
+			Tribunal,
+			<lb />
+			when
+			<lb />
+			constituted; and
+			<lb />
+			(f)
+			<lb />
+			the
+			<lb />
+			Claimant is
+			<lb />
+			to
+			<lb />
+			provide within 7 days
+			<lb />
+			from the date hereof a
+			<lb />
+			crossundertaking
+			<lb />
+			in
+			<lb />
+			damages
+			<lb />
+			to
+			<lb />
+			the
+			<lb />
+			Respondents.
+			<lb />
+			If the
+			<lb />
+			Parties are unable to
+			<lb />
+			agree on its terms, they
+			<lb />
+			convenience&quot; and &quot;irreparable
+			<lb />
+			loss&quot;. Even if a prima facie
+			<lb />
+			case is made out by FRL, the
+			<lb />
+			balance of convenience lies
+			<lb />
+			both in favour of FRL and
+			<lb />
+			Amazon. If the case of FRL is
+			<lb />
+			that the representation by
+			<lb />
+			Amazon to the statutory
+			<lb />
+			authorities/regulators is based
+			<lb />
+			on illegal premise, Amazon has
+			<lb />
+			also based its representation
+			<lb />
+			on alleged breach of FCPL SHA
+			<lb />
+			and FRL SHA, as also the
+			<lb />
+			directions in the EA order.
+			<lb />
+			Hence it cannot be said that
+			<lb />
+			the balance of convenience lies
+			<lb />
+			in favour of FRL and not in
+			<lb />
+			favour of Amazon. It would be
+			<lb />
+			a matter of trial after parties
+			<lb />
+			have led their evidence or if
+			<lb />
+			decided
+			<lb />
+			by
+			<lb />
+			any
+			<lb />
+			other
+			<lb />
+			competent forum to determine
+			<lb />
+			whether the representation of
+			<lb />
+			Amazon that the transaction
+			<lb />
+			between FRL and Reliance
+			<lb />
+			being in breach of the FCPL
+			<lb />
+			SHA and FRL SHA would
+			<lb />
+			outweigh the plea of FRL in the
+			<lb />
+			present suit. Further in case
+			<lb />
+			Amazon is not permitted to
+			<lb />
+			represent its case before the
+			<lb />
+			statutory
+			<lb />
+			authorities/Regulators, it will
+			<lb />
+			suffer an irreparable loss as
+			<lb />
+			Amazon also claims to have
+			<lb />
+			created preemptive rights in its
+			<lb />
+			favour in case the Indian law
+			<lb />
+			permitted in future. Further
+			<lb />
+			there may not be irreparable
+			<lb />
+			loss to FRL for the reason even
+			<lb />
+			if
+			<lb />
+			Amazon
+			<lb />
+			makes
+			<lb />
+			a
+			<lb />
+			are
+			<lb />
+			to
+			<lb />
+			refer
+			<lb />
+			their
+			<lb />
+			differences to me qua EA
+			<lb />
+			for resolution; and
+			<lb />
+			(g) the
+			<lb />
+			costs
+			<lb />
+			of
+			<lb />
+			this
+			<lb />
+			Application be part of
+			<lb />
+			the
+			<lb />
+			costs
+			<lb />
+			of
+			<lb />
+			this
+			<lb />
+			Arbitration.
+			<lb />
+			representation
+			<lb />
+			based
+			<lb />
+			on
+			<lb />
+			incorrect facts thereby using
+			<lb />
+			unlawful means, it will be for
+			<lb />
+			the
+			<lb />
+			statutory
+			<lb />
+			authorities/Regulators
+			<lb />
+			to
+			<lb />
+			apply their mind to the facts
+			<lb />
+			and legal issues therein and
+			<lb />
+			come to the right conclusion.
+			<lb />
+			There is yet another aspect
+			<lb />
+			as to why no interim
+			<lb />
+			injunction can be granted in
+			<lb />
+			the present application for
+			<lb />
+			the reason both FRL and
+			<lb />
+			Amazon have already made
+			<lb />
+			their representations and
+			<lb />
+			counter representations to
+			<lb />
+			the
+			<lb />
+			statutory
+			<lb />
+			authorities/regulators
+			<lb />
+			and
+			<lb />
+			now it is for the Statutory
+			<lb />
+			Authorities/Regulators
+			<lb />
+			to
+			<lb />
+			take a decision thereon.
+			<lb />
+			Therefore, this Court finds
+			<lb />
+			that no case for grant of
+			<lb />
+			interim injunction is made
+			<lb />
+			out in favour of the FRL and
+			<lb />
+			against Amazon.
+			<lb />
+			13. Consequently,
+			<lb />
+			the
+			<lb />
+			present application is disposed
+			<lb />
+			of, declining the grant of
+			<lb />
+			interim injunction as prayed
+			<lb />
+			for by FRL, however, the
+			<lb />
+			Statutory
+			<lb />
+			Authorities/Regulators
+			<lb />
+			are
+			<lb />
+			directed to take the decision on
+			<lb />
+			the applications/objections in
+			<lb />
+			accordance with law.
+			<lb />
+		</figure>
+		<p>
+			8.
+			<lb />
+			In the meanwhile, CCI and SEBI approved the composite
+			<lb />
+			Scheme proposed by FRLReliance. Thereafter, FRL filed for
+			<lb />
+			sanction of the composite Scheme of arrangement under the
+			<lb />
+			provisions of Sections 230 to 232 of the Companies Act, 2013
+			<lb />
+			before National Company Law Tribunal (NCLT).
+			<lb />
+		</p>
+		<p>
+			9.
+			<lb />
+			Amazon filed a Petition for enforcement of the Emergency
+			<lb />
+			Arbitrator Award, under Section 17(2) of the Arbitration and
+			<lb />
+			Conciliation Act, 1996, before the Delhi High Court on
+			<lb />
+			25.01.2021 and the same was heard for the first time on
+			<lb />
+			28.01.2021. As the appellants herein challenge the impugned
+			<lb />
+			order on the ground of failure to adhere to the principles of
+			<lb />
+			natural justice, it is apt to reproduce certain procedural orders
+			<lb />
+			passed by the learned Single Judge, Justice Midha, in OMP
+			<lb />
+			(ENF) (COMM) No.17 of 2021. On 28.01.2021, the following
+			<lb />
+			order was passed:
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;1. The hearing has been conducted
+				<lb />
+				through video conference.
+				<lb />
+			</item>
+			<item>
+				2. Arguments partly heard.
+				<lb />
+			</item>
+			<item>
+				3. List for continuation of the arguments
+				<lb />
+				on 29th January, 2021 at the end of
+				<lb />
+				the Board.
+				<lb />
+			</item>
+			<item>
+				4. The order be uploaded on the website of
+				<lb />
+				this Court forthwith.&quot;
+				<lb />
+			</item>
+		</list>
+		<p>
+			On 29.01.2021, the following order was passed:
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;1
+				<lb />
+				The hearing has been conducted through
+				<lb />
+				video conference.
+				<lb />
+			</item>
+			<item>
+				2.
+				<lb />
+				Issue
+				<lb />
+				notice.
+				<lb />
+				Learned
+				<lb />
+				counsels
+				<lb />
+				for
+				<lb />
+				respondents accept notice.
+				<lb />
+			</item>
+			<item>
+				3.
+				<lb />
+				Further arguments heard from 02:45 PM to
+				<lb />
+				04:30 PM.
+				<lb />
+			</item>
+			<item>
+				4.
+				<lb />
+				List for continuation of the arguments on
+				<lb />
+				01st February, 2021.
+				<lb />
+			</item>
+			<item>
+				5.
+				<lb />
+				Both the parties have submitted brief note
+				<lb />
+				of submissions.
+				<lb />
+			</item>
+			<item>
+				6.
+				<lb />
+				Learned senior counsel for the respondent
+				<lb />
+				No.2 submits that he shall file additional
+				<lb />
+				note of submissions on the factual aspect
+				<lb />
+				by tomorrow afternoon with advance copy
+				<lb />
+				to the counsel for the petitioner by
+				<lb />
+				tomorrow evening. Respondent No.2 shall
+				<lb />
+				also respond to the brief note of
+				<lb />
+				submissions of the petitioner relating to the
+				<lb />
+				facts.
+				<lb />
+			</item>
+			<item>
+				7.
+				<lb />
+				The order be uploaded on the website of
+				<lb />
+				this Court forthwith.&quot;
+				<lb />
+			</item>
+		</list>
+		<p>
+			On 01.02.2021, the following order was passed:
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;1.
+				<lb />
+				Respondent No.2 has filed additional
+				<lb />
+				submissions to which the petitioner has
+				<lb />
+				filed the response.
+				<lb />
+			</item>
+			<item>
+				2.
+				<lb />
+				Learned
+				<lb />
+				senior
+				<lb />
+				counsels
+				<lb />
+				for
+				<lb />
+				the
+				<lb />
+				respondents have concluded the oral
+				<lb />
+				arguments.
+				<lb />
+			</item>
+			<item>
+				3.
+				<lb />
+				List for rejoinder submissions of the
+				<lb />
+				petitioner on 02nd February, 2021.
+				<lb />
+			</item>
+			<item>
+				4.
+				<lb />
+				It is clarified that no further written
+				<lb />
+				submissions shall be filed by any of the
+				<lb />
+				parties.&quot;
+				<lb />
+			</item>
+		</list>
+		<p>
+			10. On 02.02.2021, the first substantive order [1 st impugned
+			<lb />
+			Order] was passed in the following manner:
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;8. This Court is of the prima facie view that
+				<lb />
+				the Emergency Arbitrator is an Arbitrator; the
+				<lb />
+				Emergency Arbitrator has rightly proceeded
+				<lb />
+				against the respondent No.2; the order dated
+				<lb />
+				25th October, 2020 is not a nullity; the order
+				<lb />
+				dated 25th October, 2020 is an order under
+				<lb />
+				Section 17(1) of the Arbitration and Conciliation
+				<lb />
+				Act. This Court is of the view that the order dated
+				<lb />
+				25th October, 2020 is appealable under Section
+				<lb />
+				37 of the Arbitration and Conciliation Act. This
+				<lb />
+				Court is of the clear view that the order dated
+				<lb />
+				25th October, 2020 is enforceable as an order of
+				<lb />
+				this Court under Section 17(2) of the Arbitration
+				<lb />
+				and Conciliation Act. The detailed reasons shall
+				<lb />
+				be given in the reserved order.
+				<lb />
+			</item>
+			<item>
+				9.
+				<lb />
+				This Court is satisfied that immediate
+				<lb />
+				orders are necessary to protect the rights of the
+				<lb />
+				petitioner till the pronouncement of the reserved
+				<lb />
+				order. In that view of the matter, the respondents
+				<lb />
+				are directed to maintain status quo as on today
+				<lb />
+				at 04.50 P.M. till the pronouncement of the
+				<lb />
+				reserved order. The respondents are directed to
+				<lb />
+				file an affidavit to place on record the actions
+				<lb />
+				taken by them after 25th October, 2020 and the
+				<lb />
+				present status of all those actions, within 10
+				<lb />
+				days. All the concerned authorities are directed to
+				<lb />
+				maintain status quo with respect to all matters in
+				<lb />
+				violation of the order dated 25th October, 2020
+				<lb />
+				and shall file the status report with respect to the
+				<lb />
+				present status within 10 days of the receipt of
+				<lb />
+				this order. The other prayers of the petitioner
+				<lb />
+				shall be considered in the reserved order.
+				<lb />
+			</item>
+			<item>
+				10. Copy of this order be given dasti under
+				<lb />
+				signatures of the Court Master to counsels for the
+				<lb />
+				parties. Copy of this order be also given dasti
+				<lb />
+				under signatures of the Court Master to Mr.
+				<lb />
+				Kirtiman Singh, learned Central Government
+				<lb />
+				Standing Counsel who shall send the same to all
+				<lb />
+				the concerned authorities dealing with the
+				<lb />
+				actions initiated by the respondents in violation
+				<lb />
+				of the order dated 25th October, 2020. The
+				<lb />
+				petitioner shall send the list of all the authorities
+				<lb />
+				to Mr. Kirtiman Singh, learned Central
+				<lb />
+				Government Standing Counsel within three
+				<lb />
+				days.&quot;
+				<lb />
+			</item>
+		</list>
+		<p>
+			11. Aggrieved by the stay order granted by the learned Single
+			<lb />
+			Judge, while reserving the matter, FRL filed an intracourt
+			<lb />
+			appeal before the Division Bench in FAO OS (Comm.) No. 21 of
+			<lb />
+			2021. The Division Bench vide Order dated 08.02.2021,
+			<lb />
+			passed the following order:
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;12. It is made clear that the observations made
+				<lb />
+				in this order are only a prima facie view for the
+				<lb />
+				purpose of grant of interim relief and shall not
+				<lb />
+				come in the way of the learned Single Judge in
+				<lb />
+				passing the final order in OMP(ENF)(Comm)
+				<lb />
+				No.17/2021 and needless to state that the order
+				<lb />
+				shall
+				<lb />
+				be
+				<lb />
+				passed
+				<lb />
+				uninfluenced
+				<lb />
+				by
+				<lb />
+				any
+				<lb />
+				observations made hereinabove.&quot;
+				<lb />
+			</item>
+			<p>
+				12. Amazon appealed against this Order before the Supreme Court
+				<lb />
+				in SLP (C) No. 285657 of 2021. Vide order dated 22.02.2021,
+				<lb />
+				this Court interalia held as under:
+				<lb />
+			</p>
+			<list>
+				<item>
+					&quot;In the meantime, the NCLT proceedings will
+					<lb />
+					be allowed to go on but will not culminate in
+					<lb />
+					any final order of sanction of scheme.&quot;
+					<lb />
+				</item>
+				<item>
+					(Emphasis supplied)
+					<lb />
+				</item>
+			</list>
+			<p>
+				13. Again on 18.03.2021, the learned Single Judge in OMP (ENF)
+				<lb />
+				(COMM) No.17 of 2021, passed the 2 nd impugned order with
+				<lb />
+				aforesaid directions:
+				<lb />
+			</p>
+			<list>
+				<item>
+					&quot;188. The Emergency Arbitrator is an Arbitrator
+					<lb />
+					for all intents and purposes; order of the
+					<lb />
+					Emergency Arbitrator is an order under Section
+					<lb />
+					17(1) and enforceable as an order of this Court
+					<lb />
+					under Section 17(2) of the Arbitration and
+					<lb />
+					Conciliation Act.
+					<lb />
+				</item>
+				<item>
+					…………
+					<lb />
+				</item>
+				<item>
+					190. The respondents have raised a vague plea
+					<lb />
+					of Nullity without substantiating the same. The
+					<lb />
+					interim order of the Emergency Arbitrator is not a
+					<lb />
+					Nullity as alleged by respondent No.2.
+					<lb />
+				</item>
+				<item>
+					191. Combining/treating all the agreements as a
+					<lb />
+					single integrated transaction does not amount to
+					<lb />
+					control of the petitioner over FRL and therefore,
+					<lb />
+					the petitioner&apos;s investment does not violate any
+					<lb />
+					law.
+					<lb />
+				</item>
+				<item>
+					192. All the objections raised by the respondents
+					<lb />
+					are hereby rejected with cost of Rs.20,00,000/ to
+					<lb />
+					be deposited by the respondents with the Prime
+					<lb />
+					Minister Relief Fund for being used for providing
+					<lb />
+					COVID vaccination to the Below Poverty Line
+					<lb />
+					(BPL) category senior citizens of Delhi. The cost
+					<lb />
+					be deposited within a period of two weeks and the
+					<lb />
+					receipt be placed on record within one week of
+					<lb />
+					the deposit.
+					<lb />
+				</item>
+				<item>
+					193. The respondents have deliberately and
+					<lb />
+					wilfully violated the interim order dated 25th
+					<lb />
+					October, 2020 and are liable for the
+					<lb />
+					consequences enumerated in Order XXXIX Rule
+					<lb />
+					2A of the Code of Civil Procedure.
+					<lb />
+				</item>
+				<item>
+					194. In exercise of power under Order XXXIX
+					<lb />
+					Rule 2A(1) of the Code of Civil Procedure, the
+					<lb />
+					assets of respondents No.1 to 13 are hereby
+					<lb />
+					attached. Respondents No.1 to 13 are directed to
+					<lb />
+					file an affidavit of their assets as on today in
+					<lb />
+					Form 16A, Appendix E under Order XXI Rule
+					<lb />
+					41(2) of the Code of Civil Procedure within 30
+					<lb />
+					days. Respondent No.1, 2, 12 and 13 are directed
+					<lb />
+					to file an additional affidavit in the format of
+					<lb />
+					Annexure B1 and respondents No.3 to 11 are
+					<lb />
+					directed to file an additional affidavit in the
+					<lb />
+					format of Annexure A1 to the judgment of M/s
+					<lb />
+					Bhandari Engineers &amp; Builders Pvt. Ltd. v.
+					<lb />
+					M/s Maharia Raj Joint Venture, (supra) along
+					<lb />
+					with the documents mentioned therein within 30
+					<lb />
+					days.&quot;
+					<lb />
+				</item>
+			</list>
+			<p>
+				14. In the interregnum, the FCPL and FRL approached the Division
+				<lb />
+				Bench of the Delhi High Court in FAO (OS) (COM) No.50 and
+				<lb />
+				51 of 2021 respectively against the 2 nd impugned order
+				<lb />
+				passed by the learned Single Judge which was stayed vide
+				<lb />
+				Order dated 22.03.2021.
+				<lb />
+			</p>
+			<p>
+				15. Subsequently, Amazon filed SLP (C) Nos. 61136114 of 2021
+				<lb />
+				before this Court against the order dated 22.03.2021 passed
+				<lb />
+				by the Division Bench of the High Court.
+				<lb />
+			</p>
+			<p>
+				16. This Court consolidated all the appeals filed by Amazon before
+				<lb />
+				this Court, heard the matters together and passed a final
+				<lb />
+				judgment dated 06.08.2021, answering only the following two
+				<lb />
+				legal questions:
+				<lb />
+			</p>
+			<list>
+				<item>
+					i. Whether an Emergency Arbitrator&apos;s Award can be
+					<lb />
+					said to be within the contemplation of the Arbitration
+					<lb />
+					Act?
+					<lb />
+				</item>
+				<item>
+					ii. Whether an order passed under Section 17(2) of
+					<lb />
+					the Arbitration Act, in enforcement proceedings, is
+					<lb />
+					appealable under Section 37 of the Arbitration Act?
+					<lb />
+				</item>
+			</list>
+			<p>
+				17. This Court answered the first question in the following
+				<lb />
+				manner:
+				<lb />
+			</p>
+			<list>
+				<item>
+					&quot;41. We, therefore, answer the first question by
+					<lb />
+					declaring that full party autonomy is given by the
+					<lb />
+					Arbitration Act to have a dispute decided in
+					<lb />
+					accordance with institutional rules which can
+					<lb />
+					include Emergency Arbitrators delivering interim
+					<lb />
+					orders, described as &quot;awards&quot;. Such orders are
+					<lb />
+					an important step in aid of decongesting the civil
+					<lb />
+					courts and affording expeditious interim relief to
+					<lb />
+					the parties. Such orders are referable to and are
+					<lb />
+					made under Section 17(1) of the Arbitration Act.&quot;
+					<lb />
+				</item>
+			</list>
+			<p>
+				The second question was answered thus:
+				<lb />
+			</p>
+			<list>
+				<item>
+					&quot;76. The second question posed is thus answered
+					<lb />
+					declaring that no appeal lies under Section 37 of
+					<lb />
+					the Arbitration Act against an order of
+					<lb />
+					enforcement of an Emergency Arbitrator&apos;s order
+					<lb />
+					made under Section 17(2) of the Act. As a result,
+					<lb />
+					all interim orders of this Court stand vacated. The
+					<lb />
+					impugned judgments of the Division Bench, dated
+					<lb />
+					8th February, 2021 and 22nd March, 2021, are
+					<lb />
+					set aside. The appeals are disposed of
+					<lb />
+					accordingly.&quot;
+					<lb />
+				</item>
+			</list>
+			<p>
+				18. It may be noted that this Court, in the aforesaid judgment of
+				<lb />
+				06.08.2021, did not adjudicate upon the merits of the case
+				<lb />
+				and limited its reasoning only to answer the legal questions
+				<lb />
+				which arose therein. On a reading of this judgment, the
+				<lb />
+				contention of the learned Senior Advocate Mr. Gopal
+				<lb />
+				Subramanium, that this Court has upheld the Emergency
+				<lb />
+				Arbitrator Award and did not interfere with the enforcement
+				<lb />
+				orders in OMP (ENF)(Comm.) No. 17 of 2021, on merits, is not
+				<lb />
+				correct. Although, the judgment narrates the facts leading up
+				<lb />
+				to the appeal, the Court neither returned any findings on
+				<lb />
+				facts, nor adjudicated on merits of the Order passed by
+				<lb />
+				Justice Midha in the enforcement proceedings. It is this gap
+				<lb />
+				which has led to the current round of litigation on merits of
+				<lb />
+				the case for the second time before this Court.
+				<lb />
+			</p>
+			<p>
+				19. In the meanwhile, FRL filed an application under Para 10 of
+				<lb />
+				Schedule 1 of the SIAC Rules for vacating the Award of the
+				<lb />
+				Emergency Arbitrator before the Arbitral Tribunal. The oral
+				<lb />
+				submissions on the vacate petitions were heard between 12 th
+				<lb />
+				16 th of July 2021 and orders were reserved.
+				<lb />
+			</p>
+			<p>
+				20. Contemporaneously, aggrieved by the merits of the orders of
+				<lb />
+				the Single Judge dated 02.02.2021 and 18.03.2021, FCPL and
+				<lb />
+				FRL preferred appeals directly before this Court in SLP (C) No.
+				<lb />
+				1354748 of 2021 and SLP (C) No. 1355657 of 2021,
+				<lb />
+				respectively. On 09.09.2021 the following interim order was
+				<lb />
+				passed by this Court:
+				<lb />
+			</p>
+			<list>
+				<item>
+					&quot;Heard learned senior counsel for the
+					<lb />
+					parties at length and carefully perused the
+					<lb />
+					material placed on record.
+					<lb />
+					Issue notice.
+					<lb />
+				</item>
+				<item>
+					Taking
+					<lb />
+					into
+					<lb />
+					consideration
+					<lb />
+					the
+					<lb />
+					submissions advanced by the learned senior
+					<lb />
+					counsel for the parties and particularly the
+					<lb />
+					fact that the parties have approached the
+					<lb />
+					Singapore International Arbitration Centre for
+					<lb />
+					vacating the Emergency Award passed by the
+					<lb />
+					Emergency Arbitrator and the arguments in
+					<lb />
+					the said matter have been ssconcluded and
+					<lb />
+					the order is going to be pronounced shortly,
+					<lb />
+					we think it fit to balance the interest of both the
+					<lb />
+					parties by staying all further proceedings before
+					<lb />
+					the Delhi High Court for the time being. Ordered
+					<lb />
+					accordingly. We further direct to all the
+					<lb />
+					authorities i.e. NCLT, CCI and SEBI not to
+					<lb />
+					pass any final order for a period of four weeks
+					<lb />
+					from today. This order has been passed with
+					<lb />
+					the consent of both the parties.
+					<lb />
+					List these matters after four weeks.&quot;
+					<lb />
+				</item>
+				<item>
+					(Emphasis supplied)
+					<lb />
+				</item>
+			</list>
+			<p>
+				21. Thereafter, the applications filed by FRL and FCPL for vacating
+				<lb />
+				the award of the Emergency Arbitrator was dismissed by the
+				<lb />
+				Arbitral Tribunal by Order dated 21.10.2021.
+				<lb />
+			</p>
+			<p>
+				22. The aforesaid order of the Arbitral Tribunal, rejecting the
+				<lb />
+				vacate petition, was challenged by FCPL and FRL before the
+				<lb />
+				Delhi High Court in Arb. Pet. No. 63 of 2021 and Arb. Pet. No.
+				<lb />
+				64 of 2021. In Arb. Pet. No. 64 of 2021, FRL had filed IA No.
+				<lb />
+				14285/2021, seeking the following prayers:
+				<lb />
+			</p>
+			<list>
+				<item>
+					a. Stay the operation of the impugned Order dated
+					<lb />
+					21.10.2021 passed by the Hon&apos;ble Arbitral Tribunal.
+					<lb />
+				</item>
+				<item>
+					b. Alternatively, pass an order allowing the Appellant
+					<lb />
+					to take steps pursuing the scheme, subject to the
+					<lb />
+					condition that it shall not invite the passing of any
+					<lb />
+					final orders of approval of the scheme by the NCLT.
+					<lb />
+				</item>
+			</list>
+			<p>
+				23. While issuing notice in both matters, by orders dated
+				<lb />
+				29.10.2021 (3 rd impugned Order), the Delhi High Court
+				<lb />
+				(Justice Suresh Kumar Kait) refused any immediate relief to
+				<lb />
+				FRL in the following words:
+				<lb />
+			</p>
+			<list>
+				<item>
+					&quot;15. During the course of hearing, this Court
+					<lb />
+					time and again referred that when the subject
+					<lb />
+					matter of this appeal is pending subjudice
+					<lb />
+					before the Hon&apos;ble Supreme Court in Special
+					<lb />
+					Leave Petition (Civil) No. 13547 48/2021 and
+					<lb />
+					infact, by virtue of order dated 09.09.2021
+					<lb />
+					proceedings before this Court have been stayed
+					<lb />
+					and also directions have been passed to NCLT,
+					<lb />
+					CCI, SEBI to not pass any final order, then how
+					<lb />
+					interim relief, that too without therebeing any
+					<lb />
+					hearing or any reply from side opposite on
+					<lb />
+					record, application for interim stay can be heard
+					<lb />
+					and orders be passed. Upon this, Mr. Harish
+					<lb />
+					Salve, learned senior counsel submitted in such
+					<lb />
+					eventuality, this Court may dismiss the
+					<lb />
+					application.
+					<lb />
+				</item>
+				<item>
+					16. In view of the above, the application seeking
+					<lb />
+					interim stay being IA No. 14285/2021 (u/S 151
+					<lb />
+					CPC) is accordingly dismissed.&quot;
+					<lb />
+				</item>
+			</list>
+			<p>
+				24. Aggrieved by the aforesaid order, FCPL and FRL have
+				<lb />
+				approached this Court in SLP (C) Nos. 18089 and 18080 of
+				<lb />
+				2021 respectively.
+				<lb />
+			</p>
+			<p>
+				25. Mr. Harish Salve, learned Senior Counsel appearing for FRL
+				<lb />
+				submitted that the orders in the enforcement proceedings have
+				<lb />
+				been rendered while completely disregarding the order dated
+				<lb />
+				21.12.2020 passed by the learned Single Judge of the Delhi
+				<lb />
+				High Court in CS(Comm) No. 493 of 2020, particularly, the
+				<lb />
+				finding that FRL does not have any arbitration agreement with
+				<lb />
+				the respondent. He further submitted that although an appeal
+				<lb />
+				has been filed against the aforesaid order of the learned Single
+				<lb />
+				Judge, there is no stay operating against the said order.
+				<lb />
+			</p>
+			<p>
+				26. The learned Senior counsel also submitted that the impugned
+				<lb />
+				orders passed in the enforcement proceedings merit setting
+				<lb />
+				aside as the said proceedings have been conducted contrary to
+				<lb />
+				the principles of natural justice. He submitted that the
+				<lb />
+				procedure adopted has caused serious prejudice to the
+				<lb />
+				appellants as, after denying them an opportunity to file a reply
+				<lb />
+				affidavit, the impugned orders in the Enforcement proceedings
+				<lb />
+				recorded that FRL had not made any plea on the issue as to
+				<lb />
+				why were the orders of the Emergency Arbitrator a nullity.
+				<lb />
+			</p>
+			<p>
+				27. Thirdly, the learned Senior counsel contended that the
+				<lb />
+				impugned orders passed in the Enforcement proceedings
+				<lb />
+				extended beyond the scope of the Emergency Arbitrator&apos;s
+				<lb />
+				interim Award, by directing recall of the approvals granted by
+				<lb />
+				the Statutory Authorities.
+				<lb />
+			</p>
+			<p>
+				28. Lastly, while relying upon the Singapore Arbitration Rules,
+				<lb />
+				learned Senior counsel submitted that the Tribunal&apos;s interim
+				<lb />
+				order dated 21.10.2021, overrides the Emergency Arbitrator&apos;s
+				<lb />
+				interim Award which are the subject matter of the impugned
+				<lb />
+				enforcement proceedings. As a result, the enforcement
+				<lb />
+				proceedings and the impugned order have lost their relevance
+				<lb />
+				due to the subsequent events.
+				<lb />
+			</p>
+			<p>
+				29. Mr. Mukul Rohatgi, learned Senior Counsel appearing for
+				<lb />
+				FCPL and their promoters, while supplementing the
+				<lb />
+				submissions of Mr. Salve, specifically contended that the
+				<lb />
+				impugned order merits setting aside due to grave injustice
+				<lb />
+				caused to the appellants due to the principles of natural
+				<lb />
+				justice being given a goby. No opportunity was granted for
+				<lb />
+				filing of any response which has resulted in various factual
+				<lb />
+				and legal errors creeping in the impugned order. He further
+				<lb />
+				submitted that considering the procedure followed by it, the
+				<lb />
+				penal orders passed by the High Court in the impugned order,
+				<lb />
+				merit a reconsideration.
+				<lb />
+			</p>
+			<p>
+				30. Learned Senior counsel further submitted that no prejudice
+				<lb />
+				would be caused to Amazon by setting aside the impugned
+				<lb />
+				order passed in the enforcement proceedings or by the passing
+				<lb />
+				of an interim measure allowing continuation of the
+				<lb />
+				proceedings before the NCLT. In fact, this Court, vide order
+				<lb />
+				dated 22.02.2021, has already created an interim arrangement
+				<lb />
+				by allowing the NCLT proceedings to continue with a direction
+				<lb />
+				to the NCLT not to pass any final order. On the other hand,
+				<lb />
+				the impugned order dated 18.03.2021, directed recall of the
+				<lb />
+				approvals granted by the statutory authorities.
+				<lb />
+			</p>
+			<p>
+				31. Mr. Gopal Subramanium, learned Senior Counsel appearing
+				<lb />
+				for Amazon, submitted that the appellants, by their conduct
+				<lb />
+				have demonstrated willful and intentional disobedience of the
+				<lb />
+				Emergency Arbitrator&apos;s interim Award, after agreeing for the
+				<lb />
+				Emergency Arbitrator. While he fairly stated that Amazon is
+				<lb />
+				not interested in pursuing the punitive directions imposed on
+				<lb />
+				FCPL and others, he submitted that the Emergency
+				<lb />
+				Arbitrator&apos;s interim Award stands confirmed by the Arbitral
+				<lb />
+				Tribunal, which must be abided by the appellants. Learned
+				<lb />
+				Counsel argued that when no stay has been granted against
+				<lb />
+				the interim protection afforded to them by the Arbitral
+				<lb />
+				Tribunal, the appellants cannot operate in contravention of the
+				<lb />
+				same and proceed to effectuate the scheme before the NCLT.
+				<lb />
+				He lastly submitted that pending any challenge, the interim
+				<lb />
+				orders passed by the Tribunal needs to be maintained and
+				<lb />
+				given effect to, so as to uphold the effectiveness and sanctity of
+				<lb />
+				the arbitration process.
+				<lb />
+			</p>
+			<p>
+				32. Mr. Aspi Chinoy, learned Senior Counsel appearing for
+				<lb />
+				Amazon contended that the appellants&apos; reliance on the order
+				<lb />
+				dated 21.12.20, passed by the learned Single Judge of the
+				<lb />
+				Delhi High Court in the suit proceeding is misplaced. He
+				<lb />
+				submitted that, in the first instance, the suit instituted by FRL
+				<lb />
+				before the Delhi High Court was of the nature of an anti
+				<lb />
+				arbitration suit and a collateral challenge to the arbitration
+				<lb />
+				proceedings which is in contravention to Section 5 of the
+				<lb />
+				Arbitration Act. He further submitted that the observations
+				<lb />
+				being relied upon by the appellants were made in an order
+				<lb />
+				declining the relief sought by them before the Delhi High
+				<lb />
+				Court. Finally, the learned Senior counsel submitted that no
+				<lb />
+				relief should be granted to the appellants by this Court as they
+				<lb />
+				have not approached this Court with clean hands having failed
+				<lb />
+				to comply with any judicial order that has been passed.
+				<lb />
+			</p>
+			<p>
+				33. Having heard learned counsel for both the parties and on
+				<lb />
+				perusing voluminous documents submitted before the Court,
+				<lb />
+				the following questions arise for our consideration :
+				<lb />
+			</p>
+			<list>
+				<item>
+					I. Whether the orders dated 02.02.2021 and 18.03.2021,
+					<lb />
+					passed by the learned Single Judge in OMP (ENF) (COM)
+					<lb />
+					No.17 of 2021, are valid in law?
+					<lb />
+				</item>
+				<item>
+					II. Whether the orders dated 29.10.2021, passed by the
+					<lb />
+					learned Single Judge in Arb. A (Comm.) No. 64 and 63 of
+					<lb />
+					2021, is valid in law?
+					<lb />
+				</item>
+			</list>
+			<head>
+				Question No. I
+				<lb />
+			</head>
+			<p>
+				34. The orders of the learned Single Judge [Justice Midha] in OMP
+				<lb />
+				(ENF) (COMM) No.17 of 2021, is impugned on the grounds of
+				<lb />
+				lack of an opportunity granted to FCPL and FRL to file a
+				<lb />
+				counter to establish their defense. Mr. Rohatgi, learned Senior
+				<lb />
+				Advocate appearing on behalf of FCPL and its promoters has
+				<lb />
+				submitted that no time was granted by the learned Single
+				<lb />
+				Judge to respond. He added that a 200page order has been
+				<lb />
+				passed without any reply being filed on record and holding
+				<lb />
+				everyone guilty of contempt of court. He has further submitted
+				<lb />
+				that punitive directions could not have been passed even in
+				<lb />
+				contempt jurisdiction without affording the party a proper
+				<lb />
+				opportunity of filing a reply.
+				<lb />
+			</p>
+			<p>
+				35. In this context, our attention has been drawn to a catena of
+				<lb />
+				procedural orders passed by the High Court in OMP (ENF)
+				<lb />
+				(COMM) No.17 of 2021. From the record, we observe that FRL
+				<lb />
+				and FCPL were not provided sufficient time or opportunity to
+				<lb />
+				file their counter or raise their defense. On 29.01.2021, they
+				<lb />
+				were allowed to file a brief note of submission within twenty
+				<lb />
+				four hours, before orders were passed on 02.02.2021.
+				<lb />
+			</p>
+			<p>
+				36. On a perusal of the orders, we find that serious procedural
+				<lb />
+				errors were committed by the learned Single Judge. Natural
+				<lb />
+				justice is an important facet of a judicial review. Providing
+				<lb />
+				effective natural justice to affected parties, before a decision is
+				<lb />
+				taken, is necessary to maintain the Rule of law. Natural justice
+				<lb />
+				is usually discussed in the context of administrative actions,
+				<lb />
+				wherein procedural requirement of a fair hearing is read in to
+				<lb />
+				ensure that no injustice is caused. When it comes to judicial
+				<lb />
+				review, the natural justice principle is built into the rules and
+				<lb />
+				procedures of the Court, which are expected to be followed
+				<lb />
+				meticulously to ensure that highest standards of fairness are
+				<lb />
+				afforded to the parties.
+				<lb />
+			</p>
+			<p>
+				37. It is well known that natural justice is the sworn enemy of
+				<lb />
+				unfairness. It is expected of the Courts to be cautious and
+				<lb />
+				afford a reasonable opportunity to parties, especially in
+				<lb />
+				commercial matters having a serious impact on the economy
+				<lb />
+				and employment of thousands of people. Coming to the facts
+				<lb />
+				herein, the opportunity provided to the appellants herein was
+				<lb />
+				insufficient, and cannot be upheld in the eyes of law.
+				<lb />
+			</p>
+			<p>
+				38. Whenever an order is struck down as invalid being in violation
+				<lb />
+				of the principles of natural justice, there is no final decision of
+				<lb />
+				the case and fresh proceedings are left open. All that is done is
+				<lb />
+				to vacate the order assailed by virtue of its inherent defect.
+				<lb />
+				Such proceedings are not terminated and are usually remitted
+				<lb />
+				back. [See Canara Bank v. Debasis Das, (2003) 4 SCC 557]
+				<lb />
+				However, in this case, much water has flown under the bridge,
+				<lb />
+				since the passing of the order by the learned Single Judge,
+				<lb />
+				which has now been rendered redundant, for the following
+				<lb />
+				reasons :
+				<lb />
+			</p>
+			<list>
+				<item>
+					 Initially, this Court by order dated 22.02.2021, had
+					<lb />
+					allowed proceedings to continue before the NCLT without
+					<lb />
+					finalization of the scheme.
+					<lb />
+				</item>
+				<item>
+					 Thereafter, learned Single Judge passed the 2 nd
+					<lb />
+					impugned order on 18.03.2021, without considering the
+					<lb />
+					order of this Court dated 22.02.2021.
+					<lb />
+				</item>
+				<item>
+					 Subsequently, the Division Bench in FAO (OS)(COM) No.
+					<lb />
+					50 and 51 of 2021, had stayed the aforesaid order of the
+					<lb />
+					Single Judge, which was taken in appeal again before
+					<lb />
+					this Court.
+					<lb />
+				</item>
+				<item>
+					 This Court finally disposed of the case, answering only
+					<lb />
+					two legal questions, without adjudicating on the merits of
+					<lb />
+					the matter.
+					<lb />
+				</item>
+				<item>
+					 In the meanwhile, FRL and FCPL had moved the Arbitral
+					<lb />
+					Tribunal, for vacating the interim injunction granted by
+					<lb />
+					the Emergency Arbitrator.
+					<lb />
+				</item>
+				<item>
+					 In view of the pendency of the aforesaid application
+					<lb />
+					before the Arbitral Tribunal, this Court again through
+					<lb />
+					interim order dated 09.09.2021, allowed continuation of
+					<lb />
+					proceedings before the NCLT, without final authorization
+					<lb />
+					on the scheme.
+					<lb />
+				</item>
+			</list>
+			<p>
+				39. One aspect which may be highlighted is the punitive directions
+				<lb />
+				ordered by the learned Single Judge in the order dated
+				<lb />
+				18.03.2021, which are extracted below:
+				<lb />
+			</p>
+			<list>
+				<item>
+					&quot;192. All the objections raised by the
+					<lb />
+					respondents are hereby rejected with cost of
+					<lb />
+					Rs.20,00,000/ to be deposited by the
+					<lb />
+					respondents with the Prime Minister Relief
+					<lb />
+					Fund for being used for providing COVID
+					<lb />
+					vaccination to the Below Poverty Line (BPL)
+					<lb />
+					category senior citizens of Delhi. The cost be
+					<lb />
+					deposited within a period of two weeks and
+					<lb />
+					the receipt be placed on record within one
+					<lb />
+					week of the deposit.
+					<lb />
+				</item>
+				<item>
+					193. The respondents have deliberately and
+					<lb />
+					wilfully violated the interim order dated 25th
+					<lb />
+					October, 2020 and are liable for the
+					<lb />
+					consequences enumerated in Order XXXIX
+					<lb />
+					Rule 2A of the Code of Civil Procedure.
+					<lb />
+				</item>
+				<item>
+					194. In exercise of power under Order XXXIX
+					<lb />
+					Rule 2A(1) of the Code, the assets of the
+					<lb />
+					respondents No.1 to 13 are hereby attached.
+					<lb />
+					Respondents No. 1 to 13 are directed to file
+					<lb />
+					an affidavit of their assets as on today in
+					<lb />
+					Form 16A, Appendix E under Order XXI Rule
+					<lb />
+					41(2) of the Code of Civil Procedure within 30
+					<lb />
+					days. Respondent No. 1, 2, 12 and 13 are
+					<lb />
+					directed to file an additional affidavit in the
+					<lb />
+					format of Annexure B1 and respondents no.
+					<lb />
+				</item>
+				<item>
+					3 to 11 are directed to file an additional
+					<lb />
+					affidavit in the format of Annexure A1 to the
+					<lb />
+					judgment of M/s. Bhandari Engineers &amp;
+					<lb />
+					Builders Pvt. Ltd. v. M/s. Maharia Raj
+					<lb />
+					Joint Venture, (supra) along with the
+					<lb />
+					documents mentioned therein within 30
+					<lb />
+					days.&quot;
+					<lb />
+				</item>
+			</list>
+			<p>
+				40. Our attention is drawn to the fact that the learned Single
+				<lb />
+				Judge had relied on M/s. Bhandari Engineers &amp; Builders
+				<lb />
+				Pvt. Ltd. v. M/s. Maharia Raj Joint Venture, 2019 SCC
+				<lb />
+				Online Del. 11879, which has been overruled by a Division
+				<lb />
+				Bench order in Delhi Chemical and Pharmaceutical Works
+				<lb />
+				Pvt. Ltd. &amp; Anr. v. Himgiri Realtors Pvt. Ltd. &amp; Anr., EFA
+				<lb />
+				(OS) (Comm.) No. 4 of 2021.
+				<lb />
+			</p>
+			<p>
+				41. Viewed differently, contempt of a civil nature can be made out
+				<lb />
+				under Order XXXIX Rule 2A CPC not when there has been
+				<lb />
+				mere &quot;disobedience&quot;, but only when there has been &quot;wilful
+				<lb />
+				disobedience&quot;. The allegation of wilful disobedience being in
+				<lb />
+				the nature of criminal liability, the same has to be proved to
+				<lb />
+				the satisfaction of the court that the disobedience was not
+				<lb />
+				mere &quot;disobedience&quot; but &quot;wilful&quot; and &quot;conscious&quot;. This Court
+				<lb />
+				in the case of Ram Kishan v. Tarun Bajaj, (2014) 16 SCC
+				<lb />
+				204, considering the implication of exercise of contempt
+				<lb />
+				jurisdiction, held that the power must be exercised with
+				<lb />
+				caution rather than on mere probabilities. While delineating
+				<lb />
+				the conduct which can be held to be &quot;wilful disobedience&quot;, this
+				<lb />
+				Court held that:
+				<lb />
+			</p>
+			<list>
+				<item>
+					&quot;12. Thus, in order to punish a contemnor, it
+					<lb />
+					has to be established that disobedience of the
+					<lb />
+					order is &quot;wilful&quot;. The word &quot;wilful&quot; introduces a
+					<lb />
+					mental element and hence, requires looking
+					<lb />
+					into the mind of a person/contemnor by
+					<lb />
+					gauging his actions, which is an indication of
+					<lb />
+					one&apos;s state of mind. &quot;Wilful&quot; means knowingly
+					<lb />
+					intentional,
+					<lb />
+					conscious,
+					<lb />
+					calculated
+					<lb />
+					and
+					<lb />
+					deliberate with full knowledge of consequences
+					<lb />
+					flowing therefrom. It excludes casual,
+					<lb />
+					accidental, bona fide or unintentional acts or
+					<lb />
+					genuine inability. Wilful acts does not
+					<lb />
+					encompass involuntarily or negligent actions.
+					<lb />
+					The act has to be done with a &quot;bad purpose or
+					<lb />
+					without justifiable excuse or stubbornly,
+					<lb />
+					obstinately or perversely&quot;. Wilful act is to be
+					<lb />
+					distinguished from an act done carelessly,
+					<lb />
+					thoughtlessly, heedlessly or inadvertently. It
+					<lb />
+					does not include any act done negligently or
+					<lb />
+					involuntarily. The deliberate conduct of a
+					<lb />
+					person means that he knows what he is doing
+					<lb />
+					and intends to do the same. Therefore, there
+					<lb />
+					has to be a calculated action with evil
+					<lb />
+					motive on his part. Even if there is a
+					<lb />
+					disobedience of an order, but such
+					<lb />
+					disobedience is the result of some
+					<lb />
+					compelling circumstances under which it
+					<lb />
+					was not possible for the contemnor to
+					<lb />
+					comply with the order, the contemnor
+					<lb />
+					cannot
+					<lb />
+					be
+					<lb />
+					punished.
+					<lb />
+				</item>
+				<item>
+					&quot;Committal
+					<lb />
+					or
+					<lb />
+					sequestration will not be ordered unless
+					<lb />
+					contempt involves a degree of default or
+					<lb />
+					misconduct.&quot;
+					<lb />
+				</item>
+				<item>
+					(Emphasis supplied)
+					<lb />
+				</item>
+			</list>
+			<p>
+				42. Considering the fact that in the suit instituted by FRL, the
+				<lb />
+				learned Single Judge had earlier allowed FRL and Amazon to
+				<lb />
+				continue their pursuit before various regulatory authorities,
+				<lb />
+				and in view of the interim orders of this Court dated
+				<lb />
+				22.02.2021 and 09.09.2021, and the Courts below, we are
+				<lb />
+				inclined to setaside aforesaid directions as the precondition
+				<lb />
+				of &apos;sufficient mental element for wilful disobedience&apos; is not
+				<lb />
+				satisfied. Moreover, Mr. Gopal Subramanium, learned Senior
+				<lb />
+				Advocate appearing for Amazon, has fairly stated that Amazon
+				<lb />
+				is not interested in proceeding with the punitive directions.
+				<lb />
+				Taking note of the aforesaid submission, we set aside the
+				<lb />
+				punitive directions issued in the impugned orders of learned
+				<lb />
+				Single Judge dated 02.02.2021 and 18.03.2021.
+				<lb />
+			</p>
+			<p>
+				43. Coming to the merits of the case, we would like to mention a
+				<lb />
+				disconcerting aspect wherein the interim order enforcing the
+				<lb />
+				Emergency Award has adopted a standard beyond &apos;prima facie
+				<lb />
+				view&apos;, as required under law. It is expected of Courts to be
+				<lb />
+				cautious while making observations on the merits of the case,
+				<lb />
+				which would inevitably influence the Arbitral Tribunals
+				<lb />
+				hearing the matters on merit.
+				<lb />
+			</p>
+			<p>
+				44. Therefore, we set aside the order of the learned Single Judge
+				<lb />
+				dated 02.02.2021 and 18.03.2021 passed in OMP (ENF)
+				<lb />
+				(COMM.) No.17 of 2021.
+				<lb />
+			</p>
+			<head>
+				Question No. II
+				<lb />
+			</head>
+			<p>
+				45. At the outset, it is agreed by learned advocates appearing on
+				<lb />
+				both side that the impugned order dated 29.10.2021 in IA No.
+				<lb />
+				14285/2021 moved in Arb. A (Comm.) No. 64 of 2021, needs
+				<lb />
+				to be set aside for nonconsideration of the orders of this
+				<lb />
+				Court in the proper perspective. Our order dated 09.09.2021,
+				<lb />
+				imposed no bar on the High Court to adjudicate the issue
+				<lb />
+				concerning legality of the vacate application order by the
+				<lb />
+				Arbitral Tribunal. In our opinion, adjudication of the
+				<lb />
+				applications under Section 37(2), Arbitration Act filed by the
+				<lb />
+				appellants before the Delhi High Court are distinct from the
+				<lb />
+				earlier appeals filed before this Court.
+				<lb />
+			</p>
+			<p>
+				46. Further, certain important questions of law concerning the
+				<lb />
+				effect of the award of an Emergency Arbitrator and the
+				<lb />
+				jurisdiction of an Arbitral Tribunal qua such awards arise in
+				<lb />
+				the present matter. Therefore, these matters need to be
+				<lb />
+				remitted back for adjudication on its own merits.
+				<lb />
+			</p>
+			<p>
+				47. In view of the above, we order:
+				<lb />
+			</p>
+		</list>
 	</text>
 </tei>

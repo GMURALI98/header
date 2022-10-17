@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent>
+							<persName>
+								 <forename>R-1 THE SECRETARY TO GOVERNMENT, INDUSTRIES DEPARTMENT, STATE OF TAMIL</forename>
+								 <surname>NADU</surname>, CHENNAI-9. R-2 THE SECRETARY TO GOVERNMENT,
+								 <middlename>PUBLIC WORKS</middlename>
+							</persName>
+							<persName>
+								 <surname>DEPARTMENT</surname>,
+								 <middlename>FORT</middlename>
+							</persName>
+							<persName>
+								 <surname>ST</surname>.
+							</persName>
+							<persName>
+								 <surname>GEORGE</surname>, CHENNAI-9. R-3 THE
+								 <forename>DISTRICT</forename>
+							</persName>
+							<persName>
+								 <surname>COLLECTOR KANCHEEPURAM DISTRICT</surname>, KANCHEEPURAM. R-4 THE DISTRICT COLLECTOR TIRUVALLUR DISTRICT, TIRUVALLUR. R-5 M.
+							</persName>
+							<persName>
+								<surname>PALANISAMY</surname>, 107-A,
+								 <forename>SENGUPTHA</forename>
+							</persName>
+							<persName>
+								 <surname>STREET</surname>,
+								 <middlename>RAM</middlename>
+							</persName>
+							<persName>
+								 <surname>NAGAR</surname>, COIMBATORE-9. The President of the petitioner&apos;s Association
+							</persName>
+						</respondent>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

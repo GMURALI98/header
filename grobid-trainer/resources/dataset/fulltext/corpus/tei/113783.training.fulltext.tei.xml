@@ -1,52 +1,55 @@
 <?xml version="1.0"?>
 <tei xml:space="preserve">
-    <teiHeader>
-        <fileDesc xml:id="0" />
-    </teiHeader>
-    <text xml:lang="en">
-
-        <p>
-            Notice. Mr. Vikas Rajput, Advocate, appears and
-            <lb />
-            waives service of notice on behalf of the respondents.
-            <lb />
-            The execution petition is disposed of with a
-            <lb />
-            direction to the respondents to comply with the judgment
-            <lb />
-            passed by this Court in CWP NO.2205 of 2020, titled as
-            <lb />
-            Om Parkash Versus Himachal Road Transport
-            <lb />
-            Corporation and others, decided on 23.07.2020 and
-            <lb />
-            file compliance affidavit within six weeks from today.
-            <lb />
-            Pending miscellaneous application(s), if any, shall also
-            <lb />
-            stand disposed of.
-            <lb />
-        </p>
-
-        <p>
-            2.
-            <lb />
-            List for compliance come up on 27.10.2021.
-            <lb />
-        </p>
-
-        <p>
-            (Tarlok Singh Chauhan)
-            <lb />
-            Judge
-            <lb />
-            (Satyen Vaidya)
-            <lb />
-            Judge
-            <lb />
-            September 15, 2021
-        </p>
-
-
-    </text>
+	<teiHeader>
+		<fileDesc xml:id="0" />
+	</teiHeader>
+	<text xml:lang="en">
+		<p>
+			Notice. Mr. Vikas Rajput, Advocate, appears and
+			<lb />
+			waives service of notice on behalf of the respondents.
+			<lb />
+			The execution petition is disposed of with a
+			<lb />
+			direction to the respondents to comply with the judgment
+			<lb />
+			passed by this Court in CWP NO.2205 of 2020, titled as
+			<lb />
+			Om Parkash Versus Himachal Road Transport
+			<lb />
+			Corporation and others, decided on 23.07.2020 and
+			<lb />
+			file compliance affidavit within six weeks from today.
+			<lb />
+			Pending miscellaneous application(s), if any, shall also
+			<lb />
+			stand disposed of.
+			<lb />
+		</p>
+		<p>
+			2.
+			<lb />
+			List for compliance come up on 27.10.2021.
+			<lb />
+		</p>
+		<p>
+			(Tarlok Singh Chauhan)
+			<lb />
+		</p>
+		<p>
+			Judge
+			<lb />
+		</p>
+		<p>
+			(Satyen Vaidya)
+			<lb />
+		</p>
+		<p>
+			Judge
+			<lb />
+		</p>
+		<p>
+			September 15, 2021
+		</p>
+	</text>
 </tei>

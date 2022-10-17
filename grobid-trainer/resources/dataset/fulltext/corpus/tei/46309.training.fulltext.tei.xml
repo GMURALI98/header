@@ -1,55 +1,398 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <tei xml:space="preserve">
 	<teiHeader>
-		<fileDesc xml:id="0"/>
+		<fileDesc xml:id="0" />
 	</teiHeader>
 	<text xml:lang="en">
-			<head> INDERMEET KAUR, J.<lb/></head>
-
-			<p>1<lb/> Petitioner is aggrieved by the order dated 15.7.2015 vide which his<lb/> application filed under Order XII Rule 6 of the Code of Civil Procedure<lb/> (hereinafter referred to as the Code) in the pending suit had been dismissed.<lb/></p>
-
-			<p>2<lb/> Petitoner is defendant no. 2 in the Trial Court.<lb/></p>
-
-			<p>3<lb/> Record shows that the present suit has been filed by Ch.Ramswaroop<lb/> Wrestling Club (hereafter referred to as the plaintiff) seeking relief of<lb/> declaration, mandatory injunction and permanent injunctions. The version of<lb/> the plaintiff was that &quot;TIKONA AKHARA&quot; (situated in F-Block, Kamla<lb/> Nagar, Delhi measuring 325. 82 sq. yards) is a public land. It belongs to the<lb/> MCD; this is open for use by all citizens. The plaintiff (since deceased) was<lb/> in possession of this &quot;TIKONA AKHARA&quot; since the year 1945. He has<lb/> formed the Ch. Ramswaroop Wrestling Club. After his death his son<lb/> Raghuwar Singh @ Raghuwar Pehlwan has carried on this legacy. The<lb/> plaintiff participated in various wrestling competitons and has brought<lb/> various laurels to the country. Defendant nos.1 to 4 (M/s Birla Textiles<lb/> Ltd.) are claiming false ownership over this land. The land belongs to<lb/> defendant nos.5 and 6 (MCD). It is a public land. The suit was accordingly<lb/> filed. The prayers made in the plaint are relevant and it read herein as under:<lb/></p>
-
-			<list>
-            
-            <item> &quot;i) to pass a decree of declaration in favour of the plaintiff and<lb/> against the defendants no.1 to 4 thereby declaring that the suit property i.e.<lb/> &quot;Tikona Akhara&quot; situated along side the Wall of Nagar Nigam Kanya<lb/> Vidyalaya, Block &quot;F&quot;, Kamla Nagar, Delhi-110007, more clearly shown red<lb/> colour in the annexed site plan is the property of the defendant No.5/MCD<lb/> and is a public land meant for use as play ground i.e. Wrestling ground;<lb/></item>
-
-			<item>ii) to pass a decree of Mandatory injunction in favour of the plaintiff and<lb/> against the defendant No.5 and 6 hereby directing them to allow the plaintiff<lb/> club to continue to carry on Wrestling activities at suit property i.e. Tikona<lb/> Akhara.<lb/></item>
-
-			<item>iii) to pass a decree of permanent injunction in favour of the plaintiff and<lb/> against the defendants No.1 to 4 thereby restraining defendants No.1 to 4,<lb/> their agents, officials, servants, etc., etc. from taking over the physical<lb/> possession of the suit property i.e. Tikona Akhara, or convernting the use of<lb/> the same for commercial activities;<lb/></item>
-
-			<item>iv) to award cost of the proceedings throughout in favour of the plaintiff and<lb/> against the defendants.<lb/></item>
-
-			<item>v) any other order/s which this Hon&apos;ble Court may deem fit and proper may<lb/> also be passed in the interest of justice.&quot;<lb/></item>
-
-            </list>
-
-			<p>4<lb/> Written statement was filed by defendant no.2. It was denied that the<lb/> defendant is falsely claiming to be the owner of the land in question.<lb/> Submission was that pursuant to an exchange deed dated 13.9.1954 (duly<lb/> registered) the said area of 146 sq. yards was given to M/s Birla Textiles Ltd.<lb/> who had become the owner of the land in question. Pursuant to an order of<lb/> amalgamation between defendant nos.1 and 2, defendant no.2 ( M/s<lb/> Texmaco Ltd.) had acquired all rights and titles of the land in question and<lb/> had become the owner of the land in question. Having acquired the same<lb/> from M/s Birla Textiles Ltd., defendant no.2 is now the owner of the land in<lb/> question. In consideration of the exchange deed a sum of Rs.8411/-had<lb/> been given by the defendants to the MCD; the MCD having transferred all its<lb/> rights in this land to defendant no.1 and now defendant no.2 has since<lb/> acquired ownership and title in the suit land. It was denied that the land in<lb/> question belongs to defendant no.5; it was offered as a play ground. In this<lb/> written statement it was further stated that in the year 1984 certain<lb/> proceedings under Section 145 of the Cr.P.C. were got initiated inter se the<lb/> parties and late Raghuvar Singh and his sons unsuccessfully tried to grab this<lb/> land. The SDM on 27.12.2001 appointed the SHO Police Station Roop<lb/> Nagar as custodian of the land in question. The order of the SDM was<lb/> challenged before the Court of Sesions Judge. On 08.9.2005 the Sessions<lb/> Judge had granted possession of the land in question to the defendant no.2.<lb/> The matter reached the High Court in Criminal Revision Petition<lb/> No.4732/2005. The High Court on 04.01.2013 dismissed this petition thus<lb/> endorsing the order of the Sessions Judge and holding that possession be<lb/> retained by defendant no.2. The possession letter indicating that possession<lb/> of the suit land is with defendant no.2 is dated 22.4.2013. The fact that the<lb/> possession of the suit land is with defendant no.2 is also an admitted fact.<lb/></p>
-
-			<p>5<lb/> Seprate written statement was also filed by defendant nos.5 and 6 i.e.<lb/> the Municipal Corpopration of Delhi. Their stand was that in terms of the<lb/> exchange deed dated 13.9.1954 this suit land measnring 146 sq. yards was<lb/> exchanged with defendant no.1 and the MCD had handed over the title and<lb/> possession of the suit land to defendant no.1(now with defendant no.2).<lb/> Further submission in the written statement of the MCD being that defendant<lb/> nos.1 to 3 always being in possession of the suit land and their possession<lb/> has been endorsed by the judgment of the High Court in Criminal Revision<lb/> Petition No.4732/2005 in its judgment dated 04.01.2013. In para 10 of the<lb/> written statement, the Department further states that the plaintiff has filed<lb/> documents which are not registered. It is stated that the documents relied<lb/> upon by the plaintiff do not relate to the suit property and the erstwhile MCD<lb/> (now North Delhi Municipal Corporation) on a re-examination of the matter<lb/> qua ownership of the suit property has found that the erstwhile Municipal<lb/> Committee had in fact exchanged the suit land with defendant no.1 by virtue<lb/> of an exchange deed dated 13.9.1954; plaintiff is not in possession of the suit<lb/> premises; plaintiff is misreading the documents and trying to mislead the<lb/> Court by relying upon only an extract of an Immovable Property Register.<lb/> In paras 11 and 12 of the written statement, on the identity of the suit<lb/> property it was stated that the plaintiff is taking undue advantage of the fact<lb/> that a portion of the suit land without any proper dimensions or the area<lb/> having been mentioned and only by placing a copy of the extract of the<lb/> Immovable Property Register has attempted to show that it is a municipal<lb/> land.<lb/></p>
-
-			<p>6<lb/> In view of the aforenoted pleadings, an application under Order XII<lb/> Rule 6 of the Code came to be filed by defendant nos.1 and 2. Their<lb/> contention was that there were clearcut admissions made in the pleadings<lb/> which entitles the suit to be disposed of straightway; the exchange deed<lb/> dated 13.9.1954 being a registered document clearly show that the suit land<lb/> had been exchanged between defendant no.1 and the MCD; the possession of<lb/> the suit land has been endorsed by the orders passed by the SDM under<lb/> Section 145 of the Cr.P.C. which has been affirmed by the High Court on<lb/> 04.01.2013. The prayer made in the petition no longer survives. The<lb/> judgment/decree on the admissions of the parties should straightway follow.<lb/></p>
-
-			<p>7<lb/> Learned counsel for the petitioner has placed reliance upon 2015 II<lb/> AD (Delhi) 159Razia Begum (Smt) Vs. Delhi Development Authority &amp; Ors.<lb/> ,211(2014) DLT 149 (Division Bench) Keshav Chander Thakur and Anr. Vs.<lb/> Krishan Chandedr &amp; Ors., 2011 (3) RCR (Civil) 932 Ramrameshwari Devi<lb/> and Ors. Vs. Nirmala Devi and Ors. and 223 (2015) DLT 132 Seema Thakur<lb/> Vs. Union of India &amp; Ors.<lb/></p>
-
-			<p>8<lb/> Needless to state that these arguments have been refuted.<lb/></p>
-
-			<p>9<lb/> An application under Order XII Rule 6 of the Code which is a shortcut<lb/> in the trial entitles either the plaintiff or the defendant to obtain a decree on<lb/> admissions provided that the admissions are clearcut, unambiguous and<lb/> transparent. If there is a cloud over any issue a decree under Order XII Rule<lb/> 6 of the Code cannot be granted. This is the thumb rule for an application<lb/> under Order XII Rule 6 of the Code to be decided.<lb/></p>
-
-			<p>10<lb/> Noting the pleadings of the parties, this Court is of the view that the<lb/> impugned order does not suffer from any infirmity. The plaint discloses that<lb/> the exchange deed dated 13.9.1954 purported to have entered into between<lb/> the defendant no.1 and defendant no.5 does not identify the land correctly.<lb/> The site plan annexed with the plaint has been perused. Admittedly no<lb/> counter plan has been filed by the defendants. This site plan of the plaintiff<lb/> reflects the wrestling ground in the triangular portion. The southern, eastern<lb/> and western sides are bounded by roads. On the northern side there is an<lb/> MC Girls School. The total area has been depicted as 2932.4 sq. feet. The<lb/> submission of the learned counsel for plaintiff is that that identity of the suit<lb/> land as given in the site plan does not conform with the land mentioned in<lb/> the exchange deed dated 13.9.1954. A perusal of the exchange deed shows<lb/> that this is an exchange made between the Municipal Committee of Delhi<lb/> and M/s Birla Cotton Spinning and Weaving Mills Ltd. Municipal<lb/> Committee of Delhi has been described as the first part. His ownership has<lb/> been depicted in the first schedule. A perusal of the first schedule shows that<lb/> the land which belongs to the Municipal Committee of Delhi at point &quot;K&quot;<lb/> (subject matter of exchange) is 146 sq. yards which on the northen side is<lb/> bounded by M/s Birla Mills Ltd. and on the southern side there is a<lb/> municipal road; on the eastern side also there is a municipal road; on the<lb/> western side there is a land of M/s Birls Mills Ltd. Contention of the<lb/> plaintiff being that the identity of the suit property is not clear and the land<lb/> which is the subject matter of exchange deed (dated 13.9.1954) is in fact not<lb/> the land for which the present suit has been filed is noted. Further<lb/> submission that the proceedings under Section 145 of the Cr.P.C. are also<lb/> indicative only of a possession and not of title i.e. the settled position at law;<lb/> the possession qua the proceedings under Section 145 of the Cr.P.C. are also<lb/> on a limited aspect and for a temporary purpose. This stand is also noted.<lb/> The additional submission of the learned counsel for the plaintiff that the<lb/> inter se admissions made by defendant nos.1 and 2 and defendant nos.5 and<lb/> 6 are collusive and require trial is additinally noted.<lb/></p>
-
-			<p>11<lb/> This Court is thus of the view that first and foremost the identify of the<lb/> suit property has to be decided and this can only be done after the parties are<lb/> relegated to a trial and after giving them opportunity to lead evidence to<lb/> establish whether the suit land for which the present suit has been filed is in<lb/> fact the same land which forms a part of the exchange deed dated 13.9.1954.<lb/></p>
-
-			<p>12<lb/> The judgments relied upon by learned counsel for the petitioner have<lb/> no bearing to the factul matrix of the instant case. Their ratios are wholly<lb/> inapplicable. The first three judgments (supra) relate to the law of limitation<lb/> which is not an objection taken in present case. The last judgment is also on<lb/> the ground of delay in initiating proceedings. None of them are applicable to<lb/> the present scenario.<lb/></p>
-
-			<p>13<lb/> The impugned order in this background dismissing the application<lb/> under Order XII Rule 6 of the Code suffers from no infirmity. There are no<lb/> clearcut admissions. Petiton is without any merit. It is dismissed with costs<lb/> quantified at Rs.10,000/-.<lb/></p>
-            
-            <p> INDERMEET KAUR, J<lb/></p>
-            
-            <p>  MARCH 17, 2016<lb/> ndn</p>
-
-
+		<p>
+			1
+			<lb />
+			Petitioner is aggrieved by the order dated 15.7.2015 vide which his
+			<lb />
+			application filed under Order XII Rule 6 of the Code of Civil Procedure
+			<lb />
+			(hereinafter referred to as the Code) in the pending suit had been dismissed.
+			<lb />
+		</p>
+		<p>
+			2
+			<lb />
+			Petitoner is defendant no. 2 in the Trial Court.
+			<lb />
+		</p>
+		<p>
+			3
+			<lb />
+			Record shows that the present suit has been filed by Ch.Ramswaroop
+			<lb />
+			Wrestling Club (hereafter referred to as the plaintiff) seeking relief of
+			<lb />
+			declaration, mandatory injunction and permanent injunctions. The version of
+			<lb />
+			the plaintiff was that &quot;TIKONA AKHARA&quot; (situated in F-Block, Kamla
+			<lb />
+			Nagar, Delhi measuring 325. 82 sq. yards) is a public land. It belongs to the
+			<lb />
+			MCD; this is open for use by all citizens. The plaintiff (since deceased) was
+			<lb />
+			in possession of this &quot;TIKONA AKHARA&quot; since the year 1945. He has
+			<lb />
+			formed the Ch. Ramswaroop Wrestling Club. After his death his son
+			<lb />
+			Raghuwar Singh @ Raghuwar Pehlwan has carried on this legacy. The
+			<lb />
+			plaintiff participated in various wrestling competitons and has brought
+			<lb />
+			various laurels to the country. Defendant nos.1 to 4 (M/s Birla Textiles
+			<lb />
+			Ltd.) are claiming false ownership over this land. The land belongs to
+			<lb />
+			defendant nos.5 and 6 (MCD). It is a public land. The suit was accordingly
+			<lb />
+			filed. The prayers made in the plaint are relevant and it read herein as under:
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;i) to pass a decree of declaration in favour of the plaintiff and
+				<lb />
+				against the defendants no.1 to 4 thereby declaring that the suit property i.e.
+				<lb />
+				&quot;Tikona Akhara&quot; situated along side the Wall of Nagar Nigam Kanya
+				<lb />
+				Vidyalaya, Block &quot;F&quot;, Kamla Nagar, Delhi-110007, more clearly shown red
+				<lb />
+				colour in the annexed site plan is the property of the defendant No.5/MCD
+				<lb />
+				and is a public land meant for use as play ground i.e. Wrestling ground;
+				<lb />
+			</item>
+			<item>
+				ii) to pass a decree of Mandatory injunction in favour of the plaintiff and
+				<lb />
+				against the defendant No.5 and 6 hereby directing them to allow the plaintiff
+				<lb />
+				club to continue to carry on Wrestling activities at suit property i.e. Tikona
+				<lb />
+				Akhara.
+				<lb />
+			</item>
+			<item>
+				iii) to pass a decree of permanent injunction in favour of the plaintiff and
+				<lb />
+				against the defendants No.1 to 4 thereby restraining defendants No.1 to 4,
+				<lb />
+				their agents, officials, servants, etc., etc. from taking over the physical
+				<lb />
+				possession of the suit property i.e. Tikona Akhara, or convernting the use of
+				<lb />
+				the same for commercial activities;
+				<lb />
+			</item>
+			<item>
+				iv) to award cost of the proceedings throughout in favour of the plaintiff and
+				<lb />
+				against the defendants.
+				<lb />
+			</item>
+			<item>
+				v) any other order/s which this Hon&apos;ble Court may deem fit and proper may
+				<lb />
+				also be passed in the interest of justice.&quot;
+				<lb />
+			</item>
+		</list>
+		<p>
+			4
+			<lb />
+			Written statement was filed by defendant no.2. It was denied that the
+			<lb />
+			defendant is falsely claiming to be the owner of the land in question.
+			<lb />
+			Submission was that pursuant to an exchange deed dated 13.9.1954 (duly
+			<lb />
+			registered) the said area of 146 sq. yards was given to M/s Birla Textiles Ltd.
+			<lb />
+			who had become the owner of the land in question. Pursuant to an order of
+			<lb />
+			amalgamation between defendant nos.1 and 2, defendant no.2 ( M/s
+			<lb />
+			Texmaco Ltd.) had acquired all rights and titles of the land in question and
+			<lb />
+			had become the owner of the land in question. Having acquired the same
+			<lb />
+			from M/s Birla Textiles Ltd., defendant no.2 is now the owner of the land in
+			<lb />
+			question. In consideration of the exchange deed a sum of Rs.8411/-had
+			<lb />
+			been given by the defendants to the MCD; the MCD having transferred all its
+			<lb />
+			rights in this land to defendant no.1 and now defendant no.2 has since
+			<lb />
+			acquired ownership and title in the suit land. It was denied that the land in
+			<lb />
+			question belongs to defendant no.5; it was offered as a play ground. In this
+			<lb />
+			written statement it was further stated that in the year 1984 certain
+			<lb />
+			proceedings under Section 145 of the Cr.P.C. were got initiated inter se the
+			<lb />
+			parties and late Raghuvar Singh and his sons unsuccessfully tried to grab this
+			<lb />
+			land. The SDM on 27.12.2001 appointed the SHO Police Station Roop
+			<lb />
+			Nagar as custodian of the land in question. The order of the SDM was
+			<lb />
+			challenged before the Court of Sesions Judge. On 08.9.2005 the Sessions
+			<lb />
+			Judge had granted possession of the land in question to the defendant no.2.
+			<lb />
+			The matter reached the High Court in Criminal Revision Petition
+			<lb />
+			No.4732/2005. The High Court on 04.01.2013 dismissed this petition thus
+			<lb />
+			endorsing the order of the Sessions Judge and holding that possession be
+			<lb />
+			retained by defendant no.2. The possession letter indicating that possession
+			<lb />
+			of the suit land is with defendant no.2 is dated 22.4.2013. The fact that the
+			<lb />
+			possession of the suit land is with defendant no.2 is also an admitted fact.
+			<lb />
+		</p>
+		<p>
+			5
+			<lb />
+			Seprate written statement was also filed by defendant nos.5 and 6 i.e.
+			<lb />
+			the Municipal Corpopration of Delhi. Their stand was that in terms of the
+			<lb />
+			exchange deed dated 13.9.1954 this suit land measnring 146 sq. yards was
+			<lb />
+			exchanged with defendant no.1 and the MCD had handed over the title and
+			<lb />
+			possession of the suit land to defendant no.1(now with defendant no.2).
+			<lb />
+			Further submission in the written statement of the MCD being that defendant
+			<lb />
+			nos.1 to 3 always being in possession of the suit land and their possession
+			<lb />
+			has been endorsed by the judgment of the High Court in Criminal Revision
+			<lb />
+			Petition No.4732/2005 in its judgment dated 04.01.2013. In para 10 of the
+			<lb />
+			written statement, the Department further states that the plaintiff has filed
+			<lb />
+			documents which are not registered. It is stated that the documents relied
+			<lb />
+			upon by the plaintiff do not relate to the suit property and the erstwhile MCD
+			<lb />
+			(now North Delhi Municipal Corporation) on a re-examination of the matter
+			<lb />
+			qua ownership of the suit property has found that the erstwhile Municipal
+			<lb />
+			Committee had in fact exchanged the suit land with defendant no.1 by virtue
+			<lb />
+			of an exchange deed dated 13.9.1954; plaintiff is not in possession of the suit
+			<lb />
+			premises; plaintiff is misreading the documents and trying to mislead the
+			<lb />
+			Court by relying upon only an extract of an Immovable Property Register.
+			<lb />
+			In paras 11 and 12 of the written statement, on the identity of the suit
+			<lb />
+			property it was stated that the plaintiff is taking undue advantage of the fact
+			<lb />
+			that a portion of the suit land without any proper dimensions or the area
+			<lb />
+			having been mentioned and only by placing a copy of the extract of the
+			<lb />
+			Immovable Property Register has attempted to show that it is a municipal
+			<lb />
+			land.
+			<lb />
+		</p>
+		<p>
+			6
+			<lb />
+			In view of the aforenoted pleadings, an application under Order XII
+			<lb />
+			Rule 6 of the Code came to be filed by defendant nos.1 and 2. Their
+			<lb />
+			contention was that there were clearcut admissions made in the pleadings
+			<lb />
+			which entitles the suit to be disposed of straightway; the exchange deed
+			<lb />
+			dated 13.9.1954 being a registered document clearly show that the suit land
+			<lb />
+			had been exchanged between defendant no.1 and the MCD; the possession of
+			<lb />
+			the suit land has been endorsed by the orders passed by the SDM under
+			<lb />
+			Section 145 of the Cr.P.C. which has been affirmed by the High Court on
+			<lb />
+			04.01.2013. The prayer made in the petition no longer survives. The
+			<lb />
+			judgment/decree on the admissions of the parties should straightway follow.
+			<lb />
+		</p>
+		<p>
+			7
+			<lb />
+			Learned counsel for the petitioner has placed reliance upon 2015 II
+			<lb />
+			AD (Delhi) 159Razia Begum (Smt) Vs. Delhi Development Authority &amp; Ors.
+			<lb />
+			,211(2014) DLT 149 (Division Bench) Keshav Chander Thakur and Anr. Vs.
+			<lb />
+			Krishan Chandedr &amp; Ors., 2011 (3) RCR (Civil) 932 Ramrameshwari Devi
+			<lb />
+			and Ors. Vs. Nirmala Devi and Ors. and 223 (2015) DLT 132 Seema Thakur
+			<lb />
+			Vs. Union of India &amp; Ors.
+			<lb />
+		</p>
+		<p>
+			8
+			<lb />
+			Needless to state that these arguments have been refuted.
+			<lb />
+		</p>
+		<p>
+			9
+			<lb />
+			An application under Order XII Rule 6 of the Code which is a shortcut
+			<lb />
+			in the trial entitles either the plaintiff or the defendant to obtain a decree on
+			<lb />
+			admissions provided that the admissions are clearcut, unambiguous and
+			<lb />
+			transparent. If there is a cloud over any issue a decree under Order XII Rule
+			<lb />
+			6 of the Code cannot be granted. This is the thumb rule for an application
+			<lb />
+			under Order XII Rule 6 of the Code to be decided.
+			<lb />
+		</p>
+		<p>
+			10
+			<lb />
+			Noting the pleadings of the parties, this Court is of the view that the
+			<lb />
+			impugned order does not suffer from any infirmity. The plaint discloses that
+			<lb />
+			the exchange deed dated 13.9.1954 purported to have entered into between
+			<lb />
+			the defendant no.1 and defendant no.5 does not identify the land correctly.
+			<lb />
+			The site plan annexed with the plaint has been perused. Admittedly no
+			<lb />
+			counter plan has been filed by the defendants. This site plan of the plaintiff
+			<lb />
+			reflects the wrestling ground in the triangular portion. The southern, eastern
+			<lb />
+			and western sides are bounded by roads. On the northern side there is an
+			<lb />
+			MC Girls School. The total area has been depicted as 2932.4 sq. feet. The
+			<lb />
+			submission of the learned counsel for plaintiff is that that identity of the suit
+			<lb />
+			land as given in the site plan does not conform with the land mentioned in
+			<lb />
+			the exchange deed dated 13.9.1954. A perusal of the exchange deed shows
+			<lb />
+			that this is an exchange made between the Municipal Committee of Delhi
+			<lb />
+			and M/s Birla Cotton Spinning and Weaving Mills Ltd. Municipal
+			<lb />
+			Committee of Delhi has been described as the first part. His ownership has
+			<lb />
+			been depicted in the first schedule. A perusal of the first schedule shows that
+			<lb />
+			the land which belongs to the Municipal Committee of Delhi at point &quot;K&quot;
+			<lb />
+			(subject matter of exchange) is 146 sq. yards which on the northen side is
+			<lb />
+			bounded by M/s Birla Mills Ltd. and on the southern side there is a
+			<lb />
+			municipal road; on the eastern side also there is a municipal road; on the
+			<lb />
+			western side there is a land of M/s Birls Mills Ltd. Contention of the
+			<lb />
+			plaintiff being that the identity of the suit property is not clear and the land
+			<lb />
+			which is the subject matter of exchange deed (dated 13.9.1954) is in fact not
+			<lb />
+			the land for which the present suit has been filed is noted. Further
+			<lb />
+			submission that the proceedings under Section 145 of the Cr.P.C. are also
+			<lb />
+			indicative only of a possession and not of title i.e. the settled position at law;
+			<lb />
+			the possession qua the proceedings under Section 145 of the Cr.P.C. are also
+			<lb />
+			on a limited aspect and for a temporary purpose. This stand is also noted.
+			<lb />
+			The additional submission of the learned counsel for the plaintiff that the
+			<lb />
+			inter se admissions made by defendant nos.1 and 2 and defendant nos.5 and
+			<lb />
+			6 are collusive and require trial is additinally noted.
+			<lb />
+		</p>
+		<p>
+			11
+			<lb />
+			This Court is thus of the view that first and foremost the identify of the
+			<lb />
+			suit property has to be decided and this can only be done after the parties are
+			<lb />
+			relegated to a trial and after giving them opportunity to lead evidence to
+			<lb />
+			establish whether the suit land for which the present suit has been filed is in
+			<lb />
+			fact the same land which forms a part of the exchange deed dated 13.9.1954.
+			<lb />
+		</p>
+		<p>
+			12
+			<lb />
+			The judgments relied upon by learned counsel for the petitioner have
+			<lb />
+			no bearing to the factul matrix of the instant case. Their ratios are wholly
+			<lb />
+			inapplicable. The first three judgments (supra) relate to the law of limitation
+			<lb />
+			which is not an objection taken in present case. The last judgment is also on
+			<lb />
+			the ground of delay in initiating proceedings. None of them are applicable to
+			<lb />
+			the present scenario.
+			<lb />
+		</p>
+		<p>
+			13
+			<lb />
+			The impugned order in this background dismissing the application
+			<lb />
+			under Order XII Rule 6 of the Code suffers from no infirmity. There are no
+			<lb />
+			clearcut admissions. Petiton is without any merit. It is dismissed with costs
+			<lb />
+			quantified at Rs.10,000/-.
+			<lb />
+		</p>
+		<p>
+			INDERMEET KAUR, J
+			<lb />
+		</p>
+		<p>
+			MARCH 17, 2016
+			<lb />
+		</p>
+		<p>
+			ndn
+			<lb />
+		</p>
 	</text>
 </tei>

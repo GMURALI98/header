@@ -5,22 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<p>
-			The Hon&apos;ble Madurai Bench of Madras High Court in its order first read above
-			<lb />
-			has issued the following judgment:-
-			<lb />
-		</p>
-		<item>
-			&quot;... the Government is directed to constitute an Equivalence
-			<lb />
-			Committee so as to find whether the diploma acquired by Writ
-			<lb />
-			Petitions can be declared equivalent to the qualifications referred in
-			<lb />
-			the Notification as well as in the Service rules...&quot;
-			<lb />
-		</item>
-		<p>
 			2. In the letters second and third read above, the Director of School Education
 			<lb />
 			has sent proposals of the Government seeking orders of the Government on the
@@ -72,7 +56,7 @@
 			similar courses for the purpose of employment in public service.
 			<lb />
 		</p>
-		<table>
+		<figure type="table">
 			Sl.No.
 			<lb />
 			Resolution
@@ -131,7 +115,7 @@
 			<lb />
 			Equivalent
 			<lb />
-		</table>
+		</figure>
 		<p>
 			6. The Government after careful consideration, decided to accept the above
 			<lb />
@@ -210,6 +194,8 @@
 		<p>
 			(A.P.S., CJ.)
 			<lb />
+		</p>
+		<p>
 			(S.P., J.)
 			<lb />
 		</p>

@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0" />
 	</teiHeader>
 	<text xml:lang="en">
-		<table>
+		<figure type="table">
 			INDEX
 			<lb />
 			S. No.
@@ -61,7 +61,7 @@
 			<lb />
 			27 to 30
 			<lb />
-		</table>
+		</figure>
 		<head>
 			W.P.(C) 5703/2020 &amp; CM APPLs. 20604/2020, 6417/2021, 36762/2021
 			<lb />
@@ -122,230 +122,242 @@
 			The petition seeks the following specific reliefs:
 			<lb />
 		</p>
-		<p>
-			&quot;…a) Issue an appropriate Writ in the nature of Certiorari
-			<lb />
-			quashing Articles 2.1.3, 3.0, 4.1, 5.13, 5.14, 6.6.1 of the
-			<lb />
-			Respondent No. 2, MOA whereby the posts of &quot;Life Member&quot;,
-			<lb />
-			&quot;CEO&quot; and &quot;Life President&quot; have been created, being in blatant
-			<lb />
-			contravention of the NSCI, Circular 1975 and 2001 Guidelines,
-			<lb />
-			as illegal and unsustainable; and
-			<lb />
-			b) Issue an appropriate Writ in the nature of Certiorari quashing
-			<lb />
-			Articles 1.11, 4.1, 5.3, 6.6.1, insofar as they giving voting rights
-			<lb />
-			and recognize the posts of &quot;Life Member&quot;, &quot;CEO&quot; and &quot;Life
-			<lb />
-			President&quot; created in the Respondent No. 2, federation being in
-			<lb />
-			blatant contravention of the NSCI, Circular 1975 and 2001
-			<lb />
-			Guidelines as illegal and unsustainable; and
-			<lb />
-		</p>
-		<item>
-			c) Issue an appropriate Writ in the nature of Certiorari quashing
-			<lb />
-			the appointments of the Respondent No. 3 and 4 as &quot;Life
-			<lb />
-			Member&quot; as &quot;CEO&quot; respectively in the Respondent No. 2
-			<lb />
-			Federation; and
-			<lb />
-			d) Issue an appropriate Writ in the nature of Certiorari quashing
-			<lb />
-			consequential appointments of the Respondent No. 3 and 4 based
-			<lb />
-			on their being an office bearers/ life member in the Respondent
-			<lb />
-			No. 2 federation; and
-			<lb />
-			e) Issue an appropriate Writ in the nature of Mandamus
-			<lb />
-			directing the Respondent No. 3 and 4 to render accounts of all
-			<lb />
-			gratification and financial benefits received by them from the
-			<lb />
-			Respondent No. 2 for holding the posts of &quot;Life Member&quot; and
-			<lb />
-			&quot;CEO&quot; respectively from the time of their appointments until
-			<lb />
-			date, and refund the same to the accounts of the Respondent
-			<lb />
-			No.2; and
-			<lb />
-		</item>
-		<item>
-			f) Issue an appropriate Writ in the nature of Mandamus
-			<lb />
-			appointing an impartial Administrator or ad-hoc committee of
-			<lb />
-			eminent sport persons to administer the affairs and oversee the
-			<lb />
-			day to day functioning and working of the Respondent No. 2 until
-			<lb />
-			the MOA of the Respondent No. 2 is amended and fresh elections
-			<lb />
-			in accordance with the Model Election Guidelines under the
-			<lb />
-			NSCI are undertaken; and
-			<lb />
-		</item>
-		<item>
-			g)Issue an appropriate Writ in the nature of Mandamus
-			<lb />
-			appointing a Returning officer or directing such Administrator to
-			<lb />
-			conduct fresh elections of the Respondent No. 2 in accordance
-			<lb />
-			with the Model Election Guidelines under the NSCI; and
-			<lb />
-		</item>
-		<item>
-			h) Issue an appropriate Writ in the nature of Mandamus
-			<lb />
-			directing the Respondent No. 1 to cancel the affiliation of the
-			<lb />
-			Respondent No. 2 until the MOA of the Respondent No. 2 is
-			<lb />
-			amended, appointments of Respondent No. 3 and 4 are
-			<lb />
-			terminated and fresh elections in accordance with the Model
-			<lb />
-			Election Guidelines under the NSCI are undertaken…&quot;
-			<lb />
+		<list>
+			<item>
+				&quot;…a) Issue an appropriate Writ in the nature of Certiorari
+				<lb />
+				quashing Articles 2.1.3, 3.0, 4.1, 5.13, 5.14, 6.6.1 of the
+				<lb />
+				Respondent No. 2, MOA whereby the posts of &quot;Life Member&quot;,
+				<lb />
+				&quot;CEO&quot; and &quot;Life President&quot; have been created, being in blatant
+				<lb />
+				contravention of the NSCI, Circular 1975 and 2001 Guidelines,
+				<lb />
+				as illegal and unsustainable; and
+				<lb />
+			</item>
+			<item>
+				b) Issue an appropriate Writ in the nature of Certiorari quashing
+				<lb />
+				Articles 1.11, 4.1, 5.3, 6.6.1, insofar as they giving voting rights
+				<lb />
+				and recognize the posts of &quot;Life Member&quot;, &quot;CEO&quot; and &quot;Life
+				<lb />
+				President&quot; created in the Respondent No. 2, federation being in
+				<lb />
+				blatant contravention of the NSCI, Circular 1975 and 2001
+				<lb />
+				Guidelines as illegal and unsustainable; and
+				<lb />
+			</item>
+			<item>
+				c) Issue an appropriate Writ in the nature of Certiorari quashing
+				<lb />
+				the appointments of the Respondent No. 3 and 4 as &quot;Life
+				<lb />
+				Member&quot; as &quot;CEO&quot; respectively in the Respondent No. 2
+				<lb />
+				Federation; and
+				<lb />
+			</item>
+			<item>
+				d) Issue an appropriate Writ in the nature of Certiorari quashing
+				<lb />
+				consequential appointments of the Respondent No. 3 and 4 based
+				<lb />
+				on their being an office bearers/ life member in the Respondent
+				<lb />
+				No. 2 federation; and
+				<lb />
+			</item>
+			<item>
+				e) Issue an appropriate Writ in the nature of Mandamus
+				<lb />
+				directing the Respondent No. 3 and 4 to render accounts of all
+				<lb />
+				gratification and financial benefits received by them from the
+				<lb />
+				Respondent No. 2 for holding the posts of &quot;Life Member&quot; and
+				<lb />
+				&quot;CEO&quot; respectively from the time of their appointments until
+				<lb />
+				date, and refund the same to the accounts of the Respondent
+				<lb />
+				No.2; and
+				<lb />
+			</item>
+			<item>
+				f) Issue an appropriate Writ in the nature of Mandamus
+				<lb />
+				appointing an impartial Administrator or ad-hoc committee of
+				<lb />
+				eminent sport persons to administer the affairs and oversee the
+				<lb />
+				day to day functioning and working of the Respondent No. 2 until
+				<lb />
+				the MOA of the Respondent No. 2 is amended and fresh elections
+				<lb />
+				in accordance with the Model Election Guidelines under the
+				<lb />
+				NSCI are undertaken; and
+				<lb />
+			</item>
+			<item>
+				g)Issue an appropriate Writ in the nature of Mandamus
+				<lb />
+				appointing a Returning officer or directing such Administrator to
+				<lb />
+				conduct fresh elections of the Respondent No. 2 in accordance
+				<lb />
+				with the Model Election Guidelines under the NSCI; and
+				<lb />
+			</item>
+			<item>
+				h) Issue an appropriate Writ in the nature of Mandamus
+				<lb />
+				directing the Respondent No. 1 to cancel the affiliation of the
+				<lb />
+				Respondent No. 2 until the MOA of the Respondent No. 2 is
+				<lb />
+				amended, appointments of Respondent No. 3 and 4 are
+				<lb />
+				terminated and fresh elections in accordance with the Model
+				<lb />
+				Election Guidelines under the NSCI are undertaken…&quot;
+				<lb />
+			</item>
+		</list>
+		<head>
 			Legal Landscape:
 			<lb />
-		</item>
-		<item>
+		</head>
+		<p>
 			4.
 			<lb />
 			Mahipal Singh (supra) held, inter alia, as under:
 			<lb />
-		</item>
-		<item>
-			&quot;62. The Model Election Guidelines annexed to the NSCI and
-			<lb />
-			constituting a part thereof clearly set out the officers who would
-			<lb />
-			constitute Office Bearers of the NSF, and the post of &quot;Life
-			<lb />
-			President&quot; is not among them. Indeed, neither does the NSCI, nor
-			<lb />
-			do any of the Circulars issued prior thereto, contemplate a post of
-			<lb />
-			&quot;Life President&quot; in an NSF. While Clause 19 of its pre-amended
-			<lb />
-			MOA included, in the Office Bearers of the AKFI, only the
-			<lb />
-			President, Vice Presidents, Honorary General Secretary,
-			<lb />
-			Honorary Joint Secretaries and Honorary Treasurer, Clause 8.9
-			<lb />
-			of the amended MOA of the AKFI included, among the Office
-			<lb />
-			Bearers, the &quot;Life President&quot;. This was, on the face of it, illegal,
-			<lb />
-			as the NSCI did not visualize any post of Life President at all, in
-			<lb />
-			an NSF, either as an Office Bearer, or otherwise.
-			<lb />
-		</item>
-		<item>
-			63. In our opinion, as a beneficiary of the recognition conferred
-			<lb />
-			by the Government, the AKFI was bound by the stipulations
-			<lb />
-			contained in the NSCI, and other Cognate Guidelines issued by
-			<lb />
-			the Government, and had no authority to create posts de hors,
-			<lb />
-			and in excess of, those contemplated by the NSCI.
-			<lb />
-		</item>
-		<item>
-			64. Apart from the fact that the AKFI, in its capacity as a NSF
-			<lb />
-			availing recognition from the Government, did not have any
-			<lb />
-			authority to create a post of &quot;Life President&quot;, where the NSCI did
-			<lb />
-			not contemplate the existence of any such post, Clause 15.8
-			<lb />
-			compounded the illegality by providing that the Life President
-			<lb />
-			would hold office during his entire life time. This stipulation,
-			<lb />
-			again, directly infracted the tenure limits, specified in the NSCI
-			<lb />
-			which, as already noted hereinabove, were binding on all
-			<lb />
-			recognised NSFs, including the AKFI. The creation of such an
-			<lb />
-			immortal entity, blessed with the gift of &quot;ichhamrityu&quot; (death at
-			<lb />
-			will) was, we are certain, not even remotely within the
-			<lb />
-			imagination, not to say contemplation, of the framers of the NSCI.
-			<lb />
-		</item>
-		<item>
-			65. Equally, the post of Life President itself being an illegally
-			<lb />
-			created post, there could be no question of the holder of the said
-			<lb />
-			post having any right to represent the AKFI at any international
-			<lb />
-			forum. The NSCI, as well as the Guidelines issued prior thereto,
-			<lb />
-			clearly permitted representation, by any NSF, in continental or
-			<lb />
-			international sports events in which India was a participant, only
-			<lb />
-			if the NSF complied with the stipulations prescribed therein,
-			<lb />
-			which included adherence to the age specifications and tenure
-			<lb />
-			limits specified, as well as conducting of elections in accordance
-			<lb />
-			with the Model Election Guidelines.
-			<lb />
-		</item>
-		<item>
-			66. In any event, the very creation of the post of Life President
-			<lb />
-			being vitiated by law, there could be no question of granting any
-			<lb />
-			benefits to the holder of such an illegally created post. Though
-			<lb />
-			Mr. Dubey asserted that no salary, or emoluments, were paid to
-			<lb />
-			Respondent No. 4, in his capacity as Life President, expenses
-			<lb />
-			would, no doubt, be incurred in allowing Respondent No. 4 to
-			<lb />
-			travel nationally and internationally, purportedly representing
-			<lb />
-			the country in sporting events. These expenses are defrayed out of
-			<lb />
-			public monies, and amount to thievery of the ordinary citizen by
-			<lb />
-			executive dispensation, which is completely unthinkable in law.
-			<lb />
-		</item>
-		<item>
-			67. Clauses 8.9, 15.8 and 17.2 of the amended MOA of the AKFI
-			<lb />
-			are, therefore, declared to be completely illegal, and liable to be
-			<lb />
-			struck down…&quot;
-			<lb />
-		</item>
+		</p>
+		<list>
+			<item>
+				&quot;62. The Model Election Guidelines annexed to the NSCI and
+				<lb />
+				constituting a part thereof clearly set out the officers who would
+				<lb />
+				constitute Office Bearers of the NSF, and the post of &quot;Life
+				<lb />
+				President&quot; is not among them. Indeed, neither does the NSCI, nor
+				<lb />
+				do any of the Circulars issued prior thereto, contemplate a post of
+				<lb />
+				&quot;Life President&quot; in an NSF. While Clause 19 of its pre-amended
+				<lb />
+				MOA included, in the Office Bearers of the AKFI, only the
+				<lb />
+				President, Vice Presidents, Honorary General Secretary,
+				<lb />
+				Honorary Joint Secretaries and Honorary Treasurer, Clause 8.9
+				<lb />
+				of the amended MOA of the AKFI included, among the Office
+				<lb />
+				Bearers, the &quot;Life President&quot;. This was, on the face of it, illegal,
+				<lb />
+				as the NSCI did not visualize any post of Life President at all, in
+				<lb />
+				an NSF, either as an Office Bearer, or otherwise.
+				<lb />
+			</item>
+			<item>
+				63. In our opinion, as a beneficiary of the recognition conferred
+				<lb />
+				by the Government, the AKFI was bound by the stipulations
+				<lb />
+				contained in the NSCI, and other Cognate Guidelines issued by
+				<lb />
+				the Government, and had no authority to create posts de hors,
+				<lb />
+				and in excess of, those contemplated by the NSCI.
+				<lb />
+			</item>
+			<item>
+				64. Apart from the fact that the AKFI, in its capacity as a NSF
+				<lb />
+				availing recognition from the Government, did not have any
+				<lb />
+				authority to create a post of &quot;Life President&quot;, where the NSCI did
+				<lb />
+				not contemplate the existence of any such post, Clause 15.8
+				<lb />
+				compounded the illegality by providing that the Life President
+				<lb />
+				would hold office during his entire life time. This stipulation,
+				<lb />
+				again, directly infracted the tenure limits, specified in the NSCI
+				<lb />
+				which, as already noted hereinabove, were binding on all
+				<lb />
+				recognised NSFs, including the AKFI. The creation of such an
+				<lb />
+				immortal entity, blessed with the gift of &quot;ichhamrityu&quot; (death at
+				<lb />
+				will) was, we are certain, not even remotely within the
+				<lb />
+				imagination, not to say contemplation, of the framers of the NSCI.
+				<lb />
+			</item>
+			<item>
+				65. Equally, the post of Life President itself being an illegally
+				<lb />
+				created post, there could be no question of the holder of the said
+				<lb />
+				post having any right to represent the AKFI at any international
+				<lb />
+				forum. The NSCI, as well as the Guidelines issued prior thereto,
+				<lb />
+				clearly permitted representation, by any NSF, in continental or
+				<lb />
+				international sports events in which India was a participant, only
+				<lb />
+				if the NSF complied with the stipulations prescribed therein,
+				<lb />
+				which included adherence to the age specifications and tenure
+				<lb />
+				limits specified, as well as conducting of elections in accordance
+				<lb />
+				with the Model Election Guidelines.
+				<lb />
+			</item>
+			<item>
+				66. In any event, the very creation of the post of Life President
+				<lb />
+				being vitiated by law, there could be no question of granting any
+				<lb />
+				benefits to the holder of such an illegally created post. Though
+				<lb />
+				Mr. Dubey asserted that no salary, or emoluments, were paid to
+				<lb />
+				Respondent No. 4, in his capacity as Life President, expenses
+				<lb />
+				would, no doubt, be incurred in allowing Respondent No. 4 to
+				<lb />
+				travel nationally and internationally, purportedly representing
+				<lb />
+				the country in sporting events. These expenses are defrayed out of
+				<lb />
+				public monies, and amount to thievery of the ordinary citizen by
+				<lb />
+				executive dispensation, which is completely unthinkable in law.
+				<lb />
+			</item>
+			<item>
+				67. Clauses 8.9, 15.8 and 17.2 of the amended MOA of the AKFI
+				<lb />
+				are, therefore, declared to be completely illegal, and liable to be
+				<lb />
+				struck down…&quot;
+				<lb />
+			</item>
+		</list>
 		<p>
 			5.
 			<lb />
@@ -384,187 +396,199 @@
 			by all Sports Federations&quot; reads, inter-alia, as under:
 			<lb />
 		</p>
-		<item>
-			&quot;1. Short Title &amp; Definitions
-			<lb />
-		</item>
-		<item>
-			(1) These Bye-laws shall be called the &quot;Election Bye-laws&quot; and
-			<lb />
-			shall govern the conduct of Election of Office Bearers and
-			<lb />
-			Members of Managing Committee of ________
-			<lb />
-		</item>
-		<item>
-			(2) In these Bye-laws, unless the context otherwise requires, -
-			<lb />
-		</item>
-		<item>
-			(a) &quot;clause&quot; ad &quot;sub-clause&quot; mean the clause and sub-clause of
-			<lb />
-			these Bye-laws;
-			<lb />
-		</item>
-		<item>
-			(b) &quot;Managing members&quot; means Member of Managing Committee
-			<lb />
-			of _______
-			<lb />
-		</item>
-		<item>
-			(c) &quot;Form&quot; means the Form appended to these Bye-laws;
-			<lb />
-		</item>
-		<item>
-			(d) _____ means Name of the Federation;
-			<lb />
-		</item>
-		<item>
-			(e) &quot;Post&quot; includes the office of President, Secretary General,
-			<lb />
-			Treasurer, Vice President, Joint Secretary and Member of
-			<lb />
-			Managing Committee of _____.
-			<lb />
-		</item>
-		<item>
-			(f) &quot;Rule&quot; means the rule of Rules and Regulations of _______.
-			<lb />
-		</item>
-		<p>
-			2. Managing Committee:
-			<lb />
-		</p>
-		<p>
-			(1) The 7 (Seven) Officer Bearers (in addition to 5 executive
-			<lb />
-			members) shall be as follows:-
-			<lb />
-		</p>
-		<item>
-			1. President 1 (one)
-			<lb />
-		</item>
-		<item>
-			2. Vice-Presidents 2 (two)
-			<lb />
-		</item>
-		<item>
-			3. General Secretary
-			<lb />
-			1 (One)
-			<lb />
-		</item>
-		<item>
-			4. Treasurer
-			<lb />
-			1 (One)
-			<lb />
-		</item>
-		<item>
-			5. Joint Secretaries 2 (Two)
-			<lb />
-			(Note the above number may be changed according to the
-			<lb />
-			Constitution of the concerned Federation)
-			<lb />
-		</item>
-		<item>
-			3. Manner of Election:
-			<lb />
-		</item>
-		<item>
-			(1) Office bearers and members of Managing Committee of _____
-			<lb />
-			shall be elected by secret ballot.
-			<lb />
-		</item>
-		<item>
-			(2) Election shall be held at the Annual General Council Meeting
-			<lb />
-			(AGM) in accordance with the procedure prescribed hereinafter,
-			<lb />
-			from amongst the representatives of the Permanent Member
-			<lb />
-			States/ Union Territories/ Boards/ Institutions.
-			<lb />
-		</item>
-		<item>
-			4. Electoral College:
-			<lb />
-		</item>
-		<item>
-			(1) Each Permanent Member State/ Union Territory duly
-			<lb />
-			affiliated by _____ (abbreviation of Federation) as its Permanent
-			<lb />
-			Member shall have two votes at the elections of the Office Bearers
-			<lb />
-			and Managing Committee Members.
-			<lb />
-		</item>
-		<item>
-			(2) For the purposes of sub-clause(1), each Permanent Member
-			<lb />
-			State/ Union Territory shall be represented by two members
-			<lb />
-			authorized by the President or Secretary General/ Secretary of the
-			<lb />
-			affiliated Permanent Member State/ Union Territory; however, in
-			<lb />
-			case President/ Secretary General/ Secretary nominates different
-			<lb />
-			person(s) authorized by the President shall be deemed to be the
-			<lb />
-			duly authorized person(s). Irrespective of the date.
-			<lb />
-		</item>
-		<p>
-			7. The model nomination paper for election to a &quot;Post&quot; is prescribed as
-			<lb />
-			under:
-			<lb />
-			NOMINATION PAPER FOR
-			<lb />
-			ELECTION
-			<lb />
-			AS____________________________(NAME OF THE POST)
-			<lb />
-			TO
-			<lb />
-		</p>
-		<item>
-			(Name and address of returning officer)
-			<lb />
-		</item>
-		<item>
-			The Returning Officer for above Election
-			<lb />
-			_______________________________
-			<lb />
-			_______________________________
-			<lb />
-			We nominate
-			<lb />
-			Shri/Smt./Ms.__________________________________________
-			<lb />
-			_____________________________________________________
-			<lb />
-			_____________________(name and address), whose name is
-			<lb />
-			entered at SI.No.______ in the Electoral College list for the above
-			<lb />
-			mentioned post.
-			<lb />
-		</item>
-		<item>
-			2.
-			<lb />
-			Our particulars are given below:-
-			<lb />
-		</item>
-		<table>
+		<list>
+			<item>
+				&quot;1. Short Title &amp; Definitions
+				<lb />
+			</item>
+			<item>
+				(1) These Bye-laws shall be called the &quot;Election Bye-laws&quot; and
+				<lb />
+				shall govern the conduct of Election of Office Bearers and
+				<lb />
+				Members of Managing Committee of ________
+				<lb />
+			</item>
+			<item>
+				(2) In these Bye-laws, unless the context otherwise requires, -
+				<lb />
+			</item>
+			<item>
+				(a) &quot;clause&quot; ad &quot;sub-clause&quot; mean the clause and sub-clause of
+				<lb />
+				these Bye-laws;
+				<lb />
+			</item>
+			<item>
+				(b) &quot;Managing members&quot; means Member of Managing Committee
+				<lb />
+				of _______
+				<lb />
+			</item>
+			<item>
+				(c) &quot;Form&quot; means the Form appended to these Bye-laws;
+				<lb />
+			</item>
+			<item>
+				(d) _____ means Name of the Federation;
+				<lb />
+			</item>
+			<item>
+				(e) &quot;Post&quot; includes the office of President, Secretary General,
+				<lb />
+				Treasurer, Vice President, Joint Secretary and Member of
+				<lb />
+				Managing Committee of _____.
+				<lb />
+			</item>
+			<item>
+				(f) &quot;Rule&quot; means the rule of Rules and Regulations of _______.
+				<lb />
+			</item>
+			<item>
+				2. Managing Committee:
+				<lb />
+			</item>
+			<item>
+				(1) The 7 (Seven) Officer Bearers (in addition to 5 executive
+				<lb />
+				members) shall be as follows:-
+				<lb />
+			</item>
+			<item>
+				1. President 1 (one)
+				<lb />
+			</item>
+			<item>
+				2. Vice-Presidents 2 (two)
+				<lb />
+			</item>
+			<item>
+				3. General Secretary
+				<lb />
+				1 (One)
+				<lb />
+			</item>
+			<item>
+				4. Treasurer
+				<lb />
+				1 (One)
+				<lb />
+			</item>
+			<item>
+				5. Joint Secretaries 2 (Two)
+				<lb />
+				(Note the above number may be changed according to the
+				<lb />
+				Constitution of the concerned Federation)
+				<lb />
+			</item>
+			<item>
+				3. Manner of Election:
+				<lb />
+			</item>
+			<item>
+				(1) Office bearers and members of Managing Committee of _____
+				<lb />
+				shall be elected by secret ballot.
+				<lb />
+			</item>
+			<item>
+				(2) Election shall be held at the Annual General Council Meeting
+				<lb />
+				(AGM) in accordance with the procedure prescribed hereinafter,
+				<lb />
+				from amongst the representatives of the Permanent Member
+				<lb />
+				States/ Union Territories/ Boards/ Institutions.
+				<lb />
+			</item>
+			<item>
+				4. Electoral College:
+				<lb />
+			</item>
+			<item>
+				(1) Each Permanent Member State/ Union Territory duly
+				<lb />
+				affiliated by _____ (abbreviation of Federation) as its Permanent
+				<lb />
+				Member shall have two votes at the elections of the Office Bearers
+				<lb />
+				and Managing Committee Members.
+				<lb />
+			</item>
+			<item>
+				(2) For the purposes of sub-clause(1), each Permanent Member
+				<lb />
+				State/ Union Territory shall be represented by two members
+				<lb />
+				authorized by the President or Secretary General/ Secretary of the
+				<lb />
+				affiliated Permanent Member State/ Union Territory; however, in
+				<lb />
+				case President/ Secretary General/ Secretary nominates different
+				<lb />
+				person(s) authorized by the President shall be deemed to be the
+				<lb />
+				duly authorized person(s). Irrespective of the date.
+				<lb />
+			</item>
+			<item>
+				7. The model nomination paper for election to a &quot;Post&quot; is prescribed as
+				<lb />
+				under:
+				<lb />
+			</item>
+			<item>
+				NOMINATION PAPER FOR
+				<lb />
+				ELECTION
+				<lb />
+			</item>
+			<item>
+				AS____________________________(NAME OF THE POST)
+				<lb />
+				TO
+				<lb />
+			</item>
+			<item>
+				(Name and address of returning officer)
+				<lb />
+			</item>
+			<item>
+				The Returning Officer for above Election
+				<lb />
+			</item>
+			<item>
+				_______________________________
+				<lb />
+				_______________________________
+				<lb />
+			</item>
+			<item>
+				We nominate
+				<lb />
+			</item>
+			<item>
+				Shri/Smt./Ms.__________________________________________
+				<lb />
+				_____________________________________________________
+				<lb />
+				_____________________(name and address), whose name is
+				<lb />
+				entered at SI.No.______ in the Electoral College list for the above
+				<lb />
+				mentioned post.
+				<lb />
+			</item>
+			<item>
+				2.
+				<lb />
+				Our particulars are given below:-
+				<lb />
+			</item>
+		</list>
+		<figure type="table">
 			Name of
 			<lb />
 			candidate
@@ -591,39 +615,41 @@
 			<lb />
 			Seconder
 			<lb />
-		</table>
-		<item>
-			I, the candidate above named, do hereby give my assent to my
-			<lb />
-			nomination for the above post.
-			<lb />
-		</item>
-		<item>
-			Name of the Candidate______________________
-			<lb />
-			Name of Member State/Union Territory/ Board/ Institution
-			<lb />
-			Sl. No. In the electoral College list_______________________
-			<lb />
-			Signature
-			<lb />
-		</item>
-		<item>
-			Place:
-			<lb />
-		</item>
-		<item>
-			Date:‖&quot;
-			<lb />
-		</item>
-		<item>
-			….&quot;
-			<lb />
-		</item>
-		<item>
-			&quot;
-			<lb />
-		</item>
+		</figure>
+		<list>
+			<item>
+				I, the candidate above named, do hereby give my assent to my
+				<lb />
+				nomination for the above post.
+				<lb />
+			</item>
+			<item>
+				Name of the Candidate______________________
+				<lb />
+				Name of Member State/Union Territory/ Board/ Institution
+				<lb />
+				Sl. No. In the electoral College list_______________________
+				<lb />
+				Signature
+				<lb />
+			</item>
+			<item>
+				Place:
+				<lb />
+			</item>
+			<item>
+				Date:‖&quot;
+				<lb />
+			</item>
+			<item>
+				….&quot;
+				<lb />
+			</item>
+			<item>
+				&quot;
+				<lb />
+			</item>
+		</list>
 		<p>
 			8.
 			<lb />
@@ -664,86 +690,88 @@
 			alia as under:
 			<lb />
 		</p>
-		<item>
-			&quot;
-			<lb />
-			No. 32-02/2020-SP-III
-			<lb />
-			Government of India
-			<lb />
-			Ministry of Youth Affairs &amp; Sports
-			<lb />
-			Department of Sports
-			<lb />
-			…..
-			<lb />
-			Shastri Bhawan, New Delhi
-			<lb />
-			24 th November 2020
-			<lb />
-			To,
-			<lb />
-			President,
-			<lb />
-			Hockey India,
-			<lb />
-			B1/E4, Ground Floor,
-			<lb />
-			Mohan Cooperative Industrial Estate Mathura Road, New Delhi -
-			<lb />
-			110044
-			<lb />
-		</item>
-		<item>
-			Subject: Holding of Honorary Posts in Hockey India to enable
-			<lb />
-			members to contest for posts in the International Federation
-			<lb />
-			Sir,
-			<lb />
-			I am directed to refer to Hockey India&quot;s letter No.
-			<lb />
-			HI/MYAS/2020/11/04 dated 17.11.2020 on the above subject and to
-			<lb />
-			acknowledge the receipt of proposed amendments in Hockey India&quot;s
-			<lb />
-			constitution. Comments of the Ministry on the said proposed
-			<lb />
-			amendments in Hockey India&quot;s constitution will be conveyed in due
-			<lb />
-			course of time.
-			<lb />
-		</item>
-		<item>
-			2. As regards the honorary post of Life Member, it is informed that
-			<lb />
-			as there is no specific mention in the National Sports Development
-			<lb />
-			Code 2011 for the post of honorary life member, it is for the
-			<lb />
-			respective National Sports Federation to take a view for having life
-			<lb />
-			members without voting rights in their Executive Body as well as
-			<lb />
-			General Body.
-			<lb />
-		</item>
-		<item>
-			3. This issues with the approval of the competent authority.
-			<lb />
-		</item>
-		<item>
-			Yours faithfully.
-			<lb />
-		</item>
-		<item>
-			Sd/-
-			<lb />
-			(S.P.S. Tomar)
-			<lb />
-			Deputy Secretary to the Government of India&quot;
-			<lb />
-		</item>
+		<list>
+			<item>
+				&quot;
+				<lb />
+				No. 32-02/2020-SP-III
+				<lb />
+				Government of India
+				<lb />
+				Ministry of Youth Affairs &amp; Sports
+				<lb />
+				Department of Sports
+				<lb />
+				…..
+				<lb />
+				Shastri Bhawan, New Delhi
+				<lb />
+				24 th November 2020
+				<lb />
+				To,
+				<lb />
+				President,
+				<lb />
+				Hockey India,
+				<lb />
+				B1/E4, Ground Floor,
+				<lb />
+				Mohan Cooperative Industrial Estate Mathura Road, New Delhi -
+				<lb />
+				110044
+				<lb />
+			</item>
+			<item>
+				Subject: Holding of Honorary Posts in Hockey India to enable
+				<lb />
+				members to contest for posts in the International Federation
+				<lb />
+				Sir,
+				<lb />
+				I am directed to refer to Hockey India&quot;s letter No.
+				<lb />
+				HI/MYAS/2020/11/04 dated 17.11.2020 on the above subject and to
+				<lb />
+				acknowledge the receipt of proposed amendments in Hockey India&quot;s
+				<lb />
+				constitution. Comments of the Ministry on the said proposed
+				<lb />
+				amendments in Hockey India&quot;s constitution will be conveyed in due
+				<lb />
+				course of time.
+				<lb />
+			</item>
+			<item>
+				2. As regards the honorary post of Life Member, it is informed that
+				<lb />
+				as there is no specific mention in the National Sports Development
+				<lb />
+				Code 2011 for the post of honorary life member, it is for the
+				<lb />
+				respective National Sports Federation to take a view for having life
+				<lb />
+				members without voting rights in their Executive Body as well as
+				<lb />
+				General Body.
+				<lb />
+			</item>
+			<item>
+				3. This issues with the approval of the competent authority.
+				<lb />
+			</item>
+			<item>
+				Yours faithfully.
+				<lb />
+			</item>
+			<item>
+				Sd/-
+				<lb />
+				(S.P.S. Tomar)
+				<lb />
+				Deputy Secretary to the Government of India&quot;
+				<lb />
+			</item>
+		</list>
 		<p>
 			11. Comments, if any, of the Government of India to the proposed
 			<lb />
@@ -810,186 +838,190 @@
 			said order has been shared between the counsel. It reads as under:
 			<lb />
 		</p>
-		<p>
-			BY SPEED POST
-			<lb />
-			No. 19-10/2010-SP.III
-			<lb />
-			Government of India
-			<lb />
-			Ministry of Youth Affairs &amp; Sports (Department of Sports)
-			<lb />
-			(Department of Sports)
-			<lb />
-		</p>
-		<item>
-			New Delhi, the 7th December, 2012
-			<lb />
-			The Secretary General,
-			<lb />
-			Indian Amateur Boxing Federation,
-			<lb />
-			Room No. 2 &amp;#, 2nd Floor,
-			<lb />
-			NDMC Building
-			<lb />
-			Palika Place, Punchkuian Road,
-			<lb />
-			New Delhi -110001
-			<lb />
-		</item>
-		<item>
-			Subject: Annual General Meeting of Indian Amateur Boxing
-			<lb />
-			Federation held at Patiala on 23rd September, 2012 and
-			<lb />
-			holding of election of Office Bearers therein -reg.
-			<lb />
-			Sir,
-			<lb />
-		</item>
-		<item>
-			I am directed to refer to your letter No. IABF/AGM/2012-
-			<lb />
-			13/0520 dated 19th November, 2012 on the subject mentioned
-			<lb />
-			above. While examining the reply of the IABF, the following have
-			<lb />
-			been noticed:
-			<lb />
-			that the time period between the finalization of the electoral roll
-			<lb />
-			and the filing of nomination was very short. Since the candidates
-			<lb />
-			had to file their nominations in person, it was discriminatory
-			<lb />
-			particularly against the candidates from far flung areas.
-			<lb />
-			the proposal to amend the constitution in order to create a post
-			<lb />
-			of Chairman and to permit office bearers of the IABF to be office
-			<lb />
-			bearers of other NSFs were against the principles of good
-			<lb />
-			governance and the National Sports Development Code of India,
-			<lb />
-			2011;
-			<lb />
-		</item>
-		<item>
-			The decision of the Returning Officer to call for nominations
-			<lb />
-			from the floor of the House was completely illegal for the
-			<lb />
-			following reasons:
-			<lb />
-		</item>
-		<item>
-			(a) No evidence has been produced that indicates that the
-			<lb />
-			officials list (Electoral College) was widely publicized. In any
-			<lb />
-			case the time between the publication of the Electoral College
-			<lb />
-			and the date of nomination is so short, that general publicity,
-			<lb />
-			except through the website of the IABF would be impossible. This
-			<lb />
-			also means that persons in the electoral list, without access to the
-			<lb />
-			internet, would have had no knowledge about the Electoral
-			<lb />
-			College.
-			<lb />
-		</item>
-		<item>
-			(b) There is no provision in any rule which allows nominations
-			<lb />
-			from the floor of the House. The Returning Officer completely
-			<lb />
-			erred in accepting the nominations after the last date of filing of
-			<lb />
-			nominations and even after the last date for withdrawal.
-			<lb />
-		</item>
-		<item>
-			2.
-			<lb />
-			It is, therefore, clear that the elections violated the Sports
-			<lb />
-			Code Guidelines, the Constitution of the IABF itself and the
-			<lb />
-			manner in which they were held violated the basic principles of
-			<lb />
-			Natural justice.
-			<lb />
-		</item>
-		<item>
-			3. The IABF is therefore, advised to annul the election held at
-			<lb />
-			Patiala on 23rd September, 2012 with immediate effect and to
-			<lb />
-			hold fresh elections for all the elective posts under an
-			<lb />
-			independent Returning Officer in compliance with the National
-			<lb />
-			Sports Development Code of India, 2011 and declare the results
-			<lb />
-			of the same afresh. While issuing the Notice, it may be ensured
-			<lb />
-			that there is sufficient time between finalization and circulation
-			<lb />
-			of the Electoral College and last date of filing of nominations so
-			<lb />
-			that all eligible and willing persons could file their nominations.
-			<lb />
-		</item>
-		<item>
-			4. The recognition granted earlier to the IABF is hereby
-			<lb />
-			suspended. The IABF is requested to communicate its decision
-			<lb />
-			regarding holding of fresh elections within 15 days of receipt of
-			<lb />
-			this letter, failing which the Government may derecognize the
-			<lb />
-			IABF without any further notice.
-			<lb />
-		</item>
-		<item>
-			5. A copy of the Notice to be issued for holding the fresh election
-			<lb />
-			alongwith the name of Returning Officer be also sent to the
-			<lb />
-			Ministry well in advance.
-			<lb />
-		</item>
-		<item>
-			6. The Federation is also requested to specify tenure and terms
-			<lb />
-			and conditions for the post of Chairman created by the
-			<lb />
-			federation during the AGM held on 23 rd September, 2012. It
-			<lb />
-			should also be specified in their Constitution that the person
-			<lb />
-			holding the post of Chairman will not form a part of the
-			<lb />
-			Electoral College in any future election.
-			<lb />
-		</item>
-		<item>
-			Yours faithfully,
-			<lb />
-		</item>
-		<item>
-			(Onkar Kedia)
-			<lb />
-			Joint Secretary to the Government of India.&quot;
-			<lb />
-			(Emphasis Supplied).
-			<lb />
-		</item>
+		<list>
+			<item>
+				BY SPEED POST
+				<lb />
+				No. 19-10/2010-SP.III
+				<lb />
+				Government of India
+				<lb />
+				Ministry of Youth Affairs &amp; Sports (Department of Sports)
+				<lb />
+				(Department of Sports)
+				<lb />
+			</item>
+			<item>
+				New Delhi, the 7th December, 2012
+				<lb />
+				The Secretary General,
+				<lb />
+				Indian Amateur Boxing Federation,
+				<lb />
+				Room No. 2 &amp;#, 2nd Floor,
+				<lb />
+				NDMC Building
+				<lb />
+				Palika Place, Punchkuian Road,
+				<lb />
+				New Delhi -110001
+				<lb />
+			</item>
+			<item>
+				Subject: Annual General Meeting of Indian Amateur Boxing
+				<lb />
+				Federation held at Patiala on 23rd September, 2012 and
+				<lb />
+				holding of election of Office Bearers therein -reg.
+				<lb />
+				Sir,
+				<lb />
+			</item>
+			<item>
+				I am directed to refer to your letter No. IABF/AGM/2012-
+				<lb />
+				13/0520 dated 19th November, 2012 on the subject mentioned
+				<lb />
+				above. While examining the reply of the IABF, the following have
+				<lb />
+				been noticed:
+				<lb />
+				that the time period between the finalization of the electoral roll
+				<lb />
+				and the filing of nomination was very short. Since the candidates
+				<lb />
+				had to file their nominations in person, it was discriminatory
+				<lb />
+				particularly against the candidates from far flung areas.
+				<lb />
+				the proposal to amend the constitution in order to create a post
+				<lb />
+				of Chairman and to permit office bearers of the IABF to be office
+				<lb />
+				bearers of other NSFs were against the principles of good
+				<lb />
+				governance and the National Sports Development Code of India,
+				<lb />
+				2011;
+				<lb />
+			</item>
+			<item>
+				The decision of the Returning Officer to call for nominations
+				<lb />
+				from the floor of the House was completely illegal for the
+				<lb />
+				following reasons:
+				<lb />
+			</item>
+			<item>
+				(a) No evidence has been produced that indicates that the
+				<lb />
+				officials list (Electoral College) was widely publicized. In any
+				<lb />
+				case the time between the publication of the Electoral College
+				<lb />
+				and the date of nomination is so short, that general publicity,
+				<lb />
+				except through the website of the IABF would be impossible. This
+				<lb />
+				also means that persons in the electoral list, without access to the
+				<lb />
+				internet, would have had no knowledge about the Electoral
+				<lb />
+				College.
+				<lb />
+			</item>
+			<item>
+				(b) There is no provision in any rule which allows nominations
+				<lb />
+				from the floor of the House. The Returning Officer completely
+				<lb />
+				erred in accepting the nominations after the last date of filing of
+				<lb />
+				nominations and even after the last date for withdrawal.
+				<lb />
+			</item>
+			<item>
+				2.
+				<lb />
+				It is, therefore, clear that the elections violated the Sports
+				<lb />
+				Code Guidelines, the Constitution of the IABF itself and the
+				<lb />
+				manner in which they were held violated the basic principles of
+				<lb />
+				Natural justice.
+				<lb />
+			</item>
+			<item>
+				3. The IABF is therefore, advised to annul the election held at
+				<lb />
+				Patiala on 23rd September, 2012 with immediate effect and to
+				<lb />
+				hold fresh elections for all the elective posts under an
+				<lb />
+				independent Returning Officer in compliance with the National
+				<lb />
+				Sports Development Code of India, 2011 and declare the results
+				<lb />
+				of the same afresh. While issuing the Notice, it may be ensured
+				<lb />
+				that there is sufficient time between finalization and circulation
+				<lb />
+				of the Electoral College and last date of filing of nominations so
+				<lb />
+				that all eligible and willing persons could file their nominations.
+				<lb />
+			</item>
+			<item>
+				4. The recognition granted earlier to the IABF is hereby
+				<lb />
+				suspended. The IABF is requested to communicate its decision
+				<lb />
+				regarding holding of fresh elections within 15 days of receipt of
+				<lb />
+				this letter, failing which the Government may derecognize the
+				<lb />
+				IABF without any further notice.
+				<lb />
+			</item>
+			<item>
+				5. A copy of the Notice to be issued for holding the fresh election
+				<lb />
+				alongwith the name of Returning Officer be also sent to the
+				<lb />
+				Ministry well in advance.
+				<lb />
+			</item>
+			<item>
+				6. The Federation is also requested to specify tenure and terms
+				<lb />
+				and conditions for the post of Chairman created by the
+				<lb />
+				federation during the AGM held on 23 rd September, 2012. It
+				<lb />
+				should also be specified in their Constitution that the person
+				<lb />
+				holding the post of Chairman will not form a part of the
+				<lb />
+				Electoral College in any future election.
+				<lb />
+			</item>
+			<item>
+				Yours faithfully,
+				<lb />
+			</item>
+			<item>
+				(Onkar Kedia)
+				<lb />
+				Joint Secretary to the Government of India.&quot;
+				<lb />
+			</item>
+			<item>
+				(Emphasis Supplied).
+				<lb />
+			</item>
+		</list>
 		<p>
 			14.
 			<lb />
@@ -1024,28 +1056,32 @@
 			under:
 			<lb />
 		</p>
-		<item>
-			&quot; 21. We make it clear that the High Court may also consider the
-			<lb />
-			stand taken by the appellant(s) and Union of India that the
-			<lb />
-			decision of this Court in Board of Control for Cricket (supra) will
-			<lb />
-			be of no avail to the present case, because the National Sports
-			<lb />
-			Code takes within its fold fifty-two disciplines of sports and
-			<lb />
-			Cricket is not one of the scheduled sports. In other words, the
-			<lb />
-			dispensation to be followed must be in conformity with the
-			<lb />
-			National Sports Code in so far as AAI is concerned. We keep this
-			<lb />
-			issue open to be considered at the appropriate stage.&quot;
-			<lb />
-			(emphasis supplied)
-			<lb />
-		</item>
+		<list>
+			<item>
+				&quot; 21. We make it clear that the High Court may also consider the
+				<lb />
+				stand taken by the appellant(s) and Union of India that the
+				<lb />
+				decision of this Court in Board of Control for Cricket (supra) will
+				<lb />
+				be of no avail to the present case, because the National Sports
+				<lb />
+				Code takes within its fold fifty-two disciplines of sports and
+				<lb />
+				Cricket is not one of the scheduled sports. In other words, the
+				<lb />
+				dispensation to be followed must be in conformity with the
+				<lb />
+				National Sports Code in so far as AAI is concerned. We keep this
+				<lb />
+				issue open to be considered at the appropriate stage.&quot;
+				<lb />
+			</item>
+			<item>
+				(emphasis supplied)
+				<lb />
+			</item>
+		</list>
 		<p>
 			16. In effect, till such time that a sports body structures itself according to
 			<lb />
@@ -1062,98 +1098,100 @@
 			of India (2012 DLT 389) which is reproduced hereunder: -
 			<lb />
 		</p>
+		<list>
+			<item>
+				&quot;….86. For the foregoing reasons, it is held that the petitioners&quot;
+				<lb />
+				contentions are rejected. The Court reiterates its conclusions that
+				<lb />
+				international sports and regulation of NSFs, and IOA, in respect
+				<lb />
+				of the matters which are the subject of these proceedings, falls
+				<lb />
+				within Entry 97 of the First List to the Seventh Schedule to the
+				<lb />
+				Constitution of India. The Central Government can insist upon
+				<lb />
+				adherence to these provisions, without the aid of legislation. It is
+				<lb />
+				also held that the Sports Code does not violate the freedom under
+				<lb />
+				Article 19(1)(c) of the Constitution. Neither are its provisions
+				<lb />
+				arbitrary. The tenure restrictions impugned in this case can and
+				<lb />
+				are insisted upon as a part of the public interest in efficient and
+				<lb />
+				fair administration of such NSFs. This Court also specifically
+				<lb />
+				notes the letter/notice dated 20.09.1975, which forms part of the
+				<lb />
+				Sports Code, as modified by the later letter of 01.05.2010, to the
+				<lb />
+				following extent:
+				<lb />
+			</item>
+			<item>
+				&quot;i. The President of any recognized National Sports Federation,
+				<lb />
+				including the Indian Olympic Association can hold the office for a
+				<lb />
+				maximum period of twelve years with or without break:
+				<lb />
+			</item>
+			<item>
+				ii. The Secretary (or by whatever other designation such as
+				<lb />
+				Secretary General or General Secretary by which he is referred
+				<lb />
+				to) and the Treasurer of any recognized National Sports
+				<lb />
+				Federation, including the Indian Olympic Association, may serve
+				<lb />
+				a maximum of two successive terms of four years each after which
+				<lb />
+				a minimum &apos;Cooling off period of four years will apply to seek
+				<lb />
+				fresh election to either post.
+				<lb />
+			</item>
+			<item>
+				iii. The President, the Secretary and the Treasurer of any
+				<lb />
+				recognized National Sports Federation, including the Indian
+				<lb />
+				Olympic Association, shall cease to hold that post on attaining the
+				<lb />
+				age of 70 years.
+				<lb />
+			</item>
+			<item>
+				iv. The other provisions in respect of the tenure limit as contained
+				<lb />
+				in the letter of 1975 mentioned above shall remain as it is.
+				<lb />
+			</item>
+			<item>
+				v. The above dispensation will come into operation with
+				<lb />
+				immediate effect.&quot;
+				<lb />
+				This regulation (subject to any subsequent amendments) should,
+				<lb />
+				till appropriate legislation is framed by Parliament, bind the
+				<lb />
+				parties and all NSFs as a condition for recognition, aid and
+				<lb />
+				crucially, for the use of the term &quot;India&quot; by any team in
+				<lb />
+				International Olympic sporting event.&quot; ...
+				<lb />
+			</item>
+		</list>
 		<p>
-			&quot;….86. For the foregoing reasons, it is held that the petitioners&quot;
-			<lb />
-			contentions are rejected. The Court reiterates its conclusions that
-			<lb />
-			international sports and regulation of NSFs, and IOA, in respect
-			<lb />
-			of the matters which are the subject of these proceedings, falls
-			<lb />
-			within Entry 97 of the First List to the Seventh Schedule to the
-			<lb />
-			Constitution of India. The Central Government can insist upon
-			<lb />
-			adherence to these provisions, without the aid of legislation. It is
-			<lb />
-			also held that the Sports Code does not violate the freedom under
-			<lb />
-			Article 19(1)(c) of the Constitution. Neither are its provisions
-			<lb />
-			arbitrary. The tenure restrictions impugned in this case can and
-			<lb />
-			are insisted upon as a part of the public interest in efficient and
-			<lb />
-			fair administration of such NSFs. This Court also specifically
-			<lb />
-			notes the letter/notice dated 20.09.1975, which forms part of the
-			<lb />
-			Sports Code, as modified by the later letter of 01.05.2010, to the
-			<lb />
-			following extent:
-			<lb />
-		</p>
-		<item>
-			&quot;i. The President of any recognized National Sports Federation,
-			<lb />
-			including the Indian Olympic Association can hold the office for a
-			<lb />
-			maximum period of twelve years with or without break:
-			<lb />
-		</item>
-		<item>
-			ii. The Secretary (or by whatever other designation such as
-			<lb />
-			Secretary General or General Secretary by which he is referred
-			<lb />
-			to) and the Treasurer of any recognized National Sports
-			<lb />
-			Federation, including the Indian Olympic Association, may serve
-			<lb />
-			a maximum of two successive terms of four years each after which
-			<lb />
-			a minimum &apos;Cooling off period of four years will apply to seek
-			<lb />
-			fresh election to either post.
-			<lb />
-		</item>
-		<item>
-			iii. The President, the Secretary and the Treasurer of any
-			<lb />
-			recognized National Sports Federation, including the Indian
-			<lb />
-			Olympic Association, shall cease to hold that post on attaining the
-			<lb />
-			age of 70 years.
-			<lb />
-		</item>
-		<item>
-			iv. The other provisions in respect of the tenure limit as contained
-			<lb />
-			in the letter of 1975 mentioned above shall remain as it is.
-			<lb />
-		</item>
-		<item>
-			v. The above dispensation will come into operation with
-			<lb />
-			immediate effect.&quot;
-			<lb />
-			This regulation (subject to any subsequent amendments) should,
-			<lb />
-			till appropriate legislation is framed by Parliament, bind the
-			<lb />
-			parties and all NSFs as a condition for recognition, aid and
-			<lb />
-			crucially, for the use of the term &quot;India&quot; by any team in
-			<lb />
-			International Olympic sporting event.&quot; ...
-			<lb />
-		</item>
-		<item>
 			Petitioner&quot;s Arguments
 			<lb />
-		</item>
+		</p>
 		<p>
 			17. Mr. Vanshdeep Dalmia, the learned counsel for the petitioner submits
 			<lb />
@@ -1238,38 +1276,42 @@
 			following clause:
 			<lb />
 		</p>
-		<item>
-			&quot; 1.4.9 Professionalisation of management
-			<lb />
-			One of the acute problems being faced by many national
-			<lb />
-			federations is the lack of professional skills to plan and implement
-			<lb />
-			detailed programmes for the long term development of sports.
-			<lb />
-			Most office bearers worldwide are in honorary capacity and find
-			<lb />
-			it difficult to manage the complex workings of large Federations
-			<lb />
-			without taking outside professional skill. Appointment of
-			<lb />
-			professionals in such a scenario does not in any way diminish the
-			<lb />
-			status or responsibility of federation executives.
-			<lb />
-		</item>
-		<item>
-			Planning in this area should address issues such as
-			<lb />
-			appointments of staff to handle administration and finance. It
-			<lb />
-			should also include professional development programmes setting
-			<lb />
-			up of administrative procedures, improved communication and
-			<lb />
-			meeting procedures and committee structures.&quot;
-			<lb />
-		</item>
+		<list>
+			<item>
+				&quot; 1.4.9 Professionalisation of management
+				<lb />
+			</item>
+			<item>
+				One of the acute problems being faced by many national
+				<lb />
+				federations is the lack of professional skills to plan and implement
+				<lb />
+				detailed programmes for the long term development of sports.
+				<lb />
+				Most office bearers worldwide are in honorary capacity and find
+				<lb />
+				it difficult to manage the complex workings of large Federations
+				<lb />
+				without taking outside professional skill. Appointment of
+				<lb />
+				professionals in such a scenario does not in any way diminish the
+				<lb />
+				status or responsibility of federation executives.
+				<lb />
+			</item>
+			<item>
+				Planning in this area should address issues such as
+				<lb />
+				appointments of staff to handle administration and finance. It
+				<lb />
+				should also include professional development programmes setting
+				<lb />
+				up of administrative procedures, improved communication and
+				<lb />
+				meeting procedures and committee structures.&quot;
+				<lb />
+			</item>
+		</list>
 		<p>
 			22. Ms. Shyel Trehan, the learned counsel for R-3 submits, that it is in
 			<lb />
@@ -1298,28 +1340,32 @@
 			CEO. Hockey India Federation defines the role of CEO as under:
 			<lb />
 		</p>
-		<item>
-			&quot; 5.13 CEO
-			<lb />
-			The CEO will have all the powers of the Secretary General, will
-			<lb />
-			be Member of the Executive Board with voting rights and will
-			<lb />
-			exercise these powers under the guidance and control of
-			<lb />
-			Secretary General. The CEO in case of unavailability of the
-			<lb />
-			President will also have the powers given to President under
-			<lb />
-		</item>
-		<item>
-			5.4.5. Any such orders made by the CEO must subsequently be
-			<lb />
-			confirmed by the Working Board/Executive Board or Congress
-			<lb />
-			as the case may be.&quot;
-			<lb />
-		</item>
+		<list>
+			<item>
+				&quot; 5.13 CEO
+				<lb />
+			</item>
+			<item>
+				The CEO will have all the powers of the Secretary General, will
+				<lb />
+				be Member of the Executive Board with voting rights and will
+				<lb />
+				exercise these powers under the guidance and control of
+				<lb />
+				Secretary General. The CEO in case of unavailability of the
+				<lb />
+				President will also have the powers given to President under
+				<lb />
+			</item>
+			<item>
+				5.4.5. Any such orders made by the CEO must subsequently be
+				<lb />
+				confirmed by the Working Board/Executive Board or Congress
+				<lb />
+				as the case may be.&quot;
+				<lb />
+			</item>
+		</list>
 		<p>
 			23. There cannot be two posts with the same executive/management
 			<lb />
@@ -1344,34 +1390,36 @@
 			Federation (FIH), the relevant FIH provision reads, inter alia, as under:
 			<lb />
 		</p>
-		<item>
-			&quot; 8.2. The CEO
-			<lb />
-		</item>
-		<item>
-			(a) The Executive Board may appoint a CEO on such terms and
-			<lb />
-			conditions as to remuneration, period of employment (and
-			<lb />
-			termination thereof) and duties as the Executive Board deems fit.
-			<lb />
-		</item>
-		<item>
-			(b) The CEO shall be a member of the Executive Board. He shall
-			<lb />
-			be responsible for managing the staff and the day-to-day
-			<lb />
-			operations of the FIH, for administering its affairs, and for
-			<lb />
-			implementing the decisions and policies of Congress and the
-			<lb />
-			Executive Board.&quot;
-			<lb />
-		</item>
-		<p>
-			(emphasis supplied)
-			<lb />
-		</p>
+		<list>
+			<item>
+				&quot; 8.2. The CEO
+				<lb />
+			</item>
+			<item>
+				(a) The Executive Board may appoint a CEO on such terms and
+				<lb />
+				conditions as to remuneration, period of employment (and
+				<lb />
+				termination thereof) and duties as the Executive Board deems fit.
+				<lb />
+			</item>
+			<item>
+				(b) The CEO shall be a member of the Executive Board. He shall
+				<lb />
+				be responsible for managing the staff and the day-to-day
+				<lb />
+				operations of the FIH, for administering its affairs, and for
+				<lb />
+				implementing the decisions and policies of Congress and the
+				<lb />
+				Executive Board.&quot;
+				<lb />
+			</item>
+			<item>
+				(emphasis supplied)
+				<lb />
+			</item>
+		</list>
 		<p>
 			25. It is to be noted that the said structure is specific to the Federation of
 			<lb />
@@ -1448,114 +1496,118 @@
 			Code. The said paragraph reads, inter alia, as under:
 			<lb />
 		</p>
-		<item>
-			&quot;14. That contentions raised by the Petitioner in Para 9 require
-			<lb />
-			no comments from the answering Respondent as the same are
-			<lb />
-			matters of record. However, going by the press reports, there
-			<lb />
-			appears to be some cases in which new positions/offices such as
-			<lb />
-			Chairman, Advisors, Consultants, etc, have been created in order
-			<lb />
-			to accommodate officials who have become ineligible for re-
-			<lb />
-			election as they have completed their maximum tenure and/or age
-			<lb />
-			as mandated under the Sports Code. When such posts are created
-			<lb />
-			with an intention to bypass or circumvent the provisions of the
-			<lb />
-			Sports Code, it amounts to defeating the very purpose of the said
-			<lb />
-			Sports Code and also violates principles of good governance and
-			<lb />
-			international best practices. In such cases, it would also entail
-			<lb />
-			action to derecognize such NSFs for such default.&quot;
-			<lb />
-		</item>
+		<list>
+			<item>
+				&quot;14. That contentions raised by the Petitioner in Para 9 require
+				<lb />
+				no comments from the answering Respondent as the same are
+				<lb />
+				matters of record. However, going by the press reports, there
+				<lb />
+				appears to be some cases in which new positions/offices such as
+				<lb />
+				Chairman, Advisors, Consultants, etc, have been created in order
+				<lb />
+				to accommodate officials who have become ineligible for re-
+				<lb />
+				election as they have completed their maximum tenure and/or age
+				<lb />
+				as mandated under the Sports Code. When such posts are created
+				<lb />
+				with an intention to bypass or circumvent the provisions of the
+				<lb />
+				Sports Code, it amounts to defeating the very purpose of the said
+				<lb />
+				Sports Code and also violates principles of good governance and
+				<lb />
+				international best practices. In such cases, it would also entail
+				<lb />
+				action to derecognize such NSFs for such default.&quot;
+				<lb />
+			</item>
+		</list>
 		<p>
 			28. In the same writ petition the Government has also asserted, by an earlier
 			<lb />
 			affidavit of 27.05.2012, inter alia as under:
 			<lb />
 		</p>
-		<item>
-			&quot;10. It is pertinent to mention here that the Government vide its
-			<lb />
-			communication dated 1st May 2010 issued tenure restrictions for
-			<lb />
-			the office bearers of the NSF&apos;s which is incorporated in the Sports
-			<lb />
-			Code. The salient features of the 1st May 2010 communication
-			<lb />
-			are:
-			<lb />
-		</item>
-		<item>
-			a. The President of any recognized NSF, including the IOA can
-			<lb />
-			hold the office for a maximum period of 12 years, with or without
-			<lb />
-			break.
-			<lb />
-		</item>
-		<item>
-			b. The Secretary/Secretary General/General Secretary and the
-			<lb />
-			Treasurer of any recognized NSF and the IOA, may serve a
-			<lb />
-			maximum of two successive terms of four years each, after which a
-			<lb />
-			minimum cooling off period of four years would apply to seek
-			<lb />
-			fresh election to either post.
-			<lb />
-		</item>
-		<item>
-			c. The President, Secretary and the Treasurer of any recognized
-			<lb />
-			NSF and the 1OA, would cease to hold the post on attaining the
-			<lb />
-			age of 70 years.
-			<lb />
-		</item>
-		<item>
-			d. The other provisions in respect of the tenure limit as contained
-			<lb />
-			in the 1975 Guidelines were to remain unaffected.
-			<lb />
-		</item>
-		<item>
-			e. It would not disturb the current tenure of any member, provided
-			<lb />
-			he/she has been properly elected to the post and would be
-			<lb />
-			operative for all future elections to be conducted as per the
-			<lb />
-			normal course in the IOA as well as NSFs.
-			<lb />
-		</item>
-		<item>
-			f. Compliance with the aforesaid directions would be a mandatory
-			<lb />
-			precondition for receiving any form of assistance, financial or
-			<lb />
-			otherwise from the Government of India as well as to derive the
-			<lb />
-			authority to perform public functions of selection, deputation of
-			<lb />
-			national teams for participation in recognized continental and
-			<lb />
-			world level international sports competitions which involve
-			<lb />
-			representation of member countries, and to represent the country
-			<lb />
-			in international associations, events, meets, conferences etc.&quot;
-			<lb />
-		</item>
+		<list>
+			<item>
+				&quot;10. It is pertinent to mention here that the Government vide its
+				<lb />
+				communication dated 1st May 2010 issued tenure restrictions for
+				<lb />
+				the office bearers of the NSF&apos;s which is incorporated in the Sports
+				<lb />
+				Code. The salient features of the 1st May 2010 communication
+				<lb />
+				are:
+				<lb />
+			</item>
+			<item>
+				a. The President of any recognized NSF, including the IOA can
+				<lb />
+				hold the office for a maximum period of 12 years, with or without
+				<lb />
+				break.
+				<lb />
+			</item>
+			<item>
+				b. The Secretary/Secretary General/General Secretary and the
+				<lb />
+				Treasurer of any recognized NSF and the IOA, may serve a
+				<lb />
+				maximum of two successive terms of four years each, after which a
+				<lb />
+				minimum cooling off period of four years would apply to seek
+				<lb />
+				fresh election to either post.
+				<lb />
+			</item>
+			<item>
+				c. The President, Secretary and the Treasurer of any recognized
+				<lb />
+				NSF and the 1OA, would cease to hold the post on attaining the
+				<lb />
+				age of 70 years.
+				<lb />
+			</item>
+			<item>
+				d. The other provisions in respect of the tenure limit as contained
+				<lb />
+				in the 1975 Guidelines were to remain unaffected.
+				<lb />
+			</item>
+			<item>
+				e. It would not disturb the current tenure of any member, provided
+				<lb />
+				he/she has been properly elected to the post and would be
+				<lb />
+				operative for all future elections to be conducted as per the
+				<lb />
+				normal course in the IOA as well as NSFs.
+				<lb />
+			</item>
+			<item>
+				f. Compliance with the aforesaid directions would be a mandatory
+				<lb />
+				precondition for receiving any form of assistance, financial or
+				<lb />
+				otherwise from the Government of India as well as to derive the
+				<lb />
+				authority to perform public functions of selection, deputation of
+				<lb />
+				national teams for participation in recognized continental and
+				<lb />
+				world level international sports competitions which involve
+				<lb />
+				representation of member countries, and to represent the country
+				<lb />
+				in international associations, events, meets, conferences etc.&quot;
+				<lb />
+			</item>
+		</list>
 		<p>
 			29. Copies of the said affidavits have been handed-over by the learned
 			<lb />
@@ -1594,46 +1646,48 @@
 			has observed as under:
 			<lb />
 		</p>
-		<item>
-			&quot;…Today sports is no more something that can be dealt with in a
-			<lb />
-			meeting over a five star meal. It requires technical knowledge of both
-			<lb />
-			the game, the equipment and the training. Every aspect from the
-			<lb />
-			aerodynamics in equipment, even of the clothes worn by an athlete to
-			<lb />
-			shoes of a hockey/football/basket player; hair cut of the swimmer to
-			<lb />
-			&apos;weight and material of the equipment used is governed by scientific
-			<lb />
-			details and principles. In times of expertise, sports management
-			<lb />
-			experts are as important to a good sports programme just as
-			<lb />
-			experienced competent players or ex-players in decision and policy
-			<lb />
-			making areas who would ensure that the sports persons got the same,
-			<lb />
-			if not better residential/hotel and other facilities as the office bearers
-			<lb />
-			at national and international competition venues; who understood
-			<lb />
-			how important good treatment is for the self esteem and confidence of
-			<lb />
-			the teams and sports persons, especially when their opponents get the
-			<lb />
-			best; where real expenditure is incurred on and energy is devoted to
-			<lb />
-			sports persons rather than on maintenance of the office bearers or
-			<lb />
-			squabbles over elections. Only then could it be said that the sporting
-			<lb />
-			credentials or the tenure of the controlling board is immaterial for the
-			<lb />
-			interest of the sport….&quot;
-			<lb />
-		</item>
+		<list>
+			<item>
+				&quot;…Today sports is no more something that can be dealt with in a
+				<lb />
+				meeting over a five star meal. It requires technical knowledge of both
+				<lb />
+				the game, the equipment and the training. Every aspect from the
+				<lb />
+				aerodynamics in equipment, even of the clothes worn by an athlete to
+				<lb />
+				shoes of a hockey/football/basket player; hair cut of the swimmer to
+				<lb />
+				&apos;weight and material of the equipment used is governed by scientific
+				<lb />
+				details and principles. In times of expertise, sports management
+				<lb />
+				experts are as important to a good sports programme just as
+				<lb />
+				experienced competent players or ex-players in decision and policy
+				<lb />
+				making areas who would ensure that the sports persons got the same,
+				<lb />
+				if not better residential/hotel and other facilities as the office bearers
+				<lb />
+				at national and international competition venues; who understood
+				<lb />
+				how important good treatment is for the self esteem and confidence of
+				<lb />
+				the teams and sports persons, especially when their opponents get the
+				<lb />
+				best; where real expenditure is incurred on and energy is devoted to
+				<lb />
+				sports persons rather than on maintenance of the office bearers or
+				<lb />
+				squabbles over elections. Only then could it be said that the sporting
+				<lb />
+				credentials or the tenure of the controlling board is immaterial for the
+				<lb />
+				interest of the sport….&quot;
+				<lb />
+			</item>
+		</list>
 		<p>
 			31. It is hoped that monies shall be expended largely on sports persons,
 			<lb />
@@ -1688,16 +1742,18 @@
 			Sports Code. It reads inter alia:
 			<lb />
 		</p>
-		<p>
-			&quot;.....1.1 Sports development is a national priority, as it promotes
-			<lb />
-			active lifestyle, child and youth development, social
-			<lb />
-			inclusiveness, employment opportunities, peace and development,
-			<lb />
-			and above all a sense of belongingness and national pride...&quot;
-			<lb />
-		</p>
+		<list>
+			<item>
+				&quot;.....1.1 Sports development is a national priority, as it promotes
+				<lb />
+				active lifestyle, child and youth development, social
+				<lb />
+				inclusiveness, employment opportunities, peace and development,
+				<lb />
+				and above all a sense of belongingness and national pride...&quot;
+				<lb />
+			</item>
+		</list>
 		<p>
 			35. In view of the above, the administrative setup of R-2, is, erroneously or
 			<lb />
@@ -1746,20 +1802,22 @@
 			members of the CoA:
 			<lb />
 		</p>
-		<p>
-			(i) Mr Justice Anil R Dave, former Judge of the Supreme Court;
-			<lb />
-		</p>
-		<p>
-			(ii) Dr S.Y Qureshi, IAS, former Chief Election Commissioner; and
-			<lb />
-		</p>
-		<p>
-			(iii) Mr Zafar Iqbal, former Olympian and captain of the Indian
-			<lb />
-			Hockey team, Padmashri awardee.
-			<lb />
-		</p>
+		<list>
+			<item>
+				(i) Mr Justice Anil R Dave, former Judge of the Supreme Court;
+				<lb />
+			</item>
+			<item>
+				(ii) Dr S.Y Qureshi, IAS, former Chief Election Commissioner; and
+				<lb />
+			</item>
+			<item>
+				(iii) Mr Zafar Iqbal, former Olympian and captain of the Indian
+				<lb />
+				Hockey team, Padmashri awardee.
+				<lb />
+			</item>
+		</list>
 		<p>
 			32. Concurrence of the members of the CoA would be sought, for their
 			<lb />
@@ -1770,60 +1828,62 @@
 			which are that the CoA shall:
 			<lb />
 		</p>
-		<item>
-			(i) assist in the preparation and adoption of the Constitution of R2 as per
-			<lb />
-			the Sports Code and court rulings;
-			<lb />
-		</item>
-		<item>
-			(ii) prepare the electoral roll/college for the purpose of conducting the
-			<lb />
-			elections to the Executive Committee in accordance with the provisions
-			<lb />
-			of the Constitution, as proposed;
-			<lb />
-		</item>
-		<item>
-			(iii) carry out the day-to-day governance of R-2;
-			<lb />
-		</item>
-		<p>
-			(iv) In discharging its task in terms of (iii) above, the CoA would be at
-			<lb />
-			liberty to take the assistance of the erstwhile EC/MC of R-2 which has
-			<lb />
-			continued thus far in order to facilitate decisions being taken, inter alia,
-			<lb />
-			on the holding of tournaments, selection of players and all other matters
-			<lb />
-			necessary for the proper governance of R-2;
-			<lb />
-		</p>
-		<p>
-			(v) The erstwhile Committee shall forthwith hand over the charge to the
-			<lb />
-			CoA;
-			<lb />
-		</p>
-		<p>
-			(vi) The CoA would be at liberty to make all appropriate arrangements,
-			<lb />
-			for the governance of Hockey India until fresh elections are held in terms
-			<lb />
-			of the Sports Code conforming constitution;
-			<lb />
-		</p>
-		<p>
-			(vii) facilitate the holding of elections and the handing over of the affairs
-			<lb />
-			to a democratically elected body in terms of its constitution which will
-			<lb />
-			be adopted, preferably within a period of 20 weeks from the date the
-			<lb />
-			learned CoA members give their assent.
-			<lb />
-		</p>
+		<list>
+			<item>
+				(i) assist in the preparation and adoption of the Constitution of R2 as per
+				<lb />
+				the Sports Code and court rulings;
+				<lb />
+			</item>
+			<item>
+				(ii) prepare the electoral roll/college for the purpose of conducting the
+				<lb />
+				elections to the Executive Committee in accordance with the provisions
+				<lb />
+				of the Constitution, as proposed;
+				<lb />
+			</item>
+			<item>
+				(iii) carry out the day-to-day governance of R-2;
+				<lb />
+			</item>
+			<item>
+				(iv) In discharging its task in terms of (iii) above, the CoA would be at
+				<lb />
+				liberty to take the assistance of the erstwhile EC/MC of R-2 which has
+				<lb />
+				continued thus far in order to facilitate decisions being taken, inter alia,
+				<lb />
+				on the holding of tournaments, selection of players and all other matters
+				<lb />
+				necessary for the proper governance of R-2;
+				<lb />
+			</item>
+			<item>
+				(v) The erstwhile Committee shall forthwith hand over the charge to the
+				<lb />
+				CoA;
+				<lb />
+			</item>
+			<item>
+				(vi) The CoA would be at liberty to make all appropriate arrangements,
+				<lb />
+				for the governance of Hockey India until fresh elections are held in terms
+				<lb />
+				of the Sports Code conforming constitution;
+				<lb />
+			</item>
+			<item>
+				(vii) facilitate the holding of elections and the handing over of the affairs
+				<lb />
+				to a democratically elected body in terms of its constitution which will
+				<lb />
+				be adopted, preferably within a period of 20 weeks from the date the
+				<lb />
+				learned CoA members give their assent.
+				<lb />
+			</item>
+		</list>
 		<p>
 			33. The honorarium payable to the CoA members and facilities to be
 			<lb />
@@ -1835,6 +1895,8 @@
 			<lb />
 			Accountability
 			<lb />
+		</p>
+		<p>
 			34. Individuals who have exhausted their age and/or tenure in terms of the
 			<lb />
 			Sports Code automatically disqualify themselves from contesting for any
@@ -1940,26 +2002,28 @@
 			38. It was directed as under:
 			<lb />
 		</p>
-		<item>
-			&quot; 78. Given the totally clandestine and surreptitious manner in
-			<lb />
-			which the provisions of the MOA were illegally amended, in
-			<lb />
-			order to enable Respondent No. 5 to contest for the post of
-			<lb />
-			President, we further direct that Respondent No. 5 render
-			<lb />
-			accounts of all financial benefits, which have enured to
-			<lb />
-			Respondent No. 5, as and in her capacity as President of the
-			<lb />
-			AKFI since the time of her appointment to the said post on 19 th
-			<lb />
-			May, 2013 until date, and the same be recovered from her,
-			<lb />
-			forthwith.&quot;
-			<lb />
-		</item>
+		<list>
+			<item>
+				&quot; 78. Given the totally clandestine and surreptitious manner in
+				<lb />
+				which the provisions of the MOA were illegally amended, in
+				<lb />
+				order to enable Respondent No. 5 to contest for the post of
+				<lb />
+				President, we further direct that Respondent No. 5 render
+				<lb />
+				accounts of all financial benefits, which have enured to
+				<lb />
+				Respondent No. 5, as and in her capacity as President of the
+				<lb />
+				AKFI since the time of her appointment to the said post on 19 th
+				<lb />
+				May, 2013 until date, and the same be recovered from her,
+				<lb />
+				forthwith.&quot;
+				<lb />
+			</item>
+		</list>
 		<p>
 			39. It is not known what was the follow-up, if any ensued. The age and
 			<lb />
@@ -2021,10 +2085,16 @@
 		<p>
 			NAJMI WAZIRI, J.
 			<lb />
+		</p>
+		<p>
 			SWARANA KANTA SHARMA, J.
 			<lb />
+		</p>
+		<p>
 			MAY 25, 2022
 			<lb />
+		</p>
+		<p>
 			RW/ZP/SK
 		</p>
 	</text>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent>
+							<persName>
+The
+								 <forename>Controller</forename> of Examinations, Tamil
+							</persName>
+							<persName>
+								 <forename>Nadu</forename>
+								 <surname>Public</surname>
+							</persName>
+							<persName>
+								 <forename>Service</forename>
+								 <surname>Commission</surname>, Park
+							</persName>
+							<persName>
+								 <forename>Town</forename>
+								 <surname>Road</surname>, V.O.C.Nagar, Park Town, Chennai-600 003...........visited our concern on .......... and made an enquiry about Thiru
+							</persName>
+						</respondent>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

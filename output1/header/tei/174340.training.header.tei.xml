@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="174340"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+
+	<extra>REPORTABLE<lb/> IN THE</extra>
+
+	<court>SUPREME COURT OF INDIA<lb/></court>
+
+	<extra>CIVIL APPELLATE JURISDICTION<lb/></extra>
+
+	<case_numbers>CIVIL APPEAL NO. 2104 of 2009<lb/></case_numbers>
+
+	<petitioner>SECURITIES AND EXCHANGE BOARD OF INDIA .</petitioner>
+	<extra>...APPELLANT(S) VERSUS<lb/></extra>
+
+	<respondent>MEGA CORPORATION LIMITED<lb/> .</respondent>
+	<extra>…RESPONDENT(S)<lb/></extra>
+
+	<document_type>J U D G M E N T<lb/> PAMIDIGHANTAM SRI NARASIMHA, J.</document_type>
+
+		</front>
+	</text>
+</tei>

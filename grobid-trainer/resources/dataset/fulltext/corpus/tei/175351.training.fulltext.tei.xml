@@ -1,107 +1,491 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <tei xml:space="preserve">
 	<teiHeader>
-		<fileDesc xml:id="0"/>
+		<fileDesc xml:id="0" />
 	</teiHeader>
 	<text xml:lang="en">
-			<head>Appearance:<lb/></head>
-
-			<p>Mr. Sabyasachi Chatterjee, Mr. Navin Kiran<lb/> Pradhan and Ms. Bina Rai, Advocates for<lb/> the Appellants.<lb/></p>
-
-			<p>Mr. Sudesh Joshi, Additional Advocate<lb/> General for the Respondents.<lb/> -------------------------------------------------------------------<lb/>Date of Order: 17.09.2020<lb/></p>
-
-			<head>(O R A L) O R D E R<lb/> Bhaskar Raj Pradhan, J.<lb/></head>
-
-			<p>1.<lb/> On 29.08.2020 after hearing the learned counsel<lb/> for the petitioners, as well as the learned Additional<lb/> Advocate General for the respondents, notice was<lb/> issued in the writ petition as well as in the I.A.<lb/> No.1/2020, returnable on 17.09.2020.<lb/></p>
-
-			<p>2.<lb/> Mr. Sabyasachi Chatterjee, learned counsel for<lb/> the petitioners pressed for interim orders as prayed for<lb/> in I.A. No.1/2020 today.<lb/></p>
-
-			<p>3.<lb/> Mr Chatterjee has taken this Court through the<lb/> impugned order dated 23.05.2020 passed by the<lb/> District Magistrate, respondent no.2 herein, which is<lb/> quoted below:<lb/></p>
-
-			<item>&quot;GOVERNMENT OF SIKKIM<lb/> OFFICE OF THE DISTRICT COLLECTOR, EAST<lb/> DISTRICT ADMINISTRATIVE CENTRE, SICHEY<lb/> GANGTOK-SIKKIM-737101<lb/> ORDER<lb/></item>
-
-			<item>(U/S 51 of the Disaster Management Act, 2005)<lb/></item>
-
-			<item>Whereas, the Ministry of Home Affairs, Government<lb/> of India vide order no 40-3/2020-DM-1 (A) dated 17 th May,<lb/> 2020 has extended the lockdown measures till 31 st May,<lb/> 2020 to contain the spread COVID-19 in the country.<lb/> Whereas, the Chief Secretary, Government of Sikkim<lb/> vide Order No. 09/Home/2020 dated 17/5/2020 has<lb/> issued new guidelines for strict implementation in the<lb/> State.<lb/> Whereas, prohibitory orders vide order no. 1854/DC<lb/> (E)/2020 dated 19/05/2020 and directives vide order No.<lb/> 1828/DC(E)/2020 dated 19/04/2020 were issued by the<lb/> undersigned to be strictly observed in East Sikkim district<lb/> during the period of lockdown.<lb/> Whereas, the following shop was found violating the<lb/> aforementioned orders and had not complied with the<lb/> Standard Operating Procedure for Social Distancing for<lb/> Offices, Workplaces, Factories and Establishments issued<lb/> vide order no. 40-3/2020-DM-I (A) dated 17 th May, 2020<lb/> by the Ministry of Home Affairs, Government of India:<lb/></item>
-
-			<item>1. Body Vibes Gym, Rangpo Bazaar.<lb/></item>
-
-			<item>Therefore, in exercise of the power conferred under<lb/> section 51 (b) of the Disaster Management Act, 2005 read<lb/> with section 3 (b) of the Sikkim Public Health and Safety<lb/> (COVID -19) Regulations, 2020 the aforementioned shop is<lb/> hereby sealed till further orders.<lb/> Since, the present circumstances do not admit<lb/> serving of this order to concerned persons information<lb/> regarding the same has been intimated telephonically and<lb/> the matter shall be heard after the completion of the<lb/> lockdown period.<lb/> Given under my hand and seal this 23 rd May, 2020.<lb/> Sd/-<lb/>Raj Yadev,IAS<lb/> District Magistrate cum Chairperson,<lb/> District Disaster Management Authority,<lb/> East Sikkim.<lb/> Copy to:<lb/></item>
-
-			<item>1. The Superintendent of Police, East-for<lb/> information and necessary action<lb/> 2. Sub Divisional Magistrates/Rangpo-for<lb/> BHASKAR<lb/> RAJ<lb/> PRADHAN<lb/> Digitally signed<lb/> by BHASKAR RAJ<lb/> PRADHAN<lb/> Date: 2020.09.18<lb/></item>
-
-			<item>16:43:18 +05&apos;30&apos;<lb/> information<lb/></item>
-
-			<item>3. The SHO, Rangpo PS-for information and<lb/> necessary action.&quot;<lb/></item>
-
-			<p>4.<lb/> Mr. Sudesh Joshi, learned Additional Advocate<lb/> General, submits that he needs further time to file<lb/> response to the application because of the present<lb/> covid-19 situation and the Additional Advocate<lb/> General himself being in isolation.<lb/></p>
-
-			<p>5.<lb/> From the impugned order it is clear that the<lb/> respondent no.2 has sought to exercise powers under<lb/> section 51(b) of the Disaster Management Act, 2005<lb/> (hereinafter &quot;the Act&quot;) read with Regulation 3 (2) of the<lb/> Sikkim Public Health and Safety (COVID-19)<lb/> Regulations, 2020 (hereinafter &quot;the COVID-19<lb/> Regulations&quot;) and by doing so directed that the Body<lb/> Vibes Gym, Rangpo Bazar, be sealed till further<lb/> orders. It is also seen that the impugned order was<lb/> not even served upon the petitioners but only<lb/> telephonically intimated.<lb/></p>
-
-			<p>6.<lb/> Section 51 (b) of the Act is quoted below:<lb/></p>
-
-			<item>&quot;51. Punishment for obstruction, etc.-(1)<lb/> Whoever, without reasonable cause-<lb/></item>
-
-			<item>(a) .............................................<lb/></item>
-
-			<item>(b) refuses to comply with any direction given<lb/> by or on behalf of the Central Government<lb/> or the State Government or the National<lb/> Executive Committee or the State Executive<lb/> BHASKAR<lb/> RAJ<lb/> PRADHAN<lb/> Digitally signed<lb/> by BHASKAR<lb/> RAJ PRADHAN<lb/> Date:<lb/> 2020.09.18<lb/></item>
-
-			<item>16:44:16 +05&apos;30&apos;<lb/></item>
-
-			<item>I.A. No.01 of 2020<lb/> IN<lb/> W.P. (Crl) No. 01 of 2020<lb/> Krishna Kumari Chettri &amp; Anr.<lb/></item>
-
-			<item>Vs.<lb/> State of Sikkim &amp; Ors.<lb/></item>
-
-			<item>5<lb/> Committee or the District Authority under<lb/> this Act,<lb/> shall<lb/> on<lb/> conviction<lb/> be<lb/> punishable<lb/> with<lb/> imprisonment for a term which may extend to one<lb/> year or with fine, or with both, and if such<lb/> obstruction or refusal to comply with directions<lb/> results in loss of lives or imminent danger thereof,<lb/> shall on conviction be punishable with<lb/> imprisonment for a term which may extend to two<lb/> years.&quot;<lb/></item>
-
-			<p>7.<lb/> Regulation 3 of the COVID-19 Regulations is<lb/> quoted below:<lb/></p>
-
-			<item>&quot;Restrictions and Offences 3. (1) It shall be compulsory to<lb/> wear face cover or mask in<lb/> all public places and<lb/> workplaces.<lb/></item>
-
-			<item>(2)All persons in charge of<lb/> public places, commercial<lb/> establishment<lb/> and<lb/> transport<lb/> (whether<lb/> commercial) or otherwise)<lb/> shall<lb/> ensure<lb/> social<lb/> distancing as per the<lb/> guidelines issued by the<lb/> Competent Authority.<lb/></item>
-
-			<item>(3) Violation by any member of<lb/> public<lb/> of<lb/> any<lb/> guidelines/order/Notificatio<lb/> n/advisory issued by the<lb/> Competent<lb/> Authority<lb/> in<lb/> respect of Social Distancing<lb/> shall be an offence.<lb/></item>
-
-			<item>(4) Spitting in public places<lb/> shall be strictly prohibited.&quot;<lb/></item>
-
-			<item>[emphasis supplied]<lb/></item>
-
-			<p>8.<lb/> Neither section 51(b) of the Act nor Regulation 3<lb/> (2) of the COVID-19 Regulations seem to give any<lb/> power to the respondent no.2 to seal the premises.<lb/> The learned Additional Advocate General fairly<lb/> BHASKAR<lb/> RAJ<lb/> PRADHAN<lb/> Digitally signed<lb/> BHASKAR<lb/> RAJ PRADHAN<lb/> Date:<lb/></p>
-
-			<item>2020.09.18<lb/></item>
-
-			<item>16:45:18 +05&apos;30&apos;<lb/></item>
-
-			<item>I.A. No.01 of 2020<lb/> IN<lb/> W.P. (Crl) No. 01 of 2020<lb/> Krishna Kumari Chettri &amp; Anr.<lb/></item>
-
-			<item>Vs.<lb/> State of Sikkim &amp; Ors.<lb/></item>
-
-			<p>6<lb/> submits that it is so. He however, submits that<lb/> perhaps the power exercised by the respondent no.2<lb/> was under Section 144 of the Code of Criminal<lb/> Procedure (Cr.P.C.) as at the relevant time it had in<lb/> fact been imposed. He further submits that even it<lb/> was so, the 2 months period contemplated in Section<lb/> 144 Cr.P.C. is far over and there is nothing stopping<lb/> the petitioners to reopen the gym, if it is permissible.<lb/></p>
-
-			<p>9.<lb/> Evidently, prima facie, the respondent no.2<lb/> has not passed the impugned order under the<lb/> provision of Section 144 Cr.P.C. Otherwise, the<lb/> respondent no.2 would have said so in the impugned<lb/> order dated 23.05.2020.<lb/></p>
-
-			<p>10.<lb/> Mr. Chatterjee has also taken this Court to<lb/> the guidelines issued by the Government of India,<lb/> Ministry of Home Affairs, dated 03.08.2020, which<lb/> provides that gymnasium in containment zone shall<lb/> remain closed for public and only those outside<lb/> containment zone will be allowed to open up and the<lb/> order dated 19.06.2020 issued by the respondent no.1<lb/> which provides that Gymnasiums are allowed to<lb/> operate from 10.06.2020 onwards with the condition<lb/> that the occupancy at any given time is only 50% of<lb/> BHASKAR<lb/> RAJ<lb/> PRADHA<lb/> N<lb/> Digitally signed<lb/> by BHASKAR<lb/> RAJ PRADHAN<lb/> Date:<lb/> 2020.09.18<lb/></p>
-
-			<item>16:46:40 +05&apos;30&apos;<lb/></item>
-
-			<item>I.A. No.01 of 2020<lb/> IN<lb/> W.P. (Crl) No. 01 of 2020<lb/> Krishna Kumari Chettri &amp; Anr.<lb/></item>
-
-			<item>Vs.<lb/> State of Sikkim &amp; Ors.<lb/></item>
-
-			<p>7<lb/> the total capacity and the timings shall be from 7.00<lb/> am till 6.00 p.m.<lb/></p>
-
-			<p>11.<lb/> Having considered the rival submissions of<lb/> the learned counsel this Court is of the view that the<lb/> impugned order dated 23.05.2020 shall remain stayed<lb/> till further orders. Learned Additional Advocate<lb/> General is permitted to file a response to the interim<lb/> application within three weeks from today. Should<lb/> the respondents desire any variance of the order<lb/> passed today, they are free to file their response<lb/> earlier and move for appropriate orders.<lb/></p>
-
-			<p>12.<lb/> The operation of the gym shall, however, be<lb/> subject to the rules and regulations that may be<lb/> issued by the Government of India as well as the State<lb/> Government from time to time to contain the spread of<lb/> COVID-19 and if it is permissible. The petitioners<lb/> shall strictly comply with the regulations and all<lb/> norms that are required to be followed to contain the<lb/> spread of COVID-19 and if they violate any of the rules<lb/> or regulations issued by the Government or provisions<lb/> of any applicable laws, the authorities under the law,<lb/> are free to take action, as per law.<lb/></p>
-
-			<p>BHASKAR<lb/> RAJ<lb/> PRADHA<lb/> N<lb/> Digitally signed<lb/> by BHASKAR<lb/> RAJ PRADHAN<lb/> Date:<lb/> 2020.09.18<lb/> 16:47:54 +05&apos;30&apos;<lb/> I.A. No.01 of 2020<lb/> IN<lb/> W.P. (Crl) No. 01 of 2020<lb/> Krishna Kumari Chettri &amp; Anr.<lb/> Vs.<lb/> State of Sikkim &amp; Ors.<lb/></p>
-
-			<p>8<lb/></p>
-
-			<p>13.<lb/> The observations made in this order is<lb/> solely for the purpose of deciding the interim<lb/> protection sought for and shall not affect the final<lb/> decision in the writ petition.<lb/></p>
-
-			<p>( Bhaskar Raj Pradhan )<lb/> Judge</p>
-
-
+		<p>
+			1.
+			<lb />
+			On 29.08.2020 after hearing the learned counsel
+			<lb />
+			for the petitioners, as well as the learned Additional
+			<lb />
+			Advocate General for the respondents, notice was
+			<lb />
+			issued in the writ petition as well as in the I.A.
+			<lb />
+			No.1/2020, returnable on 17.09.2020.
+			<lb />
+		</p>
+		<p>
+			2.
+			<lb />
+			Mr. Sabyasachi Chatterjee, learned counsel for
+			<lb />
+			the petitioners pressed for interim orders as prayed for
+			<lb />
+			in I.A. No.1/2020 today.
+			<lb />
+		</p>
+		<p>
+			3.
+			<lb />
+			Mr Chatterjee has taken this Court through the
+			<lb />
+			impugned order dated 23.05.2020 passed by the
+			<lb />
+			District Magistrate, respondent no.2 herein, which is
+			<lb />
+			quoted below:
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;GOVERNMENT OF SIKKIM
+				<lb />
+				OFFICE OF THE DISTRICT COLLECTOR, EAST
+				<lb />
+				DISTRICT ADMINISTRATIVE CENTRE, SICHEY
+				<lb />
+				GANGTOK-SIKKIM-737101
+				<lb />
+			</item>
+			<item>
+				ORDER
+				<lb />
+			</item>
+			<item>
+				(U/S 51 of the Disaster Management Act, 2005)
+				<lb />
+			</item>
+			<item>
+				Whereas, the Ministry of Home Affairs, Government
+				<lb />
+				of India vide order no 40-3/2020-DM-1 (A) dated 17 th May,
+				<lb />
+				2020 has extended the lockdown measures till 31 st May,
+				<lb />
+				2020 to contain the spread COVID-19 in the country.
+				<lb />
+				Whereas, the Chief Secretary, Government of Sikkim
+				<lb />
+				vide Order No. 09/Home/2020 dated 17/5/2020 has
+				<lb />
+				issued new guidelines for strict implementation in the
+				<lb />
+				State.
+				<lb />
+			</item>
+			<item>
+				Whereas, prohibitory orders vide order no. 1854/DC
+				<lb />
+				(E)/2020 dated 19/05/2020 and directives vide order No.
+				<lb />
+				1828/DC(E)/2020 dated 19/04/2020 were issued by the
+				<lb />
+				undersigned to be strictly observed in East Sikkim district
+				<lb />
+				during the period of lockdown.
+				<lb />
+			</item>
+			<item>
+				Whereas, the following shop was found violating the
+				<lb />
+				aforementioned orders and had not complied with the
+				<lb />
+				Standard Operating Procedure for Social Distancing for
+				<lb />
+				Offices, Workplaces, Factories and Establishments issued
+				<lb />
+				vide order no. 40-3/2020-DM-I (A) dated 17 th May, 2020
+				<lb />
+				by the Ministry of Home Affairs, Government of India:
+				<lb />
+			</item>
+			<item>
+				1. Body Vibes Gym, Rangpo Bazaar.
+				<lb />
+			</item>
+			<item>
+				Therefore, in exercise of the power conferred under
+				<lb />
+				section 51 (b) of the Disaster Management Act, 2005 read
+				<lb />
+				with section 3 (b) of the Sikkim Public Health and Safety
+				<lb />
+				(COVID -19) Regulations, 2020 the aforementioned shop is
+				<lb />
+				hereby sealed till further orders.
+				<lb />
+			</item>
+			<item>
+				Since, the present circumstances do not admit
+				<lb />
+				serving of this order to concerned persons information
+				<lb />
+				regarding the same has been intimated telephonically and
+				<lb />
+				the matter shall be heard after the completion of the
+				<lb />
+				lockdown period.
+				<lb />
+				Given under my hand and seal this 23 rd May, 2020.
+				<lb />
+			</item>
+			<item>
+				Sd/-
+				<lb />
+			</item>
+			<item>
+				Raj Yadev,IAS
+				<lb />
+			</item>
+			<item>
+				District Magistrate cum Chairperson,
+				<lb />
+				District Disaster Management Authority,
+				<lb />
+				East Sikkim.
+				<lb />
+				Copy to:
+				<lb />
+			</item>
+			<item>
+				1. The Superintendent of Police, East-for
+				<lb />
+				information and necessary action
+				<lb />
+			</item>
+			<item>
+				2. Sub Divisional Magistrates/Rangpo-for
+				<lb />
+				information
+				<lb />
+			</item>
+			<item>
+				3. The SHO, Rangpo PS-for information and
+				<lb />
+				necessary action.&quot;
+				<lb />
+			</item>
+		</list>
+		<p>
+			4.
+			<lb />
+			Mr. Sudesh Joshi, learned Additional Advocate
+			<lb />
+			General, submits that he needs further time to file
+			<lb />
+			response to the application because of the present
+			<lb />
+			covid-19 situation and the Additional Advocate
+			<lb />
+			General himself being in isolation.
+			<lb />
+		</p>
+		<p>
+			5.
+			<lb />
+			From the impugned order it is clear that the
+			<lb />
+			respondent no.2 has sought to exercise powers under
+			<lb />
+			section 51(b) of the Disaster Management Act, 2005
+			<lb />
+			(hereinafter &quot;the Act&quot;) read with Regulation 3 (2) of the
+			<lb />
+			Sikkim Public Health and Safety (COVID-19)
+			<lb />
+			Regulations, 2020 (hereinafter &quot;the COVID-19
+			<lb />
+			Regulations&quot;) and by doing so directed that the Body
+			<lb />
+			Vibes Gym, Rangpo Bazar, be sealed till further
+			<lb />
+			orders. It is also seen that the impugned order was
+			<lb />
+			not even served upon the petitioners but only
+			<lb />
+			telephonically intimated.
+			<lb />
+		</p>
+		<p>
+			6.
+			<lb />
+			Section 51 (b) of the Act is quoted below:
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;51. Punishment for obstruction, etc.-(1)
+				<lb />
+				Whoever, without reasonable cause-
+				<lb />
+			</item>
+			<item>
+				(a) .............................................
+				<lb />
+			</item>
+			<item>
+				(b) refuses to comply with any direction given
+				<lb />
+				by or on behalf of the Central Government
+				<lb />
+				or the State Government or the National
+				<lb />
+				Executive Committee or the State Executive
+				<lb />
+				Committee or the District Authority under
+				<lb />
+				this Act,
+				<lb />
+				shall
+				<lb />
+				on
+				<lb />
+				conviction
+				<lb />
+				be
+				<lb />
+				punishable
+				<lb />
+				with
+				<lb />
+				imprisonment for a term which may extend to one
+				<lb />
+				year or with fine, or with both, and if such
+				<lb />
+				obstruction or refusal to comply with directions
+				<lb />
+				results in loss of lives or imminent danger thereof,
+				<lb />
+				shall on conviction be punishable with
+				<lb />
+				imprisonment for a term which may extend to two
+				<lb />
+				years.&quot;
+				<lb />
+			</item>
+		</list>
+		<p>
+			7.
+			<lb />
+			Regulation 3 of the COVID-19 Regulations is
+			<lb />
+			quoted below:
+			<lb />
+		</p>
+		<list>
+			<item>
+				&quot;Restrictions and Offences 3. (1) It shall be compulsory to
+				<lb />
+				wear face cover or mask in
+				<lb />
+				all public places and
+				<lb />
+				workplaces.
+				<lb />
+			</item>
+			<item>
+				(2)All persons in charge of
+				<lb />
+				public places, commercial
+				<lb />
+				establishment
+				<lb />
+				and
+				<lb />
+				transport
+				<lb />
+				(whether
+				<lb />
+				commercial) or otherwise)
+				<lb />
+				shall
+				<lb />
+				ensure
+				<lb />
+				social
+				<lb />
+				distancing as per the
+				<lb />
+				guidelines issued by the
+				<lb />
+				Competent Authority.
+				<lb />
+			</item>
+			<item>
+				(3) Violation by any member of
+				<lb />
+				public
+				<lb />
+				of
+				<lb />
+				any
+				<lb />
+				guidelines/order/Notificatio
+				<lb />
+				n/advisory issued by the
+				<lb />
+				Competent
+				<lb />
+				Authority
+				<lb />
+				in
+				<lb />
+				respect of Social Distancing
+				<lb />
+				shall be an offence.
+				<lb />
+			</item>
+			<item>
+				(4) Spitting in public places
+				<lb />
+				shall be strictly prohibited.&quot;
+				<lb />
+			</item>
+			<item>
+				[emphasis supplied]
+				<lb />
+			</item>
+		</list>
+		<p>
+			8.
+			<lb />
+			Neither section 51(b) of the Act nor Regulation 3
+			<lb />
+			(2) of the COVID-19 Regulations seem to give any
+			<lb />
+			power to the respondent no.2 to seal the premises.
+			<lb />
+			The learned Additional Advocate General fairly
+			<lb />
+			submits that it is so. He however, submits that
+			<lb />
+			perhaps the power exercised by the respondent no.2
+			<lb />
+			was under Section 144 of the Code of Criminal
+			<lb />
+			Procedure (Cr.P.C.) as at the relevant time it had in
+			<lb />
+			fact been imposed. He further submits that even it
+			<lb />
+			was so, the 2 months period contemplated in Section
+			<lb />
+			144 Cr.P.C. is far over and there is nothing stopping
+			<lb />
+			the petitioners to reopen the gym, if it is permissible.
+			<lb />
+		</p>
+		<p>
+			9.
+			<lb />
+			Evidently, prima facie, the respondent no.2
+			<lb />
+			has not passed the impugned order under the
+			<lb />
+			provision of Section 144 Cr.P.C. Otherwise, the
+			<lb />
+			respondent no.2 would have said so in the impugned
+			<lb />
+			order dated 23.05.2020.
+			<lb />
+		</p>
+		<p>
+			10.
+			<lb />
+			Mr. Chatterjee has also taken this Court to
+			<lb />
+			the guidelines issued by the Government of India,
+			<lb />
+			Ministry of Home Affairs, dated 03.08.2020, which
+			<lb />
+			provides that gymnasium in containment zone shall
+			<lb />
+			remain closed for public and only those outside
+			<lb />
+			containment zone will be allowed to open up and the
+			<lb />
+			order dated 19.06.2020 issued by the respondent no.1
+			<lb />
+			which provides that Gymnasiums are allowed to
+			<lb />
+			operate from 10.06.2020 onwards with the condition
+			<lb />
+			that the occupancy at any given time is only 50% of
+			<lb />
+			the total capacity and the timings shall be from 7.00
+			<lb />
+			am till 6.00 p.m.
+			<lb />
+		</p>
+		<p>
+			11.
+			<lb />
+			Having considered the rival submissions of
+			<lb />
+			the learned counsel this Court is of the view that the
+			<lb />
+			impugned order dated 23.05.2020 shall remain stayed
+			<lb />
+			till further orders. Learned Additional Advocate
+			<lb />
+			General is permitted to file a response to the interim
+			<lb />
+			application within three weeks from today. Should
+			<lb />
+			the respondents desire any variance of the order
+			<lb />
+			passed today, they are free to file their response
+			<lb />
+			earlier and move for appropriate orders.
+			<lb />
+		</p>
+		<p>
+			12.
+			<lb />
+			The operation of the gym shall, however, be
+			<lb />
+			subject to the rules and regulations that may be
+			<lb />
+			issued by the Government of India as well as the State
+			<lb />
+			Government from time to time to contain the spread of
+			<lb />
+			COVID-19 and if it is permissible. The petitioners
+			<lb />
+			shall strictly comply with the regulations and all
+			<lb />
+			norms that are required to be followed to contain the
+			<lb />
+			spread of COVID-19 and if they violate any of the rules
+			<lb />
+			or regulations issued by the Government or provisions
+			<lb />
+			of any applicable laws, the authorities under the law,
+			<lb />
+			are free to take action, as per law.
+			<lb />
+		</p>
+		<p>
+			13.
+			<lb />
+			The observations made in this order is
+			<lb />
+			solely for the purpose of deciding the interim
+			<lb />
+			protection sought for and shall not affect the final
+			<lb />
+			decision in the writ petition.
+			<lb />
+		</p>
+		<p>
+			( Bhaskar Raj Pradhan )
+			<lb />
+		</p>
+		<p>
+			Judge
+		</p>
 	</text>
 </tei>

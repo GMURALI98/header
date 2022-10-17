@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<respondent>
+							<persName>
+								 <forename>PREM</forename>
+								 <middlename>LAL</middlename>
+								 <surname>NARESH KUMAR</surname> STATE OF HIMACHAL PRADESH THROUGH SECRETARY (EDUCATION) TO THE
+							</persName>
+							<persName>
+								 <forename>GOVERNMENT OF HIMACHAL</forename>
+								 <surname>PRADESH</surname>, SHIMLA-2 DIRECTOR HIGHER EDUCATION,
+								 <middlename>HIMACHAL</middlename>
+							</persName>
+							<persName>
+								 <surname>PRADESH</surname>, SHIMLA WITH MR.
+								 <forename>NAND</forename>
+								 <middlename>LAL</middlename>
+							</persName>
+							<persName>
+								 <surname>THAKUR</surname>, ADDITIONAL
+							</persName>
+						</respondent>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>
