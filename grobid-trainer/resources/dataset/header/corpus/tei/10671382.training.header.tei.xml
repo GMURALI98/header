@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10671382" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<case_numbers>
+				WP(C) No. 466 of 2018
+				<lb />
+			</case_numbers>
+			<extra>
+				Serial No. 03
+				<lb />
+				Supplementary List
+				<lb />
+			</extra>
+			<court>
+				HIGH COURT OF MEGHALAYA
+				<lb />
+				AT SHILLONG
+				<lb />
+			</court>
+			<case_numbers>
+				WP(C) No. 466 of 2018
+				<lb />
+			</case_numbers>
+			<extra>
+				Date of Decision :
+			</extra>
+			<judgement_date>
+				09.12.2019
+				<lb />
+			</judgement_date>
+			<petitioner>
+				Smti Biolin Kurbah
+				<lb />
+			</petitioner>
+			<extra>
+				Vs.
+			</extra>
+			<respondent>
+				Hindustan Petroleum Corporation
+				<lb />
+				Limited &amp; Anr.
+				<lb />
+			</respondent>
+			<extra>
+				Coram:
+				<lb />
+			</extra>
+			<judges>
+				Hon&apos;ble Mr. Justice H. S. Thangkhiew
+				<lb />
+			</judges>
+			<extra>
+				, Judge
+			</extra>
+			<extra>
+				Appearance:
+				<lb />
+			</extra>
+			<extra>
+				For the Petitioner(s)
+				<lb />
+				:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. K. Khan, Sr. Adv. with
+				<lb />
+				Mr. S.K. Hassan, Adv.
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For the Respondent(s)
+				<lb />
+				:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. H.L. Shangreiso
+			</respondent_lawyers>
+			<extra>
+				, (For R 1)
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. L. Lyngdoh,
+			</respondent_lawyers>
+			<extra>
+				Adv. (For R 2)
+				<lb />
+			</extra>
+			<notes>
+				i)
+				<lb />
+				Whether approved for reporting in
+				<lb />
+				Yes/No
+				<lb />
+				Law journals etc.
+				<lb />
+				ii)
+				<lb />
+				Whether approved for publication
+				<lb />
+				in press:
+				<lb />
+				Yes/No
+			</notes>
+		</front>
+	</text>
+</tei>

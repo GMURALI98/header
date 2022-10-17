@@ -5,48 +5,61 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT MADRAS
-			</court>
-			<lb />
-			<extra>
-				Judgment Reserved on
 				<lb />
-			</extra>
-			<judgement_date>
+			</court>
+			<document_type>
+				Judgment
+			</document_type>
+			<extra>
+				Reserved on
+				<lb />
 				03.08.2021
 				<lb />
-			</judgement_date>
+			</extra>
+			<document_type>
+				Judgment
+			</document_type>
 			<extra>
-				Judgment Delivered on
+				Delivered on
 				<lb />
 			</extra>
 			<judgement_date>
 				17.08.2021
 				<lb />
 			</judgement_date>
-			<lb />
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HONOURABLE MR.JUSTICE R.SUBRAMANIAN
+				HONOURABLE MR.JUSTICE R.SUBRAMANIAN
+				<lb />
 			</judges>
-			<lb />
 			<case_numbers>
 				C.S.No.878 of 2015
+				<lb />
 			</case_numbers>
-			<lb />
+			<extra>
+				1.
+			</extra>
 			<petitioner>
-				1.Kanni Uvaraj
+				Kanni Uvaraj
 				<lb />
-				2.Poorvika Mobiles Private Limited,
+			</petitioner>
+			<extra>
+				2.
+			</extra>
+			<petitioner>
+				Poorvika Mobiles Private Limited,
 				<lb />
+			</petitioner>
+			<extra>
 				No.30, Arcot Road,
 				<lb />
 				Kodambakkam,
@@ -55,18 +68,20 @@
 				<lb />
 				Rep. by its Director Uvaraj
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				... Plaintiffs
 				<lb />
 			</extra>
 			<extra>
 				Vs.
+				<lb />
 			</extra>
-			<lb />
 			<respondent>
 				Poorliya Mobiles World And Electronics
 				<lb />
+			</respondent>
+			<extra>
 				No.58 D, North Main Road,
 				<lb />
 				Vallioor, Tirunelveli District,
@@ -75,7 +90,7 @@
 				<lb />
 				Rep. by its Proprietor, J.Muthukrishnan
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				... Defendant
 				<lb />
@@ -91,17 +106,11 @@
 				55 and 62 of the Copyrights Act, 1957 praying to grant a judgment and
 				<lb />
 				decree on the following terms:-
-			</extra>
-			<lb />
-			<page>
-				Page No.1/34
-			</page>
-			<lb />
-			<extra>
-				https://www.mhc.tn.gov.in/judis/
+				<lb />
 			</extra>
 			<case_numbers>
 				C.S.No.878 of 2015
+				<lb />
 			</case_numbers>
 			<extra>
 				(a) A perpetual injunction restraining the defendant by themselves or
@@ -145,15 +154,6 @@
 				work, lettering style or in any other manner whatsoever;
 				<lb />
 			</extra>
-			<lb />
-			<page>
-				Page No.2/34
-			</page>
-			<lb />
-			<extra>
-				https://www.mhc.tn.gov.in/judis/
-			</extra>
-			<lb />
 			<case_numbers>
 				C.S.No.878 of 2015
 				<lb />
@@ -189,18 +189,17 @@
 				(f) for the costs of the suit.
 				<lb />
 			</extra>
-			<lb />
 			<extra>
 				For Plaintiffs  :
 			</extra>
 			<petitioner_lawyers>
 				Mr.K.Sukumaran
+				<lb />
 			</petitioner_lawyers>
-			<lb />
 			<extra>
 				for Mr.K.Rajasekaran
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				For Defendant  :
 			</extra>
@@ -214,15 +213,6 @@
 			<extra>
 				for Mrs.Elizabeth Ravi
 			</extra>
-			<lb />
-			<page>
-				Page No.3/34
-			</page>
-			<lb />
-			<extra>
-				https://www.mhc.tn.gov.in/judis/
-			</extra>
-			<lb />
 			<document_type>
 				JUDGEMENT
 			</document_type>

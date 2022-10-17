@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 140
-				<lb />
-			</page>
 			<extra>
 				$
 				<lb />
@@ -23,11 +18,10 @@
 			</court>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				
 				29 th August, 2016
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Pronounced on :
 			</extra>
@@ -58,10 +52,10 @@
 			<petitioner_lawyers>
 				Mr. Vikas Arora and Ms. Radhika
 				<lb />
-				Arora,
+				Arora
 			</petitioner_lawyers>
 			<extra>
-				Advocates
+				, Advocates
 				<lb />
 			</extra>
 			<extra>
@@ -88,10 +82,11 @@
 				, APP for State
 				<lb />
 			</extra>
-			<lb />
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CRL.A. 53/2016
 				<lb />
 			</case_numbers>
@@ -141,9 +136,11 @@
 				, APP for State
 				<lb />
 			</extra>
-			<case_numbers>
+			<extra>
 				<lb />
 				+
+			</extra>
+			<case_numbers>
 				<lb />
 				CRL.A. 190/2016
 				<lb />
@@ -211,10 +208,10 @@
 			<petitioner_lawyers>
 				Mr. M.N. Dudeja and Mr. Rajesh
 				<lb />
-				Kaushik,
+				Kaushik
 			</petitioner_lawyers>
 			<extra>
-				Advocates
+				, Advocates
 				<lb />
 			</extra>
 			<extra>
@@ -241,9 +238,11 @@
 			<extra>
 				, APP for State
 			</extra>
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CRL.A. 283/2016
 				<lb />
 			</case_numbers>
@@ -259,10 +258,10 @@
 				Through:
 			</extra>
 			<petitioner_lawyers>
-				Mr. Rajeev Mohan,
+				Mr. Rajeev Mohan
 			</petitioner_lawyers>
 			<extra>
-				Advocate
+				, Advocate
 				<lb />
 			</extra>
 			<extra>

@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5483" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<case_numbers>
+				W.P.(C) 5309/2021 &amp; W.P.(C) 5313/2021
+				<lb />
+			</case_numbers>
+			<extra>
+				$~99 &amp; 101
+				<lb />
+				*
+				<lb />
+				IN THE
+				<lb />
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of Decision:
+			</extra>
+			<judgement_date>
+				13 th May, 2021
+				<lb />
+			</judgement_date>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 5309/2021
+			</case_numbers>
+			<extra>
+				with CM APPLs. 16327-16329/2021
+				<lb />
+			</extra>
+			<petitioner>
+				SHANTANU PRAKASH
+				<lb />
+			</petitioner>
+			<extra>
+				..... Petitioner
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				UNION BANK OF INDIA &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondents
+				<lb />
+			</extra>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 5313/2021 with CM APPLs. 16351-16353/2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				JAGDISH PRAKASH
+				<lb />
+			</petitioner>
+			<extra>
+				..... Petitioner
+				<lb />
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				UNION BANK OF INDIA &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondents
+				<lb />
+				Present:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Dayan Krishnan
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Adv. with
+			</extra>
+			<petitioner_lawyers>
+				Mr. Aditya Dewan &amp;
+				<lb />
+				Mr. Siddharth Chechani,
+			</petitioner_lawyers>
+			<extra>
+				Advocates for the petitioners.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. O.P. Gaggar,
+			</respondent_lawyers>
+			<extra>
+				Advocate for the Respondent-Bank.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE PRATEEK JALAN
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

@@ -5,17 +5,13 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-			</page>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				DATED:
 			</extra>
@@ -25,9 +21,10 @@
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HON&apos;BLE MR.JUSTICE S.MANIKUMAR
+				HON&apos;BLE MR.JUSTICE S.MANIKUMAR
 				<lb />
 			</judges>
 			<case_numbers>
@@ -52,8 +49,8 @@
 			</extra>
 			<extra>
 				VS
+				<lb />
 			</extra>
-			<lb />
 			<respondent>
 				R-1 THE SECRETARY TO GOVERNMENT, INDUSTRIES DEPARTMENT,
 				<lb />
@@ -79,18 +76,13 @@
 				RESPONDENTS
 				<lb />
 			</extra>
-			<lb />
-			<page>
-				2
-			</page>
-			<lb />
 			<extra>
 				FOR PETITIONER :
 			</extra>
 			<petitioner_lawyers>
 				MUTHAPPAN
+				<lb />
 			</petitioner_lawyers>
-			<lb />
 			<case_numbers>
 				M.P.No.1 of 2013 in
 				<lb />

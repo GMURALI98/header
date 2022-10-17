@@ -5,22 +5,16 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 7
-				<lb />
-			</page>
 			<court>
 				IN THE HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
 			<extra>
 				Reserved on :
-			</extra>
-			<judgement_date>
+				
 				08.03.2022
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Pronounced on :
 			</extra>
@@ -46,12 +40,20 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Ms. Kiran Suri, Sr. Advocate with
+				Ms. Kiran Suri
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate with
 				<lb />
+			</extra>
+			<petitioner_lawyers>
 				Mr. Dhruva Bhagat, Mr. Kunal gosain
 				<lb />
-				and Mr. Mohit Gulati, Advocates.
+				and Mr. Mohit Gulati
 			</petitioner_lawyers>
+			<extra>
+				, Advocates.
+			</extra>
 			<extra>
 				versus
 				<lb />
@@ -83,10 +85,10 @@
 				<lb />
 				Mr. Jatan Singh and Mr. Chrag
 				<lb />
-				Mudgal,
+				Mudgal
 			</respondent_lawyers>
 			<extra>
-				Advocates for the
+				, Advocates for the
 				<lb />
 				complainant.
 				<lb />

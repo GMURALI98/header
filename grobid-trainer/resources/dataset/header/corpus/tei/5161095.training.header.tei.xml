@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5161095" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				HIGH COURT OF JUDICATURE FOR RAJASTHAN BENCH AT JAIPUR
+				<lb />
+			</court>
+			<case_numbers>
+				S.B. Criminal Appeal No. 17 / 2016
+			</case_numbers>
+			<petitioner>
+				Ghanshi
+				<lb />
+			</petitioner>
+			<extra>
+				----Appellant
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				State Of Rajasthan Through Pp
+				<lb />
+			</respondent>
+			<extra>
+				----Respondent
+				<lb />
+			</extra>
+			<extra>
+				Connected With
+				<lb />
+			</extra>
+			<case_numbers>
+				S.B. Criminal Appeal No. 1088 / 2015
+				<lb />
+			</case_numbers>
+			<petitioner>
+				Kulawant @ Kuldeep
+				<lb />
+			</petitioner>
+			<extra>
+				----Appellant
+				<lb />
+			</extra>
+			<extra>
+				Versus
+			</extra>
+			<respondent>
+				State Of Rajasthan Through Pp
+				<lb />
+			</respondent>
+			<extra>
+				----Respondent _____________________________________________________
+				<lb />
+			</extra>
+			<extra>
+				For Appellant(s) :
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				None present
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For State:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms. Meenakshi Pareek, PP
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				_____________________________________________________
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE PRASHANT KUMAR AGARWAL
+			</judges>
+			<document_type>
+				Order
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

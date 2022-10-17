@@ -5,31 +5,27 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
 			<court>
-				 HIGH COURT OF JUDICATURE AT MADRAS
+				HIGH COURT OF JUDICATURE AT MADRAS
 				<lb />
 			</court>
 			<extra>
 				Dated:
 			</extra>
 			<judgement_date>
-				 30.01.2019
+				30.01.2019
 				<lb />
 			</judgement_date>
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				
-				THE HON&apos;BLE MR.JUSTICE M.SUNDAR
+				HON&apos;BLE MR.JUSTICE M.SUNDAR
 				<lb />
 			</judges>
 			<case_numbers>
@@ -44,9 +40,14 @@
 				O.A.Nos.715 to 717 of 2018
 				<lb />
 			</case_numbers>
+			<extra>
+				1.
+			</extra>
 			<petitioner>
-				1.M/s.Urban Clothing Co.
+				M/s.Urban Clothing Co.
 				<lb />
+			</petitioner>
+			<extra>
 				51, Kavari Street
 				<lb />
 				Athipet, Ambattur
@@ -65,10 +66,15 @@
 				<lb />
 				Koyambedu, Chennai -600 107.
 				<lb />
-			</petitioner>
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<petitioner>
-				2.Urban Enterprises
+				Urban Enterprises
 				<lb />
+			</petitioner>
+			<extra>
 				Ground Floor, Phoenix Market City
 				<lb />
 				142, Velachery Main Road
@@ -79,7 +85,7 @@
 				<lb />
 				Represented by its Partner Shanavas K.H.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				.. Plaintiffs
 				<lb />
@@ -88,9 +94,14 @@
 				Vs.
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1.Elgee Fashions
+				Elgee Fashions
 				<lb />
+			</respondent>
+			<extra>
 				Represented by its Partner
 				
 				John P.Antony
@@ -100,10 +111,15 @@
 				Sree Ram Mandir
 				<lb />
 				Chittor Road, Cochin, Kerala.
-			</respondent>
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2.United Apparels
+				United Apparels
 				<lb />
+			</respondent>
+			<extra>
 				Rep. by its Proprietor John P Antony
 				<lb />
 				D.No.42/1940, 1st Floor,
@@ -112,7 +128,7 @@
 				<lb />
 				Cochin-18, Kerala.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				.. Defendants
 				<lb />

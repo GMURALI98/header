@@ -9,6 +9,12 @@ def load_model(text):
     # html_url = html_link
     html_text = text
     # print(html)
+<<<<<<< HEAD
+    try:
+            
+        soup = BeautifulSoup(html_text, features="html.parser")
+=======
+>>>>>>> 49794400fde59dfc0498fa1209bf3c80fcc6b712
 
     try:   
         soup = BeautifulSoup(html_text, features="html.parser")
@@ -20,9 +26,22 @@ def load_model(text):
         # get text
         text = soup.body.get_text()
 
+<<<<<<< HEAD
+        # kill all script and style elements
+        for script in soup(["script", "style"]):
+            script.extract()    # rip it out
+
+        # get text
+        text = soup.body.get_text()
+
+    except:
+        pass
+        
+=======
     except:
         pass
 
+>>>>>>> 49794400fde59dfc0498fa1209bf3c80fcc6b712
     doc = nlp(text)
     output = get_acts(html_text, doc)
 

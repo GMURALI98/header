@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5198528" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				HIGH COURT OF JUDICATURE FOR RAJASTHAN AT JODHPUR
+				<lb />
+			</court>
+			<case_numbers>
+				S.B. Criminal Appeal No. 362/1991
+			</case_numbers>
+			<petitioner>
+				Gokia
+				<lb />
+			</petitioner>
+			<extra>
+				----Appellant
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				State
+			</respondent>
+			<extra>
+				----Respondent
+				<lb />
+				For Appellant(s)
+				<lb />
+				:
+			</extra>
+			<petitioner_lawyers>
+				Mr. SK Verma
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For Respondent(s)
+				<lb />
+				:
+			</extra>
+			<respondent_lawyers>
+				Mr. Mukesh Trivedi,
+			</respondent_lawyers>
+			<extra>
+				PP
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE DR. JUSTICE PUSHPENDRA SINGH BHATI
+				<lb />
+			</judges>
+			<document_type>
+				Order
+				<lb />
+			</document_type>
+			<judgement_date>
+				12/04/2022
+				<lb />
+			</judgement_date>
+		</front>
+	</text>
+</tei>

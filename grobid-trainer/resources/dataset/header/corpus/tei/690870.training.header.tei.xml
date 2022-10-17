@@ -18,11 +18,10 @@
 				RESERVED
 				<lb />
 				ON :
-			</extra>
-			<judgement_date>
+				
 				10.03.2020
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				DATE OF DECISION :
 			</extra>
@@ -53,10 +52,18 @@
 				Crl.M.P.Nos.11481, 11482 of 2019, 944 and 946 of 2020
 				<lb />
 			</case_numbers>
+			<extra>
+				1.
+			</extra>
 			<petitioner>
-				1.Srinidhi Karti Chidambaram
+				Srinidhi Karti Chidambaram
 				<lb />
-				2.Karti P.Chidambaram
+			</petitioner>
+			<extra>
+				2.
+			</extra>
+			<petitioner>
+				Karti P.Chidambaram
 			</petitioner>
 			<extra>
 				.. Petitioners in
@@ -86,8 +93,11 @@
 				Vs.
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1.The Deputy Director of Income Tax (Investigation),
+				The Deputy Director of Income Tax (Investigation),
 				<lb />
 				Unit-3(2),
 				<lb />
@@ -102,8 +112,11 @@
 				Chennai-600 034.
 				<lb />
 			</respondent>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2.The Registrar,
+				The Registrar,
 				<lb />
 				Hon'ble Special Court for Trial of Criminal Cases
 				<lb />
@@ -114,8 +127,11 @@
 				(R-2 stands deleted vide this order)
 				<lb />
 			</respondent>
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				3.The State of Tamil Nadu
+				The State of Tamil Nadu
 				<lb />
 				rep by Chief Secretary to Government,
 				<lb />
@@ -124,8 +140,11 @@
 				Fort St. George, Chennai-600 009.
 				<lb />
 			</respondent>
+			<extra>
+				4.
+			</extra>
 			<respondent>
-				4.The Registrar General,
+				The Registrar General,
 				<lb />
 				High Court, Madras
 				<lb />
@@ -303,14 +322,14 @@
 				Mr.N.R.R.Arun Natarajan
 				<lb />
 			</petitioner_lawyers>
-			<extra>
+			<case_numbers>
 				in Crl.O.P.Nos.22136 &amp; 22137/2019
 				<lb />
 				and
 				<lb />
 				Crl.O.P.Nos.1526 &amp; 1527/2020
 				<lb />
-			</extra>
+			</case_numbers>
 			<extra>
 				For Respondents :
 			</extra>
@@ -378,10 +397,6 @@
 				----
 				<lb />
 			</extra>
-			<page>
-				5/103
-				<lb />
-			</page>
 			<document_type>
 				COMMON ORDER
 				<lb />

@@ -5,36 +5,34 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
 				PA Nitin Jagtap -PA -Dhuri
+				<lb />
 			</extra>
-			<lb />
-			<page>
-				1 / 166
-			</page>
-			<lb />
 			<extra>
 				WPL-3011-2020-Final.doc
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT BOMBAY
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				ORDINARY ORIGINAL CIVIL URISDICTION
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				WRIT PETITION (ST.) NO. 3011 OF 2020
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
-				Ms. Kangana Ranaut, )
+				Ms. Kangana Ranaut
+			</petitioner>
+			<extra>
+				, )
 				<lb />
 				An Adult, Indian Inhabitant, )
 				<lb />
@@ -47,7 +45,7 @@
 				Bandra, West, Mumbai -400 050
 				<lb />
 				)
-			</petitioner>
+			</extra>
 			<extra>
 				<lb />
 				… Petitioner
@@ -56,43 +54,63 @@
 				Versus
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1.Municipal Corporation of Greater )
+				Municipal Corporation of Greater )
 				<lb />
 				Mumbai, )
 				<lb />
+			</respondent>
+			<extra>
 				a local statutory body having its ofce at )
 				<lb />
 				Mahapalika Building, Mahapalika Marg, )
 				<lb />
 				Mumbai -400 001 )
 				<lb />
-			</respondent>
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2.The Executive Engineer ( B &amp; F ), )
+				The Executive Engineer ( B &amp; F ), )
 				<lb />
+			</respondent>
+			<extra>
 				having his ofce at H/West Ward, H/W Ward )
 				<lb />
-				Ofce Building, iaint Martin Road, Behind )
+				Office Building, iaint Martin Road, Behind )
 				<lb />
 				Bandra Police itation, Bandra, West, )
 				<lb />
 				Mumbai -400 050 )
 				<lb />
-			</respondent>
+			</extra>
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				3.Government of Maharashtra, )
+				Government of Maharashtra, )
 				<lb />
+			</respondent>
+			<extra>
 				Through its iecretary, )
 				<lb />
 				Ministry of Home Afairs, Mantralaya, )
 				<lb />
 				Mumbai -400 032 )
 				<lb />
-			</respondent>
+			</extra>
+			<extra>
+				4.
+			</extra>
 			<respondent>
-				4.Bhagyavant Late, )
+				Bhagyavant Late, )
 				<lb />
+			</respondent>
+			<extra>
 				An adult, Indian Inhabitant, )
 				<lb />
 				Having ofce at H/West Ward, )
@@ -102,11 +120,19 @@
 				Saint Martin Road, Behind Bandra Police )
 				<lb />
 				Station, Bandra, West, Mumbai -400 050 )
-			</respondent>
-			<lb />
-			<respondent>
-				5.Sanjay Raut, )
 				<lb />
+			</extra>
+			<extra>
+				5.
+			</extra>
+			<respondent>
+				Sanjay Raut
+				<lb />
+			</respondent>
+			<extra>
+				, )
+			</extra>
+			<extra>
 				An adult, Indian Inhabitant, )
 				<lb />
 				&quot;Maitri&quot; Friends Colony, Bhandup, East, )
@@ -115,7 +141,7 @@
 				<lb />
 				)
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				… Respondents
 				<lb />
@@ -179,26 +205,23 @@
 			<extra>
 				RESERVED ON :
 				<lb />
-			</extra>
-			<judgement_date>
 				5TH OCTOBER, 2020
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				PRONOUNCED ON :
 			</extra>
 			<judgement_date>
 				27TH NOVEMBER, 2020
+				<lb />
 			</judgement_date>
-			<lb />
 			<extra>
 				(THROUGH VIDEO CONFERENCING)
+				<lb />
 			</extra>
-			<lb />
 			<document_type>
 				JUDGMENT
 			</document_type>
-			<lb />
 		</front>
 	</text>
 </tei>

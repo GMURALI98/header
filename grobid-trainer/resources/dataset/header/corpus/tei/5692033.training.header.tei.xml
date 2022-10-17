@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5692033" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				HIGH COURT OF JUDICATURE FOR RAJASTHAN BENCH AT JAIPUR
+				<lb />
+			</court>
+			<case_numbers>
+				S.B. Civil Writ Petition No. 4816 / 2017
+				<lb />
+			</case_numbers>
+			<petitioner>
+				Geetkar Vyas
+			</petitioner>
+			<extra>
+				Son of Late Shri Vishnu Kumar Vyas,, Aged About 46
+				<lb />
+				Years, 58, Guru Jambeshwar Nagar, B Lane, No. 15, Gandhi Path,
+				<lb />
+				Queens Road, Jaipur.
+				<lb />
+			</extra>
+			<extra>
+				----Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<extra>
+				1.
+			</extra>
+			<respondent>
+				State of Rajasthan
+			</respondent>
+			<extra>
+				Through Principal Secretary, Department of
+				<lb />
+				Agriculture,, Secretariat, Jaipur
+				<lb />
+			</extra>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				Managing Director, Rajasthan State Seeds Corporation Ltd.,,
+				<lb />
+				Jaipur.
+				<lb />
+			</respondent>
+			<extra>
+				----Respondents _____________________________________________________
+				<lb />
+			</extra>
+			<extra>
+				For Petitioner(s) :
+			</extra>
+			<petitioner_lawyers>
+				Mr. Ashok Gaur
+			</petitioner_lawyers>
+			<extra>
+				, Senior Advocate, assisted by
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Kapil Prakash Mathur
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				For Respondent(s) :
+			</extra>
+			<petitioner_lawyers>
+				Mr. R.P. Singh
+			</petitioner_lawyers>
+			<extra>
+				, Senior Advocate, assiged by
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Rahul Choudhary
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				_____________________________________________________
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE VEERENDR SINGH SIRADHANA
+				<lb />
+			</judges>
+			<document_type>
+				Judgment / Order
+				<lb />
+			</document_type>
+			<judgement_date>
+				20/04/2017
+				<lb />
+			</judgement_date>
+		</front>
+	</text>
+</tei>

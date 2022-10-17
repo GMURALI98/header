@@ -5,40 +5,39 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 9
-				<lb />
-			</page>
 			<court>
 				IN THE HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
 			<extra>
 				Judgment reserved on:
-			</extra>
-			<judgement_date>
+				<lb />
 				15.3.2016
 				<lb />
-			</judgement_date>
-			<extra>
-				Judgment delivered on:
 			</extra>
-			<case_numbers>
-				CM(M) 771/2015 &amp; C.M. No.16237/2015
-				<lb />
-			</case_numbers>
+			<document_type>
+				Judgment
+			</document_type>
+			<extra>
+				delivered on:
+			</extra>
 			<judgement_date>
 				17.3.2016
 				<lb />
 			</judgement_date>
+			<case_numbers>
+				CM(M) 771/2015 &amp; C.M. No.16237/2015
+				<lb />
+			</case_numbers>
 			<petitioner>
 				M/S TEXMACO LTD
 				<lb />
+			</petitioner>
+			<extra>
 				(NOW KNOWN AS M/S TEXMACO
 				<lb />
 				INFRASTRUCTURE &amp; HOLDING LTD)
-			</petitioner>
+			</extra>
 			<extra>
 				.....
 				Petitioner
@@ -80,16 +79,20 @@
 				<lb />
 			</extra>
 			<respondent_lawyers>
-				Mr. Rakesh Munjal,
+				Mr. Rakesh Munjal
 				<lb />
 			</respondent_lawyers>
 			<extra>
+				,
 				Sr. Adv. with
 			</extra>
 			<respondent_lawyers>
-				Mr.R.P. S. Sirohi, Adv for R-1.
+				Mr.R.P. S. Sirohi
 				<lb />
 			</respondent_lawyers>
+			<extra>
+				, Adv for R-1.
+			</extra>
 			<extra>
 				CORAM:
 				<lb />

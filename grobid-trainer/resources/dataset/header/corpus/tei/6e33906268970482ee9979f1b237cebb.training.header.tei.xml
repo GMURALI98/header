@@ -27,9 +27,10 @@
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HON&apos;BLE Mr.JUSTICE M.SUNDAR
+				HON&apos;BLE Mr.JUSTICE M.SUNDAR
 			</judges>
 			<lb />
 			<case_numbers>
@@ -46,8 +47,11 @@
 			</extra>
 			<lb />
 			<petitioner>
-				S.Ramesh,
+				S.Ramesh
 				<lb />
+			</petitioner>
+			<extra>
+				,
 				Shop No.4079,
 				<lb />
 				Door No.141-A, Vellalar Street,
@@ -56,7 +60,7 @@
 				<lb />
 				Chennai-600 088.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				...Petitioner
 				<lb />
@@ -65,38 +69,54 @@
 				-Vs.-
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1. The Tamil Nadu State Marketing Corporation Limited, (TASMAC),
+				The Tamil Nadu State Marketing Corporation Limited, (TASMAC),
 				<lb />
 				Rep.by its Managing Director,
 				<lb />
 				&quot;Thalamuthu Natarajan Maaligai&quot;,
 				<lb />
+			</respondent>
+			<extra>
 				Gandhi-Irwin Road,
 				<lb />
 				Egmore, Chennai-600 008.
-			</respondent>
-			<lb />
+				<lb />
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2. The Tamil Nadu State Marketing Corporation Limited, (TASMAC),
+				The Tamil Nadu State Marketing Corporation Limited, (TASMAC),
 				<lb />
 				Rep.by its Senior Regional Manager,
 				<lb />
-				LLA Building, Anna Salai, Chennai-600 002.
 			</respondent>
-			<lb />
+			<extra>
+				LLA Building, Anna Salai, Chennai-600 002.
+				<lb />
+			</extra>
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				3. The Tamil Nadu State Marketing Corporation Limited, (TASMAC),
+				The Tamil Nadu State Marketing Corporation Limited, (TASMAC),
 				<lb />
-				Rep.by its District Manager,
+				Rep.by its District Manager
 				<lb />
+			</respondent>
+			<extra>
+				,
 				Kancheepuram (North)
 				<lb />
 				Industrial Estate, Thirumazhisai,
 				<lb />
 				Kancheepuram District-600 123.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				... Respondents
 				<lb />
@@ -121,18 +141,17 @@
 			</extra>
 			<petitioner_lawyers>
 				Mr.K.Selvaraj
+				<lb />
 			</petitioner_lawyers>
-			<lb />
 			<extra>
 				For Respondents in all W.P.s
 				<lb />
 				:
 			</extra>
-			<lb />
 			<respondent_lawyers>
 				Mr.K.Sathishkumar
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				standing counsel for
 				<lb />
@@ -141,10 +160,13 @@
 				standing counsel for TASMAC
 				<lb />
 				******
+				<lb />
 			</extra>
-			<lb />
+			<extra>
+				C O M M O N
+			</extra>
 			<document_type>
-				C O M M O N O R D E R
+				O R D E R
 			</document_type>
 		</front>
 	</text>

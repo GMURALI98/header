@@ -5,24 +5,22 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<case_numbers>
 				O.P.No.577 of 2019
+				<lb />
 			</case_numbers>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
 			<court>
-				 HIGH COURT OF JUDICATURE AT MADRAS
-				 		<lb />
+				HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
 			</court>
-	
 			<extra>
 				Dated:
 			</extra>
 			<judgement_date>
-				 23.01.2020
+				23.01.2020
 			</judgement_date>
 			<extra>
 				CORAM
@@ -30,13 +28,13 @@
 				THE
 			</extra>
 			<judges>
-				 HON&apos;BLE MR.JUSTICE M.SUNDAR
+				HON&apos;BLE MR.JUSTICE M.SUNDAR
+				<lb />
 			</judges>
-			<lb />
 			<case_numbers>
 				O.P.No.577 of 2019
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				Subway Systems India Private Limited
 				<lb />
@@ -52,9 +50,11 @@
 			<extra>
 				.. Petitioner
 				<lb />
-				Vs.
 			</extra>
-			<lb />
+			<extra>
+				Vs.
+				<lb />
+			</extra>
 			<respondent>
 				Mr.Paul Nandagopal
 			</respondent>
@@ -109,11 +109,8 @@
 			</extra>
 			<respondent_lawyers>
 				Mr.T.Gowthaman
+				<lb />
 			</respondent_lawyers>
-			<lb />
-			<page>
-				1/7
-			</page>
 			<case_numbers>
 				O.P.No.577 of 2019
 			</case_numbers>

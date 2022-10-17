@@ -14,10 +14,6 @@
 				Record of Proceedings through Video Conferencing
 				<lb />
 			</extra>
-			<page>
-				Page-1 of 3
-				<lb />
-			</page>
 			<case_numbers>
 				W.P. (PIL) No.07 of 2020
 				<lb />
@@ -54,10 +50,18 @@
 				<lb />
 			</extra>
 			<judges>
-				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
-				<lb />
-				HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN, JUDGE
+				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI
 			</judges>
+			<extra>
+				, CHIEF JUSTICE
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN
+			</judges>
+			<extra>
+				, JUDGE
+			</extra>
 		</front>
 	</text>
 </tei>

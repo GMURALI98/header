@@ -5,31 +5,27 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-				<lb />
-			</page>
 			<extra>
 				BEFORE THE
 			</extra>
 			<court>
-				 MADURAI BENCH OF MADRAS HIGH COURT
+				MADURAI BENCH OF MADRAS HIGH COURT
 				<lb />
 			</court>
 			<extra>
-					DATE:
+				DATE:
 			</extra>
 			<judgement_date>
-			 20.12.2021
+				20.12.2021
 				<lb />
 			</judgement_date>
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				
-				THE HON&apos;BLE MRS.JUSTICE V.BHAVANI SUBBAROYAN
+				HON&apos;BLE MRS.JUSTICE V.BHAVANI SUBBAROYAN
 				<lb />
 			</judges>
 			<case_numbers>
@@ -52,12 +48,18 @@
 				vs.
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1. AAmeena Ammal
+				AAmeena Ammal
 				<lb />
 			</respondent>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2. Sathaiah
+				Sathaiah
 				<lb />
 			</respondent>
 			<extra>

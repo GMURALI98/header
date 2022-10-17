@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 95
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -17,14 +12,15 @@
 				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
+			<document_type>
+				Judgment
+			</document_type>
 			<extra>
-				Judgment Reserved on:
+				Reserved on:
 				<lb />
-			</extra>
-			<judgement_date>
 				12 th December, 2017
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Date of decision:
 			</extra>
@@ -48,9 +44,15 @@
 			<petitioner_lawyers>
 				Mr. Sandeep Sethi and Mr.
 				<lb />
-				Sudhanshu Batra, Sr. Advs.
+				Sudhanshu Batra
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advs.
 				<lb />
-				with Mr. Vineet Malhotra,
+				with
+			</extra>
+			<petitioner_lawyers>
+				Mr. Vineet Malhotra,
 				<lb />
 				Mr. Apoorva Agarwal, Mr.
 				<lb />
@@ -70,8 +72,8 @@
 				&apos;H&apos; &amp; ANR
 				<lb />
 			</respondent>
-			.....
 			<extra>
+				.....
 				Respondents
 				<lb />
 			</extra>
@@ -80,9 +82,15 @@
 				<lb />
 			</extra>
 			<respondent_lawyers>
-				Mr. V.K. Gupta, Sr. Adv.
+				Mr. V.K. Gupta
+			</respondent_lawyers>
+			<extra>
+				, Sr. Adv.
 				<lb />
-				with Mr. Sanjeev Mahajan,
+				with
+			</extra>
+			<respondent_lawyers>
+				Mr. Sanjeev Mahajan,
 				<lb />
 				Ms. Ruchira Gupta, Ms.
 				<lb />

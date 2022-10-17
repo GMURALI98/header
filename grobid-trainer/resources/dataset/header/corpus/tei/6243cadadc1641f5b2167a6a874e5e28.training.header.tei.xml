@@ -5,15 +5,10 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				1
-			</page>
-			<lb />
 			<extra>
 				Reportable
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
@@ -28,11 +23,16 @@
 			<case_numbers>
 				CIVIL APPEAL NOS.2285-2330 OF 2019
 				<lb />
-				(Arising out of Special Leave Petition (Civil) Nos.928-930, 932 TO 938, 940
+			</case_numbers>
+			<extra>
+				(Arising out of Special Leave Petition
+			</extra>
+			<case_numbers>
+				(Civil) Nos.928-930, 932 TO 938, 940
 				<lb />
 				TO 967 AND 969 TO 976 of 2019)
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				DLF HOMES PANCHKULA (P) LTD. THROUGH
 				<lb />
@@ -59,17 +59,15 @@
 			</extra>
 			<case_numbers>
 				SPECIAL LEAVE PETITION (CIVIL) NOS.931, 939 AND 968 OF 2019
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				DLF HOMES PANCHKULA (P) LTD. THROUGH ITS AUTHORISED SIGNATORY MR. SHIV KUMAR
 				<lb />
 			</petitioner>
-			<lb />
 			<extra>
 				VERSUS
 			</extra>
-			<lb />
 			<respondent>
 				MRIDULA SOOD ETC.
 			</respondent>
@@ -84,10 +82,15 @@
 			<case_numbers>
 				CIVIL APPEAL NO.2354 OF 2019
 				<lb />
-				(Arising out of
-				Special Leave Petition (Civil) No.26519 of 2018)
 			</case_numbers>
-			<lb />
+			<extra>
+				(Arising out of
+				Special Leave Petition
+			</extra>
+			<case_numbers>
+				(Civil) No.26519 of 2018)
+				<lb />
+			</case_numbers>
 			<petitioner>
 				RAVI DATT AGGARWAL AND ORS.
 			</petitioner>
@@ -110,12 +113,8 @@
 				CIVIL APPEAL NOS. 2285-2330 OF 2019 (@ SLP(C) NOS.928-930, 932-938, 940-967 and 969-976 OF 2019)
 				<lb />
 				DLF HOMES PANCHKULA (P) LTD. THROUGH ITS AUTHORISED SIGNATORY MR. SHIV KUMAR VS. SUSHILA DEVI AND ANR.
+				<lb />
 			</extra>
-			<lb />
-			<page>
-				2
-			</page>
-			<lb />
 			<document_type>
 				J U D G M E N T
 			</document_type>

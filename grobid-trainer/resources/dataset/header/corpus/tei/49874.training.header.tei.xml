@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 225
-				<lb />
-			</page>
 			<extra>
 				$~
 				<lb />
@@ -23,11 +18,10 @@
 			</court>
 			<extra>
 				Reserved on :
-			</extra>
-			<judgement_date>
+				
 				30 th May, 2019
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Date of decision :
 			</extra>
@@ -56,9 +50,15 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Sudhir Chandra, Senior Advocate
+				Mr. Sudhir Chandra
+			</petitioner_lawyers>
+			<extra>
+				, Senior Advocate
 				<lb />
-				with Mr. Sohan Singh Rana, Mrs.
+				with
+			</extra>
+			<petitioner_lawyers>
+				Mr. Sohan Singh Rana, Mrs.
 				<lb />
 				Bindra Rana, Ms. Priya Adlakha, Ms.
 				<lb />
@@ -66,10 +66,11 @@
 				<lb />
 				Ruhee
 				<lb />
-				Passi,
+				Passi
 				<lb />
 			</petitioner_lawyers>
 			<extra>
+				,
 				Advocates.
 				<lb />
 				(M:9818202368)
@@ -94,20 +95,22 @@
 			<respondent_lawyers>
 				Mr. Sagar Chandra, Ms. Ishani
 				<lb />
-				Chandra and Ms. Shubhie Wahi,
+				Chandra and Ms. Shubhie Wahi
 				<lb />
 			</respondent_lawyers>
 			<extra>
+				,
 				Advocates for D-1 (M:8130910708)
 				<lb />
 			</extra>
 			<respondent_lawyers>
 				Mr. Sudarshan Rajan and Mr. Ramesh
 				<lb />
-				Rawat,
+				Rawat
 				<lb />
 			</respondent_lawyers>
 			<extra>
+				,
 				Advocates
 				<lb />
 				for
@@ -136,9 +139,15 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Sudhir Chandra, Senior Advocate
+				Mr. Sudhir Chandra
+			</petitioner_lawyers>
+			<extra>
+				, Senior Advocate
 				<lb />
-				with Mr. Sohan Singh Rana, Mrs.
+				with
+			</extra>
+			<petitioner_lawyers>
+				Mr. Sohan Singh Rana, Mrs.
 				<lb />
 				Bindra Rana, Ms. Priya Adlakha, Ms.
 				<lb />
@@ -146,13 +155,17 @@
 				<lb />
 				Ruhee
 				<lb />
-				Passi,
+				Passi
 				<lb />
 			</petitioner_lawyers>
 			<extra>
+				,
 				Advocates.
 				<lb />
-				(M:9818202368) versus
+				(M:9818202368)
+			</extra>
+			<extra>
+				versus
 				<lb />
 			</extra>
 			<respondent>
@@ -170,10 +183,11 @@
 			<respondent_lawyers>
 				Mr. Siddharth Batra, Ms. Garima
 				<lb />
-				Sehgal and Mr. Vishwajeet Arora,
+				Sehgal and Mr. Vishwajeet Arora
 				<lb />
 			</respondent_lawyers>
 			<extra>
+				,
 				Advocates for D-2 &amp; 3.
 				<lb />
 			</extra>
@@ -200,10 +214,11 @@
 				<lb />
 				Mr. Sanjeev Seshadri &amp; Ms. Disha
 				<lb />
-				Sharma,
+				Sharma
 				<lb />
 			</respondent_lawyers>
 			<extra>
+				,
 				Advocates
 				<lb />
 				for
@@ -213,9 +228,11 @@
 				(M:9810621272) WITH
 				<lb />
 			</extra>
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CS (OS) 480/2018
 				<lb />
 			</case_numbers>
@@ -232,17 +249,24 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Rajiv Nayar, Senior Advocate,
+				Mr. Rajiv Nayar
+			</petitioner_lawyers>
+			<extra>
+				, Senior Advocate,
 				<lb />
-				with Ms. Priya Kumar, Mr. C.D.
+				with
+			</extra>
+			<petitioner_lawyers>
+				Ms. Priya Kumar, Mr. C.D.
 				<lb />
 				Mulherkar, Mr. Shailabh Tiwari, Mr.
 				<lb />
 				Tejas Chhabra and Mr. Chanakya
 				<lb />
-				Diwedi,
+				Diwedi
 			</petitioner_lawyers>
 			<extra>
+				,
 				Advocates (M:9716989180)
 				<lb />
 			</extra>
@@ -262,15 +286,22 @@
 				Through:
 			</extra>
 			<respondent_lawyers>
-				Mr. Sandeep Sethi, Senior Advocate,
+				Mr. Sandeep Sethi
+			</respondent_lawyers>
+			<extra>
+				, Senior Advocate,
 				<lb />
-				with Mr. Prince Pawaiya, Ms. Prema
+				with
+			</extra>
+			<respondent_lawyers>
+				Mr. Prince Pawaiya, Ms. Prema
 				<lb />
 				Arora, Ms. Peri Surya Yashodhara
 				<lb />
-				and Mr. Karan Chopra,
+				and Mr. Karan Chopra
 			</respondent_lawyers>
 			<extra>
+				,
 				Advocates,
 				<lb />
 				GNP Legal, for Defendant no.3
@@ -303,13 +334,11 @@
 				Defendant No.1 (9900064366) WITH
 				<lb />
 			</extra>
-			<page>
-				Page 3 of 225
-				<lb />
-			</page>
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CS (OS) 531/2018
 				<lb />
 			</case_numbers>
@@ -386,9 +415,11 @@
 				(M:9654592881) WITH
 				<lb />
 			</extra>
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CS (OS) 550/2018
 				<lb />
 			</case_numbers>
@@ -415,10 +446,11 @@
 				<lb />
 				Ruhee
 				<lb />
-				Passi,
+				Passi
 				<lb />
 			</petitioner_lawyers>
 			<extra>
+				,
 				Advocates.
 				<lb />
 				(M:9818202368)
@@ -466,17 +498,15 @@
 				(M:9990865829)
 				<lb />
 			</extra>
-			<page>
-				Page 4 of 225
-				<lb />
-			</page>
 			<extra>
 				WITH
 				<lb />
 			</extra>
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CS (OS) 75/2019
 				<lb />
 			</case_numbers>
@@ -547,9 +577,11 @@
 				No.1 (M:9810621272) AND
 				<lb />
 			</extra>
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				CS (OS) 91/2019
 				<lb />
 			</case_numbers>
@@ -566,9 +598,15 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Balbir Singh, Senior Advocate,
+				Mr. Balbir Singh
+			</petitioner_lawyers>
+			<extra>
+				, Senior Advocate,
 				<lb />
-				with Mr. Mahesh B. Chhibber, Mr.
+				with
+			</extra>
+			<petitioner_lawyers>
+				Mr. Mahesh B. Chhibber, Mr.
 				<lb />
 				Karan Chopra, Ms. Mehak Khanna &amp;
 				<lb />

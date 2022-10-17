@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="40785" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<case_numbers>
+				FAO 191/2019
+				<lb />
+			</case_numbers>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				%
+				<lb />
+				Judgment delivered on:
+			</extra>
+			<judgement_date>
+				18.05.2021
+				<lb />
+			</judgement_date>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				FAO 191/2019 &amp; CM APPL.20736-37/2019, 15522-23/2021 &amp;
+				<lb />
+				16551/2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				M/S CLEAR SECURED SERVICES (P) LTD
+				<lb />
+			</petitioner>
+			<extra>
+				….. Appellant
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				SANTOSH KUMAR MEHTA
+				<lb />
+			</respondent>
+			<extra>
+				…..Respondent
+				<lb />
+			</extra>
+			<extra>
+				For the Petitioner:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Aseem Mehrotra
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advocate.
+			</extra>
+			<extra>
+				Advocates who appeared in this case:
+				<lb />
+				For the Respondent:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Shivam Bajaj
+			</respondent_lawyers>
+			<extra>
+				Advocate.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:-
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE SANJEEV SACHDEVA
+				<lb />
+			</judges>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+			<extra>
+				SANJEEV SACHDEVA, J. (ORAL)
+			</extra>
+		</front>
+	</text>
+</tei>

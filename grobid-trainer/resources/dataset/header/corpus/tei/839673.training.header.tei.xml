@@ -7,7 +7,7 @@
 		<front>
 			<lb />
 			<extra>
-				IN THE 
+				IN THE
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT MADRAS
@@ -17,17 +17,16 @@
 				DATED:
 			</extra>
 			<judgement_date>
-				 14.03.2022
-				 	<lb />
+				14.03.2022
+				<lb />
 			</judgement_date>
-		
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				
-				THE HON&apos;BLE Mr.JUSTICE M.SUNDAR
+				HON&apos;BLE Mr.JUSTICE M.SUNDAR
 			</judges>
 			<lb />
 			<case_numbers>
@@ -37,6 +36,8 @@
 			<petitioner>
 				K.V.Sankara Subramanian
 				<lb />
+			</petitioner>
+			<extra>
 				Managing Trustee
 				<lb />
 				Annadhanam Chatram at Kadayanallur
@@ -48,34 +49,46 @@
 				Kadayanallur -627 751.
 				<lb />
 				Kadayanallur Taluk, Tirunelveli District.
-			</petitioner>
-			<lb />
+				<lb />
+			</extra>
 			<extra>
 				... Petitioner
 				<lb />
-				-Vs.-
 			</extra>
-			<lb />
+			<extra>
+				-Vs.-
+				<lb />
+			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1. The Secretary to Government
+				The Secretary to Government
 				<lb />
 				Hindu Religious and Charitable Endowment Department
 				<lb />
 				Fort St.George, Chennai-600 009.
+				<lb />
 			</respondent>
 			<lb />
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2. The Commissioner
+				The Commissioner
 				<lb />
 				Hindu Religious and Charitable Endowment
 				<lb />
 				Nungambakkam
 				<lb />
 				Chennai-600 034.
+				<lb />
 			</respondent>
-			<lb />
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				3. The Executive Officer
+				The Executive Officer
 				<lb />
 				Chozhia Brahmins Annadhanam Trust at Kadayanallur/
 				<lb />
@@ -84,16 +97,12 @@
 				Krishnapuram, Tenkasi Taluk
 				<lb />
 				Tirunelveli District.
+				<lb />
 			</respondent>
 			<lb />
 			<extra>
 				.. Respondents
 			</extra>
-			<lb />
-			<page>
-				1/13
-			</page>
-			<lb />
 			<extra>
 				Prayer:-
 				<lb />
@@ -110,20 +119,19 @@
 				For Petitioner
 				<lb />
 				:
+				<lb />
 			</extra>
-			<lb />
 			<petitioner_lawyers>
 				Mr.G.Nagarajan
+				<lb />
 			</petitioner_lawyers>
-			<lb />
 			<extra>
 				For Respondents :
 			</extra>
-			<lb />
 			<respondent_lawyers>
 				Mr.N.R.R.Arun Natarajan
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				Special Government Pleader
 				<lb />
@@ -132,8 +140,8 @@
 				Mr.R.Bharanidharan, for R3
 				<lb />
 				**
+				<lb />
 			</extra>
-			<lb />
 			<document_type>
 				O R D E R
 			</document_type>

@@ -5,10 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				1
-			</page>
 			<extra>
 				BEFORE
 			</extra>
@@ -18,12 +14,12 @@
 				SPECIAL COURT (TRIAL OF OF FENCES RELATING TO
 				<lb />
 				TRANSACTIONS IN SECURITIES) ACT, 1992 AT BOMBAY
+				<lb />
 			</court>
-			<lb />
 			<case_numbers>
 				SUIT NO. 6 OF 1994
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				Standard Chartered Bank,
 				<lb />
@@ -72,14 +68,17 @@
 				)
 				<lb />
 				..... Plaintiffs.
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				Versus
+				<lb />
 			</extra>
-			<lb />
+			<extra>
+				(1)
+			</extra>
 			<respondent>
-				(1) Andhra Bank Financial Services )
+				Andhra Bank Financial Services )
 				<lb />
 				Limited, a Company incorporated )
 				<lb />
@@ -106,10 +105,13 @@
 				)
 				<lb />
 				Bombay -400 023. )
+				<lb />
 			</respondent>
-			<lb />
+			<extra>
+				(2)
+			</extra>
 			<respondent>
-				(2) Hiten P. Dalal, Bombay
+				Hiten P. Dalal, Bombay
 				<lb />
 				Indian Inhabitant, residing at
 				<lb />
@@ -119,37 +121,37 @@
 				<lb />
 				400 059.
 				<lb />
-				)
-				<lb />
-				)
-				<lb />
-				)
-				<lb />
-				)
-				<lb />
-				)
-				<lb />
-				)
-				<lb />
-				)
 			</respondent>
-			<lb />
+			<extra>
+				)
+				<lb />
+				)
+				<lb />
+				)
+				<lb />
+				)
+				<lb />
+				)
+				<lb />
+				)
+				<lb />
+				)
+				<lb />
+			</extra>
+			<extra>
+				(3)
+			</extra>
 			<respondent>
-				(3) Canara Bank, a nationalised
+				Canara Bank, a nationalised
 				<lb />
 				)
 				<lb />
 				bank, constituted under the )
+				<lb />
 			</respondent>
-			<lb />
 			<extra>
 				This Order is modified/corrected by Speaking to Minutes Order dated 14/10/2010
 			</extra>
-			<lb />
-			<page>
-				2
-			</page>
-			<lb />
 			<respondent>
 				provisions of the Banking
 				<lb />
@@ -186,46 +188,79 @@
 				)
 				<lb />
 				)
-			</respondent>
-			<lb />
-			<respondent>
-				(4) V.R. Gupte
 				<lb />
-				)
 			</respondent>
-			<lb />
+			<extra>
+				(4)
+			</extra>
 			<respondent>
-				(5) Mrs. lshar Judge Ahluwalia
+				V.R. Gupte
 				<lb />
-				)
 			</respondent>
-			<lb />
-			<respondent>
-				(6) M.N. Karnath
+			<extra>
+				)
 				<lb />
-				)
-			</respondent>
-			<lb />
+			</extra>
+			<extra>
+				(5)
+			</extra>
 			<respondent>
-				(7) N.V. Karnath
+				Mrs. lshar Judge Ahluwalia
 				<lb />
-				)
 			</respondent>
-			<lb />
-			<respondent>
-				(8) P.R. Nayak
+			<extra>
+				)
 				<lb />
-				)
-			</respondent>
-			<lb />
+			</extra>
+			<extra>
+				(6)
+			</extra>
 			<respondent>
-				(9) D.M. Nanjundeppa
+				M.N. Karnath
 				<lb />
-				)
 			</respondent>
-			<lb />
+			<extra>
+				)
+				<lb />
+			</extra>
+			<extra>
+				(7)
+			</extra>
 			<respondent>
-				(10) M.M. Kh anna
+				N.V. Karnath
+				<lb />
+			</respondent>
+			<extra>
+				)
+				<lb />
+			</extra>
+			<extra>
+				(8)
+			</extra>
+			<respondent>
+				P.R. Nayak
+				<lb />
+			</respondent>
+			<extra>
+				)
+				<lb />
+			</extra>
+			<extra>
+				(9)
+			</extra>
+			<respondent>
+				D.M. Nanjundeppa
+				<lb />
+			</respondent>
+			<extra>
+				)
+				<lb />
+			</extra>
+			<extra>
+				(10)
+			</extra>
+			<respondent>
+				M.M. Kh anna
 				<lb />
 				)
 				<lb />
@@ -248,14 +283,17 @@
 				)
 				<lb />
 				Ballard Estate, Bombay -400 038 )
+				<lb />
 			</respondent>
-			<lb />
 			<extra>
 				)
 			</extra>
-			<lb />
+			<extra>
+				(11)
+				<lb />
+			</extra>
 			<respondent>
-				(11) The Custodian appointed
+				The Custodian appointed
 				<lb />
 				)
 				<lb />
@@ -273,8 +311,8 @@
 			</respondent>
 			<extra>
 				.... Defendants.
+				<lb />
 			</extra>
-			<lb />
 			<petitioner_lawyers>
 				Mr. Ram jeth malani,
 			</petitioner_lawyers>
@@ -332,35 +370,33 @@
 			<extra>
 				This Order is modified/corrected by Speaking to Minutes Order dated 14/10/2010
 			</extra>
-			<lb />
-			<page>
-				3
-			</page>
-			<lb />
 			<respondent_lawyers>
-				Mr. Rohit Kapadia,
+				Mr. Rohit Kapadia
 			</respondent_lawyers>
 			<extra>
+				,
 				Senior Counsel with
 			</extra>
 			<respondent_lawyers>
 				Mr. Shaunak Thakker
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				with
 			</extra>
 			<lb />
 			<respondent_lawyers>
-				Mr Pradeep Sancheti,
+				Mr Pradeep Sancheti
 			</respondent_lawyers>
 			<extra>
+				,
 				Senior Advocate with
 			</extra>
 			<respondent_lawyers>
 				Mr.
 				<lb />
 				Shreeniwas Deshmukh,
+				<lb />
 				Mr. Nilesh Parekh, Mr. Gandhar
 				<lb />
 				Raikar &amp; Ms. M. Sophia
@@ -375,8 +411,8 @@
 				CBC for
 				<lb />
 				Defendant Nos. 3 to 10.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
 				Mr. J.Chandran
 			</respondent_lawyers>
@@ -391,12 +427,12 @@
 			</extra>
 			<respondent_lawyers>
 				P.M. &amp; Mithi &amp; Co.
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				for Defendant No.11/Custodian.
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				Coram:
 			</extra>
@@ -413,8 +449,8 @@
 			</extra>
 			<judgement_date>
 				13 th July, 2010.
+				<lb />
 			</judgement_date>
-			<lb />
 			<document_type>
 				JUDGMENT
 			</document_type>

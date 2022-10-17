@@ -5,12 +5,8 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-				<lb />
-			</page>
 			<extra>
-				In the 
+				In the
 			</extra>
 			<court>
 				High Court of Judicature at Madras
@@ -18,16 +14,15 @@
 			</court>
 			<extra>
 				Reserved on :
-			</extra>
-			<judgement_date>
-				 04.8.2017 &amp;
+				
+				04.8.2017 &amp;
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Pronounced on :
 			</extra>
 			<judgement_date>
-					 11/8/2017
+				11/8/2017
 				<lb />
 			</judgement_date>
 			<extra>
@@ -35,7 +30,6 @@
 				<lb />
 			</extra>
 			<judges>
-				
 				The Honourable Mr.Justice NOOTY.RAMAMOHANA RAO And
 				<lb />
 				The Honourable Mr.Justice S.M.SUBRAMANIAM
@@ -45,23 +39,32 @@
 				Writ Appeal No.1451 of 2015 &amp; MP.No.1 of 2015
 				<lb />
 			</case_numbers>
+			<extra>
+				1.
+			</extra>
 			<petitioner>
-				1.State of Tamil Nadu, rep.
-				
+				State of Tamil Nadu, rep.
+				<lb />
 				by
 				<lb />
 				its Secretary to Government,
-				
-				Revenue Department,
+				<lb />
+				Revenue Department
+			</petitioner>
+			<extra>
+				,
 				
 				
 				Fort.St.
 				<lb />
 				George, Chennai-9.
 				<lb />
-			</petitioner>
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<petitioner>
-				2.The Special Commissioner &amp;
+				The Special Commissioner &amp;
 				<lb />
 				Commissioner of Land
 				<lb />
@@ -70,24 +73,36 @@
 				Chennai-5.
 				<lb />
 			</petitioner>
+			<extra>
+				3.
+			</extra>
 			<petitioner>
-				3.The District Revenue Officer,
+				The District Revenue Officer,
 				<lb />
 				Thanjavur.
 				<lb />
 			</petitioner>
+			<extra>
+				4.
+			</extra>
 			<petitioner>
-				4.The Revenue Divisional Officer,
+				The Revenue Divisional Officer,
 				<lb />
 				Thanjavur.
 				<lb />
 			</petitioner>
+			<extra>
+				5.
+			</extra>
 			<petitioner>
-				5.The Tahsildar, Thanjavur.
+				The Tahsildar, Thanjavur.
 				<lb />
 			</petitioner>
+			<extra>
+				6.
+			</extra>
 			<petitioner>
-				6.The State of Tamil Nadu, rep.by its
+				The State of Tamil Nadu, rep.by its
 				<lb />
 				Principal Secretary to Government,
 				<lb />
@@ -96,21 +111,20 @@
 				Chennai-9.
 				<lb />
 			</petitioner>
+			<extra>
+				7.
+			</extra>
 			<petitioner>
-				7.The Additional Director General of Police/
+				The Additional Director General of Police/
 				<lb />
 				Inspector General of Prisons, CMDA Tower-II,
 				<lb />
 				Egmore, Chennai-8.
 				<lb />
-				(
-				
-				Appellants 6 &amp; 7 are impleaded vide CMP.No.2480
-				<lb />
-				Of 2017 vide order dated 11.8.2017 by NRRJ &amp; SMSJ
-				
-				)
 			</petitioner>
+			<extra>
+				7.
+			</extra>
 			<extra>
 				<lb />
 				...Appellants
@@ -120,10 +134,16 @@
 				Vs
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1.Shanmugha Arts, Science, Technology
+				Shanmugha Arts, Science, Technology
 				<lb />
-				&amp; Research Academy (SASTRA),
+				&amp; Research Academy (SASTRA)
+			</respondent>
+			<extra>
+				,
 				<lb />
 				Deemed to be University, having its
 				<lb />
@@ -135,11 +155,17 @@
 				<lb />
 				rep.by its Registrar Prof.R.Kandaswamy
 				<lb />
-			</respondent>
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2.VEE SEE BEE Trust administering
+				VEE SEE BEE Trust administering
 				<lb />
-				Shanmugha Polytechnic, having its
+				Shanmugha Polytechnic
+			</respondent>
+			<extra>
+				, having its
 				<lb />
 				main campus at &apos;Shanmugha Campus&apos;
 				<lb />
@@ -149,7 +175,7 @@
 				<lb />
 				Prof.R.Sethuraman
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				…Respondents
 			</extra>

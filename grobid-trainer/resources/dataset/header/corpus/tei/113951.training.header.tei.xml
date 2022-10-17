@@ -1,47 +1,296 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <tei xml:space="preserve">
 	<teiHeader>
-		<fileDesc xml:id="113951"/>
+		<fileDesc xml:id="113951" />
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-<lb/>
-	<extra>H<lb/> i g h<lb/> C<lb/> o u r t o f H<lb/> . P .<lb/></extra>
-
-	<reference>IN THE HIGH COURT OF HIMACHAL PRADESH AT SHIMLA<lb/> ON THE 10 th DAY OF DECEMBER, 2021 BEFORE<lb/> HON&apos;BLE MS. JUSTICE JYOTSNA REWAL DUA<lb/> (I)<lb/> REGULAR SECOND APPEAL No.517 OF 2010<lb/> Between :-<lb/>RAM RATTAN, S/O</reference>
-
-	<respondent>SHRI BANTA RAM,<lb/> R/O VILL. SANOLI ROAD,<lb/> SANTOKHGARH, TEHSIL &amp; DISTRICT<lb/> UNA, H.P.<lb/></respondent>
-	<extra>…APPELLANT/PLAINTIFF<lb/></extra>
-
-	<respondent>(BY MR. B.S. CHAUHAN, SENIOR ADVOCATE WITH MR.<lb/> MUNISH DATWALIA, ADVOCATE) AND<lb/> 1. SHRI SAT PAL SAINI, S/O SHRI<lb/> MOTI RAM ALIAS UPINDER LAL,<lb/> R/O SIDHUWAL LODGE, THE<lb/> RIDGE, SHIMLA, H.P.<lb/> 2. SHRI ASHOK KUMAR, S/O SHRI<lb/> MOTI RAM ALIAS UPINDER LAL,<lb/> R/O MOHALL GHUMARAWALA,<lb/> SANTOKHGARH,<lb/> TEHSIL<lb/> &amp;<lb/> DISTRICT UNA, H.P.<lb/></respondent>
-	<extra>…RESPONDENTS/DEFENDANTS No. 1 &amp; 2<lb/></extra>
-
-	<respondent>( MR. Y.P. SOOD, ADVOCATE,</respondent>
-	<extra>FOR RESPONDENT No. 1)<lb/></extra>
-
-	<judgement_date>::: Downloaded on -20/03/2022 13:01:19 :::CIS<lb/> H<lb/> i g h<lb/> C<lb/> o u r t o f H<lb/></judgement_date>
-
-	<document_type>. P .<lb/> (MS.<lb/> DEVYANI<lb/> SHARMA,<lb/> ADVOCATE,<lb/></document_type>
-
-	<extra>FOR<lb/> RESPONDENT No. 2)<lb/></extra>
-
-	<respondent>(II)<lb/> REGULAR SECOND APPEAL No.499 OF 2010<lb/> Between :<lb/> 1. SHRI SAT PAL SAINI, S/O SHRI<lb/> MOTI RAM ALIAS UPINDER LAL,<lb/> R/O SIDHUWAL LODGE, THE<lb/> RIDGE, SHIMLA, H.P.<lb/></respondent>
-	<extra>…APPELLANT/DEFENDANT No.1<lb/></extra>
-
-	<respondent>(BY MR. Y.P. SOOD, ADVOCATE) AND<lb/> 1. ASHOK KUMAR, SON OF MOTI<lb/> RAM ALIAS UPINDER LAL,<lb/> RESIDENT OF MOHALLA<lb/> GHUMARAWALA,<lb/> SANTOSHGARH, TEHSIL AND<lb/> DISTRICT UNA, H.P.<lb/></respondent>
-	<extra>RESPONDENT/DEFENDANT No.2<lb/></extra>
-
-	<respondent>2. RAM RATTAN, SON OF BANTA<lb/> RAM, RESIDENT OF SANOLI<lb/> ROAD, SANTOSHGARH, THESIL<lb/> AND DISTRICT UNA, H.P.<lb/></respondent>
-	<extra>..PROFORMA RESPONDENT/PLAINTIFF<lb/></extra>
-
-	<respondent>(MR. B.S. CHAUHAN, SENIOR ADVOCATE WITH MR.<lb/> MUNISH DATWALIA, ADVOCATE FOR PROFORMA<lb/> RESPONDENT).<lb/> (MS.<lb/> DEVYANI<lb/> SHARMA,<lb/> ADVOCATE,<lb/></respondent>
-	<extra>FOR<lb/> RESPONDENT/DEFENDANT No. 2)<lb/></extra>
-
-	<judgement_date>RESERVED ON : 26.11.2021<lb/> DELIVERED ON : 10.12.2021<lb/></judgement_date>
-
-	WHETHER APPROVED FOR REPORTING : YES ____________________________________________________<lb/> This petition coming on for pronouncement this day,<lb/> Hon&apos;ble Ms. Justice Jyotsna Rewal Dua, delivered the<lb/> following :<lb/>
-	<document_type>J U D G M E N T</document_type>
-
+			<extra>
+				H
+				<lb />
+				i g h
+				<lb />
+				C
+				<lb />
+				o u r t o f H
+				<lb />
+				. P .
+				<lb />
+			</extra>
+			<court>
+				IN THE HIGH COURT OF HIMACHAL PRADESH AT SHIMLA
+				<lb />
+			</court>
+			<extra>
+				ON THE 10 th DAY OF DECEMBER, 2021 BEFORE
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MS. JUSTICE JYOTSNA REWAL DUA
+				<lb />
+			</judges>
+			<case_numbers>
+				(I)
+				<lb />
+				REGULAR SECOND APPEAL No.517 OF 2010
+				<lb />
+			</case_numbers>
+			<extra>
+				Between :-
+				<lb />
+			</extra>
+			<petitioner>
+				RAM RATTAN
+			</petitioner>
+			<extra>
+				, S/O
+				<lb />
+				SHRI BANTA RAM,
+				<lb />
+				R/O VILL. SANOLI ROAD,
+				<lb />
+				SANTOKHGARH, TEHSIL &amp; DISTRICT
+				<lb />
+				UNA, H.P.
+				<lb />
+			</extra>
+			<extra>
+				…APPELLANT/PLAINTIFF
+				<lb />
+			</extra>
+			<extra>
+				(BY
+			</extra>
+			<petitioner_lawyers>
+				MR. B.S. CHAUHAN
+			</petitioner_lawyers>
+			<extra>
+				, SENIOR ADVOCATE WITH
+			</extra>
+			<petitioner_lawyers>
+				MR.
+				<lb />
+				MUNISH DATWALIA
+			</petitioner_lawyers>
+			<extra>
+				, ADVOCATE) AND
+				<lb />
+			</extra>
+			<extra>
+				1.
+			</extra>
+			<respondent>
+				SHRI SAT PAL SAINI
+			</respondent>
+			<extra>
+				, S/O SHRI
+				<lb />
+				MOTI RAM ALIAS UPINDER LAL,
+				<lb />
+				R/O SIDHUWAL LODGE, THE
+				<lb />
+				RIDGE, SHIMLA, H.P.
+				<lb />
+			</extra>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				SHRI ASHOK KUMAR
+			</respondent>
+			<extra>
+				, S/O SHRI
+				<lb />
+				MOTI RAM ALIAS UPINDER LAL,
+				<lb />
+				R/O MOHALL GHUMARAWALA,
+				<lb />
+				SANTOKHGARH,
+				<lb />
+				TEHSIL
+				<lb />
+				&amp;
+				<lb />
+				DISTRICT UNA, H.P.
+				<lb />
+			</extra>
+			<extra>
+				…RESPONDENTS/DEFENDANTS No. 1 &amp; 2
+				<lb />
+			</extra>
+			<extra>
+				(
+			</extra>
+			<respondent_lawyers>
+				MR. Y.P. SOOD
+			</respondent_lawyers>
+			<extra>
+				, ADVOCATE,
+				FOR RESPONDENT No. 1)
+				<lb />
+			</extra>
+			<extra>
+				(
+			</extra>
+			<respondent_lawyers>
+				MS.
+				<lb />
+				DEVYANI
+				<lb />
+				SHARMA
+			</respondent_lawyers>
+			<extra>
+				,
+				<lb />
+				ADVOCATE,
+				<lb />
+				FOR
+				<lb />
+				RESPONDENT No. 2)
+				<lb />
+			</extra>
+			<case_numbers>
+				(II)
+				<lb />
+				REGULAR SECOND APPEAL No.499 OF 2010
+				<lb />
+			</case_numbers>
+			<extra>
+				Between :
+				<lb />
+			</extra>
+			<case_numbers>
+				1.
+			</case_numbers>
+			<petitioner>
+				SHRI SAT PAL SAINI
+			</petitioner>
+			<extra>
+				, S/O SHRI
+				<lb />
+				MOTI RAM ALIAS UPINDER LAL,
+				<lb />
+				R/O SIDHUWAL LODGE, THE
+				<lb />
+				RIDGE, SHIMLA, H.P.
+				<lb />
+			</extra>
+			<extra>
+				…APPELLANT/DEFENDANT No.1
+				<lb />
+			</extra>
+			<extra>
+				(
+			</extra>
+			<petitioner_lawyers>
+				BY MR. Y.P. SOOD
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, ADVOCATE) AND
+			</extra>
+			<extra>
+				1.
+			</extra>
+			<respondent>
+				ASHOK KUMAR
+			</respondent>
+			<extra>
+				, SON OF MOTI
+				<lb />
+				RAM ALIAS UPINDER LAL,
+				<lb />
+				RESIDENT OF MOHALLA
+				<lb />
+				GHUMARAWALA,
+				<lb />
+				SANTOSHGARH, TEHSIL AND
+				<lb />
+				DISTRICT UNA, H.P.
+				<lb />
+			</extra>
+			<extra>
+				RESPONDENT/DEFENDANT No.2
+				<lb />
+			</extra>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				RAM RATTAN
+			</respondent>
+			<extra>
+				, SON OF BANTA
+				<lb />
+				RAM, RESIDENT OF SANOLI
+				<lb />
+				ROAD, SANTOSHGARH, THESIL
+				<lb />
+				AND DISTRICT UNA, H.P.
+				<lb />
+			</extra>
+			<extra>
+				..PROFORMA RESPONDENT/PLAINTIFF
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				(MR. B.S. CHAUHAN, SENIOR ADVOCATE WITH MR.
+				<lb />
+				MUNISH DATWALIA
+			</respondent_lawyers>
+			<extra>
+				, ADVOCATE FOR PROFORMA
+				<lb />
+				RESPONDENT).
+				<lb />
+				(
+			</extra>
+			<respondent_lawyers>
+				MS.
+				<lb />
+				DEVYANI
+				<lb />
+				SHARMA,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				ADVOCATE,
+				<lb />
+			</extra>
+			<extra>
+				FOR
+				<lb />
+				RESPONDENT/DEFENDANT No. 2)
+				<lb />
+			</extra>
+			<extra>
+				RESERVED ON : 26.11.2021
+				<lb />
+			</extra>
+			<extra>
+				DELIVERED ON :
+			</extra>
+			<judgement_date>
+				10.12.2021
+				<lb />
+			</judgement_date>
+			<notes>
+				WHETHER APPROVED FOR REPORTING : YES
+			</notes>
+			<extra>
+				____________________________________________________
+				<lb />
+				This petition coming on for pronouncement this day,
+				<lb />
+				Hon&apos;ble Ms. Justice Jyotsna Rewal Dua, delivered the
+				<lb />
+				following :
+				<lb />
+			</extra>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
 		</front>
 	</text>
 </tei>

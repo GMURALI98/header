@@ -15,11 +15,10 @@
 			</court>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				
 				24 th December, 2014
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				%
 				<lb />
@@ -35,8 +34,8 @@
 			</extra>
 			<case_numbers>
 				CRL.A.910/2008
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				VIKAS YADAV
 				<lb />
@@ -51,17 +50,17 @@
 				Through:
 			</extra>
 			<petitioner_lawyers>
-				Mr.Sumeet Verma,
+				Mr.Sumeet Verma
 			</petitioner_lawyers>
 			<extra>
-				Adv. with
+				, Adv. with
+				<lb />
 			</extra>
-			<lb />
 			<petitioner_lawyers>
-				Mr.Amit Kala,
+				Mr.Amit Kala
 			</petitioner_lawyers>
 			<extra>
-				Adv.
+				, Adv.
 				<lb />
 				versus
 			</extra>
@@ -78,24 +77,24 @@
 				Through :
 			</extra>
 			<respondent_lawyers>
-				Mr.Rajesh Mahajan,
+				Mr.Rajesh Mahajan
 			</respondent_lawyers>
 			<extra>
-				Adv. with
+				, Adv. with
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Ms. Shinjan Jain
+			</respondent_lawyers>
+			<extra>
+				, Adv. for State.
 			</extra>
 			<lb />
 			<respondent_lawyers>
-				Ms. Shinjan Jain,
+				Mr.P.K. Dey
 			</respondent_lawyers>
 			<extra>
-				Adv. for State.
-			</extra>
-			<lb />
-			<respondent_lawyers>
-				Mr.P.K. Dey,
-			</respondent_lawyers>
-			<extra>
-				Adv. with
+				, Adv. with
 			</extra>
 			<lb />
 			<respondent_lawyers>
@@ -120,8 +119,8 @@
 			</extra>
 			<case_numbers>
 				CRL.A.741/2008
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				VISHAL YADAV
 				<lb />
@@ -144,14 +143,17 @@
 			<petitioner_lawyers>
 				Mr. Vinay
 				<lb />
-				Arora,
+				Arora
 			</petitioner_lawyers>
 			<extra>
+				,
 				Advs.
 				<lb />
-				versus
 			</extra>
-			<lb />
+			<extra>
+				versus
+				<lb />
+			</extra>
 			<respondent>
 				STATE GOVT. OF UP
 				<lb />
@@ -167,10 +169,10 @@
 				Through :
 			</extra>
 			<respondent_lawyers>
-				Mr.Rajesh Mahajan,
+				Mr.Rajesh Mahajan
 			</respondent_lawyers>
 			<extra>
-				Adv. with
+				, Adv. with
 			</extra>
 			<respondent_lawyers>
 				Ms.
@@ -179,8 +181,8 @@
 			</respondent_lawyers>
 			<extra>
 				Adv. for State.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
 				Mr.P.K. Dey
 				<lb />
@@ -206,15 +208,9 @@
 				<lb />
 				complainant.
 			</extra>
-			<lb />
-			<page>
-				pg. 1
-			</page>
-			<lb />
 			<case_numbers>
 				CRL.A.958/2008
 			</case_numbers>
-			<lb />
 			<petitioner>
 				STATE
 				<lb />
@@ -233,10 +229,11 @@
 				<lb />
 				Shinjan
 				<lb />
-				Jain,
+				Jain
 				<lb />
 			</petitioner_lawyers>
 			<extra>
+				,
 				Adv.
 				<lb />
 				for
@@ -245,14 +242,16 @@
 			</extra>
 			<petitioner_lawyers>
 				<lb />
-				Ms. Ritu Gauba,
+				Ms. Ritu Gauba
 			</petitioner_lawyers>
 			<extra>
+				,
 				APP for State.
-				
-				versus
 			</extra>
-			<lb />
+			<extra>
+				versus
+				<lb />
+			</extra>
 			<respondent>
 				VIKAS YADAV and ANR.
 				<lb />
@@ -296,8 +295,8 @@
 				Advs. for
 				<lb />
 				complainant.
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				<lb />
 				CRL.REV.P.
@@ -353,19 +352,19 @@
 				
 				
 				..
-				
+			</respondent>
+			<extra>
 				Respondents
 				<lb />
-			</respondent>
-			<lb />
+			</extra>
 			<extra>
 				Through:
 			</extra>
 			<respondent_lawyers>
-				Mr.Rajesh Mahajan,
+				Mr.Rajesh Mahajan
 			</respondent_lawyers>
 			<extra>
-				Adv. with
+				, Adv. with
 			</extra>
 			<respondent_lawyers>
 				Ms.
@@ -377,38 +376,34 @@
 			</extra>
 			<lb />
 			<respondent_lawyers>
-				Ms. Ritu Gauba,
+				Ms. Ritu Gauba
 			</respondent_lawyers>
 			<extra>
-				APP for State.
+				, APP for State.
+				<lb />
 			</extra>
-			<lb />
-			<page>
-				pg. 2
-			</page>
-			<lb />
 			<respondent_lawyers>
 				Mr.Sumeet Verma with Mr.Amit
 				<lb />
-				Kala,
+				Kala
 			</respondent_lawyers>
 			<extra>
-				Advs. for Mr.Vikas Yadav.
+				, Advs. for Mr.Vikas Yadav.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
-				Mr. Sanjay Jain,
+				Mr. Sanjay Jain
 			</respondent_lawyers>
 			<extra>
-				Adv. for Mr.
+				, Adv. for Mr.
 				<lb />
 				Vishal Yadav.
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				CRL.A. 1322/2011
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				STATE
 				<lb />
@@ -424,36 +419,36 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr.Rajesh Mahajan,
+				Mr.Rajesh Mahajan
 				<lb />
 			</petitioner_lawyers>
 			<extra>
-				Adv. with
+				, Adv. with
 			</extra>
 			<petitioner_lawyers>
 				Ms.
 				<lb />
-				Shinjan Jain,
+				Shinjan Jain
 			</petitioner_lawyers>
 			<extra>
-				Adv. for State.
+				, Adv. for State.
+				<lb />
 			</extra>
-			<lb />
 			<petitioner_lawyers>
-				Ms. Ritu Gauba,
+				Ms. Ritu Gauba
 			</petitioner_lawyers>
 			<extra>
-				APP for State.
-				
-				versus
+				, APP for State.
 			</extra>
-			<lb />
+			<extra>
+				versus
+				<lb />
+			</extra>
 			<respondent>
 				SUKHDEV YADAV ALIAS PEHLWAN
 			</respondent>
 			<extra>
 				.....
-				
 				Respondent
 				<lb />
 			</extra>
@@ -473,8 +468,8 @@
 			<lb />
 			<case_numbers>
 				CRL.A. 145/2012
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				SUKHDEV YADAV
 				<lb />
@@ -490,15 +485,15 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr.Chaman Sharma,
+				Mr.Chaman Sharma
 				<lb />
 			</petitioner_lawyers>
 			<extra>
+				,
 				Adv.
 				versus
 				<lb />
 			</extra>
-			<lb />
 			<respondent>
 				STATE and ANR.
 				<lb />
@@ -509,8 +504,11 @@
 				Respondents
 				<lb />
 			</extra>
+			<extra>
+				Through:
+			</extra>
 			<respondent_lawyers>
-				Through: Mr.Rajesh Mahajan
+				Mr.Rajesh Mahajan
 				<lb />
 			</respondent_lawyers>
 			<extra>
@@ -523,14 +521,14 @@
 			</respondent_lawyers>
 			<extra>
 				Adv. for State.
+				<lb />
 			</extra>
-			<lb />
 			<respondent_lawyers>
-				Ms. Ritu Gauba,
+				Ms. Ritu Gauba
 			</respondent_lawyers>
 			<extra>
+				,
 				APP for State.
-				CORAM:
 				<lb />
 			</extra>
 			<extra>

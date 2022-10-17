@@ -5,9 +5,8 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
-				IN THE 
+				IN THE
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT MADRAS
@@ -17,18 +16,24 @@
 				DATED
 			</extra>
 			<judgement_date>
-				 09.01.2020
+				09.01.2020
 				<lb />
 			</judgement_date>
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				
-				THE HONOURABLE MR. JUSTICE M. SATHYANARAYANAN AND
+				HONOURABLE MR. JUSTICE M. SATHYANARAYANAN
+			</judges>
+			<extra>
+				AND
 				<lb />
-				THE HONOURABLE MRS. JUSTICE R.HEMALATHA
+				THE
+			</extra>
+			<judges>
+				HONOURABLE MRS. JUSTICE R.HEMALATHA
 				<lb />
 			</judges>
 			<case_numbers>
@@ -47,8 +52,11 @@
 				Versus
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1.Mr.Atulya Misra,
+				Mr.Atulya Misra,
 				
 				
 				IAS
@@ -62,8 +70,11 @@
 				Chennai 600 009.
 				<lb />
 			</respondent>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2.The Secretary
+				The Secretary
 				<lb />
 				The Evangelical Church of India
 				<lb />
@@ -123,10 +134,6 @@
 				Mr.Thangasivan
 				<lb />
 			</respondent_lawyers>
-			<page>
-				1/21
-				<lb />
-			</page>
 			<document_type>
 				ORDER
 				<lb />

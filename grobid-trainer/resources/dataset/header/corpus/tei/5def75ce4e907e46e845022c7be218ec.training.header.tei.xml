@@ -5,10 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-			</page>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
@@ -26,9 +22,10 @@
 			<extra>
 				CORAM:
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HONOURABLE MR.JUSTICE S.MANIKUMAR
+				HONOURABLE MR.JUSTICE S.MANIKUMAR
 			</judges>
 			<lb />
 			<case_numbers>
@@ -58,16 +55,20 @@
 				<lb />
 				Harish Rangarajan
 				<lb />
-				... Petitioner in W.P.No.3652 of 2013
 			</petitioner>
-			<lb />
+			<extra>
+				... Petitioner in W.P.No.3652 of 2013
+				<lb />
+			</extra>
 			<extra>
 				Vs.
+				<lb />
 			</extra>
-			<lb />
 			<respondent>
 				1. Telecom Regulatory Authority of India,
 				<lb />
+			</respondent>
+			<extra>
 				Mahanagar Door Sanchar Bhawan,
 				<lb />
 				Jawahar Lal Nehru Marg,
@@ -76,7 +77,7 @@
 				<lb />
 				New Delhi 110 002.
 				<lb />
-			</respondent>
+			</extra>
 			<respondent>
 				2. Bharat Sanchar Nigam Ltd.,
 				<lb />
@@ -84,14 +85,15 @@
 				<lb />
 				O/o. Chief General Manager Mtce,
 				<lb />
+			</respondent>
+			<extra>
 				Southern Telecom Region,
 				<lb />
 				11, Link Road, Ganapathy Colony,
 				<lb />
 				Guindy, Chennai 600 032.
 				<lb />
-				2. Bharat Sanchar Nigam Ltd.,
-			</respondent>
+			</extra>
 			<respondent>
 				3. Association of Competitive Telecom Operators
 				<lb />
@@ -99,15 +101,19 @@
 				<lb />
 				Mr.Manoj Misra,
 				<lb />
+			</respondent>
+			<extra>
 				601, Nirmal Towers,
 				<lb />
 				26, Barakhamba Road,
 				<lb />
 				Connaught Place, New Delhi 110 001.
-			</respondent>
+			</extra>
 			<respondent>
 				4. Reliance Communications Ltd.,
 				<lb />
+			</respondent>
+			<extra>
 				Reliance House,
 				<lb />
 				No.6, Haddows Road,
@@ -121,7 +127,7 @@
 				M.P.Nos.4 to 6 in W.P.No.1875/13 and
 				<lb />
 				M.P.Nos.3, 5 and 6 in W.P.No.3652/13)
-			</respondent>
+			</extra>
 			<lb />
 			<extra>
 				Prayer in W.P.No.1875 of 2013: Writ Petition filed under Article 226
@@ -185,17 +191,14 @@
 				For Petitioner :
 			</extra>
 			<petitioner_lawyers>
-				Mr.P.S.Raman,
+				Mr.P.S.Raman
 				<lb />
 			</petitioner_lawyers>
 			<extra>
+				,
 				Senior Advocate
 				for M/s.Satish Parasaran
 			</extra>
-			<page>
-				3
-			</page>
-			<lb />
 			<extra>
 				For 1st Respondent
 				<lb />
@@ -203,8 +206,8 @@
 			</extra>
 			<respondent_lawyers>
 				Mr.R.Muthukumaraswamy
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				, Sr. Advocate
 				Assisted by
@@ -222,8 +225,8 @@
 			</extra>
 			<respondent_lawyers>
 				Mr.V.T.Gopalan
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				, Senior Advocate,
 				for Dr.S.Seethalakshmi,
@@ -253,10 +256,13 @@
 				, Senior Advocate
 				<lb />
 				for M/s.R.Venkatavaradhan
+				<lb />
 			</extra>
-			<lb />
+			<extra>
+				COMMON
+			</extra>
 			<document_type>
-				COMMON ORDER
+				ORDER
 			</document_type>
 		</front>
 	</text>

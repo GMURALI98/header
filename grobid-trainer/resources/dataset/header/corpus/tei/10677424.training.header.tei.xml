@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10677424" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				Serial No. 01
+				<lb />
+				Supp.List
+				<lb />
+			</extra>
+			<court>
+				HIGH COURT OF MEGHALAYA
+				<lb />
+				AT SHILLONG
+				<lb />
+			</court>
+			<case_numbers>
+				CRP. No. 2 of 2022
+				<lb />
+			</case_numbers>
+			<extra>
+				Date of Order :
+				<lb />
+			</extra>
+			<judgement_date>
+				11.02.2022
+			</judgement_date>
+			<petitioner>
+				M/s. BSC-C AND CJV
+				<lb />
+			</petitioner>
+			<extra>
+				Vs.
+				<lb />
+			</extra>
+			<respondent>
+				The Chief Engineer (PWD)
+				<lb />
+			</respondent>
+			<extra>
+				Coram:
+				<lb />
+			</extra>
+			<judges>
+				Hon&apos;ble Mr. Justice H.S.Thangkhiew
+				<lb />
+			</judges>
+			<extra>
+				, Judge.
+			</extra>
+			<extra>
+				Appearance:
+				<lb />
+			</extra>
+			<extra>
+				For the Petitioner/Appellant(s) :
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. U. Hazarika, Sr. Adv. with
+				<lb />
+				Mr. R. Prakash, Adv.
+				<lb />
+				Mr. L. Khyriem, Adv.
+				<lb />
+				Ms. G. Mohan, Adv.
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For the Respondent(s)
+				<lb />
+				:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. A. Kumar, AG with
+				<lb />
+				Mr. S. Sahay, GA
+				<lb />
+				Mr. A.H. Kharwanlang, GA.
+				<lb />
+				Ms. R. Colney
+			</respondent_lawyers>
+			<extra>
+				, GA.
+				<lb />
+			</extra>
+			<notes>
+				i)
+				<lb />
+				Whether approved for reporting in
+				<lb />
+				Yes/No
+				<lb />
+				Law journals etc:
+				<lb />
+				ii)
+				<lb />
+				Whether approved for publication
+				<lb />
+				Yes/No
+				<lb />
+				in press: ______________________________________________________________
+				<lb />
+			</notes>
+			<document_type>
+				JUDGMENT AND ORDER
+			</document_type>
+			<extra>
+				(ORAL)
+			</extra>
+		</front>
+	</text>
+</tei>

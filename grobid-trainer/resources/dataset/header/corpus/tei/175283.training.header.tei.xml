@@ -49,13 +49,19 @@
 				<lb />
 			</extra>
 			<judges>
-				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
+				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI
 				<lb />
 			</judges>
+			<extra>
+				, CHIEF JUSTICE
+			</extra>
 			<judges>
-				HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI, JUDGE
+				HON&apos;BLE MRS. JUSTICE MEENAKSHI MADAN RAI
 				<lb />
 			</judges>
+			<extra>
+				, JUDGE
+			</extra>
 		</front>
 	</text>
 </tei>

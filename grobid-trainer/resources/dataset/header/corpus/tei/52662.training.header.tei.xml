@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="52662" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<case_numbers>
+				I.A.647/2018 in CS(COMM) 90/2018
+				<lb />
+			</case_numbers>
+			<extra>
+				$~
+				<lb />
+				*
+				<lb />
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Decided on:
+				
+				12 th May, 2021
+				<lb />
+			</extra>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				I.A. 647/2018 IN CS (COMM) 90/2018
+				<lb />
+			</case_numbers>
+			<petitioner>
+				M/S KAMDHENU LIMITED
+				<lb />
+			</petitioner>
+			<extra>
+				..... Plaintiff
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Mr. S.K. Bansal, Mr. Amitabh
+				<lb />
+				Suman, Mr. Pankaj Kumar, Mr.
+				<lb />
+				Kapil Kumar Giri &amp; Mr. Vinay
+				<lb />
+				Kumar Shukla,
+			</petitioner_lawyers>
+			<extra>
+				Advocates
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				M/S AASHIANA ROLLING MILLS LTD.
+				<lb />
+			</respondent>
+			<extra>
+				..... Defendant
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr. Rajshekhar Rao, Mr. Kapil
+				<lb />
+				Wadhwa,
+				<lb />
+				Ms.
+				<lb />
+				Deepika
+				<lb />
+				Pokharia &amp; Ms. Anamika
+				<lb />
+				Mazumdar
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE PRATEEK JALAN
+				<lb />
+			</judges>
+			<document_type>
+				J U D G M E N T
+				<lb />
+			</document_type>
+			<case_numbers>
+				I.A.647/2018 in CS(COMM) 90/2018
+			</case_numbers>
+		</front>
+	</text>
+</tei>

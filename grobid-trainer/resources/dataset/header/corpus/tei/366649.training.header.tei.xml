@@ -5,10 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -29,8 +25,11 @@
 				The
 			</extra>
 			<judges>
-				Hon&apos;ble MR.SANJAY KISHAN KAUL, CHIEF JUSTICE
+				Hon&apos;ble MR.SANJAY KISHAN KAUL
 			</judges>
+			<extra>
+				, CHIEF JUSTICE
+			</extra>
 			<extra>
 				AND
 				<lb />
@@ -49,6 +48,8 @@
 				<lb />
 				District Deputy Secretary,
 				<lb />
+			</petitioner>
+			<extra>
 				Viduthalai Chiruthaikal Katchi,
 				<lb />
 				No.80, Annal Ambedkar Street,
@@ -59,7 +60,7 @@
 				<lb />
 				Kancheepuram District.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				.. Petitioner
 				<lb />
@@ -68,8 +69,13 @@
 				-vs-
 				<lb />
 			</extra>
+			<extra>
+				1
+			</extra>
 			<respondent>
-				1.India Tourism Development Corporation Limited,
+				.India Tourism Development Corporation Limited,
+			</respondent>
+			<extra>
 				<lb />
 				rep. by its Managing Director,
 				<lb />
@@ -79,11 +85,17 @@
 				<lb />
 				New Delhi-3.
 				<lb />
-			</respondent>
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2.The Secretary to Government,
+				The Secretary to Government,
 				<lb />
-				Government of Tamil Nadu,
+				Government of Tamil Nadu
+			</respondent>
+			<extra>
+				,
 				<lb />
 				Revenue Department,
 				<lb />
@@ -91,31 +103,43 @@
 				<lb />
 				Chennai-9.
 				<lb />
-			</respondent>
+			</extra>
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				3.The District Collector,
+				The District Collector,
 				<lb />
 				Kancheepuram District.
 				<lb />
 			</respondent>
+			<extra>
+				4.
+			</extra>
 			<respondent>
-				4.The Revenue Divisional Officer,
+				The Revenue Divisional Officer,
 				<lb />
 				Chengalpattu,
 				<lb />
 				Kancheepuram District.
 				<lb />
 			</respondent>
+			<extra>
+				5.
+			</extra>
 			<respondent>
-				5.The Tahsildar,
+				The Tahsildar,
 				<lb />
 				Thirukazhukundram Taluk,
 				<lb />
 				Kancheepuram District.
 				<lb />
 			</respondent>
+			<extra>
+				6.
+			</extra>
 			<respondent>
-				6.The Executive Officer,
+				The Executive Officer,
 				<lb />
 				Mamallapuram Town Panchayat (Spl. Grade),
 				<lb />
@@ -126,8 +150,11 @@
 				Kancheepuram District.
 				<lb />
 			</respondent>
+			<extra>
+				7.
+			</extra>
 			<respondent>
-				7.The Member/Secretary,
+				The Member/Secretary,
 				<lb />
 				Mamallapuram Pudhu Nagar Development Committee,
 				<lb />
@@ -138,8 +165,11 @@
 				Kancheepuram District.
 				<lb />
 			</respondent>
+			<extra>
+				8.
+			</extra>
 			<respondent>
-				8.GRT Hotels and Resorts (P) Ltd.,
+				GRT Hotels and Resorts (P) Ltd.,
 				<lb />
 				No.136, Usman Road,
 				<lb />
@@ -150,98 +180,96 @@
 				.. Respondents
 				<lb />
 			</extra>
-			<docTitle>
-				<extra>
-					Petition filed under Article 226 of the Constitution of India
-					<lb />
-					praying for issue of Writ of Mandamus directing the respondents 3 to
-					<lb />
-					5, to conduct a thorough enquiry in pursuance of enquiry notices of
-					<lb />
-					the third respondent in Na.Ka.2529/2012, Aa, dated 14.08.2012 and
-					<lb />
-					dated –10.2012, within a reasonable time limit fixed by this Hon'ble
-					<lb />
-					Court and to take appropriate legal action against the 8
-					<lb />
-					th
-					<lb />
-					respondent
-					<lb />
-					to remove encroachment from the land comprised in S.Nos.94, 95,
-					<lb />
-					96/1, 102, 103, 99/2, 99/1, 99/4, 99/5, 97, 106/1 and 105/2, in all
-					<lb />
-					measuring about Acre 9.99 Cents, situated in Mamallapuram village,
-					<lb />
-					Thirukzhukundram Taluk, Kancheepuram District.
-					<lb />
-				</extra>
-				<extra>
-					For Petitioner :
-					<lb />
-				</extra>
-				<petitioner_lawyers>
-					Mr.A.Ramalingam
-					<lb />
-				</petitioner_lawyers>
-				<extra>
-					For Respondents
-					<lb />
-					:
-					<lb />
-				</extra>
-				<respondent_lawyers>
-					Mr.Su.Srinivasan
-					<lb />
-				</respondent_lawyers>
-				<extra>
-					Asst. Solicitor General for R1
-					<lb />
-				</extra>
-				<respondent_lawyers>
-					Mr.T.N.Rajagopalan
-					<lb />
-				</respondent_lawyers>
-				<extra>
-					Spl. G.P. for R2 to R5
-					<lb />
-				</extra>
-				<respondent_lawyers>
-					Mr.R.Ravichandran
-					<lb />
-				</respondent_lawyers>
-				<extra>
-					for R6
-					<lb />
-				</extra>
-				<respondent_lawyers>
-					Mr.Sathish Parasaran
-					<lb />
-				</respondent_lawyers>
-				<extra>
-					Senior Counsel for
-					<lb />
-				</extra>
-				<respondent_lawyers>
-					Mr.S.Parthasarathy
-					<lb />
-				</respondent_lawyers>
-				<extra>
-					for R8
-					<lb />
-					No Appearance for R7
-					<lb />
-				</extra>
-				<extra>
-					* * * * *
-					<lb />
-				</extra>
-				<document_type>
-					O R D E R
-					<lb />
-				</document_type>
-			</docTitle>
+			<extra>
+				Petition filed under Article 226 of the Constitution of India
+				<lb />
+				praying for issue of Writ of Mandamus directing the respondents 3 to
+				<lb />
+				5, to conduct a thorough enquiry in pursuance of enquiry notices of
+				<lb />
+				the third respondent in Na.Ka.2529/2012, Aa, dated 14.08.2012 and
+				<lb />
+				dated –10.2012, within a reasonable time limit fixed by this Hon'ble
+				<lb />
+				Court and to take appropriate legal action against the 8
+				<lb />
+				th
+				<lb />
+				respondent
+				<lb />
+				to remove encroachment from the land comprised in S.Nos.94, 95,
+				<lb />
+				96/1, 102, 103, 99/2, 99/1, 99/4, 99/5, 97, 106/1 and 105/2, in all
+				<lb />
+				measuring about Acre 9.99 Cents, situated in Mamallapuram village,
+				<lb />
+				Thirukzhukundram Taluk, Kancheepuram District.
+				<lb />
+			</extra>
+			<extra>
+				For Petitioner :
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr.A.Ramalingam
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For Respondents
+				<lb />
+				:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Su.Srinivasan
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Asst. Solicitor General for R1
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.T.N.Rajagopalan
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Spl. G.P. for R2 to R5
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.R.Ravichandran
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				for R6
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.Sathish Parasaran
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Senior Counsel for
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr.S.Parthasarathy
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				for R8
+				<lb />
+				No Appearance for R7
+				<lb />
+			</extra>
+			<extra>
+				* * * * *
+				<lb />
+			</extra>
+			<document_type>
+				O R D E R
+				<lb />
+			</document_type>
 		</front>
 	</text>
 </tei>

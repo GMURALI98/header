@@ -5,7 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
 				$~
 				<lb />
@@ -26,26 +25,24 @@
 			<extra>
 				Reserved on:
 				<lb />
-			</extra>
-			<judgement_date>
 				21.10.2020
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Pronounced on:
 			</extra>
 			<judgement_date>
 				17.11.2020
+				<lb />
 			</judgement_date>
-			<lb />
 			<extra>
 				+
 				<lb />
 			</extra>
 			<case_numbers>
 				W.P. (C) 4114/2020 &amp; CM No. 14769/2020
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				DR. PRADEEP SHINDE
 				
@@ -64,9 +61,15 @@
 			</extra>
 			<lb />
 			<petitioner_lawyers>
-				Mr. Akhil Sibal, Sr. Advocate
+				Mr. Akhil Sibal
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate
 				<lb />
-				with Mr. Maanav Kumar, Ms.
+				with
+			</extra>
+			<petitioner_lawyers>
+				Mr. Maanav Kumar, Ms.
 				<lb />
 				Roshni Namboodiry, Ms. Nitya
 				<lb />

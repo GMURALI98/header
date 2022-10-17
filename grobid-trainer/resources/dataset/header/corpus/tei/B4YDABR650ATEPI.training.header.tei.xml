@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 51
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -20,11 +15,10 @@
 			</court>
 			<extra>
 				Reserved on:
-			</extra>
-			<judgement_date>
+				
 				24.01.2019.
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Date of decision:
 			</extra>
@@ -79,9 +73,12 @@
 				Through:
 			</extra>
 			<petitioner_lawyers>
-				Mr.Nikhil Goel, Spl.P.P.
+				Mr.Nikhil Goel
 				<lb />
 			</petitioner_lawyers>
+			<extra>
+				, Spl.P.P.
+			</extra>
 			<extra>
 				with
 				<lb />
@@ -121,9 +118,12 @@
 				Through:
 			</extra>
 			<petitioner_lawyers>
-				Mr. Vikas Pahwa, Sr. Adv.
+				Mr. Vikas Pahwa
 				<lb />
 			</petitioner_lawyers>
+			<extra>
+				, Sr. Adv.
+			</extra>
 			<extra>
 				with
 				<lb />
@@ -133,9 +133,12 @@
 				<lb />
 				Khanuja, Mr. Shadman Ahmed &amp;
 				<lb />
-				Mr.Tushar Agarwal, Advs.
+				Mr.Tushar Agarwal
 				<lb />
 			</petitioner_lawyers>
+			<extra>
+				, Advs.
+			</extra>
 			<extra>
 				Versus
 				<lb />
@@ -198,8 +201,13 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Vikas Pahwa, Sr. Adv. with
+				Mr. Vikas Pahwa
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Adv. with
 				<lb />
+			</extra>
+			<petitioner_lawyers>
 				Mr. Manish Bishnoi, Mr. Karan
 				<lb />
 				Khanuja, Mr. Shadman Ahmed &amp;
@@ -227,10 +235,11 @@
 				Through:
 			</extra>
 			<petitioner_lawyers>
-				Mr.Ashutosh Ghade with Mr.Nikhil,
+				Mr.Ashutosh Ghade with Mr.Nikhil
 				<lb />
 			</petitioner_lawyers>
 			<extra>
+				,
 				Advs.
 				<lb />
 				for CBI.
@@ -253,10 +262,11 @@
 			<petitioner_lawyers>
 				Mr.Anil
 				<lb />
-				Soni,
+				Soni
 				<lb />
 			</petitioner_lawyers>
 			<extra>
+				,
 				CGSC
 				<lb />
 				with

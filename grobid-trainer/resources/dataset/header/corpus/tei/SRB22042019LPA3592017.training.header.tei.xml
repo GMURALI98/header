@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 90
-				<lb />
-			</page>
 			<extra>
 				IN THE
 			</extra>
@@ -45,7 +40,13 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Sudhir Chandra, Sr. Adv. with Mr.
+				Mr. Sudhir Chandra
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Adv. with
+			</extra>
+			<petitioner_lawyers>
+				Mr.
 				<lb />
 				Sanjay Kumar, Ms. Arpita Sawhney and Mr. Arun
 				<lb />
@@ -120,9 +121,15 @@
 				<lb />
 			</extra>
 			<petitioner_lawyers>
-				Mr. Guru Krishna Kumar, Sr. Advocate
+				Mr. Guru Krishna Kumar
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Advocate
 				<lb />
-				with Mr. Pravin Anand, Mr. Nishchal Anand and
+				with
+			</extra>
+			<petitioner_lawyers>
+				Mr. Pravin Anand, Mr. Nishchal Anand and
 				<lb />
 				Mr. Sanchith Shivakumar
 			</petitioner_lawyers>

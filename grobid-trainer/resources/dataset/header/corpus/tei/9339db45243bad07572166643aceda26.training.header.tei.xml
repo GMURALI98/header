@@ -5,21 +5,17 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				1
-			</page>
 			<extra>
 				IN THE
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT BOMBAY
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				ORDINARY ORIGINAL CIVIL JURISDICTION
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				NOTICE OF MOTION
 				
@@ -34,8 +30,11 @@
 				<lb />
 			</case_numbers>
 			<petitioner>
-				Hindustan Unilever Limited )
+				Hindustan Unilever Limited
 				<lb />
+			</petitioner>
+			<extra>
+				)
 				a Company incorporated under the Companies Act,1913, )
 				<lb />
 				having its Registered office at Unilever House, B.D. Sawant )
@@ -43,7 +42,7 @@
 				Marg, Chakala, Andheri (East), Mumbai-400 099
 				<lb />
 				)
-			</petitioner>
+			</extra>
 			<extra>
 				...Applicant
 				<lb />
@@ -51,30 +50,38 @@
 			</extra>
 			<extra>
 				In the matter between:
+				<lb />
 			</extra>
-			<lb />
 			<petitioner>
 				Hindustan Unilever Limited )
 				<lb />
+			</petitioner>
+			<extra>
 				a Company incorporated under the Companies Act,1913, )
 				<lb />
 				having its Registered office at Unilever House, B.D. Sawant )
 				<lb />
 				Marg, Chakala, Andheri (East), Mumbai-400 099
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				)...Plaintiff
 				<lb />
 			</extra>
 			<extra>
 				vs.
-			</extra>
-			<lb />
-			<respondent>
-				1. Gujarat Co-operative Milk Marketing Federation )
 				<lb />
-				Ltd., a co-operative society registered under the )
+			</extra>
+			<extra>
+				1.
+			</extra>
+			<respondent>
+				Gujarat Co-operative Milk Marketing Federation )
+				<lb />
+				Ltd.,
+			</respondent>
+			<extra>
+				a co-operative society registered under the )
 				<lb />
 				Gujarat Co-operative Society Act, 1961, having its )
 				<lb />
@@ -85,19 +92,19 @@
 				at Rampart House, 4th floor, 22A-26A, K. Dubhash )
 				<lb />
 				Marg, Fort, Mumbai-400 023 )
-			</respondent>
-			<lb />
-			<page>
-				2
-			</page>
-			<lb />
+			</extra>
 			<case_numbers>
 				NMSL-690/2017
-			</case_numbers>
-			<lb />
-			<respondent>
-				2. FCB Ulka Advertising Pvt. Ltd. )
 				<lb />
+			</case_numbers>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				FCB Ulka Advertising Pvt. Ltd. )
+				<lb />
+			</respondent>
+			<extra>
 				a Company incorporated under the Companies Act, )
 				<lb />
 				1956 and having its office /place of business at )
@@ -105,11 +112,16 @@
 				4th floor, Nirmal Building, Barrister Rajni Patel Marg, )
 				<lb />
 				Nariman Point, Mumbai-400 021 )
-			</respondent>
-			<lb />
-			<respondent>
-				3. Vadilal Industries Ltd. )
 				<lb />
+			</extra>
+			<extra>
+				3.
+			</extra>
+			<respondent>
+				Vadilal Industries Ltd. )
+				<lb />
+			</respondent>
+			<extra>
 				a Company incorporated under the Companies Act, )
 				<lb />
 				1956 and having its office/place of business at )
@@ -117,11 +129,16 @@
 				Vadilal House, Near Navrangpura Rly. Crossing, )
 				<lb />
 				Navrangpura, Ahmedabad-9, Gujarat )
-			</respondent>
-			<lb />
-			<respondent>
-				4. Vadilal Dairy International Limited, )
 				<lb />
+			</extra>
+			<extra>
+				4.
+			</extra>
+			<respondent>
+				Vadilal Dairy International Limited, )
+				<lb />
+			</respondent>
+			<extra>
 				a Company incorporated under the Companies Act, )
 				<lb />
 				1956 and having its office/place of business at )
@@ -130,39 +147,60 @@
 				<lb />
 				Boisar, Maharashtra-401 506
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				)...Defendants
 				<lb />
 			</extra>
+			<petitioner_lawyers>
+				Mr. Virag Tulzapurkar
+			</petitioner_lawyers>
 			<extra>
-				Mr. Virag Tulzapurkar, Senior Advocate, along with Dr. Birendra
+				, Senior Advocate, along with
+			</extra>
+			<petitioner_lawyers>
+				Dr. Birendra
 				<lb />
 				Saraf, Mr. Nishad Nadkarni, Mr. Vivek Ayyagari, Ms. Nupur
 				<lb />
-				Pandit, instructed by M/s. Khaitan &amp; Co., for the Plaintiff.
+				Pandit, instructed by M/s. Khaitan &amp; Co.,
+			</petitioner_lawyers>
+			<extra>
+				for the Plaintiff.
 				<lb />
-				Mr. Ravi Kadam, Senior Advocate, along with Mr. Ashish Kamat,
+			</extra>
+			<respondent_lawyers>
+				Mr. Ravi Kadam
+			</respondent_lawyers>
+			<extra>
+				, Senior Advocate, along with
+			</extra>
+			<respondent_lawyers>
+				Mr. Ashish Kamat,
 				<lb />
 				Mr. Pranit Nanavati, Mr. Vishal Maheshwari, Ms. Surabhi Singh
 				<lb />
 				and Mr. Bankim Gangar, instructed by M/s. Khaitan Legal
 				<lb />
+			</respondent_lawyers>
+			<extra>
 				Associates, for Defendant No.1.
 				<lb />
-				Mr. Hiren Kamod, instructed by Mr. Ashwin V. Sakalkar, for
+			</extra>
+			<respondent_lawyers>
+				Mr. Hiren Kamod, instructed by Mr. Ashwin V. Sakalkar
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, for
 				<lb />
 				Defendant Nos. 3 and 4.
+				<lb />
 			</extra>
-			<lb />
-			<page>
-				3
-			</page>
-			<lb />
 			<case_numbers>
 				NMSL-690/2017
+				<lb />
 			</case_numbers>
-			<lb />
 			<extra>
 				CORAM:
 			</extra>
@@ -172,11 +210,11 @@
 			</judges>
 			<extra>
 				Judgment reserved on :
-			</extra>
-			<judgement_date>
+				
+				
 				28th April, 2017
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Judgment pronounced on :
 			</extra>

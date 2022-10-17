@@ -5,26 +5,25 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
 				REPORTABLE
+				<lb />
 			</extra>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
 			<court>
 				SUPREME COURT OF INDIA
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				CIVIL ORIGINAL JURISDICTION
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				WRIT PETITION (CIVIL) NO. 13 OF 2015
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				Supreme Court Advocates-on-Record -
 				<lb />
@@ -37,8 +36,8 @@
 			</extra>
 			<extra>
 				versus
+				<lb />
 			</extra>
-			<lb />
 			<respondent>
 				Union of India
 				<lb />
@@ -48,8 +47,8 @@
 			</extra>
 			<extra>
 				With
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				WRIT PETITION (C) NO. 14 OF 2015
 				<lb />
@@ -112,8 +111,8 @@
 			</case_numbers>
 			<document_type>
 				J U D G M E N T
+				<lb />
 			</document_type>
-			<lb />
 		</front>
 	</text>
 </tei>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5676998" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				HIGH COURT OF JUDICATURE FOR RAJASTHAN AT JODHPUR
+				<lb />
+			</court>
+			<case_numbers>
+				S.B. Civil Writ Petition No. 4518 / 2017
+				<lb />
+			</case_numbers>
+			<petitioner>
+				Rati Ram
+			</petitioner>
+			<extra>
+				S/o Shri Kesa Ram,, Aged About 27 Years, Resident of
+				<lb />
+				Gaon Nimbaj, Tehsil Revdar, District Sirohi
+				<lb />
+			</extra>
+			<extra>
+				----Petitioner
+			</extra>
+			<extra>
+				Versus
+			</extra>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				The Director,, Secondary Education, Bikaner
+				<lb />
+			</respondent>
+			<extra>
+				3.
+			</extra>
+			<respondent>
+				The Dy. Director,, Secondary Education, Jodhpur Division,
+				<lb />
+				Jodhpur
+				<lb />
+			</respondent>
+			<extra>
+				For Petitioner(s) :
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Sushil Solanki
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For Respondent(s) :
+			</extra>
+			<extra>
+				______________________________________
+			</extra>
+			<judges>
+				JUSTICE DINESH MEHTA
+				<lb />
+			</judges>
+			<document_type>
+				Judgment / Order
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

@@ -5,10 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-			</page>
-			<lb />
 			<case_numbers>
 				W.P.Nos.22535 of 2019
 				<lb />
@@ -22,28 +18,29 @@
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				Reserved on
 				<lb />
-			</extra>
-			<judgement_date>
 				21.01.2020
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Delivered on
 				<lb />
 			</extra>
 			<judgement_date>
 				24.01.2020
+				<lb />
 			</judgement_date>
-			<lb />
-			<judges>
+			<extra>
 				CORAM:
 				<lb />
-				THE HONOURABLE MR. JUSTICE N. ANAND VENKATESH
+				THE
+			</extra>
+			<judges>
+				HONOURABLE MR. JUSTICE N. ANAND VENKATESH
 			</judges>
 			<lb />
 			<extra>
@@ -96,16 +93,16 @@
 				22853, 22855, 22859, 22862, 22861, 22879, 22880, 22881, 23480, 27373, 13896, 29905,
 				<lb />
 				30967, 32569, 32670, 32673, 34944 of 2019  &amp; Cont.P.No.1662/2019
+				<lb />
 			</case_numbers>
-			<lb />
 			<extra>
 				and WMP Nos.
+				<lb />
 			</extra>
-			<lb />
 			<case_numbers>
 				W.P.No.22535 of 2019
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				T.Senthilnathan
 				<lb />
@@ -118,27 +115,26 @@
 				.Vs.
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1.The Secretary,
+				The Secretary,
 				<lb />
 				Tamil Nadu Public Service commission,
 				<lb />
+			</respondent>
+			<extra>
 				Park Town Road, V.O.C.Nagar,
 				<lb />
 				Park Town, Chennai-600 003.
-			</respondent>
-			<respondent>
-				2.The Transport Commissioner,
-			</respondent>
-			<lb />
-			<page>
-				1/58
-			</page>
-			<lb />
-			<extra>
-				https://www.mhc.tn.gov.in/judis/
 			</extra>
-			<lb />
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				The Transport Commissioner,
+			</respondent>
 			<respondent>
 				Transport Department,
 				<lb />
@@ -146,16 +142,21 @@
 				<lb />
 				Chennai-600 005.
 			</respondent>
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				3.The Controller of Examinations,
+				The Controller of Examinations,
 				<lb />
 				Tamil Nadu Public Service Commission,
 				<lb />
+			</respondent>
+			<extra>
 				Park Town Road, V.O.C.Nagar,
 				<lb />
 				Park Town, Chennai-600 003.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				.. Respondents
 				<lb />
@@ -194,20 +195,12 @@
 				Inspector Grade-II in the Tamil Nadu Transport Subordinate Service,
 				<lb />
 				pursuant to Notification No.03/2018 issued by the 3rd Respondent.
+				<lb />
 			</extra>
-			<lb />
-			<page>
-				2/58
-			</page>
-			<lb />
-			<page>
-				3
-			</page>
-			<lb />
 			<case_numbers>
 				W.P.Nos.22535 of 2019 &amp; batch
+				<lb />
 			</case_numbers>
-			<lb />
 			<extra>
 				For Petitioner in W.P.No.22535 of 2019
 				<lb />
@@ -217,8 +210,8 @@
 			</extra>
 			<petitioner_lawyers>
 				Mr.U.Karunakaran
+				<lb />
 			</petitioner_lawyers>
-			<lb />
 			<extra>
 				For Respondents in All WPs
 				<lb />
@@ -229,7 +222,6 @@
 			<respondent_lawyers>
 				Mr.V.T.Gopalan
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				Standing Counsel
 				<lb />
@@ -243,8 +235,8 @@
 			</extra>
 			<respondent_lawyers>
 				Mr.Vijay Narayanan
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				Advocate General
 				<lb />
@@ -254,9 +246,11 @@
 				<lb />
 				Special Government Pleader
 			</extra>
-			<lb />
+			<extra>
+				COMMON
+			</extra>
 			<document_type>
-				COMMON ORDER
+				ORDER
 			</document_type>
 			<lb />
 		</front>

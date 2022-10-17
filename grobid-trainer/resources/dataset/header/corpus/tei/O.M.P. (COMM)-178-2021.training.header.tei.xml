@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 42
-				<lb />
-			</page>
 			<court>
 				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
@@ -20,7 +15,12 @@
 			<extra>
 				%
 				<lb />
-				Judgment delivered on:
+			</extra>
+			<document_type>
+				Judgment
+			</document_type>
+			<extra>
+				delivered on:
 			</extra>
 			<judgement_date>
 				28.02.2022
@@ -60,11 +60,18 @@
 			<extra>
 				For the petitioner
 				<lb />
+				:
 			</extra>
 			<petitioner_lawyers>
-				: Mr. P. Chidambaram, Senior Advocate
+				Mr. P. Chidambaram
+			</petitioner_lawyers>
+			<extra>
+				, Senior Advocate
 				<lb />
-				withMs Kanika Singh &amp; Mr Shailendra
+				with
+			</extra>
+			<petitioner_lawyers>
+				Ms Kanika Singh &amp; Mr Shailendra
 				<lb />
 				Slaria
 				<lb />

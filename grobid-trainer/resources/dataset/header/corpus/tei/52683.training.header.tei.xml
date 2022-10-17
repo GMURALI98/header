@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="52683" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				%
+				<lb />
+				Decision delivered on:
+			</extra>
+			<judgement_date>
+				12.05.2021
+				<lb />
+			</judgement_date>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 2348/2021 &amp; CM No. 6860/2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				ROSHNI SANA JAISWAL
+				<lb />
+			</petitioner>
+			<extra>
+				..... Petitioner
+				<lb />
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Mr. Harsh Sethi
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advocate
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				COMMISSIONER OF CENTRAL TAXES , GST DELHI (EAST)
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr. Harpreet Singh
+			</respondent_lawyers>
+			<extra>
+				, Senior Standing
+				<lb />
+				Counsel.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE RAJIV SHAKDHER
+				<lb />
+				HON&apos;BLE MR. JUSTICE TALWANT SINGH
+			</judges>
+		</front>
+	</text>
+</tei>

@@ -5,9 +5,8 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
-				IN THE 
+				IN THE
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT MADRAS
@@ -17,7 +16,7 @@
 				DATED :
 			</extra>
 			<judgement_date>
-				 30.09.2021
+				30.09.2021
 				<lb />
 			</judgement_date>
 			<extra>
@@ -26,7 +25,7 @@
 				THE
 			</extra>
 			<judges>
-				 HONOURABLE MR.JUSTICE M.SUNDAR
+				HONOURABLE MR.JUSTICE M.SUNDAR
 				<lb />
 			</judges>
 			<case_numbers>
@@ -101,8 +100,11 @@
 				Government Advocate
 				<lb />
 			</extra>
+			<extra>
+				COMMON
+			</extra>
 			<document_type>
-				COMMON ORDER
+				ORDER
 				<lb />
 			</document_type>
 		</front>

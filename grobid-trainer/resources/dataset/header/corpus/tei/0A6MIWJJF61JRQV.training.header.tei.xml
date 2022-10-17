@@ -6,10 +6,6 @@
 	<text xml:lang="en">
 		<front>
 			<lb />
-			<page>
-				Page 1 of 7
-				<lb />
-			</page>
 			<extra>
 				IN THE
 				<lb />
@@ -77,10 +73,11 @@
 				<lb />
 			</extra>
 			<respondent_lawyers>
-				Mr.Ankush Sharma &amp; Mr.Gaurav Dhakar,
+				Mr.Ankush Sharma &amp; Mr.Gaurav Dhakar
 				<lb />
 			</respondent_lawyers>
 			<extra>
+				,
 				Advocates
 				<lb />
 			</extra>

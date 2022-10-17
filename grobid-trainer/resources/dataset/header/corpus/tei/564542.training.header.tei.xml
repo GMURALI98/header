@@ -22,9 +22,10 @@
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HON&apos;BLE MR.JUSTICE M.SUNDAR
+				HON&apos;BLE MR.JUSTICE M.SUNDAR
 				<lb />
 			</judges>
 			<case_numbers>
@@ -34,7 +35,10 @@
 				<lb />
 			</case_numbers>
 			<petitioner>
-				M/s.Bombay Pen Depot,
+				M/s.Bombay Pen Depot
+			</petitioner>
+			<extra>
+				,
 				<lb />
 				Represented by it Proprietor,
 				<lb />
@@ -44,7 +48,7 @@
 				<lb />
 				Sowcarpet, Chennai -600 079.
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				.. Plaintiff
 				<lb />
@@ -53,24 +57,35 @@
 				Vs.
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1. M/s.Linc Pens and Plastics LTD
+				M/s.Linc Pens and Plastics LTD
 				<lb />
 				BODY INCORPORATE
+			</respondent>
+			<extra>
 				<lb />
 				Satyam towers, 1 st Floor, 3, Alipore Road,
 				<lb />
 				Kolkatta /West Bengal -700 027.
 				<lb />
-			</respondent>
+			</extra>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2. M/s.J.K.Enterprises,
+				M/s.J.K.Enterprises
+			</respondent>
+			<extra>
+				,
 				<lb />
 				No.114, Perambur Barracks Road,
 				<lb />
 				Vepery, Chennai -600 007.
 				<lb />
-			</respondent>
+			</extra>
 			<extra>
 				.. Defendants
 				<lb />

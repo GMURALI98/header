@@ -52,10 +52,18 @@
 				<lb />
 			</extra>
 			<judges>
-				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI, CHIEF JUSTICE
+				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI
 				<lb />
-				HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN, JUDGE
 			</judges>
+			<extra>
+				, CHIEF JUSTICE
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN
+			</judges>
+			<extra>
+				, JUDGE
+			</extra>
 		</front>
 	</text>
 </tei>

@@ -5,11 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
-			<page>
-				Page 1 of 28
-				<lb />
-			</page>
 			<extra>
 				*
 				<lb />
@@ -19,19 +14,20 @@
 				HIGH COURT OF DELHI AT NEW DELHI
 				<lb />
 			</court>
-			<case_numbers>
+			<extra>
 				+
 				<lb />
+			</extra>
+			<case_numbers>
 				W.P (C)No.8094/2019 and 33533/2019 and 35202/2019
 				<lb />
 			</case_numbers>
 			<extra>
 				Judgment reserved on :
-			</extra>
-			<judgement_date>
+				
 				14.08.2019
 				<lb />
-			</judgement_date>
+			</extra>
 			<extra>
 				Date of decision :
 			</extra>

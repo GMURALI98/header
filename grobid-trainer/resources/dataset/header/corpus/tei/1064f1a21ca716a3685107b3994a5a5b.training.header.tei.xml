@@ -5,34 +5,35 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-			</page>
-			<lb />
 			<extra>
 				BEFORE THE
 			</extra>
 			<court>
 				MADURAI BENCH OF MADRAS HIGH COURT
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				DATED:
 			</extra>
 			<judgement_date>
 				15.02.2016
 			</judgement_date>
-			<lb />
 			<extra>
 				CORAM:
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HONOURABLE MR.JUSTICE S.MANIKUMAR
+				HONOURABLE MR.JUSTICE S.MANIKUMAR
 				<lb />
+			</judges>
+			<extra>
 				and
 				<lb />
-				THE HON'BLE MR.JUSTICE C.T. SELVAM
+				THE
+			</extra>
+			<judges>
+				HON'BLE MR.JUSTICE C.T. SELVAM
 			</judges>
 			<lb />
 			<case_numbers>
@@ -41,8 +42,8 @@
 				and
 				<lb />
 				WMP(MD)No.2776 of 2016
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				K.R.Rengasamy
 				<lb />
@@ -52,20 +53,33 @@
 			</extra>
 			<extra>
 				Vs.
+				<lb />
 			</extra>
-			<lb />
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1.The District Collector,
+				The District Collector,
 				<lb />
 				Tiruchirappalli.
 				<lb />
-				2.The Block Development Officer,
+			</respondent>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				The Block Development Officer,
 				<lb />
 				Thottiyam Panchayat Union,
 				<lb />
 				Trichy.
 				<lb />
-				3.The President,
+			</respondent>
+			<extra>
+				3.
+			</extra>
+			<respondent>
+				The President,
 				<lb />
 				Kaduvetti Village Panchayat,
 				<lb />
@@ -94,19 +108,19 @@
 			</extra>
 			<petitioner_lawyers>
 				Mr.S.Muthukrishnan
+				<lb />
 			</petitioner_lawyers>
-			<lb />
 			<extra>
 				For Respondents :
 			</extra>
 			<respondent_lawyers>
 				Mr.A.K.Bhaskarapandian
+				<lb />
 			</respondent_lawyers>
-			<lb />
 			<extra>
 				Special Government Pleader
+				<lb />
 			</extra>
-			<lb />
 			<document_type>
 				ORDER
 			</document_type>

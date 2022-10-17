@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="40866" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<case_numbers>
+				RFA 310/2020
+				<lb />
+			</case_numbers>
+			<extra>
+				*
+				<lb />
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				%
+				<lb />
+				Date of decision:
+			</extra>
+			<judgement_date>
+				18.05.2021
+				<lb />
+			</judgement_date>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				RFA 310/2020 and CM No. 34490/2020
+				<lb />
+			</case_numbers>
+			<petitioner>
+				SMT. SHWETA SINGH HURIA &amp; ORS.
+				<lb />
+			</petitioner>
+			<extra>
+				..... Appellants
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Ms. Ekta Gambhir
+			</petitioner_lawyers>
+			<extra>
+				,
+				Advocate. Versus
+				<lb />
+			</extra>
+			<respondent>
+				SMT. SANTOSH HURIA &amp; ANR.
+				<lb />
+			</respondent>
+			<extra>
+				.... Respondents
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr. Rakesh Wadhwa
+			</respondent_lawyers>
+			<extra>
+				, Advocate
+				<lb />
+				for R-1.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MS. JUSTICE JYOTI SINGH
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

@@ -5,30 +5,27 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<page>
-				1
-			</page>
-			<lb />
 			<extra>
 				IN THE
 			</extra>
 			<court>
 				HIGH COURT OF JUDICATURE AT MADRAS
+				<lb />
 			</court>
-			<lb />
 			<extra>
 				DATED:
 			</extra>
 			<judgement_date>
 				19/09/2013
+				<lb />
 			</judgement_date>
-			<lb />
 			<extra>
 				CORAM
 				<lb />
+				THE
 			</extra>
 			<judges>
-				THE HON&apos;BLE MR.JUSTICE S.MANIKUMAR
+				HON&apos;BLE MR.JUSTICE S.MANIKUMAR
 				<lb />
 			</judges>
 			<case_numbers>
@@ -37,16 +34,18 @@
 				in
 				<lb />
 				WP.12454 of 2013
+				<lb />
 			</case_numbers>
-			<lb />
 			<petitioner>
 				POONAMALLEE CIRCLE, RIVER &amp; LORRY OWNERS ASSN TIRUVALLUR
 				<lb />
+			</petitioner>
+			<extra>
 				CENTRAL DISTRICT REG. NO.609/1997 BANGALORE HIGH ROAD,
 				<lb />
 				NASARATH PETTAI, CHENNAI-123, REP. BY ITS PRESIDENT
 				<lb />
-			</petitioner>
+			</extra>
 			<extra>
 				... PETITIONER
 				<lb />
@@ -81,11 +80,6 @@
 				RESPONDENTS
 				<lb />
 			</extra>
-			<lb />
-			<page>
-				2
-			</page>
-			<lb />
 			<extra>
 				FOR PETITIONER :
 			</extra>
@@ -97,8 +91,8 @@
 				M.P.No.1 of 2013 in
 				<lb />
 				W.P.No.12454 of 2013
+				<lb />
 			</case_numbers>
-			<lb />
 		</front>
 	</text>
 </tei>

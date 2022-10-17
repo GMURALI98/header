@@ -5,7 +5,6 @@
 	</teiHeader>
 	<text xml:lang="en">
 		<front>
-			<lb />
 			<extra>
 				BEFORE THE
 			</extra>
@@ -47,8 +46,11 @@
 				Vs.
 				<lb />
 			</extra>
+			<extra>
+				1.
+			</extra>
 			<respondent>
-				1.The Commissioner,
+				The Commissioner,
 				<lb />
 				Hindu Religious and Charitable
 				<lb />
@@ -61,16 +63,22 @@
 				Chennai -34.
 				<lb />
 			</respondent>
+			<extra>
+				2.
+			</extra>
 			<respondent>
-				2.The District Collector,
+				The District Collector,
 				<lb />
 				Tuticorin District,
 				<lb />
 				Tutocorin.
 				<lb />
 			</respondent>
+			<extra>
+				3.
+			</extra>
 			<respondent>
-				3.The Assistant Commissioner,
+				The Assistant Commissioner,
 				<lb />
 				Hindu Religious and Charitable
 				<lb />
@@ -81,8 +89,11 @@
 				Tuticorin District.
 				<lb />
 			</respondent>
+			<extra>
+				4.
+			</extra>
 			<respondent>
-				4.The Tahsildar,
+				The Tahsildar,
 				<lb />
 				O/o.The Tahsildar,
 				<lb />
@@ -91,12 +102,11 @@
 				Tuticorin District.
 				<lb />
 			</respondent>
-			<page>
-				1/20
-				<lb />
-			</page>
+			<extra>
+				5.
+			</extra>
 			<respondent>
-				5.The Executive Officer,
+				The Executive Officer,
 				<lb />
 				Arulmigu Kulanthai Vinayagar Temple,
 				<lb />
